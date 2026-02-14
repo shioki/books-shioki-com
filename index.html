@@ -170,7 +170,9 @@
                 }
 
                 reviews.sort(function (a, b) {
-                    return (b.date || '').localeCompare(a.date || '');
+                    var ka = a.created_at || a.date || '';
+                    var kb = b.created_at || b.date || '';
+                    return kb.localeCompare(ka);
                 });
 
                 list.innerHTML = '';
