@@ -199,7 +199,7 @@
                 reviews.forEach(function (r) {
                     var card = document.createElement('a');
                     card.className = 'review-card';
-                    card.href = 'reviews/ja/' + encodeURIComponent(r.filename);
+                    card.href = 'reviews/ja/' + encodeURIComponent(r.filename.replace('.md', '.html'));
 
                     var title = document.createElement('div');
                     title.className = 'review-title';
@@ -216,7 +216,7 @@
                         var badge = document.createElement('a');
                         badge.className = 'lang-badge';
                         badge.textContent = LANG_LABELS[lang] || lang;
-                        badge.href = 'reviews/' + lang + '/' + encodeURIComponent(r.filename);
+                        badge.href = 'reviews/' + lang + '/' + encodeURIComponent(r.filename.replace('.md', '.html'));
                         badge.addEventListener('click', function (e) { e.stopPropagation(); });
                         meta.appendChild(badge);
                     });
