@@ -1,12 +1,29 @@
 [
   {
+    "title": "メルカリで知らん子の絵を買う",
+    "author": "藤原 麻里菜",
+    "date": "2026-02-14",
+    "created_at": "2026-02-14T19:51:25.217258",
+    "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+    "image": "images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ]
+  },
+  {
     "title": "平等について、いま話したいこと",
     "author": "トマ ピケティ, マイケル サンデル, and 岡本 麻左子",
     "date": "2026-02-14",
     "created_at": "2026-02-14T19:36:07",
     "filename": "トマ ピケティ-麻左子-平等について、いま話したいこと_review.md",
     "image": "images/reviews/トマ ピケティ-麻左子-平等について、いま話したいこと_4panel.png",
-    "languages": ["ja", "en", "zh-tw"]
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ]
   },
   {
     "title": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ",
@@ -15,7 +32,11 @@
     "created_at": "2026-02-14T19:18:08",
     "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
     "image": "images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.png",
-    "languages": ["ja", "en", "zh-tw"]
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ]
   },
   {
     "title": "＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった",
@@ -24,6 +45,10 @@
     "created_at": "2026-02-14T18:46:46",
     "filename": "大塚あみ-＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった_review.md",
     "image": "images/reviews/大塚あみ-＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった_4panel.png",
-    "languages": ["ja", "en", "zh-tw"]
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ]
   }
 ]
