@@ -12,141 +12,125 @@
         }
 
         body {
-            font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans JP', Helvetica, Arial, sans-serif;
+            background: #fff;
             min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
-            color: #e8e8e8;
+            color: #24292f;
+            line-height: 1.6;
         }
 
         .container {
-            text-align: center;
-            padding: 2rem;
-            max-width: 960px;
+            padding: 2rem 1.5rem;
+            max-width: 800px;
             width: 100%;
         }
 
-        .logo {
-            font-size: 4rem;
-            margin-bottom: 0.5rem;
-            animation: float 3s ease-in-out infinite;
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid #d0d7de;
         }
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-            background: linear-gradient(90deg, #e94560, #f39c12);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+        .header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.3rem;
+            color: #24292f;
         }
 
         .tagline {
-            font-size: 1.1rem;
-            color: #a0a0a0;
-            margin-bottom: 2rem;
+            font-size: 0.95rem;
+            color: #656d76;
         }
 
         /* Reviews Section */
-        .reviews-section {
-            text-align: left;
-            margin-top: 1rem;
-        }
-
-        .reviews-section h2 {
-            font-size: 1.3rem;
-            color: #a0a0a0;
-            margin-bottom: 1rem;
-            text-align: center;
-        }
-
         .reviews-list {
             display: flex;
             flex-direction: column;
-            gap: 1rem;
         }
 
         .review-card {
-            background: rgba(255, 255, 255, 0.07);
-            border-radius: 12px;
-            padding: 1.2rem 1.5rem;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: background 0.2s, border-color 0.2s;
+            padding: 1rem 0;
+            border-bottom: 1px solid #d0d7de;
             text-decoration: none;
             color: inherit;
             display: block;
+            transition: background 0.15s;
+        }
+
+        .review-card:first-child {
+            border-top: 1px solid #d0d7de;
         }
 
         .review-card:hover {
-            background: rgba(255, 255, 255, 0.12);
-            border-color: rgba(233, 69, 96, 0.4);
+            background: #f6f8fa;
         }
 
         .review-card .review-title {
-            font-size: 1.1rem;
-            font-weight: bold;
-            color: #e8e8e8;
-            margin-bottom: 0.3rem;
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: #0969da;
+            margin-bottom: 0.2rem;
+        }
+
+        .review-card:hover .review-title {
+            text-decoration: underline;
         }
 
         .review-card .review-author {
-            font-size: 0.9rem;
-            color: #a0a0a0;
-            margin-bottom: 0.5rem;
+            font-size: 0.85rem;
+            color: #656d76;
+            margin-bottom: 0.4rem;
         }
 
         .review-card .review-meta {
             display: flex;
             align-items: center;
-            gap: 0.5rem;
+            gap: 0.4rem;
             flex-wrap: wrap;
         }
 
         .lang-badge {
             display: inline-block;
             font-size: 0.7rem;
-            padding: 0.15rem 0.5rem;
-            border-radius: 4px;
-            background: rgba(233, 69, 96, 0.25);
-            color: #e94560;
-            border: 1px solid rgba(233, 69, 96, 0.35);
+            padding: 0.1rem 0.45rem;
+            border-radius: 12px;
+            background: #ddf4ff;
+            color: #0969da;
+            border: 1px solid #b6e3ff;
             text-decoration: none;
             transition: background 0.15s;
         }
 
         .lang-badge:hover {
-            background: rgba(233, 69, 96, 0.45);
+            background: #b6e3ff;
         }
 
         .review-date {
             font-size: 0.75rem;
-            color: #606060;
+            color: #8b949e;
             margin-left: auto;
         }
 
         .empty-state {
             text-align: center;
-            color: #606060;
-            padding: 2rem;
+            color: #8b949e;
+            padding: 3rem 1rem;
         }
 
         footer {
-            margin-top: 3rem;
-            padding-bottom: 2rem;
-            color: #606060;
-            font-size: 0.9rem;
+            margin-top: auto;
+            padding: 2rem 1rem;
+            color: #8b949e;
+            font-size: 0.8rem;
+            text-align: center;
         }
 
         footer a {
-            color: #e94560;
+            color: #0969da;
             text-decoration: none;
         }
 
@@ -155,35 +139,31 @@
         }
 
         @media (max-width: 600px) {
-            h1 { font-size: 1.8rem; }
-            .logo { font-size: 3rem; }
-            .review-card { padding: 1rem; }
+            .header h1 { font-size: 1.4rem; }
+            .container { padding: 1.5rem 1rem; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="logo">📚</div>
-        <h1>Books Portfolio</h1>
-        <p class="tagline">Kindle × AI による書評・4コマ漫画</p>
-
-        <div class="reviews-section">
-            <div id="reviews-list" class="reviews-list">
-                <div class="empty-state">読み込み中...</div>
-            </div>
+        <div class="header">
+            <h1>Books Portfolio</h1>
+            <p class="tagline">Kindle highlights &times; AI book reviews</p>
         </div>
 
+        <div id="reviews-list" class="reviews-list">
+            <div class="empty-state">Loading...</div>
+        </div>
     </div>
 
     <footer>
-        <p>&copy; <span id="current-year"></span> <a href="https://github.com/shioki" target="_blank">shioki</a></p>
-        <p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license">CC BY-NC-SA 4.0</a></p>
+        <p>&copy; <span id="current-year"></span> <a href="https://github.com/shioki" target="_blank">shioki</a> &middot; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license">CC BY-NC-SA 4.0</a></p>
     </footer>
 
     <script>
         document.getElementById('current-year').textContent = new Date().getFullYear();
 
-        const LANG_LABELS = { ja: '日本語', en: 'English', 'zh-tw': '繁體中文' };
+        var LANG_LABELS = { ja: '日本語', en: 'English', 'zh-tw': '繁體中文' };
 
         fetch('reviews.json')
             .then(function (res) { return res.json(); })
@@ -191,7 +171,7 @@
                 var list = document.getElementById('reviews-list');
 
                 if (reviews.length === 0) {
-                    list.innerHTML = '<div class="empty-state">書評はまだありません。</div>';
+                    list.innerHTML = '<div class="empty-state">No reviews yet.</div>';
                     return;
                 }
 
@@ -236,7 +216,7 @@
             })
             .catch(function () {
                 var list = document.getElementById('reviews-list');
-                list.innerHTML = '<div class="empty-state">書評はまだありません。</div>';
+                list.innerHTML = '<div class="empty-state">No reviews yet.</div>';
             });
     </script>
 </body>
