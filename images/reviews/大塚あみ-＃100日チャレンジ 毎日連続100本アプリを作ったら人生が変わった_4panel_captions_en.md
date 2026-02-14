@@ -1,30 +1,20 @@
-# 4-Panel Manga Captions
-**Book**: The Townsgirl and the Book of AI (原題: 町娘とAI之書)  
-**Author**: Ami Otsuka (大塚亜美)
+### Panel 1
+**Scene**: The townsgirl walks through a bustling Edo street, carrying a bamboo tablet and ink brush. Lanterns sway gently above as she watches a craftsman struggling to keep up with his daily work. She looks puzzled, murmuring to herself about how people manage to sustain their progress day after day. Merchant shops line the street, their paper lanterns glowing faintly in the dusk.  
+**Dialogue**: “How do they keep moving forward, every single day…?”
 
----
-## Panel 1 - Introduction
-[Scene]: At dawn on an Edo street, a young townsgirl in a kimono walks past merchants opening their shops. She watches a craftsman carefully completing one small task for the day and wonders how such small acts could lead to great change. The morning market hums with life beneath tiled roofs and wooden signboards.  
-**Dialogue**: “How can small acts lead to great change?”
+### Panel 2
+**Scene**: Inside her small study filled with Dutch and Japanese scrolls, the townsgirl eagerly reads a translated rangaku book. On the wall hangs a portrait of a serene young woman—Ami Otsuka—whose calm, intelligent gaze seems to offer quiet guidance. The townsgirl looks up at the portrait as if hearing advice about “continuation through design, not will.”  
+**Dialogue**: “So it’s not willpower, but design that sustains us…”
 
-## Panel 2 - Development
-[Scene]: In her softly lit tatami study, the townsgirl unrolls a mysterious imported scroll titled *The Book of AI*. Within its illustration appears a calm female scholar—gentle, tidy, and serene—wearing a simple scholar’s robe. The apparition speaks of “creating together with a thinking machine” and “improving one percent each day.” The townsgirl listens, eyes wide with curiosity.  
-**Dialogue**: “Creating together with a thinking machine… improving one percent each day…”
+### Panel 3
+**Scene**: Surrounded by tools and ink, the townsgirl builds a small wooden device with turning gears—an “automatic abacus” that counts her poems for her. Laughing, she declares she can now “be lazy efficiently.” Her cat tilts its head in confusion as ink splashes around, capturing both her precision and playful spirit—the harmony of study and creativity.  
+**Dialogue**: “Now I can be lazy efficiently!”
 
-## Panel 3 - Turn
-[Scene]: Inspired, the townsgirl constructs a small automaton powered by abacus gears and wooden arms that help her write faster. She laughs with delight as the device copies her notes, realizing that even laziness can spark invention. Ink splashes and flying papers capture her excitement in bold, dynamic strokes.  
-**Dialogue**: “So even laziness can become the seed of invention!”
-
-## Panel 4 - Conclusion
-**Tanka poem**:  
-> Each day I add  
-> one small idea to my craft—  
-> even sloth,  
-> when understood,  
-> becomes the root of wisdom.  
-> Original (日本語):  
-> 昨日より  
-> ひとつ工夫を  
-> 積み重ね  
-> 怠け心も  
-> 知恵となりけり  
+### Panel 4
+**Scene**: At twilight by the riverside, she kneels with brush in hand, writing a waka on a slender tanzaku. Her expression is calm, illuminated by the fading light reflecting on the rippling water. A quiet realization settles over her as she finishes the poem.  
+**Dialogue**: (none)  
+**Tanka (translation)**:  
+“If I keep going, even idleness turns to wisdom—  
+my small invention shall light tomorrow.”  
+**Tanka (original)**:  
+続ければ　怠けも知恵に　変わりたり　我が工夫こそ　明日を照らさん
