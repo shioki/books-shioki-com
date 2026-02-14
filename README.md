@@ -22,7 +22,11 @@ Kindle読書メモとAI分析による書評・4コマ漫画ポートフォリ�
 
 月次更新（毎月末）
 
+## 📄 ライセンス
+
+本リポジトリのコンテンツ（書評・4コマ漫画・キャプション）は **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** で提供しています。詳細は [LICENSE](LICENSE) を参照してください。
+
 ---
 
-© 2025 shioki
+© 2025– shioki（サイトのフッターは表示時に現在年を自動表示）
 
