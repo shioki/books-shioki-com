@@ -169,6 +169,10 @@
                     return;
                 }
 
+                reviews.sort(function (a, b) {
+                    return (b.date || '').localeCompare(a.date || '');
+                });
+
                 list.innerHTML = '';
                 reviews.forEach(function (r) {
                     var card = document.createElement('a');
