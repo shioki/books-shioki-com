@@ -1,3 +1,8 @@
+---
+layout: default
+title: キャラクター紹介
+---
+
 # キャラクター紹介 / Character Profile / 角色介紹
 
 ## お希輪（おきわ / O-Kiwa）
@@ -61,7 +66,7 @@ Now, she transcends time to review modern "difficult books" through her Edo lens
 ### Profile
 
 | Item | Details |
-|---|---|
+|---|---|---|
 | Name | O-Kiwa |
 | Origin | Merchant family in Kanda, Edo |
 | Special Skills | Wasan (Geometry), Waka improvisation, basic Dutch, lightning-fast abacus |
@@ -99,7 +104,7 @@ Now, she transcends time to review modern "difficult books" through her Edo lens
 ### 簡介
 
 | 項目 | 內容 |
-|---|---|
+|---|---|---|
 | 姓名 | 小希輪（O-Kiwa） |
 | 出身 | 江戶神田商家 |
 | 特長 | 和算（圓理）、和歌即興創作、基礎荷蘭語、神速算盤 |

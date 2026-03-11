@@ -7,4 +7,7 @@
 
 含めるファイルの目安:
 - `index.html` … トップページ（DADS デザイン適用済み）
-- 必要に応じて `CNAME` や `README.md` などもここに置き、デプロイ対象にできる
+- `_layouts/default.html` … 書評ページ・キャラクター紹介ページの共通レイアウト
+- `assets/css/dads.css` … 共通の DADS スタイル
+- `_config.yml` … reviews/ と okiwa-profile.md に共通レイアウトを適用
+- 必要に応じて `CNAME` などもここに置き、デプロイ対象にできる

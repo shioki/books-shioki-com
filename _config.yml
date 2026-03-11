@@ -1,0 +1,12 @@
+title: books.shioki.com
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "reviews"
+    values:
+      layout: default
+  - scope:
+      path: "okiwa-profile.md"
+    values:
+      layout: default
