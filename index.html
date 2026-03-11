@@ -4,7 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Books Portfolio | shioki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-primitive-light-blue-50: #f0f9ff;
+            --color-primitive-light-blue-200: #c0e4ff;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-600: #666666;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-16: 1rem;
+            --font-size-28: 1.75rem;
+            --font-weight-400: 400;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-8: 0.5rem;
+            --border-radius-full: 624.9375rem;
+            --elevation-1: 0 2px 8px 1px rgba(0,0,0,0.1), 0 1px 5px 0 rgba(0,0,0,0.3);
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -12,14 +37,16 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans JP', Helvetica, Arial, sans-serif;
-            background: #fff;
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
             min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
-            color: #24292f;
-            line-height: 1.6;
+            color: var(--color-neutral-solid-gray-900);
+            line-height: var(--line-height-170);
+            font-size: var(--font-size-16);
+            font-weight: var(--font-weight-400);
         }
 
         .container {
@@ -32,42 +59,44 @@
             text-align: center;
             margin-bottom: 2rem;
             padding-bottom: 1.5rem;
-            border-bottom: 1px solid #d0d7de;
+            border-bottom: 1px solid var(--color-neutral-solid-gray-100);
         }
 
         .header h1 {
-            font-size: 1.8rem;
+            font-size: var(--font-size-28);
+            font-weight: var(--font-weight-700);
             margin-bottom: 0.3rem;
-            color: #24292f;
+            color: var(--color-neutral-solid-gray-900);
         }
 
-        /* Reviews Section */
         .reviews-list {
             display: flex;
             flex-direction: column;
         }
 
         .review-card {
-            padding: 1rem 0;
-            border-bottom: 1px solid #d0d7de;
+            padding: 1rem;
+            border-bottom: 1px solid var(--color-neutral-solid-gray-100);
             text-decoration: none;
             color: inherit;
             display: block;
-            transition: background 0.15s;
+            border-radius: var(--border-radius-8);
+            transition: background 0.15s, box-shadow 0.2s;
         }
 
         .review-card:first-child {
-            border-top: 1px solid #d0d7de;
+            border-top: 1px solid var(--color-neutral-solid-gray-100);
         }
 
         .review-card:hover {
-            background: #f6f8fa;
+            background: var(--color-neutral-solid-gray-50);
+            box-shadow: var(--elevation-1);
         }
 
         .review-card .review-title {
             font-size: 1.05rem;
-            font-weight: 600;
-            color: #0969da;
+            font-weight: var(--font-weight-700);
+            color: var(--color-primitive-blue-800);
             margin-bottom: 0.2rem;
         }
 
@@ -76,8 +105,8 @@
         }
 
         .review-card .review-author {
-            font-size: 0.85rem;
-            color: #656d76;
+            font-size: var(--font-size-14);
+            color: var(--color-neutral-solid-gray-600);
             margin-bottom: 0.4rem;
         }
 
@@ -91,45 +120,57 @@
         .lang-badge {
             display: inline-block;
             font-size: 0.7rem;
-            padding: 0.1rem 0.45rem;
-            border-radius: 12px;
-            background: #ddf4ff;
-            color: #0969da;
-            border: 1px solid #b6e3ff;
+            padding: 0.15rem 0.5rem;
+            border-radius: var(--border-radius-full);
+            background: var(--color-primitive-light-blue-50);
+            color: var(--color-primitive-blue-800);
+            border: 1px solid var(--color-primitive-light-blue-200);
             text-decoration: none;
             transition: background 0.15s;
         }
 
         .lang-badge:hover {
-            background: #b6e3ff;
+            background: var(--color-primitive-light-blue-200);
         }
 
         .review-date {
             font-size: 0.75rem;
-            color: #8b949e;
+            color: var(--color-neutral-solid-gray-536);
             margin-left: auto;
         }
 
         .empty-state {
             text-align: center;
-            color: #8b949e;
+            color: var(--color-neutral-solid-gray-536);
             padding: 3rem 1rem;
         }
 
         footer {
             margin-top: auto;
             padding: 2rem 1rem;
-            color: #8b949e;
+            color: var(--color-neutral-solid-gray-536);
             font-size: 0.8rem;
             text-align: center;
         }
 
         footer a {
-            color: #0969da;
+            color: var(--color-primitive-blue-800);
             text-decoration: none;
         }
 
         footer a:hover {
+            text-decoration: underline;
+        }
+
+        .nav-link {
+            display: inline-block;
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+            font-size: var(--font-size-14);
+            padding: 0.75rem 1.5rem;
+        }
+
+        .nav-link:hover {
             text-decoration: underline;
         }
 
@@ -140,7 +181,7 @@
     </style>
 </head>
 <body>
-    <a href="/okiwa-profile.html">キャラクター紹介</a>
+    <a href="/okiwa-profile.html" class="nav-link">キャラクター紹介</a>
 <div class="container">
         <div class="header">
             <h1>Books Portfolio</h1>

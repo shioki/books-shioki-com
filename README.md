@@ -1,32 +1,10 @@
-# 📚 Books Portfolio
+# 公開サイト（books.shioki.com）のソース
 
-Kindle読書メモとAI分析による書評・4コマ漫画ポートフォリオ
+このフォルダは **公開用リポジトリ books-shioki-com にデプロイするコンテンツの正本**です。
 
-## 🌐 サイト
+- **編集**: ここ（Private リポジトリ内）のファイルだけを編集する
+- **公開**: `scripts/deploy_books_site.py` を実行すると、内容が Public の books-shioki-com にコピーされ、git push まで実行される
 
-[https://books.shioki.com](https://books.shioki.com)
-
-## 📖 コンテンツ
-
-- **書評**: Kindleハイライトを基にしたAI分析レビュー
-- **4コマ漫画**: 書籍の要点をビジュアル化
-
-## 🔧 技術スタック
-
-- **AI Orchestration**: Dify (Self-hosted)
-- **LLM**: OpenAI GPT-4, Perplexity API
-- **Image Generation**: Google Gemini
-- **Hosting**: GitHub Pages
-
-## 📅 更新頻度
-
-月次更新（毎月末）
-
-## 📄 ライセンス
-
-本リポジトリのコンテンツ（書評・4コマ漫画・キャプション）は **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** で提供しています。詳細は [LICENSE](LICENSE) を参照してください。
-
----
-
-© 2025– shioki（サイトのフッターは表示時に現在年を自動表示）
-
+含めるファイルの目安:
+- `index.html` … トップページ（DADS デザイン適用済み）
+- 必要に応じて `CNAME` や `README.md` などもここに置き、デプロイ対象にできる
