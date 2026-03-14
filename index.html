@@ -47,12 +47,14 @@
             line-height: var(--line-height-170);
             font-size: var(--font-size-16);
             font-weight: var(--font-weight-400);
+            overflow-x: hidden;
         }
 
         .container {
             padding: 2rem 1.5rem;
             max-width: 800px;
             width: 100%;
+            min-width: 0;
         }
 
         .header {
@@ -135,12 +137,16 @@
             font-size: var(--font-size-14);
             padding: 0.15rem 0;
             display: flex;
+            flex-wrap: wrap;
             gap: 0.5rem;
         }
 
         .update-list li a {
             color: var(--color-primitive-blue-800);
             text-decoration: none;
+            overflow-wrap: break-word;
+            word-break: break-word;
+            min-width: 0;
         }
 
         .update-list li a:hover {
@@ -149,7 +155,8 @@
 
         .update-list .update-author {
             color: var(--color-neutral-solid-gray-536);
-            flex-shrink: 0;
+            overflow-wrap: break-word;
+            word-break: break-word;
         }
 
         .update-older-toggle {
@@ -291,6 +298,7 @@
             display: block;
             border-radius: var(--border-radius-8);
             transition: background 0.15s, box-shadow 0.2s;
+            min-width: 0;
         }
 
         .review-card:first-child {
@@ -307,6 +315,8 @@
             font-weight: var(--font-weight-700);
             color: var(--color-primitive-blue-800);
             margin-bottom: 0.2rem;
+            overflow-wrap: break-word;
+            word-break: break-word;
         }
 
         .review-card:hover .review-title {
@@ -317,6 +327,8 @@
             font-size: var(--font-size-14);
             color: var(--color-neutral-solid-gray-600);
             margin-bottom: 0.4rem;
+            overflow-wrap: break-word;
+            word-break: break-word;
         }
 
         .review-card .review-meta {
@@ -324,6 +336,8 @@
             align-items: center;
             gap: 0.4rem;
             flex-wrap: wrap;
+            overflow-wrap: break-word;
+            word-break: break-word;
         }
 
         .lang-badge {
@@ -457,6 +471,7 @@
             .category-chips { flex-wrap: wrap; }
             .controls-row { flex-direction: column; align-items: stretch; gap: 0.5rem; }
             .sort-select { width: 100%; }
+            .update-list li { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
         }
     </style>
 </head>
