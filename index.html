@@ -30,11 +30,7 @@
             --elevation-1: 0 2px 8px 1px rgba(0,0,0,0.1), 0 1px 5px 0 rgba(0,0,0,0.3);
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: var(--font-family-sans);
@@ -69,6 +65,205 @@
             color: var(--color-neutral-solid-gray-900);
         }
 
+        /* ── Recent Updates ── */
+        .recent-updates {
+            margin-bottom: 2rem;
+            background: var(--color-neutral-solid-gray-50);
+            border-left: 3px solid var(--color-primitive-blue-800);
+            border-radius: 0 var(--border-radius-8) var(--border-radius-8) 0;
+            padding: 1rem 1.25rem;
+        }
+
+        .recent-updates summary {
+            cursor: pointer;
+            font-weight: var(--font-weight-700);
+            font-size: 1.05rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style: none;
+            user-select: none;
+        }
+
+        .recent-updates summary::-webkit-details-marker { display: none; }
+
+        .recent-updates summary::before {
+            content: '▼ ';
+            font-size: 0.7rem;
+            margin-right: 0.4rem;
+            transition: transform 0.2s;
+            display: inline-block;
+        }
+
+        .recent-updates:not([open]) summary::before {
+            transform: rotate(-90deg);
+        }
+
+        .total-count {
+            font-weight: var(--font-weight-400);
+            font-size: var(--font-size-14);
+            color: var(--color-neutral-solid-gray-536);
+        }
+
+        .update-group {
+            margin-top: 0.75rem;
+        }
+
+        .update-group + .update-group {
+            margin-top: 1rem;
+        }
+
+        .update-date-heading {
+            font-size: var(--font-size-14);
+            font-weight: var(--font-weight-700);
+            color: var(--color-neutral-solid-gray-600);
+            padding-bottom: 0.25rem;
+            margin-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-neutral-solid-gray-100);
+        }
+
+        .update-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .update-list li {
+            font-size: var(--font-size-14);
+            padding: 0.15rem 0;
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .update-list li a {
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+        }
+
+        .update-list li a:hover {
+            text-decoration: underline;
+        }
+
+        .update-list .update-author {
+            color: var(--color-neutral-solid-gray-536);
+            flex-shrink: 0;
+        }
+
+        .update-older-toggle {
+            margin-top: 0.75rem;
+        }
+
+        .update-older-toggle summary {
+            cursor: pointer;
+            font-size: var(--font-size-14);
+            color: var(--color-primitive-blue-800);
+            list-style: none;
+        }
+
+        .update-older-toggle summary::-webkit-details-marker { display: none; }
+
+        .update-older-toggle summary:hover {
+            text-decoration: underline;
+        }
+
+        /* ── Controls ── */
+        .controls {
+            margin-bottom: 1.5rem;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 0.6rem 1rem;
+            font-size: var(--font-size-16);
+            font-family: var(--font-family-sans);
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-8);
+            outline: none;
+            transition: border-color 0.2s;
+            margin-bottom: 0.75rem;
+        }
+
+        .search-input:focus {
+            border-color: var(--color-primitive-blue-800);
+        }
+
+        .category-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            padding: 0.3rem 0.75rem;
+            font-size: 0.8rem;
+            font-family: var(--font-family-sans);
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-full);
+            background: var(--color-neutral-white);
+            color: var(--color-neutral-solid-gray-600);
+            cursor: pointer;
+            transition: all 0.15s;
+            user-select: none;
+        }
+
+        .chip:hover {
+            background: var(--color-neutral-solid-gray-50);
+        }
+
+        .chip.active {
+            background: var(--color-primitive-blue-800);
+            color: var(--color-neutral-white);
+            border-color: var(--color-primitive-blue-800);
+        }
+
+        .chip .chip-count {
+            font-size: 0.7rem;
+            opacity: 0.7;
+        }
+
+        .controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .results-info {
+            font-size: var(--font-size-14);
+            color: var(--color-neutral-solid-gray-536);
+        }
+
+        .results-info .clear-btn {
+            margin-left: 0.5rem;
+            color: var(--color-primitive-blue-800);
+            background: none;
+            border: none;
+            font-family: var(--font-family-sans);
+            font-size: var(--font-size-14);
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        .sort-select {
+            padding: 0.35rem 0.6rem;
+            font-size: var(--font-size-14);
+            font-family: var(--font-family-sans);
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-8);
+            background: var(--color-neutral-white);
+            cursor: pointer;
+            outline: none;
+            flex-shrink: 0;
+        }
+
+        .sort-select:focus {
+            border-color: var(--color-primitive-blue-800);
+        }
+
+        /* ── Reviews List ── */
         .reviews-list {
             display: flex;
             flex-direction: column;
@@ -133,6 +328,16 @@
             background: var(--color-primitive-light-blue-200);
         }
 
+        .category-badge {
+            display: inline-block;
+            font-size: 0.65rem;
+            padding: 0.1rem 0.45rem;
+            border-radius: var(--border-radius-full);
+            background: #f5f0ff;
+            color: #6b21a8;
+            border: 1px solid #e9d5ff;
+        }
+
         .review-date {
             font-size: 0.75rem;
             color: var(--color-neutral-solid-gray-536);
@@ -145,6 +350,61 @@
             padding: 3rem 1rem;
         }
 
+        /* ── Pagination ── */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.25rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .pagination:empty { display: none; }
+
+        .page-btn {
+            min-width: 2.2rem;
+            height: 2.2rem;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 0.5rem;
+            font-size: var(--font-size-14);
+            font-family: var(--font-family-sans);
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-8);
+            background: var(--color-neutral-white);
+            color: var(--color-neutral-solid-gray-900);
+            cursor: pointer;
+            transition: all 0.15s;
+            text-decoration: none;
+            user-select: none;
+        }
+
+        .page-btn:hover:not(:disabled):not(.active) {
+            background: var(--color-neutral-solid-gray-50);
+        }
+
+        .page-btn.active {
+            background: var(--color-primitive-blue-800);
+            color: var(--color-neutral-white);
+            border-color: var(--color-primitive-blue-800);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: default;
+        }
+
+        .page-ellipsis {
+            min-width: 2rem;
+            text-align: center;
+            color: var(--color-neutral-solid-gray-536);
+            font-size: var(--font-size-14);
+            user-select: none;
+        }
+
+        /* ── Footer ── */
         footer {
             margin-top: auto;
             padding: 2rem 1rem;
@@ -158,9 +418,7 @@
             text-decoration: none;
         }
 
-        footer a:hover {
-            text-decoration: underline;
-        }
+        footer a:hover { text-decoration: underline; }
 
         .nav-link {
             display: inline-block;
@@ -170,26 +428,52 @@
             padding: 0.75rem 1.5rem;
         }
 
-        .nav-link:hover {
-            text-decoration: underline;
-        }
+        .nav-link:hover { text-decoration: underline; }
 
         @media (max-width: 600px) {
             .header h1 { font-size: 1.4rem; }
             .container { padding: 1.5rem 1rem; }
+            .category-chips { overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; }
+            .chip { flex-shrink: 0; }
+            .controls-row { flex-direction: column; align-items: stretch; gap: 0.5rem; }
+            .sort-select { width: 100%; }
         }
     </style>
 </head>
 <body>
     <a href="/okiwa-profile.html" class="nav-link">キャラクター紹介</a>
-<div class="container">
+    <div class="container">
         <div class="header">
             <h1>Books Portfolio</h1>
+        </div>
+
+        <details open id="recent-updates" class="recent-updates" style="display:none;">
+            <summary>
+                最近の更新
+                <span id="total-count" class="total-count"></span>
+            </summary>
+            <div id="recent-updates-content"></div>
+        </details>
+
+        <div class="controls" style="display:none;" id="controls">
+            <input type="search" id="search-input" class="search-input" placeholder="タイトル・著者で検索...">
+            <div id="category-chips" class="category-chips"></div>
+            <div class="controls-row">
+                <div id="results-info" class="results-info"></div>
+                <select id="sort-select" class="sort-select">
+                    <option value="newest">新しい順</option>
+                    <option value="oldest">古い順</option>
+                    <option value="title">タイトル順</option>
+                    <option value="author">著者順</option>
+                </select>
+            </div>
         </div>
 
         <div id="reviews-list" class="reviews-list">
             <div class="empty-state">Loading...</div>
         </div>
+
+        <div id="pagination" class="pagination"></div>
     </div>
 
     <footer>
@@ -197,69 +481,436 @@
     </footer>
 
     <script>
+    (function () {
+        'use strict';
+
         document.getElementById('current-year').textContent = new Date().getFullYear();
 
         var LANG_LABELS = { ja: '日本語', en: 'English', 'zh-tw': '繁體中文' };
+        var PER_PAGE = 30;
+        var RECENT_DATES_EXPANDED = 2;
+
+        var state = {
+            allReviews: [],
+            filteredReviews: [],
+            currentPage: 1,
+            searchQuery: '',
+            category: '',
+            sort: 'newest'
+        };
+
+        var debounceTimer = null;
+
+        function reviewHref(r) {
+            return 'reviews/ja/' + encodeURIComponent(r.filename.replace('.md', '.html'));
+        }
+
+        // ── URL Parameters ──
+
+        function readUrlParams() {
+            var params = new URLSearchParams(window.location.search);
+            state.searchQuery = params.get('q') || '';
+            state.category = params.get('category') || '';
+            state.sort = params.get('sort') || 'newest';
+            state.currentPage = parseInt(params.get('page'), 10) || 1;
+
+            document.getElementById('search-input').value = state.searchQuery;
+            document.getElementById('sort-select').value = state.sort;
+        }
+
+        function updateUrlParams() {
+            var params = new URLSearchParams();
+            if (state.searchQuery) params.set('q', state.searchQuery);
+            if (state.category) params.set('category', state.category);
+            if (state.sort !== 'newest') params.set('sort', state.sort);
+            if (state.currentPage > 1) params.set('page', String(state.currentPage));
+            var qs = params.toString();
+            var newUrl = qs ? '?' + qs : window.location.pathname;
+            history.replaceState(null, '', newUrl);
+        }
+
+        // ── Recent Updates ──
+
+        function buildRecentUpdates(reviews) {
+            var container = document.getElementById('recent-updates');
+            var content = document.getElementById('recent-updates-content');
+            var totalEl = document.getElementById('total-count');
+
+            if (!reviews.length) return;
+
+            totalEl.textContent = '全 ' + reviews.length + ' 冊';
+            container.style.display = '';
+
+            var groups = {};
+            var dateOrder = [];
+            reviews.forEach(function (r) {
+                var d = r.date || 'unknown';
+                if (!groups[d]) {
+                    groups[d] = [];
+                    dateOrder.push(d);
+                }
+                groups[d].push(r);
+            });
+
+            dateOrder.sort(function (a, b) { return b.localeCompare(a); });
+
+            var html = '';
+            dateOrder.forEach(function (date, idx) {
+                var books = groups[date];
+                var label = formatDateLabel(date);
+                var isOlder = idx >= RECENT_DATES_EXPANDED;
+
+                if (isOlder && idx === RECENT_DATES_EXPANDED) {
+                    html += '<details class="update-older-toggle"><summary>以前の更新を表示 (' + (dateOrder.length - RECENT_DATES_EXPANDED) + ' 日分)</summary>';
+                }
+
+                html += '<div class="update-group">';
+                html += '<div class="update-date-heading">' + label + '（' + books.length + '冊）</div>';
+                html += '<ul class="update-list">';
+                books.forEach(function (r) {
+                    html += '<li><a href="' + reviewHref(r) + '">' + escapeHtml(r.title) + '</a><span class="update-author"> - ' + escapeHtml(r.author) + '</span></li>';
+                });
+                html += '</ul></div>';
+            });
+
+            if (dateOrder.length > RECENT_DATES_EXPANDED) {
+                html += '</details>';
+            }
+
+            content.innerHTML = html;
+        }
+
+        function formatDateLabel(dateStr) {
+            if (!dateStr || dateStr === 'unknown') return '日付不明';
+            var parts = dateStr.split('-');
+            if (parts.length === 3) {
+                return parseInt(parts[1], 10) + '/' + parseInt(parts[2], 10);
+            }
+            return dateStr;
+        }
+
+        // ── Category Chips ──
+
+        function buildCategoryChips(reviews) {
+            var chipsEl = document.getElementById('category-chips');
+            var counts = {};
+            var hasCategory = false;
+
+            reviews.forEach(function (r) {
+                if (r.category) hasCategory = true;
+                var cat = r.category || '未分類';
+                counts[cat] = (counts[cat] || 0) + 1;
+            });
+
+            if (!hasCategory) {
+                chipsEl.style.display = 'none';
+                return;
+            }
+
+            chipsEl.style.display = '';
+            var cats = Object.keys(counts).sort(function (a, b) {
+                if (a === '未分類') return 1;
+                if (b === '未分類') return -1;
+                return (counts[b] - counts[a]);
+            });
+
+            chipsEl.innerHTML = '';
+
+            var allChip = createChip('すべて', reviews.length, '');
+            chipsEl.appendChild(allChip);
+
+            cats.forEach(function (cat) {
+                chipsEl.appendChild(createChip(cat, counts[cat], cat));
+            });
+
+            syncActiveChip();
+        }
+
+        function createChip(label, count, value) {
+            var btn = document.createElement('button');
+            btn.className = 'chip';
+            btn.setAttribute('data-category', value);
+            btn.innerHTML = escapeHtml(label) + ' <span class="chip-count">(' + count + ')</span>';
+            btn.addEventListener('click', function () {
+                state.category = value;
+                state.currentPage = 1;
+                syncActiveChip();
+                applyFilters();
+            });
+            return btn;
+        }
+
+        function syncActiveChip() {
+            var chips = document.querySelectorAll('.chip');
+            chips.forEach(function (c) {
+                c.classList.toggle('active', c.getAttribute('data-category') === state.category);
+            });
+        }
+
+        // ── Filters & Sort ──
+
+        function applyFilters() {
+            var reviews = state.allReviews.slice();
+
+            if (state.searchQuery) {
+                var q = state.searchQuery.toLowerCase();
+                reviews = reviews.filter(function (r) {
+                    return (r.title || '').toLowerCase().indexOf(q) !== -1 ||
+                           (r.author || '').toLowerCase().indexOf(q) !== -1;
+                });
+            }
+
+            if (state.category) {
+                reviews = reviews.filter(function (r) {
+                    return (r.category || '未分類') === state.category;
+                });
+            }
+
+            sortReviews(reviews);
+            state.filteredReviews = reviews;
+
+            var totalPages = Math.ceil(reviews.length / PER_PAGE) || 1;
+            if (state.currentPage > totalPages) state.currentPage = totalPages;
+            if (state.currentPage < 1) state.currentPage = 1;
+
+            renderReviews();
+            renderPagination();
+            renderResultsInfo();
+            updateUrlParams();
+        }
+
+        function sortReviews(arr) {
+            switch (state.sort) {
+                case 'newest':
+                    arr.sort(function (a, b) {
+                        return (b.created_at || b.date || '').localeCompare(a.created_at || a.date || '');
+                    });
+                    break;
+                case 'oldest':
+                    arr.sort(function (a, b) {
+                        return (a.created_at || a.date || '').localeCompare(b.created_at || b.date || '');
+                    });
+                    break;
+                case 'title':
+                    arr.sort(function (a, b) {
+                        return (a.title || '').localeCompare(b.title || '', 'ja');
+                    });
+                    break;
+                case 'author':
+                    arr.sort(function (a, b) {
+                        return (a.author || '').localeCompare(b.author || '', 'ja');
+                    });
+                    break;
+            }
+        }
+
+        // ── Rendering ──
+
+        function renderReviews() {
+            var list = document.getElementById('reviews-list');
+            var start = (state.currentPage - 1) * PER_PAGE;
+            var end = start + PER_PAGE;
+            var pageReviews = state.filteredReviews.slice(start, end);
+
+            if (pageReviews.length === 0) {
+                list.innerHTML = '<div class="empty-state">該当する書評がありません</div>';
+                return;
+            }
+
+            list.innerHTML = '';
+            pageReviews.forEach(function (r) {
+                var card = document.createElement('a');
+                card.className = 'review-card';
+                card.href = reviewHref(r);
+
+                var title = document.createElement('div');
+                title.className = 'review-title';
+                title.textContent = r.title;
+
+                var author = document.createElement('div');
+                author.className = 'review-author';
+                author.textContent = r.author;
+
+                var meta = document.createElement('div');
+                meta.className = 'review-meta';
+
+                (r.languages || ['ja']).forEach(function (lang) {
+                    var badge = document.createElement('a');
+                    badge.className = 'lang-badge';
+                    badge.textContent = LANG_LABELS[lang] || lang;
+                    badge.href = 'reviews/' + lang + '/' + encodeURIComponent(r.filename.replace('.md', '.html'));
+                    badge.addEventListener('click', function (e) { e.stopPropagation(); });
+                    meta.appendChild(badge);
+                });
+
+                if (r.category) {
+                    var catBadge = document.createElement('span');
+                    catBadge.className = 'category-badge';
+                    catBadge.textContent = r.category;
+                    meta.appendChild(catBadge);
+                }
+
+                if (r.date) {
+                    var dateEl = document.createElement('span');
+                    dateEl.className = 'review-date';
+                    dateEl.textContent = r.date;
+                    meta.appendChild(dateEl);
+                }
+
+                card.appendChild(title);
+                card.appendChild(author);
+                card.appendChild(meta);
+                list.appendChild(card);
+            });
+        }
+
+        function renderResultsInfo() {
+            var el = document.getElementById('results-info');
+            var total = state.allReviews.length;
+            var filtered = state.filteredReviews.length;
+            var isFiltered = state.searchQuery || state.category;
+
+            var html = '';
+            if (isFiltered) {
+                html = filtered + ' 件 / ' + total + ' 件';
+                html += '<button class="clear-btn" id="clear-filters">クリア</button>';
+            } else {
+                html = '全 ' + total + ' 件';
+            }
+            el.innerHTML = html;
+
+            var clearBtn = document.getElementById('clear-filters');
+            if (clearBtn) {
+                clearBtn.addEventListener('click', function () {
+                    state.searchQuery = '';
+                    state.category = '';
+                    state.currentPage = 1;
+                    document.getElementById('search-input').value = '';
+                    syncActiveChip();
+                    applyFilters();
+                });
+            }
+        }
+
+        // ── Pagination ──
+
+        function renderPagination() {
+            var container = document.getElementById('pagination');
+            var total = state.filteredReviews.length;
+            var totalPages = Math.ceil(total / PER_PAGE) || 1;
+
+            if (totalPages <= 1) {
+                container.innerHTML = '';
+                return;
+            }
+
+            container.innerHTML = '';
+
+            var prevBtn = document.createElement('button');
+            prevBtn.className = 'page-btn';
+            prevBtn.textContent = '前へ';
+            prevBtn.disabled = state.currentPage <= 1;
+            prevBtn.addEventListener('click', function () { goToPage(state.currentPage - 1); });
+            container.appendChild(prevBtn);
+
+            var pages = buildPageNumbers(state.currentPage, totalPages);
+            pages.forEach(function (p) {
+                if (p === '...') {
+                    var ellipsis = document.createElement('span');
+                    ellipsis.className = 'page-ellipsis';
+                    ellipsis.textContent = '...';
+                    container.appendChild(ellipsis);
+                } else {
+                    var btn = document.createElement('button');
+                    btn.className = 'page-btn' + (p === state.currentPage ? ' active' : '');
+                    btn.textContent = p;
+                    btn.addEventListener('click', function () { goToPage(p); });
+                    container.appendChild(btn);
+                }
+            });
+
+            var nextBtn = document.createElement('button');
+            nextBtn.className = 'page-btn';
+            nextBtn.textContent = '次へ';
+            nextBtn.disabled = state.currentPage >= totalPages;
+            nextBtn.addEventListener('click', function () { goToPage(state.currentPage + 1); });
+            container.appendChild(nextBtn);
+        }
+
+        function buildPageNumbers(current, total) {
+            if (total <= 7) {
+                var arr = [];
+                for (var i = 1; i <= total; i++) arr.push(i);
+                return arr;
+            }
+            var pages = [1];
+            var start = Math.max(2, current - 1);
+            var end = Math.min(total - 1, current + 1);
+            if (start > 2) pages.push('...');
+            for (var j = start; j <= end; j++) pages.push(j);
+            if (end < total - 1) pages.push('...');
+            pages.push(total);
+            return pages;
+        }
+
+        function goToPage(page) {
+            state.currentPage = page;
+            applyFilters();
+            window.scrollTo({ top: document.getElementById('controls').offsetTop - 20, behavior: 'smooth' });
+        }
+
+        // ── Utilities ──
+
+        function escapeHtml(str) {
+            var div = document.createElement('div');
+            div.appendChild(document.createTextNode(str || ''));
+            return div.innerHTML;
+        }
+
+        // ── Event Handlers ──
+
+        document.getElementById('search-input').addEventListener('input', function (e) {
+            var val = e.target.value;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(function () {
+                state.searchQuery = val;
+                state.currentPage = 1;
+                applyFilters();
+            }, 200);
+        });
+
+        document.getElementById('sort-select').addEventListener('change', function (e) {
+            state.sort = e.target.value;
+            state.currentPage = 1;
+            applyFilters();
+        });
+
+        // ── Init ──
 
         fetch('reviews.json')
             .then(function (res) { return res.json(); })
             .then(function (reviews) {
-                var list = document.getElementById('reviews-list');
-
-                if (reviews.length === 0) {
-                    list.innerHTML = '<div class="empty-state">No reviews yet.</div>';
+                if (!reviews || !reviews.length) {
+                    document.getElementById('reviews-list').innerHTML = '<div class="empty-state">まだ書評がありません</div>';
                     return;
                 }
 
                 reviews.sort(function (a, b) {
-                    var ka = a.created_at || a.date || '';
-                    var kb = b.created_at || b.date || '';
-                    return kb.localeCompare(ka);
+                    return (b.created_at || b.date || '').localeCompare(a.created_at || a.date || '');
                 });
 
-                list.innerHTML = '';
-                reviews.forEach(function (r) {
-                    var card = document.createElement('a');
-                    card.className = 'review-card';
-                    card.href = 'reviews/ja/' + encodeURIComponent(r.filename.replace('.md', '.html'));
+                state.allReviews = reviews;
 
-                    var title = document.createElement('div');
-                    title.className = 'review-title';
-                    title.textContent = r.title;
-
-                    var author = document.createElement('div');
-                    author.className = 'review-author';
-                    author.textContent = r.author;
-
-                    var meta = document.createElement('div');
-                    meta.className = 'review-meta';
-
-                    (r.languages || ['ja']).forEach(function (lang) {
-                        var badge = document.createElement('a');
-                        badge.className = 'lang-badge';
-                        badge.textContent = LANG_LABELS[lang] || lang;
-                        badge.href = 'reviews/' + lang + '/' + encodeURIComponent(r.filename.replace('.md', '.html'));
-                        badge.addEventListener('click', function (e) { e.stopPropagation(); });
-                        meta.appendChild(badge);
-                    });
-
-                    if (r.date) {
-                        var date = document.createElement('span');
-                        date.className = 'review-date';
-                        date.textContent = r.date;
-                        meta.appendChild(date);
-                    }
-
-                    card.appendChild(title);
-                    card.appendChild(author);
-                    card.appendChild(meta);
-                    list.appendChild(card);
-                });
+                readUrlParams();
+                buildRecentUpdates(reviews);
+                buildCategoryChips(reviews);
+                document.getElementById('controls').style.display = '';
+                applyFilters();
             })
             .catch(function () {
-                var list = document.getElementById('reviews-list');
-                list.innerHTML = '<div class="empty-state">No reviews yet.</div>';
+                document.getElementById('reviews-list').innerHTML = '<div class="empty-state">まだ書評がありません</div>';
             });
+    })();
     </script>
 </body>
 </html>
