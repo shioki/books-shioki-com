@@ -343,13 +343,20 @@
         }
 
         .category-badge {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.2rem;
             font-size: 0.65rem;
             padding: 0.1rem 0.45rem;
             border-radius: var(--border-radius-full);
             background: var(--color-neutral-solid-gray-50);
             color: var(--color-neutral-solid-gray-600);
             border: 1px solid var(--color-neutral-solid-gray-100);
+        }
+
+        .category-badge .cat-sub {
+            font-size: 0.55rem;
+            opacity: 0.55;
         }
 
         .review-date {
@@ -776,7 +783,13 @@
                 if (r.category) {
                     var catBadge = document.createElement('span');
                     catBadge.className = 'category-badge';
-                    catBadge.textContent = r.category;
+                    var catSub = CATEGORY_LABELS[r.category];
+                    var catHtml = escapeHtml(r.category);
+                    if (catSub) {
+                        catHtml += ' <span class="cat-sub">' + escapeHtml(catSub.en) + '</span>';
+                        catHtml += ' <span class="cat-sub">' + escapeHtml(catSub['zh-tw']) + '</span>';
+                    }
+                    catBadge.innerHTML = catHtml;
                     meta.appendChild(catBadge);
                 }
 
