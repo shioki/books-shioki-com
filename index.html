@@ -529,6 +529,38 @@
             '社会・思想':           { en: 'Society',            'zh-tw': '社會思想' },
             'エッセイ・ノンフィクション': { en: 'Essay',        'zh-tw': '散文紀實' },
             '技術・サイエンス':     { en: 'Tech',               'zh-tw': '技術科學' },
+            '文学・評論':           { en: 'Literature & Criticism', 'zh-tw': '文學與評論' },
+            'エッセー・随筆':       { en: 'Essays',             'zh-tw': '散文隨筆' },
+            '日本のエッセー・随筆': { en: 'Japanese Essays',    'zh-tw': '日本散文隨筆' },
+            '近現代の作品':         { en: 'Modern Works',       'zh-tw': '近現代作品' },
+            '歴史・地理':           { en: 'History & Geography','zh-tw': '歷史與地理' },
+            '世界史':               { en: 'World History',      'zh-tw': '世界史' },
+            '経営学・キャリア・MBA': { en: 'Management / Career / MBA', 'zh-tw': '經營學・職涯・MBA' },
+            '資格・就職・MBA':      { en: 'Certification / Career / MBA', 'zh-tw': '資格・就職・MBA' },
+            'MBA(経営学修士)':      { en: 'MBA',                'zh-tw': 'MBA（企管碩士）' },
+            '小説・文芸':           { en: 'Fiction & Literature','zh-tw': '小說與文藝' },
+            '日本の小説・文芸':     { en: 'Japanese Fiction',   'zh-tw': '日本小說與文藝' },
+            '医学・薬学':           { en: 'Medicine & Pharmacy','zh-tw': '醫學與藥學' },
+            '社会・政治':           { en: 'Society & Politics', 'zh-tw': '社會與政治' },
+            '政治':                 { en: 'Politics',           'zh-tw': '政治' },
+            '政治入門':             { en: 'Politics (Intro)',   'zh-tw': '政治入門' },
+            'ノンフィクション':     { en: 'Nonfiction',         'zh-tw': '非虛構' },
+            '評論・文学研究':       { en: 'Criticism & Literary Studies', 'zh-tw': '評論與文學研究' },
+            '外国文学研究':         { en: 'Foreign Literature Studies', 'zh-tw': '外國文學研究' },
+            'その他の外国文学':     { en: 'Other Foreign Literature', 'zh-tw': '其他外國文學' },
+            '暮らし・健康・子育て': { en: 'Lifestyle / Health / Parenting', 'zh-tw': '生活・健康・育兒' },
+            'クッキング・レシピ':   { en: 'Cooking & Recipes',  'zh-tw': '烹飪與食譜' },
+            '社会学':               { en: 'Sociology',          'zh-tw': '社會學' },
+            '社会学概論':           { en: 'Intro to Sociology', 'zh-tw': '社會學概論' },
+            '人文・思想':           { en: 'Humanities & Thought','zh-tw': '人文與思想' },
+            '倫理学・道徳':         { en: 'Ethics & Morality',  'zh-tw': '倫理學與道德' },
+            '人生論・教訓':         { en: 'Life Lessons',       'zh-tw': '人生論與教訓' },
+            '思想・社会':           { en: 'Thought & Society',  'zh-tw': '思想與社會' },
+            '思想':                 { en: 'Thought',            'zh-tw': '思想' },
+            '科学・テクノロジー':   { en: 'Science & Technology', 'zh-tw': '科學與科技' },
+            '工学':                 { en: 'Engineering',        'zh-tw': '工程學' },
+            'IT':                   { en: 'IT',                 'zh-tw': '資訊科技' },
+            '情報社会':             { en: 'Information Society','zh-tw': '資訊社會' },
             'その他':               { en: 'Others',             'zh-tw': '其他' },
             '未分類':               { en: 'Uncategorized',      'zh-tw': '未分類' }
         };
@@ -636,15 +668,35 @@
 
         // ── Category Chips ──
 
+        function getCategoriesForFilter(review) {
+            if (Array.isArray(review.categories) && review.categories.length) {
+                return review.categories.filter(function (c) { return !!c; });
+            }
+            if (review.category) return [review.category];
+            return ['未分類'];
+        }
+
+        function getCategoriesForDisplay(review) {
+            if (Array.isArray(review.categories) && review.categories.length) {
+                return review.categories.filter(function (c) { return !!c; });
+            }
+            if (review.category) return [review.category];
+            return [];
+        }
+
         function buildCategoryChips(reviews) {
             var chipsEl = document.getElementById('category-chips');
             var counts = {};
             var hasCategory = false;
 
             reviews.forEach(function (r) {
-                if (r.category) hasCategory = true;
-                var cat = r.category || '未分類';
-                counts[cat] = (counts[cat] || 0) + 1;
+                var categories = Array.from(new Set(getCategoriesForFilter(r)));
+                if (categories.length && !(categories.length === 1 && categories[0] === '未分類')) {
+                    hasCategory = true;
+                }
+                categories.forEach(function (cat) {
+                    counts[cat] = (counts[cat] || 0) + 1;
+                });
             });
 
             if (!hasCategory) {
@@ -714,7 +766,7 @@
 
             if (state.category) {
                 reviews = reviews.filter(function (r) {
-                    return (r.category || '未分類') === state.category;
+                    return getCategoriesForFilter(r).indexOf(state.category) !== -1;
                 });
             }
 
@@ -795,17 +847,25 @@
                     meta.appendChild(badge);
                 });
 
-                if (r.category) {
+                var displayCategories = getCategoriesForDisplay(r);
+                var categoryLimit = 3;
+                displayCategories.slice(0, categoryLimit).forEach(function (cat) {
                     var catBadge = document.createElement('span');
                     catBadge.className = 'category-badge';
-                    var catSub = CATEGORY_LABELS[r.category];
-                    var catHtml = escapeHtml(r.category);
+                    var catSub = CATEGORY_LABELS[cat];
+                    var catHtml = escapeHtml(cat);
                     if (catSub) {
                         catHtml += ' <span class="cat-sub">' + escapeHtml(catSub.en) + '</span>';
                         catHtml += ' <span class="cat-sub">' + escapeHtml(catSub['zh-tw']) + '</span>';
                     }
                     catBadge.innerHTML = catHtml;
                     meta.appendChild(catBadge);
+                });
+                if (displayCategories.length > categoryLimit) {
+                    var moreBadge = document.createElement('span');
+                    moreBadge.className = 'category-badge';
+                    moreBadge.textContent = '+' + (displayCategories.length - categoryLimit);
+                    meta.appendChild(moreBadge);
                 }
 
                 if (r.date) {
