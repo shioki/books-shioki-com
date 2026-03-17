@@ -12,31 +12,31 @@
 
 ---
 
-![4-panel manga](../../images/reviews/帚木蓬生-少弐　民に捧げた三百六十年_4panel.png)
+![4-Panel Comic](../../images/reviews/帚木蓬生-少弐　民に捧げた三百六十年_4panel.png)
 
 ## Dialogue
 
 ### Panel 1
-**Scene**: The young Edo townsgirl walks through the lively streets of Edo, passing a shrine where villagers pray for peace. She stops before a wooden plaque that reads, “What does it mean to protect?” The evening light filters through the shrine gate as she gazes thoughtfully, clutching her small notebook close to her chest.  
-**Dialogue**: (thinking) “To protect… but what, and how?”
+**Scene**: The townsgirl walks through the lively streets of Edo, passing a shrine where villagers pray for peace. She stops before a wooden plaque that reads, “What does it mean to protect?” Evening light filters through the shrine gate, and she clutches her notebook, lost in thought.  
+**Dialogue**: *“What does it mean… to protect?”*  
 
 ### Panel 2
-**Scene**: In the quiet temple library, the townsgirl studies an old scroll about the Shōni clan. Beside her, an elderly scholar—calm and wise, with silver hair tied neatly back—leans over the scroll. His monk-like robes rustle softly as he gestures toward the text, speaking gently about those who “defended not power, but people.” The air feels meditative, the ink lines flowing like breath.  
-**Dialogue**: Elder scholar: “True defenders guard hearts, not thrones.”
+**Scene**: In the quiet temple library, she studies an old scroll about the Shōni clan. Beside her, an elderly scholar—calm and wise, with silver hair tied back—points to the scroll, speaking softly about those who “defended not power, but people.” The air feels still and reflective, the ink lines gentle and flowing.  
+**Dialogue**: *“True defenders guard hearts, not thrones.”*  
 
 ### Panel 3
-**Scene**: On a hill overlooking her town, the townsgirl faces a gathering storm. Villagers huddle below as she raises her hands as if to shield them, remembering the scholar’s words. Wind whirls around her, clouds swirling in bold ink strokes. Her silhouette stands firm against the sky—she realizes that peace is not passive, but a choice of compassion.  
-**Dialogue**: (thinking) “To protect is to care… even in the storm.”
+**Scene**: On a hill overlooking her town, the girl raises her hands as if to shield the villagers below from an approaching storm. Wind and clouds swirl around her as she realizes that true defense is born from compassion—peace as a deliberate act of will.  
+**Dialogue**: *“To protect… is to care.”*  
 
 ### Panel 4
-**Scene**: That night, by the soft glow of a lamp, the townsgirl writes a tanka on a narrow strip of paper. Her brush trembles slightly as she writes, her face serene and illuminated. The stillness carries reverence—a quiet vow born from understanding.  
-**Dialogue**: (whispering) “May my words protect where swords cannot.”  
+**Scene**: That night, by the glow of a small lamp, she writes a tanka on a narrow strip of paper. Her brush trembles slightly as she writes, her face calm yet reverent in the stillness.  
+**Dialogue**: *(silent, only the sound of the brush on paper)*  
 **Tanka (translation)**:  
 For the people’s sake,  
 I sheathe the sword and pray—  
-on this peaceful night;  
+on this quiet night,  
 the heart that guards with kindness  
-is the true strength of a land.  
+is the true strength of the land.  
 **Tanka (original)**:  
 民のため  
 剣をおさめて  
@@ -46,63 +46,63 @@ is the true strength of a land.
 
 
 ## 🎯 Core of the Book
-帚木蓬生’s *少弐　民に捧げた三百六十年* is a sweeping historical epic that portrays the lineage of the Shōni clan, who protected Dazaifu in Kyushu for generations, embodying the ideal of “samurai who live for the people.” From the first head, Shigenori, to the fourth, Moritsune, each successive leader bears the weight of duty and pride, illuminated amid the turbulence of war and faith.  
+帚木蓬生’s *少弐　民に捧げた三百六十年* is a sweeping historical epic that portrays the spirit of “warriors who live for the people” through the lineage of the Shōni clan, who ruled northern Kyushu for fifteen generations over 360 years, from the late Heian to the Sengoku period. From the first lord, Shigenori, to the fifteenth, Fuyuhisa, the family’s sense of duty and pride emerges amid wars and faith—from the Mongol invasions and the Northern and Southern Court conflicts to their downfall through vassal betrayal.  
 
-At the heart of this work lies not the story of battle, but the meaning of *protection*. Even during the national crisis of the Mongol invasions, the Shōni clan valued faith and culture over sheer military might, praying for the peace of their people under divine protection. Their stance transcends the origins of bushidō, presenting a spirit of “people-centered governance” that challenges the reader to reflect.  
+At its heart, this is not a story of conquest, but of “what it means to protect.” Even in the face of the Mongol invasions, a national crisis, the Shōni clan valued faith and culture over sheer military might, praying for the peace of their people under divine protection. Their stance embodies a spirit of *minpon*—governance for the people—that transcends the traditional notion of bushidō.  
 
-Through the modern narrator’s visits to the guardians of the clan’s graves, past and present intertwine, revealing the preciousness of passing down history. This attempt to revive history as a “living memory” evokes the quiet emotional resonance characteristic of Haegaki’s works.  
+Through a modern narrator’s journey visiting the guardians of the clan’s graves, the narrative weaves together past and present, illuminating the importance of passing down history. This attempt to revive history as “living memory” evokes the quiet emotional resonance characteristic of Haegaki’s work.  
 
 ---
 
 ## 💡 Key Insights
 - **Defense Means Protecting the People**  
-  When Shigenori builds the Uchimiyama Castle, his belief that “divine protection is the true defense” expresses a political philosophy that goes beyond military defense—it is about safeguarding the peace of the people. It reminds us that even in times of war, the spirit of peace endured.  
+  When Shigenori builds Uchimiyama Castle, his belief that “divine protection is the true defense” reflects a philosophy that goes beyond military strategy—it represents governance aimed at safeguarding the people’s peace. Even in an age of war, the aspiration for peace endured.  
 
 - **The Samurai’s Pride in Upholding Loyalty**  
-  In the Jōkyū War, Shigenori chooses faithfulness over power, striking at the essence of loyalty. His steadfastness in turbulent times conveys the timeless weight of staying true to one’s beliefs.  
+  In the Jōkyū War, Shigenori chooses faithfulness over power, embodying the essence of true loyalty. His steadfastness in turbulent times resonates with modern readers as a timeless lesson in integrity.  
 
-- **The Power of a Nation Born from Culture and Faith**  
-  When Shino converses with an envoy from Goryeo about building a peaceful nation grounded in faith, it reflects a vision of statehood rooted in culture and spirituality. Even amid warfare, the reverence for culture sustained Japan’s spiritual foundation.  
+- **The Power of Culture and Faith United**  
+  When Shino discusses with a Korean envoy the idea of “building a peaceful nation grounded in the divine,” it reflects a worldview rooted in culture and faith. Even amid conflict, reverence for culture sustained Japan’s spiritual foundation.  
 
-- **Those Who Keep History Alive**  
-  The modern narrator’s journey to visit the gravekeepers and trace the Shōni’s footsteps symbolizes how history lives on through storytelling and remembrance. Individual acts of preservation become bridges between past and future.  
+- **The People Who Keep History Alive**  
+  The modern narrator’s visits to the clan’s gravekeepers symbolize how history lives on through storytelling and remembrance. Individual acts of preservation become bridges between past and future.  
 
-- **A Record of Battle That Teaches the Value of Peace**  
-  Through the fierce Mongol invasions, the words of Shino and Tsunemoto—who uphold the ideal of “peace and tranquility as national policy”—stand out. The chronicles of war paradoxically illuminate the preciousness of peace.  
+- **A Chronicle of War That Teaches the Value of Peace**  
+  Through the fierce battles of the Mongol invasions, the ideals expressed by Shino and Tsunesuke—to make peace and stability the nation’s guiding principle—stand out. The chronicles of war paradoxically illuminate the preciousness of peace.  
 
 ---
 
 ## 🔍 Relevance to the Modern Context
-When this book was published (2025), historical fiction was once again gaining popularity, with renewed attention to works set in the Kamakura and Sengoku periods. Haegaki Hōsei’s depiction of a “bushidō for the people” resonates with modern ethics of public service and leadership.  
+Published in 2025, this book arrives amid a renewed interest in historical fiction, particularly works set in the Kamakura and Sengoku periods. Haegaki’s depiction of “bushidō for the people” resonates with modern ideas of public service and ethical leadership.  
 
-Moreover, the emphasis on dialogue and mutual understanding between cultures offers timely insight for today’s globalized world. Just as Shino treated the Goryeo envoy with respect, the story reminds us that mutual respect is the key to lasting peace.  
+The emphasis on dialogue and mutual understanding across cultures also carries strong relevance in today’s globalized world. Just as Shino treated the Korean envoy with respect, the story reminds us that genuine peace is built upon mutual respect.  
 
-The structure—where a modern narrator unearths history—also aligns with recent cultural trends of rediscovering local and family histories. The message that understanding the past empowers us to shape the future lingers quietly in the reader’s heart.  
+Moreover, the structure—where a modern narrator rediscovers history—echoes current cultural trends that value local and family histories. The message that knowing the past empowers us to shape the future lingers quietly in the reader’s heart.  
 
 ---
 
 ## 🚀 Practical Takeaways
 - **Explore Local History**  
-  Like the narrator visiting the gravekeepers, researching and visiting the history of your own region allows you to experience history as something alive.  
+  Like the narrator visiting the gravekeepers, exploring the history of one’s own region can make the past feel alive and tangible.  
 
 - **Record Family and Community Stories**  
-  Personal records—letters, oral histories—form the foundation of future history. Preserving family memories in writing or audio helps carry culture forward.  
+  Personal records—letters, oral histories—form the foundation of future history. Preserving family memories through writing or audio helps sustain cultural heritage.  
 
 - **Approach Cross-Cultural Dialogue with Respect**  
-  Following Shino’s diplomatic example, treating people from different backgrounds with respect fosters genuine understanding.  
+  Following Shino’s diplomatic example, treating people from different backgrounds with respect fosters true understanding.  
 
-- **Clarify What You Must Protect**  
-  Just as the Shōni fought to protect their people and land, being conscious of what values you must defend provides a moral compass for action.  
+- **Clarify What You Want to Protect**  
+  Just as the Shōni clan fought to protect their people and land, being conscious of what values you stand to defend gives direction to your actions.  
 
 - **Reflect on Peace Through History**  
-  Learning about past conflicts helps us reaffirm the value of peace. Studying history is the first step toward preserving it.  
+  Learning about past conflicts deepens our appreciation for peace. Studying history is the first step toward preserving it.  
 
 ---
 
 ## ⭐ Overall Evaluation
-*少弐　民に捧げた三百六十年* is a work that portrays human dignity through the lives of those who, amid the chaos of war, remained faithful to their people and their principles. Haegaki Hōsei’s prose goes beyond historical reconstruction, reviving the spirit of the past in the present.  
+*少弐　民に捧げた三百六十年* is a profound work that, while set in an age of war, portrays the dignity of humanity through those who lived for their people and upheld their faith. Haegaki’s writing transcends historical reconstruction, reviving the souls of the past for the present.  
 
-Combining the depth of historical fiction with a quiet message for modern readers, this book is ideal for those who wish to read history as “wisdom for living.” The conviction that understanding the past gives us the strength to protect the future runs through the entire narrative.
+Balancing the weight of historical fiction with a quiet message for modern readers, this book is ideal for those who wish to read history as “living wisdom.” The conviction that knowing the past empowers us to protect the future runs through every page of this remarkable work.
 
 ---
 

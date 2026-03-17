@@ -1,24 +1,24 @@
 ### Panel 1
-**Scene**: The young Edo townsgirl walks through the lively streets of Edo, passing a shrine where villagers pray for peace. She stops before a wooden plaque that reads, “What does it mean to protect?” The evening light filters through the shrine gate as she gazes thoughtfully, clutching her small notebook close to her chest.  
-**Dialogue**: (thinking) “To protect… but what, and how?”
+**Scene**: The townsgirl walks through the lively streets of Edo, passing a shrine where villagers pray for peace. She stops before a wooden plaque that reads, “What does it mean to protect?” Evening light filters through the shrine gate, and she clutches her notebook, lost in thought.  
+**Dialogue**: *“What does it mean… to protect?”*  
 
 ### Panel 2
-**Scene**: In the quiet temple library, the townsgirl studies an old scroll about the Shōni clan. Beside her, an elderly scholar—calm and wise, with silver hair tied neatly back—leans over the scroll. His monk-like robes rustle softly as he gestures toward the text, speaking gently about those who “defended not power, but people.” The air feels meditative, the ink lines flowing like breath.  
-**Dialogue**: Elder scholar: “True defenders guard hearts, not thrones.”
+**Scene**: In the quiet temple library, she studies an old scroll about the Shōni clan. Beside her, an elderly scholar—calm and wise, with silver hair tied back—points to the scroll, speaking softly about those who “defended not power, but people.” The air feels still and reflective, the ink lines gentle and flowing.  
+**Dialogue**: *“True defenders guard hearts, not thrones.”*  
 
 ### Panel 3
-**Scene**: On a hill overlooking her town, the townsgirl faces a gathering storm. Villagers huddle below as she raises her hands as if to shield them, remembering the scholar’s words. Wind whirls around her, clouds swirling in bold ink strokes. Her silhouette stands firm against the sky—she realizes that peace is not passive, but a choice of compassion.  
-**Dialogue**: (thinking) “To protect is to care… even in the storm.”
+**Scene**: On a hill overlooking her town, the girl raises her hands as if to shield the villagers below from an approaching storm. Wind and clouds swirl around her as she realizes that true defense is born from compassion—peace as a deliberate act of will.  
+**Dialogue**: *“To protect… is to care.”*  
 
 ### Panel 4
-**Scene**: That night, by the soft glow of a lamp, the townsgirl writes a tanka on a narrow strip of paper. Her brush trembles slightly as she writes, her face serene and illuminated. The stillness carries reverence—a quiet vow born from understanding.  
-**Dialogue**: (whispering) “May my words protect where swords cannot.”  
+**Scene**: That night, by the glow of a small lamp, she writes a tanka on a narrow strip of paper. Her brush trembles slightly as she writes, her face calm yet reverent in the stillness.  
+**Dialogue**: *(silent, only the sound of the brush on paper)*  
 **Tanka (translation)**:  
 For the people’s sake,  
 I sheathe the sword and pray—  
-on this peaceful night;  
+on this quiet night,  
 the heart that guards with kindness  
-is the true strength of a land.  
+is the true strength of the land.  
 **Tanka (original)**:  
 民のため  
 剣をおさめて  
