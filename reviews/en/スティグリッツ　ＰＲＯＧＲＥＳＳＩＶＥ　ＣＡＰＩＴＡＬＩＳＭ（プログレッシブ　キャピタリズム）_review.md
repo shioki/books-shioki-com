@@ -4,27 +4,31 @@
 >
 > [← Top / トップページ](../../)
 
-![4-panel comic](../../images/reviews/スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_4panel.png)
+![4-Panel Manga](../../images/reviews/スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_4panel.png)
 
 ## Dialogue
 
 ### Panel 1
-**Scene**: In a bustling Edo streetscape, with row houses, merchants, and a temple school in the background, the townsgirl pauses at a rice shop and notices a striking contradiction: the merchant proudly celebrates larger ledgers and more coins, while nearby townspeople look tired and anxious over rising living costs and unstable work. She tilts her head with keen curiosity, holding an abacus and a folded tanzaku, realizing that wealth in numbers alone does not equal true prosperity. Her expression shifts from mild unease to thoughtful inquiry.  
-**Dialogue**: “If the numbers grow, why do the people look so worn?”
+**Scene**: On a bustling Edo street lined with row houses, merchants, and a temple school in the distance, a young townsgirl in kimono stops by a rice shop. She notices a contradiction: the merchant proudly boasts of larger ledgers and more coins, yet nearby townspeople look anxious about rising prices and unstable work. Holding an abacus and a folded tanzaku, she tilts her head in curiosity, realizing that numbers alone do not define true prosperity. Her expression shifts from mild unease to thoughtful intrigue.  
+**Dialogue**: (none)
 
 ### Panel 2
-**Scene**: Inside a candlelit study filled with wasan books, Dutch texts, maps, brushes, and calculation tablets, the townsgirl studies intently, comparing ledgers, social rules, and trade diagrams. A portrait-like mentor figure appears as an older Western scholar with wavy hair, round spectacles, thoughtful eyes, a slightly full build, and a calm yet sharp presence, imagined in Edo-period rangaku style. Beside him is a refined Japanese translator-scholar in a neat kimono, with an intelligent gaze and composed demeanor, helping her interpret the texts. The scene makes clear that markets are shaped by rules, institutions, and knowledge, not by nature alone.  
-**Dialogue**: “A market does not simply arise on its own. Its shape depends on rules.”
+**Scene**: In a candlelit study filled with wasan books, Dutch texts, maps, brushes, and calculation tablets, the townsgirl studies intently. A portrait-like mentor figure—an older Western scholar with wavy hair, round spectacles, and calm but sharp eyes—appears as if imagined in Edo style. Beside him, a refined Japanese translator-scholar in a neat kimono assists with the texts. The atmosphere conveys that markets are shaped by rules, institutions, and knowledge, not by nature alone.  
+**Dialogue**: (none)
 
 ### Panel 3
-**Scene**: In a humorous yet bold marketplace scene shown from a dramatic low angle, the townsgirl stands atop a wooden crate like a tiny reformer, wielding an abacus and a chalkboard to reveal how a dominant wholesaler manipulates prices and pressures smaller sellers. Fishmongers, paper sellers, and apprentices stare in astonishment as she redraws fair market rules on a hanging board, showing that monopoly and unfair advantage drain prosperity from everyone. Account papers flutter through the air, reactions are exaggerated, and the composition crackles with comic energy while keeping Edo-period realism.  
-**Dialogue**: “When one hand controls the price, everyone else pays the cost!”
+**Scene**: At the lively marketplace, the townsgirl stands boldly atop a wooden crate, abacus in one hand and chalkboard in the other. From a dramatic low angle, she exposes how a dominant wholesaler manipulates prices and exploits smaller sellers. Fishmongers, paper vendors, and apprentices react in astonishment as she redraws fair market rules on a hanging board. Account papers flutter through the air, adding comic energy to the Edo-period realism.  
+**Dialogue**: (none)
 
 ### Panel 4
-**Scene**: In a quiet twilight scene beside a paper shoji window, the townsgirl kneels with a brush in hand, her face calm and enlightened after reflection and action. She writes a tanka in elegant Japanese vertical text on a tanzaku or in a speech bubble, expressing the idea that prosperity must be shared through fair rules, not judged only by wealth or growth. The scene carries a lingering poetic stillness and emotional resonance.  
-**Dialogue**: “Prosperity must be something all can live by.”  
-**Tanka (translation)**: Wealth alone cannot measure a flourishing world; only a public foundation that sustains everyone can do that.  
-**Tanka (original)**: 「富だけじゃ  
+**Scene**: In the quiet glow of twilight, the townsgirl kneels by a paper shoji window, brush in hand. Her face is serene and enlightened after her day of study and reform. She writes a tanka on a tanzaku, expressing that true prosperity arises from fairness and shared foundations, not from wealth alone. The scene radiates calm reflection and poetic grace.  
+**Dialogue**: (tanka written in Japanese vertical text)  
+**Tanka (translation)**:  
+“Prosperity cannot be measured by wealth alone—  
+the path of the world rests on public foundations  
+that give life to all.”  
+**Tanka (original)**:  
+「富だけじゃ  
 栄えははかれぬ  
 世の道よ  
 公なる礎  
@@ -32,63 +36,63 @@
 
 
 ## 📖 Book Information
-- **Title**: スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）
-- **Author**: ジョセフ Ｅ スティグリッツ and 山田 美明
-- **ASIN**: B0828FGCF2
-- **URL**: [https://www.amazon.co.jp/dp/B0828FGCF2](https://www.amazon.co.jp/dp/B0828FGCF2)
+- **Title**: スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）  
+- **Authors**: ジョセフ Ｅ スティグリッツ and 山田 美明  
+- **ASIN**: B0828FGCF2  
+- **URL**: [https://www.amazon.co.jp/dp/B0828FGCF2](https://www.amazon.co.jp/dp/B0828FGCF2)  
 
-## 🎯 The Core of This Book
-The central question running through this book is a fundamental one: what truly sustains a prosperous society? Stiglitz argues that national wealth should not be understood simply as financial assets or GDP growth, but as the foundational capacities of a society—knowledge, productive power, institutions, democracy, and the rule of law. Behind this is a view of the economy not as a set of numbers, but as a system for sustainably improving people’s standard of living.  
+## 🎯 Core Message
+The central question this book consistently revisits is: *What truly sustains a prosperous society?* スティグリッツ redefines national wealth not as mere financial assets or GDP growth, but as the foundational capacities of society—knowledge, productivity, institutions, democracy, and the rule of law. He views the economy not as a set of numbers, but as a system designed to sustainably improve people’s living standards.  
 
-From there, the book offers a sharp critique of market fundamentalism and trickle-down policies, arguing that the prosperity they promised never materialized and instead produced widening inequality, slower growth, and a concentration of market power. The problem, in the author’s view, is not “the market” itself, but the fact that the rules shaping markets have been designed in ways that favor the already powerful.  
+The book sharply criticizes how market fundamentalism and trickle-down policies have failed to deliver prosperity, instead leading to widening inequality, slower growth, and concentrated market power. The problem, スティグリッツ argues, is not “the market” itself, but the rules shaping it—rules that have been designed to favor the powerful few.  
 
-At the same time, the book does not simply swing toward anti-market or anti-globalization thinking. Instead, it imagines a more inclusive form of capitalism through fair competition policy, public investment, financial discipline, and the rebuilding of democracy. What it offers readers is a framework for understanding economic policy not merely as a technical matter, but as a question about the kind of society we want and the political institutions that sustain it.
+Rather than rejecting markets or globalization outright, the book envisions a more inclusive capitalism through fair competition policy, public investment, financial discipline, and the rebuilding of democracy. It invites readers to see economic policy not as a technical matter, but as a question of social structure and political institutions.
 
 ## 💡 Key Insights
-- **GDP growth is not sufficient for prosperity**  
-  One of the book’s sharpest points is that even if growth rates improve, it cannot be called a success if most people’s lives do not get better. Any theory of growth that ignores lived realities—wages, job security, access to education and healthcare, and freedom from constant anxiety—misreads the real state of society. It is an important argument that changes how we should read economic news in the first place.  
+- **GDP growth is not a sufficient condition for prosperity**  
+  The book incisively points out that even if economic growth rates improve, it cannot be called success if most people’s lives do not. Ignoring real experiences—wages, job stability, access to education and healthcare, and freedom from insecurity—leads to a distorted understanding of society. This is a crucial reminder that changes how we interpret economic news.  
 
-- **Profits may reflect rent extraction, not value creation**  
-  The book makes clear that high corporate profits or rising wealth among the rich should not automatically be taken as evidence of social contribution. Profits can also come from monopoly power, information asymmetry, financial manipulation, and loopholes in the system. The ability to distinguish between what genuinely creates wealth and what merely extracts it is essential to understanding contemporary capitalism.  
+- **Profit can result from rent-seeking, not value creation**  
+  スティグリッツ warns against equating corporate profits or wealth accumulation with social contribution. Profits can also arise from monopolies, information asymmetry, financial manipulation, or institutional loopholes. Distinguishing between wealth creation and mere extraction is essential to understanding modern capitalism.  
 
-- **Inequality is not only an ethical issue, but a growth issue**  
-  In this book, reducing inequality is framed not merely as helping the vulnerable, but as a condition for healthy economic growth. When income and opportunity are concentrated, investment in education suffers, demand weakens, and overall productivity declines. One of the book’s great strengths is that it moves beyond the old framework that treats fairness and efficiency as opposites.  
+- **Inequality is both an ethical and a growth problem**  
+  The book frames inequality reduction not just as charity for the weak, but as a prerequisite for healthy economic growth. When income and opportunity are concentrated, education investment and demand suffer, reducing overall productivity. Its strength lies in transcending the old dichotomy between fairness and efficiency.  
 
-- **Markets are not natural phenomena; they are shaped by policy**  
-  Rather than accepting market outcomes as inevitable, the author urges readers to examine the tax system, competition policy, labor law, intellectual property rules, and financial regulation behind them. In other words, today’s inequality and concentration are not unavoidable facts of life, but the product of institutions that can be changed. This perspective also makes readers more aware of the meaning and importance of political participation.  
+- **Markets are shaped by policy, not natural forces**  
+  Instead of accepting market outcomes as inevitable, スティグリッツ urges us to examine the tax system, competition policy, labor laws, intellectual property, and financial regulation behind them. Today’s inequality and concentration are not fate—they are products of changeable institutions. This perspective encourages readers to see the importance of political participation.  
 
-- **The decline of democracy is linked to concentrated market power**  
-  Monopolies and oligopolies do more than distort prices and wages. When giant corporations and the wealthy gain influence over political institutions, the information environment, and the shaping of public opinion, economic inequality begins to erode democracy itself. One of the book’s major contributions is that it connects economic policy debates to broader questions of institutions and democracy.
+- **The erosion of democracy and concentration of market power are intertwined**  
+  Monopolies and oligopolies distort not only prices and wages, but also politics, media, and public opinion. When corporations and the wealthy wield influence over political systems, economic inequality corrodes democracy itself. The book’s value lies in connecting economic policy debates to institutional and democratic theory.
 
-## 🔍 Relevance to the Contemporary Moment
-The questions raised by this book have become even sharper in the years since its publication. The post-pandemic rise in asset prices, the burden of living costs during inflation, the growing dominance of Big Tech, and fears about AI-driven job disruption all suggest that the optimistic belief that “if markets are left alone, things will work out for everyone” has reached its limits.  
+## 🔍 Relevance to Today’s Context
+The issues raised in this book have only become clearer since its publication. Post-pandemic asset inflation, rising living costs, the growing dominance of Big Tech, and AI-related job insecurity all reveal the limits of the belief that “the market will make everything better.”  
 
-In particular, recent years have shown across many countries how widening inequality fuels populism and social division, turning economic problems directly into political instability. The book’s insistence that “market power becomes political power” feels especially timely when thinking about the influence of digital platform companies and debates over political money.  
+In recent years, widening inequality has fueled populism and social fragmentation, making economic issues a direct source of political instability. The book’s insight that “market power becomes political power” is especially relevant when considering the influence of digital platforms and political funding.  
 
-And at a time when the importance of public investment in education, industrial policy, competition policy, and climate response is being reevaluated, this book serves not only as a critique but also as an entry point into the practical question of how capitalism itself might be redesigned. The more familiar readers are with current policy debates, the more they are likely to appreciate the breadth of the book’s reach.
+As public investment in education, industrial policy, competition policy, and climate action is being reevaluated, this book serves not just as a critique but as an entry point into the practical redesign of capitalism. Readers engaged in current policy debates will find its scope impressively broad.
 
-## 🚀 Practical Takeaways
-- **Read economic news through the lens of improvements in living standards**  
-  Instead of judging the economy solely by GDP growth, stock prices, or corporate earnings, it is worth developing the habit of also checking wage growth, job quality, access to education and healthcare, and regional inequality. One of the book’s key proposals is to shift our criteria for evaluating the economy away from elite indicators and back toward the lived realities of citizens—and that begins with how each of us reads the news.  
+## 🚀 Suggestions for Practice
+- **Reinterpret economic news through the lens of living standards**  
+  Don’t judge the economy solely by GDP growth, stock prices, or corporate profits. Pay attention to wage growth, job quality, access to education and healthcare, and regional disparities. The book’s key proposal is to shift evaluation metrics from elite indicators to citizens’ lived experiences—a change readers can begin with their own media consumption.  
 
-- **Become more alert to monopolies and market concentration**  
-  If you start paying attention to how much of your everyday search, shopping, social media, ride-hailing, and financial services are concentrated in the hands of a few firms, the book’s arguments suddenly feel much more concrete. Watching mergers among giant firms, platform dominance, and pressure placed on subcontractors and workers is a first step toward understanding why competition policy matters.  
+- **Be alert to monopolies and market concentration**  
+  Consider how much of your daily life—search engines, e-commerce, social media, ride-hailing, finance—is dominated by a few firms. Observing mergers, platform dominance, and pressure on subcontractors and workers is the first step toward understanding the need for competition policy.  
 
-- **See public investment not as a cost, but as future productive capacity**  
-  It is important to think of spending on education, research and development, infrastructure, healthcare, and retraining not simply as a fiscal burden, but as investment in the basic capacities of society. The book argues that long-term prosperity cannot rest on private initiative alone; it becomes possible only when the public sector helps build the foundations.  
+- **View public investment as future productivity, not cost**  
+  Spending on education, R&D, infrastructure, healthcare, and retraining should be seen not as fiscal burdens but as investments in society’s foundational capacities. The book argues that long-term prosperity cannot rely solely on private initiative—it requires a strong public foundation.  
 
-- **Do not evaluate technology only by convenience**  
-  When encountering new technologies and services, we should look not only at price and convenience, but also at how personal data is handled, the reliability of information, and the effects on working conditions. What the book shows is that the social consequences of technology depend less on the technology itself than on who controls it and under what rules it operates.  
+- **Evaluate technology beyond convenience**  
+  When encountering new technologies or services, look beyond price and convenience to consider data privacy, information reliability, and labor conditions. The book reminds us that what matters is not technology itself, but who controls it and under what rules it operates.  
 
 - **Treat political institutions as part of the economic question**  
-  Issues such as voter turnout, electoral systems, campaign finance, and the transparency of lobbying should not be treated as belonging to a world separate from economics. According to the book, the rules that generate inequality are made politically, and without political reform, economic reform will not advance very far. By the end, readers come away understanding that interest in voting and institutional reform is itself a meaningful form of practice.
+  Voter turnout, electoral systems, campaign finance, and lobbying transparency should not be seen as separate from economic issues. According to スティグリッツ, inequality-producing rules are made through politics, and without political reform, economic reform cannot advance. After reading, one realizes that civic engagement itself becomes a form of practice.
 
 ## ⭐ Overall Evaluation
-『プログレッシブ・キャピタリズム』 is a powerful book that reframes the pathologies of contemporary society—inequality, monopoly, financialization, and democratic decline—not as isolated phenomena, but as parts of a single institutional structure. Its significance lies in the fact that it neither rejects markets outright nor celebrates the state unconditionally, but instead presents a vision for making capitalism fairer and more sustainable through the design of rules.  
+『プログレッシブ・キャピタリズム』 is a powerful work that reinterprets the pathologies of modern society—inequality, monopoly, financialization, and democratic decay—not as isolated issues but as interconnected institutional phenomena. Its significance lies in proposing a vision of capitalism that is fairer and more sustainable through the redesign of its rules, without either rejecting markets or idealizing the state.  
 
-This is not a book only for specialists in economics. It is highly stimulating for readers who feel uneasy about the way growth and reform are discussed in the news, for those who want to understand inequality and Big Tech dominance not as one-off issues but as structural problems, and for anyone concerned about the future of democracy.  
+This is not a book only for economists. It will resonate with anyone uneasy about the rhetoric of “growth” and “reform” in the news, those who want to understand inequality and Big Tech dominance as structural issues, and readers concerned about the future of democracy.  
 
-As a reading experience, it carries a strong sense of intellectual tension, constantly overturning familiar assumptions. In particular, because it confronts head-on questions such as “What is profit?”, “Who creates the market?”, and “Prosperity for whom?”, it is the kind of book that changes the very language with which one talks about the economy after finishing it.
+As a reading experience, it offers a bracing intellectual challenge that overturns conventional wisdom. By confronting questions such as “What is profit?”, “Who creates the market?”, and “Who benefits from prosperity?”, readers will find that their very language for discussing the economy transforms after finishing this book.
 
 ---
 

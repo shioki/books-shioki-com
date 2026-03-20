@@ -1,20 +1,24 @@
 ### Panel 1
-**Scene**: In a bustling Edo streetscape, with row houses, merchants, and a temple school in the background, the townsgirl pauses at a rice shop and notices a striking contradiction: the merchant proudly celebrates larger ledgers and more coins, while nearby townspeople look tired and anxious over rising living costs and unstable work. She tilts her head with keen curiosity, holding an abacus and a folded tanzaku, realizing that wealth in numbers alone does not equal true prosperity. Her expression shifts from mild unease to thoughtful inquiry.  
-**Dialogue**: “If the numbers grow, why do the people look so worn?”
+**Scene**: On a bustling Edo street lined with row houses, merchants, and a temple school in the distance, a young townsgirl in kimono stops by a rice shop. She notices a contradiction: the merchant proudly boasts of larger ledgers and more coins, yet nearby townspeople look anxious about rising prices and unstable work. Holding an abacus and a folded tanzaku, she tilts her head in curiosity, realizing that numbers alone do not define true prosperity. Her expression shifts from mild unease to thoughtful intrigue.  
+**Dialogue**: (none)
 
 ### Panel 2
-**Scene**: Inside a candlelit study filled with wasan books, Dutch texts, maps, brushes, and calculation tablets, the townsgirl studies intently, comparing ledgers, social rules, and trade diagrams. A portrait-like mentor figure appears as an older Western scholar with wavy hair, round spectacles, thoughtful eyes, a slightly full build, and a calm yet sharp presence, imagined in Edo-period rangaku style. Beside him is a refined Japanese translator-scholar in a neat kimono, with an intelligent gaze and composed demeanor, helping her interpret the texts. The scene makes clear that markets are shaped by rules, institutions, and knowledge, not by nature alone.  
-**Dialogue**: “A market does not simply arise on its own. Its shape depends on rules.”
+**Scene**: In a candlelit study filled with wasan books, Dutch texts, maps, brushes, and calculation tablets, the townsgirl studies intently. A portrait-like mentor figure—an older Western scholar with wavy hair, round spectacles, and calm but sharp eyes—appears as if imagined in Edo style. Beside him, a refined Japanese translator-scholar in a neat kimono assists with the texts. The atmosphere conveys that markets are shaped by rules, institutions, and knowledge, not by nature alone.  
+**Dialogue**: (none)
 
 ### Panel 3
-**Scene**: In a humorous yet bold marketplace scene shown from a dramatic low angle, the townsgirl stands atop a wooden crate like a tiny reformer, wielding an abacus and a chalkboard to reveal how a dominant wholesaler manipulates prices and pressures smaller sellers. Fishmongers, paper sellers, and apprentices stare in astonishment as she redraws fair market rules on a hanging board, showing that monopoly and unfair advantage drain prosperity from everyone. Account papers flutter through the air, reactions are exaggerated, and the composition crackles with comic energy while keeping Edo-period realism.  
-**Dialogue**: “When one hand controls the price, everyone else pays the cost!”
+**Scene**: At the lively marketplace, the townsgirl stands boldly atop a wooden crate, abacus in one hand and chalkboard in the other. From a dramatic low angle, she exposes how a dominant wholesaler manipulates prices and exploits smaller sellers. Fishmongers, paper vendors, and apprentices react in astonishment as she redraws fair market rules on a hanging board. Account papers flutter through the air, adding comic energy to the Edo-period realism.  
+**Dialogue**: (none)
 
 ### Panel 4
-**Scene**: In a quiet twilight scene beside a paper shoji window, the townsgirl kneels with a brush in hand, her face calm and enlightened after reflection and action. She writes a tanka in elegant Japanese vertical text on a tanzaku or in a speech bubble, expressing the idea that prosperity must be shared through fair rules, not judged only by wealth or growth. The scene carries a lingering poetic stillness and emotional resonance.  
-**Dialogue**: “Prosperity must be something all can live by.”  
-**Tanka (translation)**: Wealth alone cannot measure a flourishing world; only a public foundation that sustains everyone can do that.  
-**Tanka (original)**: 「富だけじゃ  
+**Scene**: In the quiet glow of twilight, the townsgirl kneels by a paper shoji window, brush in hand. Her face is serene and enlightened after her day of study and reform. She writes a tanka on a tanzaku, expressing that true prosperity arises from fairness and shared foundations, not from wealth alone. The scene radiates calm reflection and poetic grace.  
+**Dialogue**: (tanka written in Japanese vertical text)  
+**Tanka (translation)**:  
+“Prosperity cannot be measured by wealth alone—  
+the path of the world rests on public foundations  
+that give life to all.”  
+**Tanka (original)**:  
+「富だけじゃ  
 栄えははかれぬ  
 世の道よ  
 公なる礎  
