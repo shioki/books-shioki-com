@@ -7,8 +7,8 @@
 ## 📖 書籍情報
 - **タイトル**: 世界史のミカタ
 - **著者**: 井上章一 and 佐藤賢一
-- **ASIN**: なし
-- **URL**: なし
+- **ASIN**: B08F71S5MX
+- **URL**: [https://www.amazon.co.jp/dp/B08F71S5MX](https://www.amazon.co.jp/dp/B08F71S5MX)
 
 ---
 
