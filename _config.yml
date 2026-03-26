@@ -1,5 +1,11 @@
 title: books.shioki.com
+description: Kindle読書メモ由来の書評と4コマ漫画ポートフォリオ。
+url: https://books.shioki.com
+baseurl: ""
 markdown: kramdown
+
+# OGP 用（レイアウトで page 未指定時のフォールバック）
+default_og_image: https://books.shioki.com/images/og-default.png
 
 defaults:
   - scope:

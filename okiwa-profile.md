@@ -1,6 +1,14 @@
 ---
 layout: default
 title: キャラクター紹介
+description: 書評4コマの主人公・お希輪（おきわ）のプロフィール。江戸の算術と和歌、現代の難解な本を読み解くキャラクター設定。
+og_image: https://books.shioki.com/images/og-default.png
+canonical_url: https://books.shioki.com/okiwa-profile.html
+og_locale: ja_JP
+og_locale_alternate:
+  - en_US
+  - zh_TW
+og_type: website
 ---
 
 # キャラクター紹介 / Character Profile / 角色介紹
