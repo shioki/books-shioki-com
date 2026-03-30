@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/治明-一気読み日本史_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/治明-一気読み日本史_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/治明-一気読み日本史_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『一気読み日本史』は、宇宙の起源から近現代まで、日本の歴史を「断絶」ではなく「連続する変化」として描く壮大な通史である。地球と生命の誕生から列島の形成、縄文・弥生を経て古代・中世・近世・近現代に至るまでを一貫して見通し、政治・経済・宗教・気候といった多層的な要素を有機的に結びつけている。  
 

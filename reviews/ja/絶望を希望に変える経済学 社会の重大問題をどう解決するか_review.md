@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『絶望を希望に変える経済学』は、分断と不信が深まる現代社会において、経済学が再び信頼を取り戻すための道筋を描く書である。著者のバナジーとデュフロは、経済学を「万能の理論」ではなく、「誠実な探求と対話の科学」として再定義する。  
 

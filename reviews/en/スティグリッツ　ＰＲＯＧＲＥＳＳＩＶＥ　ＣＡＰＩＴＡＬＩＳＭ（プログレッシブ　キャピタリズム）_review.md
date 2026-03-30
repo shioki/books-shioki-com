@@ -4,8 +4,10 @@
 >
 > [← Top / トップページ](../../)
 
-![4-Panel Manga](../../images/reviews/スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_4panel.png" alt="4-Panel Manga" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

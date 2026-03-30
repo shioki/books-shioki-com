@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/羽田圭介-その針がさすのは_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/羽田圭介-その針がさすのは_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/羽田圭介-その針がさすのは_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『その針がさすのは』は、時間・都市・身体・記憶という四つの軸を通じて、現代人の存在の揺らぎを描いた作品である。舞台は東京・中野。変わり続ける街の姿が、主人公の内面や夫婦関係の変化と呼応するように描かれる。  
 

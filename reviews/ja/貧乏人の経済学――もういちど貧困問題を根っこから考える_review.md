@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、貧困を「怠惰」や「無知」といった単純な説明で片づけることを拒み、貧しい人々の行動を経済学的・心理学的に理解しようとする試みである。著者たちは、貧困を「貧乏人の経済学」として再定義し、彼らの選択や行動の背後にある合理性を掘り下げる。  
 

@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/スクエア・アンド・タワー　【合本版】_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/スクエア・アンド・タワー　【合本版】_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/スクエア・アンド・タワー　【合本版】_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『スクエア・アンド・タワー』は、人類史を「ネットワーク（広場）」と「階層制（塔）」のせめぎ合いとして再構成する壮大な歴史書である。著者ニーアル・ファーガソンは、宗教改革からデジタル革命まで、権力の形がどのように変化してきたかをネットワーク理論の視点から描き出す。  
 

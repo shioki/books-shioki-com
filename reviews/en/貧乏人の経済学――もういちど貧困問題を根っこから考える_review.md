@@ -23,8 +23,10 @@ og_type: article
 
 ---
 
-![4-panel comic](../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/貧乏人の経済学――もういちど貧困問題を根っこから考える_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

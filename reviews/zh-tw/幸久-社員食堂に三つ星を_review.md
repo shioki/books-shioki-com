@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/幸久-社員食堂に三つ星を_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/幸久-社員食堂に三つ星を_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/幸久-社員食堂に三つ星を_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

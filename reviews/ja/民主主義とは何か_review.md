@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/民主主義とは何か_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/民主主義とは何か_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/民主主義とは何か_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『民主主義とは何か』は、民主主義を単なる政治制度ではなく、人間の自由・平等・責任に基づく「生き方」として再定義する試みである。宇野重規は、古代ギリシアから現代日本に至るまでの思想と制度の変遷を辿りながら、民主主義の理念と現実の乖離を浮き彫りにする。  
 

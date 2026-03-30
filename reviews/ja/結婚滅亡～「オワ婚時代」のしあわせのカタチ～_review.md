@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/結婚滅亡～「オワ婚時代」のしあわせのカタチ～_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/結婚滅亡～「オワ婚時代」のしあわせのカタチ～_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/結婚滅亡～「オワ婚時代」のしあわせのカタチ～_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書の最大の特徴は、日本の「結婚できて当たり前」という常識を、歴史的にも制度的にも相対化してみせる点にある。著者は、皆婚社会を人間の自然な姿としてではなく、国家政策やお見合い、職場結婚といった社会的なお膳立てによって成立していた特殊な時代として捉え直す。
 

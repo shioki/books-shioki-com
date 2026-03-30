@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

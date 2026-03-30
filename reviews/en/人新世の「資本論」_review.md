@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/人新世の「資本論」_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/人新世の「資本論」_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/人新世の「資本論」_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

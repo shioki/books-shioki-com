@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/世界史のミカタ_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/世界史のミカタ_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/世界史のミカタ_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『世界史のミカタ』の面白さは、世界史を「文明の中心」からではなく、「接点」や「周縁」から見直そうとするところにある。ギリシア、ローマ、中国といった定番の主役だけでなく、ソグド人、ウイグル人、遊牧民、東ローマ帝国のような媒介者や周辺勢力に光を当てることで、歴史の輪郭がまったく違って見えてくる。
 

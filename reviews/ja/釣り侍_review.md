@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/釣り侍_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/釣り侍_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/釣り侍_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『釣り侍』は、泰平の世に生きる武士たちが、「釣り」という一見穏やかな行為を通じて己の矜持を取り戻そうとする物語である。戦のない時代において、武士がいかに自らの存在意義を見出すかという問いが、全編を貫いている。  
 

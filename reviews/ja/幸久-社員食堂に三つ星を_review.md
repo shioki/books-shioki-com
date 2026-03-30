@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/幸久-社員食堂に三つ星を_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/幸久-社員食堂に三つ星を_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/幸久-社員食堂に三つ星を_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『社員食堂に三つ星を』は、東京から地方の白波町に赴任した女性栄養士・みなほが、社員食堂を舞台に自らの仕事の意味と生き方を見つめ直す物語である。  
 左遷のような異動をきっかけに、彼女は職場の不平等や人間関係の軋轢に直面しながらも、食を通じて地域と人をつなぐ道を模索していく。  

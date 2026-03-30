@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/スマートマシンはこうして思考する_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/スマートマシンはこうして思考する_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/スマートマシンはこうして思考する_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書の核心は、AIを人間そっくりの神秘的な知能としてではなく、分類・探索・最適化・状態遷移といった比較的単純な仕組みの組み合わせとして捉え直す点にある。著者は、自動運転や推薦システム、クイズ回答、囲碁といった具体例を通じて、スマートマシンが「どう賢く見えるのか」を分解して見せる。
 

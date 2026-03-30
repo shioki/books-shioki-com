@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、「時間が足りない」と感じる現代人の根本的な不安に、心理学と行動科学の視点から切り込む一冊である。著者キャシー・ホームズは、時間の“量”ではなく“質”こそが幸福を左右するという研究成果をもとに、時間の使い方を再設計する方法を提示する。  
 

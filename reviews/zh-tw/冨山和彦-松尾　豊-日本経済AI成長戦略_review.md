@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

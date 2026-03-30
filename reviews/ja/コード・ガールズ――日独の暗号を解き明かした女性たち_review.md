@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/コード・ガールズ――日独の暗号を解き明かした女性たち_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/コード・ガールズ――日独の暗号を解き明かした女性たち_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/コード・ガールズ――日独の暗号を解き明かした女性たち_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『コード・ガールズ』は、第二次世界大戦中、アメリカで極秘の暗号解読任務に従事した女性たちの知られざる物語を描くノンフィクションである。彼女たちは数学や外国語に秀でていたが、当時の社会では「教師」以外の職を期待されていなかった。  
 

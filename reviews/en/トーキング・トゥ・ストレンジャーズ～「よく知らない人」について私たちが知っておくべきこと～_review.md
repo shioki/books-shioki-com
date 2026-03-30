@@ -23,8 +23,10 @@ og_type: article
 
 ---
 
-![4-panel comic](../../images/reviews/トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

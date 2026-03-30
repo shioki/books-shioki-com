@@ -4,8 +4,10 @@
 >
 > [← Top / トップページ](../../)
 
-![4格漫畫](../../images/reviews/【合本版】小説フランス革命（全18巻）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/【合本版】小説フランス革命（全18巻）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/【合本版】小説フランス革命（全18巻）_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

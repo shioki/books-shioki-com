@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/冨山和彦-松尾　豊-日本経済AI成長戦略_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『日本経済AI成長戦略』は、AIによる知的労働の代替と拡張を「AX（AIトランスフォーメーション）」と定義し、これを産業革命の最終段階と位置づける。著者の冨山和彦と松尾豊は、DXの延長線ではなく、社会構造そのものを再設計する必要性を訴える。  
 

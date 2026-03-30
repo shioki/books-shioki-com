@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/反穀物の人類史――国家誕生のディープヒストリー_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/反穀物の人類史――国家誕生のディープヒストリー_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/反穀物の人類史――国家誕生のディープヒストリー_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書の核心は、定住・農耕・国家を一直線の進歩として並べる人類史の常識を、深い時間軸から根本的に疑い直すところにある。定住は農耕よりも早く成立しえたし、国家は農耕の当然の帰結ではなく、かなり遅れて現れた特殊な制度にすぎない――この視点の転換が全編を貫いている。
 

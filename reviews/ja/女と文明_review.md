@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/女と文明_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/女と文明_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/女と文明_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『女と文明』の核心は、女性の地位や役割を「女とはこういうものだ」という本質論で語るのではなく、家事労働、家族制度、文明の発達段階といった具体的条件のなかで捉え直す点にある。とりわけ著者は、女性の境遇を論じる出発点として、観念的な道徳や理念ではなく、日々の家事労働の重さと生活装置の差異を見るべきだと主張する。
 

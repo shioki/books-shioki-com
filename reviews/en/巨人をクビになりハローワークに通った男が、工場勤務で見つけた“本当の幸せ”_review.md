@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

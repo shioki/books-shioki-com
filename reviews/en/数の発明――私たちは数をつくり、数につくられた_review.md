@@ -4,8 +4,10 @@
 >
 > [← Top / トップページ](../../)
 
-![4-Panel Comic](../../images/reviews/数の発明――私たちは数をつくり、数につくられた_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/数の発明――私たちは数をつくり、数につくられた_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/数の発明――私たちは数をつくり、数につくられた_4panel.png" alt="4-Panel Comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

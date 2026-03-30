@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『Neverland Diner 二度と行けないあの店で』は、すでに存在しない「店」をめぐる記憶のアーカイブである。そこに描かれるのは、食や空間を通して交わされた人間関係、そして時間の不可逆性だ。  
 

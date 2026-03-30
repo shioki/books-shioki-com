@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、ベーシックインカム（UBI）を単なる経済政策ではなく、人間の尊厳と自由を支える「価値理念」として再定義する試みである。著者アニー・ローリーは、AIや自動化によって雇用構造が激変する現代において、UBIが社会の安定と個人の自立を両立させる鍵であると論じる。  
 

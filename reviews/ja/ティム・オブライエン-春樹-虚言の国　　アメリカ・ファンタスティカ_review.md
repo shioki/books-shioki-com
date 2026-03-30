@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/ティム・オブライエン-春樹-虚言の国　　アメリカ・ファンタスティカ_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/ティム・オブライエン-春樹-虚言の国　　アメリカ・ファンタスティカ_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/ティム・オブライエン-春樹-虚言の国　　アメリカ・ファンタスティカ_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『虚言の国　アメリカ・ファンタスティカ』は、虚偽が社会と個人を侵食する現代アメリカの寓話である。国家的な「噓の病」に罹った社会を背景に、主人公ボイド・ハルヴァーソンの自己欺瞞と崩壊の軌跡を描く。  
 

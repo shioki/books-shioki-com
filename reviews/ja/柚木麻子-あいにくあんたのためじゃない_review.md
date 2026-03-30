@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/柚木麻子-あいにくあんたのためじゃない_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/柚木麻子-あいにくあんたのためじゃない_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/柚木麻子-あいにくあんたのためじゃない_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『あいにくあんたのためじゃない』は、現代社会に生きる女性と男性たちの「誇り」と「みじめさ」を、仕事・家庭・友情といった生活の断面から描き出す群像劇である。母娘や友人、同僚といった人間関係の中で、他者との距離を測りながらも、自分の言葉と生き方を模索する姿が鮮やかに浮かび上がる。  
 

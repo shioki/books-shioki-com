@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/人新世の「資本論」_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/人新世の「資本論」_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/人新世の「資本論」_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『人新世の「資本論」』は、気候危機の時代における資本主義の構造的限界を暴き出す書である。著者・斎藤幸平は、資本主義が「無限の経済成長」を前提とする限り、地球環境の破壊を避けられないと論じる。環境負荷を「外部化」してきた仕組みが限界に達し、もはやその外部が存在しない「人新世」において、資本主義は自壊の段階に入っているというのだ。  
 

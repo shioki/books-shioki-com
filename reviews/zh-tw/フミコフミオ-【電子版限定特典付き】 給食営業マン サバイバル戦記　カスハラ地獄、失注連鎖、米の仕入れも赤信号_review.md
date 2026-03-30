@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

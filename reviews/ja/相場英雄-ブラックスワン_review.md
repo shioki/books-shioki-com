@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/相場英雄-ブラックスワン_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/相場英雄-ブラックスワン_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/相場英雄-ブラックスワン_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『ブラックスワン』は、国家の論理と個人の倫理が激しく衝突する現代社会を描いた社会派サスペンスである。元自衛官・城戸が国家の命令に背き、真実を追う姿を通して、「正義とは何か」「国家とは誰のためにあるのか」という根源的な問いを突きつける。  
 

@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『メルカリで知らん子の絵を買う』は、「無駄」「不要」「余計」といった否定的に扱われがちな概念を、創造と自由の源泉として再定義するエッセイ集である。著者・藤原麻里菜は、自身の鬱や孤独、社会への違和感を、奇妙で非合理な行動を通じて観察し、そこに生きる力を見出していく。  
 

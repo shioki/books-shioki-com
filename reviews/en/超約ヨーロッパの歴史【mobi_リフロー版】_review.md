@@ -12,8 +12,10 @@
 
 ---
 
-![4-Panel Comic](../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.png" alt="4-Panel Comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

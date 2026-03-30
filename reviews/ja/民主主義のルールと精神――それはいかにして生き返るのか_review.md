@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/民主主義のルールと精神――それはいかにして生き返るのか_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/民主主義のルールと精神――それはいかにして生き返るのか_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/民主主義のルールと精神――それはいかにして生き返るのか_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、民主主義を単なる制度やルールの集合としてではなく、それを支える「精神」として再考する試みである。著者ヤン=ヴェルナー・ミュラーは、民主主義の再生には制度改革だけでは不十分であり、その背後にある価値――平等、自由、不確実性の受容――を理解し直すことが不可欠だと説く。  
 

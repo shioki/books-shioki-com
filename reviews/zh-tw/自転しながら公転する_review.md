@@ -4,8 +4,10 @@
 >
 > [← Top / トップページ](../../)
 
-![4格漫畫](../../images/reviews/自転しながら公転する_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/自転しながら公転する_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/自転しながら公転する_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

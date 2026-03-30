@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『GROWTH』は、経済成長を「当然の前提」としてきた近代社会の思考を根底から問い直す書である。著者ダニエル・サスキンドは、人類史30万年の大半が停滞期であったという歴史的視座から、現代の持続的成長こそが「例外的な現象」であると喝破する。  
 

@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『約束の地』は、バラク・オバマが自らの人生と政治的歩みを通して、アメリカという国家の「理念」を再定義しようとする壮大な試みである。彼は「すべての人間は生まれながらにして平等である」という独立宣言の原点に立ち返り、分断が深まる社会の中で民主主義の再生を模索する。  
 

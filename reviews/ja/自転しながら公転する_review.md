@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/自転しながら公転する_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/自転しながら公転する_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/自転しながら公転する_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『自転しながら公転する』は、恋愛小説のかたちを借りながら、家族、仕事、身体、老い、経済不安といった生活の現実を多層的に描いた作品である。主人公・都の揺れは、単なる優柔不断や恋愛の迷いとしてではなく、現代を生きる一人の女性が、社会の期待と自分の本心のあいだでどう折り合いをつけるかという問いとして立ち上がる。
 

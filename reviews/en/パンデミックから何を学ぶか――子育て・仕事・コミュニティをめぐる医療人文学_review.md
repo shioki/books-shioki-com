@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/パンデミックから何を学ぶか――子育て・仕事・コミュニティをめぐる医療人文学_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/パンデミックから何を学ぶか――子育て・仕事・コミュニティをめぐる医療人文学_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/パンデミックから何を学ぶか――子育て・仕事・コミュニティをめぐる医療人文学_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

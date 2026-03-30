@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/超約ヨーロッパの歴史【mobi_リフロー版】_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『超約ヨーロッパの歴史』は、ヨーロッパ文明を単なる年代順の物語としてではなく、「異質な要素の再構成による創造」として描く知的試みである。著者ジョン・ハーストは、ギリシャの理性、キリスト教の道徳、ゲルマンの戦士精神という三つの要素の「ありえない混合」が、ヨーロッパ文明の原動力であったと説く。  
 

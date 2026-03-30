@@ -25,8 +25,10 @@ og_type: article
 
 ---
 
-![4格漫畫](../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 本書的核心
 本書試圖從勞動史與閱讀史的交匯點，解釋在現代社會中「工作」與「閱讀」難以並存的原因。作者仔細追溯了閱讀從曾經作為「教養」和「修養」的社會價值，轉變為以效率和自我啟發為目的的過程。  
 

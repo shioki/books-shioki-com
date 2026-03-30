@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『双頭の鷲』は、百年戦争期のフランスを舞台に、戦争の形が「騎士の名誉」から「国家の戦略」へと変貌していく過程を描いた壮大な歴史叙事である。  
 デュ・ゲクランとシャルル五世という二人の天才が、理性と直感を融合させながら新たな時代を切り開いていく姿は、国家という概念の誕生を象徴している。  

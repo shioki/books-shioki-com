@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

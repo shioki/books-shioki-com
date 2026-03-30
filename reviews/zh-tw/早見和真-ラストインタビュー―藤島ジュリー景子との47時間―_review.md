@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/早見和真-ラストインタビュー―藤島ジュリー景子との47時間―_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/早見和真-ラストインタビュー―藤島ジュリー景子との47時間―_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/早見和真-ラストインタビュー―藤島ジュリー景子との47時間―_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

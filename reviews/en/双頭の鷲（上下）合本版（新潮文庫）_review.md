@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/双頭の鷲（上下）合本版（新潮文庫）_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

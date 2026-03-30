@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/飯嶋和一-南海王国記_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/飯嶋和一-南海王国記_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/飯嶋和一-南海王国記_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『南海王国記』は、明末清初という東アジア史上の激動期を舞台に、「信義による国家再生」を描いた歴史叙事である。主人公・鄭成功は、腐敗した明王朝の崩壊を目の当たりにしながら、孔子の教えに基づく「信」を政治と人間関係の根幹に据えようとする。  
 

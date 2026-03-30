@@ -12,8 +12,10 @@
 
 ---
 
-![4-Panel Comic](../../images/reviews/ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_4panel.png" alt="4-Panel Comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

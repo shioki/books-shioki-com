@@ -23,8 +23,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/ニュータイプの時代_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/ニュータイプの時代_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/ニュータイプの時代_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『ニュータイプの時代』は、これまでの「問題を解く力」が価値を持った時代から、「問題を見つけ、意味を創る力」が求められる時代への転換を描いた思想的ビジネス書である。著者・山口周は、AIやグローバル化が「正解を出す能力」をコモディティ化する中で、人間の価値は「構想力」と「意味づけ」にこそ宿ると説く。  
 

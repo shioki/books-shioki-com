@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

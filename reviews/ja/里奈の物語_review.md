@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/里奈の物語_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/里奈の物語_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/里奈の物語_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『里奈の物語』は、貧困と家庭崩壊の中で育った少女・里奈が、社会の周縁で生き抜く姿を描いた成長譚である。児童養護施設での孤独、援助交際や夜職に身を置く現実を通じて、彼女は「生きるとは何か」「女としての誇りとは何か」を模索していく。  
 

@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、GitHubを単なるコード共有ツールとしてではなく、「チーム開発の文化を育てる場」として捉える実践的な入門書である。個人開発からチーム開発へとステップアップする読者を対象に、ブランチ戦略、コードレビュー、CI/CD自動化など、協働を支える具体的手法を体系的に解説している。  
 

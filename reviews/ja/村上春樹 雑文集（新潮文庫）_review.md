@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/村上春樹 雑文集（新潮文庫）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/村上春樹 雑文集（新潮文庫）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/村上春樹 雑文集（新潮文庫）_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『村上春樹 雑文集』は、作家としての倫理観、文学の使命、そして人間の尊厳をめぐる思索を凝縮したエッセイ集である。村上は、小説家とは「多くを観察し、わずかしか判断を下さない人間」であると定義し、観察から生まれる真実の描写にこそ文学の核心があると説く。  
 

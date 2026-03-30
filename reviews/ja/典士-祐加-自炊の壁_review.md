@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/典士-祐加-自炊の壁_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/典士-祐加-自炊の壁_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/典士-祐加-自炊の壁_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『自炊の壁』は、「自炊を続けられないのは意志の弱さではなく、思い込みの強さにある」という視点から、自炊にまつわる心理的・文化的な壁を解きほぐす書である。著者の佐々木典士と山口祐加は、ミニマリズムと実践的料理の両面から、「完璧でなくていい自炊」の哲学を提示する。  
 

@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/鉄人社編集部-バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/鉄人社編集部-バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/鉄人社編集部-バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

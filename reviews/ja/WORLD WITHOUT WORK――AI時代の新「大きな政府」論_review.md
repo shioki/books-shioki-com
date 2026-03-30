@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『WORLD WITHOUT WORK』は、AIと自動化が進むことで「仕事が足りない世界」が到来するという前提から出発する。著者ダニエル・サスキンドは、テクノロジーが人間の労働を代替する歴史的潮流を整理しながら、AIがもたらす社会的・経済的転換を冷静に分析している。  
 

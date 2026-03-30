@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/フランス王朝史　全３冊合本版_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/フランス王朝史　全３冊合本版_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/フランス王朝史　全３冊合本版_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

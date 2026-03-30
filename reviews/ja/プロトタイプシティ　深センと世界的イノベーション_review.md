@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/プロトタイプシティ　深センと世界的イノベーション_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、世界のイノベーション都市・深センを舞台に、「プロトタイプ駆動」という新しい価値創造のメカニズムを描き出す。著者たちは、試作と実験を繰り返す文化こそが非連続的なイノベーションを生むとし、完成度よりもスピード、完璧さよりも手を動かす実践を重視する。  
 

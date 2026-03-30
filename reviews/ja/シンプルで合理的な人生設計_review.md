@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/シンプルで合理的な人生設計_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/シンプルで合理的な人生設計_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/シンプルで合理的な人生設計_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『シンプルで合理的な人生設計』は、人生を「有限な資源の配分問題」として捉え、幸福を最大化するための合理的な意思決定を探る書である。橘玲は、時間・お金・労力といった資源をどう使うかが人生の質を決めるとし、経済学・心理学・進化論を横断してその最適解を提示する。  
 

@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/水車小屋のネネ_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/水車小屋のネネ_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/水車小屋のネネ_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『水車小屋のネネ』は、貧困や家庭崩壊の中で生きる姉妹が、他者の善意と労働を通して自立していく物語である。主人公の理佐と律は、助け合いながらも「自立とは孤立ではない」という生の真理を体現していく。  
 

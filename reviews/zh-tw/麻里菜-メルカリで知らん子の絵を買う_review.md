@@ -12,8 +12,10 @@
 
 ---
 
-![四格漫畫](../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/麻里菜-メルカリで知らん子の絵を買う_4panel.png" alt="四格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

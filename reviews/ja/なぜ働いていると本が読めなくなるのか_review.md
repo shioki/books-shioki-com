@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/なぜ働いていると本が読めなくなるのか_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、現代社会において「働くこと」と「本を読むこと」が両立しにくくなった理由を、労働史と読書史の交差点から読み解く試みである。著者は、読書がかつて「教養」や「修養」として社会的価値を持っていた時代から、効率や自己啓発を目的とする行為へと変質していった過程を丹念にたどる。  
 

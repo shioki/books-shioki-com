@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/早見和真-ザ・ロイヤルファミリー（新潮文庫）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/早見和真-ザ・ロイヤルファミリー（新潮文庫）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/早見和真-ザ・ロイヤルファミリー（新潮文庫）_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『ザ・ロイヤルファミリー』は、競馬という華やかで孤独な舞台を通して、「継承」と「信頼」を描く人間ドラマである。父と子、師と弟子、経営者と従業員といった多層的な関係の中で、血のつながりを超えた“想いの継承”が物語の中心に据えられている。  
 

@@ -12,8 +12,10 @@
 
 ---
 
-![4格漫畫](../../images/reviews/ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_4panel.png" alt="4格漫畫" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 對白
 
 ### Panel 1

@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/都築響一-Neverland Diner 二度と行けないあの店で_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

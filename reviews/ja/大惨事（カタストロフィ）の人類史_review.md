@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/大惨事（カタストロフィ）の人類史_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/大惨事（カタストロフィ）の人類史_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/大惨事（カタストロフィ）の人類史_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 『大惨事（カタストロフィ）の人類史』は、地震やパンデミック、戦争、技術災害といった「大惨事」を通して、人類社会の脆弱性と適応力を描き出す壮大な歴史書である。著者ニーアル・ファーガソンは、自然災害と人為的危機を分けること自体が誤りだとし、両者を貫く社会構造と人間心理のメカニズムを分析する。  
 

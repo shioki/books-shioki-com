@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1

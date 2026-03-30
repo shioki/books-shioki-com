@@ -24,8 +24,10 @@ og_type: article
 ---
 
 
-![4コマ漫画](../../images/reviews/あなたが消された未来――テクノロジーと優生思想の売り込みについて_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/あなたが消された未来――テクノロジーと優生思想の売り込みについて_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/あなたが消された未来――テクノロジーと優生思想の売り込みについて_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 本書は、遺伝子編集や出生前診断などのバイオテクノロジーが、かつての優生思想を新たな形で再生産している現実を鋭く告発する。科学の進歩が「より良い人間をつくる」という名目のもとに、社会の中で誰が「正常」で誰が「異常」かを再定義していることを、著者は批判的に描き出す。  
 

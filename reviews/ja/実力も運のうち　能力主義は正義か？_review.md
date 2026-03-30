@@ -13,8 +13,10 @@
 ---
 
 
-![4コマ漫画](../../images/reviews/実力も運のうち　能力主義は正義か？_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/実力も運のうち　能力主義は正義か？_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/実力も運のうち　能力主義は正義か？_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## 🎯 この本の核心
 マイケル・サンデルは本書で、現代社会の根幹にある「能力主義」という信仰を哲学的に解体する。努力と才能を称賛する倫理が、なぜかえって社会の分断と傲慢を生むのか──その逆説を道徳哲学と政治思想の両面から明らかにしていく。  
 

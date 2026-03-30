@@ -12,8 +12,10 @@
 
 ---
 
-![4-panel comic](../../images/reviews/建宇-バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記_4panel.png)
-
+<picture>
+  <source srcset="../../images/reviews/建宇-バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/建宇-バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 ## Dialogue
 
 ### Panel 1
