@@ -316,6 +316,27 @@
             min-width: 0;
         }
 
+        .review-card-thumb-wrap {
+            margin: 0 0 0.65rem;
+            width: 100%;
+            max-height: 160px;
+            border-radius: var(--border-radius-8);
+            overflow: hidden;
+            background: var(--color-neutral-solid-gray-50);
+        }
+
+        .review-card-thumb-wrap picture {
+            display: block;
+        }
+
+        .review-card-thumb {
+            display: block;
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            object-position: center top;
+        }
+
         .review-card:first-child {
             border-top: 1px solid var(--color-neutral-solid-gray-100);
         }
@@ -900,6 +921,27 @@
                     meta.appendChild(dateEl);
                 }
 
+                if (r.image) {
+                    var thumbWrap = document.createElement('div');
+                    thumbWrap.className = 'review-card-thumb-wrap';
+                    var pic = document.createElement('picture');
+                    var srcWebp = String(r.image).replace(/\.png$/i, '.webp');
+                    var srcPng = r.image;
+                    var source = document.createElement('source');
+                    source.type = 'image/webp';
+                    source.srcset = srcWebp;
+                    var timg = document.createElement('img');
+                    timg.src = srcPng;
+                    timg.alt = '';
+                    timg.loading = 'lazy';
+                    timg.decoding = 'async';
+                    timg.className = 'review-card-thumb';
+                    pic.appendChild(source);
+                    pic.appendChild(timg);
+                    thumbWrap.appendChild(pic);
+                    card.appendChild(thumbWrap);
+                }
+
                 card.appendChild(title);
                 card.appendChild(author);
                 card.appendChild(meta);
@@ -1030,7 +1072,7 @@
 
         // ── Init ──
 
-        fetch('reviews.json')
+        fetch('reviews.json', { cache: 'no-cache' })
             .then(function (res) { return res.json(); })
             .then(function (reviews) {
                 if (!reviews || !reviews.length) {
