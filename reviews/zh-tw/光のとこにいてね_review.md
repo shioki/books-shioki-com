@@ -20,8 +20,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: 光のとこにいてね  
 - **作者**: 一穂ミチ  
-- **ASIN**: B0BJZZBNCR  
-- **URL**: [https://www.amazon.co.jp/dp/B0BJZZBNCR](https://www.amazon.co.jp/dp/B0BJZZBNCR)  
+- **ASIN**: B0FXX4HLJH  
+- **URL**: [https://www.amazon.co.jp/dp/B0FXX4HLJH](https://www.amazon.co.jp/dp/B0FXX4HLJH)  
 
 ---
 
