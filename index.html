@@ -212,52 +212,16 @@
             border-color: var(--color-primitive-blue-800);
         }
 
-        .category-chips {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.4rem;
-            margin-bottom: 0.75rem;
-        }
-
-        .chip {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.3rem;
-            padding: 0.3rem 0.75rem;
-            font-size: 0.8rem;
-            font-family: var(--font-family-sans);
-            border: 1px solid var(--color-neutral-solid-gray-100);
-            border-radius: var(--border-radius-full);
-            background: var(--color-neutral-white);
-            color: var(--color-neutral-solid-gray-600);
-            cursor: pointer;
-            transition: all 0.15s;
-            user-select: none;
-        }
-
-        .chip:hover {
-            background: var(--color-neutral-solid-gray-50);
-        }
-
-        .chip.active {
-            background: var(--color-primitive-blue-800);
-            color: var(--color-neutral-white);
-            border-color: var(--color-primitive-blue-800);
-        }
-
-        .chip .chip-sub {
-            font-size: 0.65rem;
-            opacity: 0.55;
-            margin-left: 0.15rem;
-        }
-
-        .chip.active .chip-sub {
-            opacity: 0.7;
-        }
-
-        .chip .chip-count {
-            font-size: 0.7rem;
-            opacity: 0.7;
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
         }
 
         .controls-row {
@@ -297,6 +261,22 @@
 
         .sort-select:focus {
             border-color: var(--color-primitive-blue-800);
+        }
+
+        .controls-selects {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            align-items: center;
+            justify-content: flex-end;
+            flex-shrink: 0;
+        }
+
+        .category-filter-wrap,
+        .sort-wrap {
+            display: flex;
+            align-items: center;
         }
 
         /* ── Reviews List ── */
@@ -504,9 +484,14 @@
         @media (max-width: 600px) {
             .header h1 { font-size: 1.4rem; }
             .container { padding: 1.5rem 1rem; }
-            .category-chips { flex-wrap: wrap; }
             .controls-row { flex-direction: column; align-items: stretch; gap: 0.5rem; }
-            .sort-select { width: 100%; }
+            .controls-selects {
+                flex-direction: column;
+                align-items: stretch;
+                width: 100%;
+            }
+            .category-filter-wrap .sort-select,
+            .sort-wrap .sort-select { width: 100%; }
             .update-list li { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
         }
     </style>
@@ -528,15 +513,23 @@
 
         <div class="controls" style="display:none;" id="controls">
             <input type="search" id="search-input" class="search-input" placeholder="タイトル・著者で検索...">
-            <div id="category-chips" class="category-chips"></div>
             <div class="controls-row">
                 <div id="results-info" class="results-info"></div>
-                <select id="sort-select" class="sort-select">
-                    <option value="newest">新しい順</option>
-                    <option value="oldest">古い順</option>
-                    <option value="title">タイトル順</option>
-                    <option value="author">著者順</option>
-                </select>
+                <div class="controls-selects">
+                    <div id="category-filter-wrap" class="category-filter-wrap" style="display:none;">
+                        <label for="category-select" class="visually-hidden">ジャンルで絞り込み</label>
+                        <select id="category-select" class="sort-select"></select>
+                    </div>
+                    <div class="sort-wrap">
+                        <label for="sort-select" class="visually-hidden">並び順</label>
+                        <select id="sort-select" class="sort-select">
+                            <option value="newest">新しい順</option>
+                            <option value="oldest">古い順</option>
+                            <option value="title">タイトル順</option>
+                            <option value="author">著者順</option>
+                        </select>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -595,9 +588,6 @@
             '整理・収納':           { en: 'Organization & Storage', 'zh-tw': '整理與收納' },
             '社会学':               { en: 'Sociology',          'zh-tw': '社會學' },
             '社会学概論':           { en: 'Intro to Sociology', 'zh-tw': '社會學概論' },
-            '労働問題':             { en: 'Labor Issues',       'zh-tw': '勞動問題' },
-            '心理学':               { en: 'Psychology',         'zh-tw': '心理學' },
-            '心理学入門':           { en: 'Psychology (Intro)', 'zh-tw': '心理學入門' },
             '文化人類学・民俗学':   { en: 'Cultural Anthropology & Folklore', 'zh-tw': '文化人類學與民俗學' },
             '人文・思想':           { en: 'Humanities & Thought','zh-tw': '人文與思想' },
             '倫理学・道徳':         { en: 'Ethics & Morality',  'zh-tw': '倫理學與道德' },
@@ -715,7 +705,7 @@
             return dateStr;
         }
 
-        // ── Category Chips ──
+        // ── Category filter (select) ──
 
         function getCategoriesForFilter(review) {
             if (Array.isArray(review.categories) && review.categories.length) {
@@ -733,8 +723,15 @@
             return [];
         }
 
-        function buildCategoryChips(reviews) {
-            var chipsEl = document.getElementById('category-chips');
+        function optionTitleForCategory(label) {
+            var sub = CATEGORY_LABELS[label];
+            if (!sub) return '';
+            return sub.en + ' / ' + sub['zh-tw'];
+        }
+
+        function buildCategorySelect(reviews) {
+            var wrap = document.getElementById('category-filter-wrap');
+            var selectEl = document.getElementById('category-select');
             var counts = {};
             var hasCategory = false;
 
@@ -749,55 +746,59 @@
             });
 
             if (!hasCategory) {
-                chipsEl.style.display = 'none';
+                wrap.style.display = 'none';
+                selectEl.innerHTML = '';
                 return;
             }
 
-            chipsEl.style.display = '';
+            wrap.style.display = '';
             var cats = Object.keys(counts).sort(function (a, b) {
                 if (a === '未分類') return 1;
                 if (b === '未分類') return -1;
                 return (counts[b] - counts[a]);
             });
 
-            chipsEl.innerHTML = '';
+            selectEl.innerHTML = '';
 
-            var allChip = createChip('すべて', reviews.length, '');
-            chipsEl.appendChild(allChip);
+            var optAll = document.createElement('option');
+            optAll.value = '';
+            optAll.textContent = 'すべて (' + reviews.length + ')';
+            var allTitle = optionTitleForCategory('すべて');
+            if (allTitle) optAll.title = allTitle;
+            selectEl.appendChild(optAll);
 
             cats.forEach(function (cat) {
-                chipsEl.appendChild(createChip(cat, counts[cat], cat));
+                var opt = document.createElement('option');
+                opt.value = cat;
+                opt.textContent = cat + ' (' + counts[cat] + ')';
+                var t = optionTitleForCategory(cat);
+                if (t) opt.title = t;
+                selectEl.appendChild(opt);
             });
 
-            syncActiveChip();
-        }
-
-        function createChip(label, count, value) {
-            var btn = document.createElement('button');
-            btn.className = 'chip';
-            btn.setAttribute('data-category', value);
-            var sub = CATEGORY_LABELS[label];
-            var html = escapeHtml(label);
-            if (sub) {
-                html += ' <span class="chip-sub">' + escapeHtml(sub.en) + '</span>';
-                html += ' <span class="chip-sub">' + escapeHtml(sub['zh-tw']) + '</span>';
+            // URL の category が一覧に無いときは空に戻し、共有リンクの誤りで 0 件固定にならないようにする
+            if (state.category) {
+                var found = false;
+                for (var i = 0; i < selectEl.options.length; i++) {
+                    if (selectEl.options[i].value === state.category) {
+                        found = true;
+                        break;
+                    }
+                }
+                if (!found) state.category = '';
             }
-            html += ' <span class="chip-count">(' + count + ')</span>';
-            btn.innerHTML = html;
-            btn.addEventListener('click', function () {
-                state.category = value;
-                state.currentPage = 1;
-                syncActiveChip();
-                applyFilters();
-            });
-            return btn;
+
+            syncCategorySelect();
         }
 
-        function syncActiveChip() {
-            var chips = document.querySelectorAll('.chip');
-            chips.forEach(function (c) {
-                c.classList.toggle('active', c.getAttribute('data-category') === state.category);
-            });
+        function syncCategorySelect() {
+            var selectEl = document.getElementById('category-select');
+            if (!selectEl.options.length) return;
+            selectEl.value = state.category || '';
+            if (state.category && selectEl.value !== state.category) {
+                state.category = '';
+                selectEl.value = '';
+            }
         }
 
         // ── Filters & Sort ──
@@ -974,7 +975,7 @@
                     state.category = '';
                     state.currentPage = 1;
                     document.getElementById('search-input').value = '';
-                    syncActiveChip();
+                    syncCategorySelect();
                     applyFilters();
                 });
             }
@@ -1073,6 +1074,12 @@
             applyFilters();
         });
 
+        document.getElementById('category-select').addEventListener('change', function (e) {
+            state.category = e.target.value;
+            state.currentPage = 1;
+            applyFilters();
+        });
+
         // ── Init ──
 
         fetch('reviews.json', { cache: 'no-cache' })
@@ -1091,7 +1098,7 @@
 
                 readUrlParams();
                 buildRecentUpdates(reviews);
-                buildCategoryChips(reviews);
+                buildCategorySelect(reviews);
                 document.getElementById('controls').style.display = '';
                 applyFilters();
             })
