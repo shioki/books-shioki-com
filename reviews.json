@@ -1,5 +1,25 @@
 [
   {
+    "title": "ザ、コラム",
+    "author": "小田嶋隆",
+    "date": "2026-04-10",
+    "created_at": "2026-04-10T08:20:30.216225",
+    "filename": "ザ、コラム_review.md",
+    "image": "images/reviews/ザ、コラム_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション"
+  },
+  {
     "title": "思考の方法学",
     "author": "栗田治",
     "date": "2026-04-10",
