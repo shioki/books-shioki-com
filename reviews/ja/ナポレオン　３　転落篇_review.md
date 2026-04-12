@@ -18,8 +18,8 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: ナポレオン　３　転落篇  
 - **著者**: 佐藤賢一  
-- **ASIN**: B07YNDVB9B  
-- **URL**: [https://www.amazon.co.jp/dp/B07YNDVB9B](https://www.amazon.co.jp/dp/B07YNDVB9B)
+- **ASIN**: 4087711994  
+- **URL**: [https://www.amazon.co.jp/dp/4087711994](https://www.amazon.co.jp/dp/4087711994)
 
 ---
 

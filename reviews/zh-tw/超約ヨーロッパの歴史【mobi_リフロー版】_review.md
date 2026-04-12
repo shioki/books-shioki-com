@@ -7,8 +7,8 @@
 ## 📖 書籍資訊
 - **書名**: 超約ヨーロッパの歴史【mobi_リフロー版】  
 - **作者**: ジョン・ハースト, 倉嶋雅人, and 福井憲彦  
-- **ASIN**: B07VFLB25S  
-- **URL**: [https://www.amazon.co.jp/dp/B07VFLB25S](https://www.amazon.co.jp/dp/B07VFLB25S)  
+- **ASIN**: 4487811996  
+- **URL**: [https://www.amazon.co.jp/dp/4487811996](https://www.amazon.co.jp/dp/4487811996)  
 
 ---
 

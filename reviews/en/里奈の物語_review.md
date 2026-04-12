@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 里奈の物語  
 - **Author**: 鈴木 大介  
-- **ASIN**: B081YSYRBH  
-- **URL**: [https://www.amazon.co.jp/dp/B081YSYRBH](https://www.amazon.co.jp/dp/B081YSYRBH)  
+- **ASIN**: 4163911324  
+- **URL**: [https://www.amazon.co.jp/dp/4163911324](https://www.amazon.co.jp/dp/4163911324)  
 
 ---
 

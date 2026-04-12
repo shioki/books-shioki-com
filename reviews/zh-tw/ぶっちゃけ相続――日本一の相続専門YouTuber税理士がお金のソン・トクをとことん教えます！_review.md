@@ -19,8 +19,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: ぶっちゃけ相続――日本一の相続専門YouTuber税理士がお金のソン・トクをとことん教えます！  
 - **作者**: 橘 慶太  
-- **ASIN**: B08KQ8YMG1  
-- **URL**: [https://www.amazon.co.jp/dp/B08KQ8YMG1](https://www.amazon.co.jp/dp/B08KQ8YMG1)  
+- **ASIN**: B0BZR1QKS5  
+- **URL**: [https://www.amazon.co.jp/dp/B0BZR1QKS5](https://www.amazon.co.jp/dp/B0BZR1QKS5)  
 
 ---
 

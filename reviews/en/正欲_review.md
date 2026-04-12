@@ -19,8 +19,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 正欲  
 - **Author**: 朝井リョウ  
-- **ASIN**: B08XX6LHQX  
-- **URL**: [https://www.amazon.co.jp/dp/B08XX6LHQX](https://www.amazon.co.jp/dp/B08XX6LHQX)  
+- **ASIN**: B0C2YB5488  
+- **URL**: [https://www.amazon.co.jp/dp/B0C2YB5488](https://www.amazon.co.jp/dp/B0C2YB5488)  
 
 ---
 

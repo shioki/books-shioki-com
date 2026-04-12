@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: マナーはいらない　小説の書きかた講座  
 - **Author**: 三浦しをん  
-- **ASIN**: B08M5GWC8F  
-- **URL**: [https://www.amazon.co.jp/dp/B08M5GWC8F](https://www.amazon.co.jp/dp/B08M5GWC8F)  
+- **ASIN**: 4086806770  
+- **URL**: [https://www.amazon.co.jp/dp/4086806770](https://www.amazon.co.jp/dp/4086806770)  
 
 ---
 

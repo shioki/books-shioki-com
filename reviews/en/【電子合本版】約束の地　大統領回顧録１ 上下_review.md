@@ -7,8 +7,8 @@
 ## 📖 Book Information
 - **Title**: 【電子合本版】約束の地　大統領回顧録１ 上下  
 - **Author**: バラク・オバマ, 山田文, 三宅康雄, 長尾莉紗, 高取芳彦, 藤田美菜子, 柴田さとみ, 山田美明, 関根光宏, 芝瑞紀, and 島崎由里子  
-- **ASIN**: B08TWPSYTK  
-- **URL**: [https://www.amazon.co.jp/dp/B08TWPSYTK](https://www.amazon.co.jp/dp/B08TWPSYTK)  
+- **ASIN**: 4087861333  
+- **URL**: [https://www.amazon.co.jp/dp/4087861333](https://www.amazon.co.jp/dp/4087861333)  
 
 ---
 

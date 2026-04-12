@@ -7,8 +7,8 @@
 ## 📖 書籍情報
 - **タイトル**: 自転しながら公転する
 - **著者**: 山本文緒
-- **ASIN**: B08H4YY4H4
-- **URL**: [https://www.amazon.co.jp/dp/B08H4YY4H4](https://www.amazon.co.jp/dp/B08H4YY4H4)
+- **ASIN**: B0BH45JLR2
+- **URL**: [https://www.amazon.co.jp/dp/B0BH45JLR2](https://www.amazon.co.jp/dp/B0BH45JLR2)
 
 ---
 

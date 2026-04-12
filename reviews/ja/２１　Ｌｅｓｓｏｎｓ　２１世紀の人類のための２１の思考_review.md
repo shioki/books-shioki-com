@@ -18,8 +18,8 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: ２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考  
 - **著者**: ユヴァル・ノア・ハラリ and 柴田裕之  
-- **ASIN**: B07Z8ZY42X  
-- **URL**: [https://www.amazon.co.jp/dp/B07Z8ZY42X](https://www.amazon.co.jp/dp/B07Z8ZY42X)
+- **ASIN**: B09KN7H8HD  
+- **URL**: [https://www.amazon.co.jp/dp/B09KN7H8HD](https://www.amazon.co.jp/dp/B09KN7H8HD)
 
 ---
 

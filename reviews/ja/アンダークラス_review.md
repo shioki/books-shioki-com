@@ -18,8 +18,8 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: アンダークラス  
 - **著者**: 相場英雄  
-- **ASIN**: B08MTW5N4Q  
-- **URL**: [https://www.amazon.co.jp/dp/B08MTW5N4Q](https://www.amazon.co.jp/dp/B08MTW5N4Q)
+- **ASIN**: B0BQVPB41D  
+- **URL**: [https://www.amazon.co.jp/dp/B0BQVPB41D](https://www.amazon.co.jp/dp/B0BQVPB41D)
 
 ---
 

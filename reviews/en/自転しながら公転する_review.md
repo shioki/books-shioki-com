@@ -41,8 +41,8 @@ imperfect, still in motion.
 ## 📖 Book Information
 - **Title**: 自転しながら公転する  
 - **Author**: 山本文緒  
-- **ASIN**: B08H4YY4H4  
-- **URL**: [https://www.amazon.co.jp/dp/B08H4YY4H4](https://www.amazon.co.jp/dp/B08H4YY4H4)  
+- **ASIN**: B0BH45JLR2  
+- **URL**: [https://www.amazon.co.jp/dp/B0BH45JLR2](https://www.amazon.co.jp/dp/B0BH45JLR2)  
 
 ## 🎯 Core of the Book
 *自転しながら公転する* uses the form of a love story to portray, in layered detail, the realities of everyday life—family, work, the body, aging, and financial anxiety. The wavering of the protagonist, Miyako, is not simply indecision or romantic confusion; it emerges as a question of how a modern woman can reconcile society’s expectations with her own true feelings.

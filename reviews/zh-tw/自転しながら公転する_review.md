@@ -37,8 +37,8 @@
 ## 📖 書籍資訊
 - **書名**: 自転しながら公転する  
 - **作者**: 山本文緒  
-- **ASIN**: B08H4YY4H4  
-- **URL**: [https://www.amazon.co.jp/dp/B08H4YY4H4](https://www.amazon.co.jp/dp/B08H4YY4H4)  
+- **ASIN**: B0BH45JLR2  
+- **URL**: [https://www.amazon.co.jp/dp/B0BH45JLR2](https://www.amazon.co.jp/dp/B0BH45JLR2)  
 
 ## 🎯 本書的核心
 《自転しながら公転する》以愛情小說的形式，層層描繪出家庭、工作、身體、老化與經濟不安等生活現實。主角「都」的搖擺不只是優柔寡斷或戀愛的猶豫，而是現代女性在社會期待與內心真實之間，如何找到平衡的深刻提問。

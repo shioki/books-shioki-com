@@ -18,8 +18,8 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: 外資系コンサルが教える　読書を仕事につなげる技術  
 - **著者**: 山口 周  
-- **ASIN**: B016NN1L32  
-- **URL**: [https://www.amazon.co.jp/dp/B016NN1L32](https://www.amazon.co.jp/dp/B016NN1L32)
+- **ASIN**: 4046011912  
+- **URL**: [https://www.amazon.co.jp/dp/4046011912](https://www.amazon.co.jp/dp/4046011912)
 
 ---
 

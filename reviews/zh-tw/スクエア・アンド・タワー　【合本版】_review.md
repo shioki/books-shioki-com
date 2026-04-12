@@ -18,8 +18,8 @@ og_type: article
 # 📖 書籍資訊
 - **標題**: スクエア・アンド・タワー　【合本版】  
 - **作者**: ニーアル ファーガソン and 柴田 裕之  
-- **ASIN**: B081PVDCHF  
-- **URL**: [https://www.amazon.co.jp/dp/B081PVDCHF](https://www.amazon.co.jp/dp/B081PVDCHF)  
+- **ASIN**: 4492371265  
+- **URL**: [https://www.amazon.co.jp/dp/4492371265](https://www.amazon.co.jp/dp/4492371265)  
 
 ---
 
