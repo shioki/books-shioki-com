@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>よく読んでいる著者 | Books Portfolio | shioki</title>
+    <link rel="canonical" href="https://books.shioki.com/authors.html">
+    <meta name="description" content="書評の多い著者をまとめたページ。著者ごとの書評リンクとジャンル傾向を一覧で表示します。">
+    <meta property="og:title" content="よく読んでいる著者 | Books Portfolio | shioki">
+    <meta property="og:description" content="書評の多い著者をまとめたページ。著者ごとの書評リンクとジャンル傾向を一覧で表示します。">
+    <meta property="og:image" content="https://books.shioki.com/images/og-default.png">
+    <meta property="og:url" content="https://books.shioki.com/authors.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="books.shioki.com">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="よく読んでいる著者 | Books Portfolio | shioki">
+    <meta name="twitter:description" content="書評の多い著者をまとめたページ。">
+    <meta name="twitter:image" content="https://books.shioki.com/images/og-default.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-primitive-blue-900: #0017c1;
+            --color-primitive-light-blue-50: #f0f9ff;
+            --color-primitive-light-blue-200: #c0e4ff;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-600: #666666;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-16: 1rem;
+            --font-size-20: 1.25rem;
+            --font-size-24: 1.5rem;
+            --font-size-28: 1.75rem;
+            --font-weight-400: 400;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-8: 0.5rem;
+            --border-radius-12: 0.75rem;
+            --border-radius-full: 624.9375rem;
+            --elevation-1: 0 2px 8px 1px rgba(0,0,0,0.1), 0 1px 5px 0 rgba(0,0,0,0.3);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: var(--color-neutral-solid-gray-900);
+            line-height: var(--line-height-170);
+            font-size: var(--font-size-16);
+            font-weight: var(--font-weight-400);
+            overflow-x: hidden;
+        }
+
+        .container {
+            padding: 2rem 1.5rem;
+            max-width: 800px;
+            width: 100%;
+            min-width: 0;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--color-neutral-solid-gray-100);
+        }
+
+        .header h1 {
+            font-size: var(--font-size-28);
+            font-weight: var(--font-weight-700);
+            margin-bottom: 0.25rem;
+        }
+
+        .header .subtitle {
+            font-size: var(--font-size-14);
+            color: var(--color-neutral-solid-gray-536);
+        }
+
+        .nav-link {
+            display: inline-block;
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+            font-size: var(--font-size-14);
+            padding: 0.75rem 1.5rem;
+        }
+
+        .nav-link:hover { text-decoration: underline; }
+
+        /* ── Author Cards ── */
+
+        .author-card {
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-12);
+            padding: 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .author-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+            margin-bottom: 0.5rem;
+        }
+
+        .author-name-block {
+            flex: 1 1 auto;
+            min-width: 0;
+        }
+
+        .author-name-ja {
+            font-size: var(--font-size-20);
+            font-weight: var(--font-weight-700);
+        }
+
+        .author-name-sub {
+            font-size: var(--font-size-14);
+            color: var(--color-neutral-solid-gray-536);
+        }
+
+        .author-count {
+            flex-shrink: 0;
+            font-size: var(--font-size-14);
+            font-weight: var(--font-weight-700);
+            background: var(--color-primitive-light-blue-50);
+            color: var(--color-primitive-blue-800);
+            padding: 0.2rem 0.6rem;
+            border-radius: var(--border-radius-full);
+            border: 1px solid var(--color-primitive-light-blue-200);
+            white-space: nowrap;
+        }
+
+        .author-rank {
+            font-size: 0.75rem;
+            color: var(--color-neutral-solid-gray-536);
+            margin-bottom: 0.5rem;
+        }
+
+        .author-genres {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .category-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.2rem;
+            font-size: 0.65rem;
+            padding: 0.1rem 0.45rem;
+            border-radius: var(--border-radius-full);
+            background: var(--color-neutral-solid-gray-50);
+            color: var(--color-neutral-solid-gray-600);
+            border: 1px solid var(--color-neutral-solid-gray-100);
+        }
+
+        .category-badge .cat-sub {
+            font-size: 0.55rem;
+            opacity: 0.55;
+        }
+
+        .author-books {
+            list-style: none;
+            margin-bottom: 0.75rem;
+        }
+
+        .author-books li {
+            font-size: var(--font-size-14);
+            padding: 0.25rem 0;
+            border-bottom: 1px solid var(--color-neutral-solid-gray-50);
+        }
+
+        .author-books li:last-child {
+            border-bottom: none;
+        }
+
+        .author-books a {
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+        }
+
+        .author-books a:hover {
+            text-decoration: underline;
+        }
+
+        .book-langs {
+            font-size: 0.7rem;
+            color: var(--color-neutral-solid-gray-536);
+            margin-left: 0.3rem;
+        }
+
+        .author-filter-link {
+            display: inline-block;
+            font-size: var(--font-size-14);
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+            border: 1px solid var(--color-primitive-blue-800);
+            border-radius: var(--border-radius-8);
+            padding: 0.3rem 0.75rem;
+        }
+
+        .author-filter-link:hover {
+            background: var(--color-primitive-light-blue-50);
+            text-decoration: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: var(--color-neutral-solid-gray-536);
+        }
+
+        footer {
+            margin-top: auto;
+            padding: 2rem 1rem;
+            color: var(--color-neutral-solid-gray-536);
+            font-size: 0.8rem;
+            text-align: center;
+        }
+
+        footer a {
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+        }
+
+        footer a:hover { text-decoration: underline; }
+
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.4rem; }
+            .container { padding: 1.5rem 1rem; }
+            .author-card-header { flex-direction: column; gap: 0.25rem; }
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="nav-link">トップページ</a>
+    <a href="/okiwa-profile.html" class="nav-link">キャラクター紹介</a>
+    <div class="container">
+        <div class="header">
+            <h1>よく読んでいる著者</h1>
+            <p class="subtitle" id="summary"></p>
+        </div>
+        <div id="authors-list">
+            <p class="loading">読み込み中…</p>
+        </div>
+    </div>
+    <footer>
+        &copy; <span id="current-year"></span>
+        <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a>
+        &middot;
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+    </footer>
+
+    <script>
+    (function () {
+        'use strict';
+
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        var LANG_LABELS = { ja: '日本語', en: 'English', 'zh-tw': '繁體中文' };
+
+        var CATEGORY_LABELS = {
+            'すべて':               { en: 'All',                'zh-tw': '全部' },
+            '小説':                 { en: 'Novel',              'zh-tw': '小說' },
+            'ビジネス・経済':       { en: 'Business',           'zh-tw': '商業經濟' },
+            '社会・思想':           { en: 'Society',            'zh-tw': '社會思想' },
+            'エッセイ・ノンフィクション': { en: 'Essay',        'zh-tw': '散文紀實' },
+            '技術・サイエンス':     { en: 'Tech',               'zh-tw': '技術科學' },
+            '文学・評論':           { en: 'Literature & Criticism', 'zh-tw': '文學與評論' },
+            'エッセー・随筆':       { en: 'Essays',             'zh-tw': '散文隨筆' },
+            '日本のエッセー・随筆': { en: 'Japanese Essays',    'zh-tw': '日本散文隨筆' },
+            '外国のエッセー・随筆': { en: 'Foreign Essays',     'zh-tw': '外國散文隨筆' },
+            '近現代の作品':         { en: 'Modern Works',       'zh-tw': '近現代作品' },
+            '歴史・地理':           { en: 'History & Geography','zh-tw': '歷史與地理' },
+            '世界史':               { en: 'World History',      'zh-tw': '世界史' },
+            'ヨーロッパ史':         { en: 'European History',   'zh-tw': '歐洲史' },
+            'ヨーロッパ史一般':     { en: 'European History (General)', 'zh-tw': '歐洲史概論' },
+            '歴史学':               { en: 'Historiography',     'zh-tw': '歷史學' },
+            '経営学・キャリア・MBA': { en: 'Management / Career / MBA', 'zh-tw': '經營學・職涯・MBA' },
+            '資格・就職・MBA':      { en: 'Certification / Career / MBA', 'zh-tw': '資格・就職・MBA' },
+            'MBA(経営学修士)':      { en: 'MBA',                'zh-tw': 'MBA（企管碩士）' },
+            '小説・文芸':           { en: 'Fiction & Literature','zh-tw': '小說與文藝' },
+            '日本の小説・文芸':     { en: 'Japanese Fiction',   'zh-tw': '日本小說與文藝' },
+            '医学・薬学':           { en: 'Medicine & Pharmacy','zh-tw': '醫學與藥學' },
+            '社会・政治':           { en: 'Society & Politics', 'zh-tw': '社會與政治' },
+            '政治':                 { en: 'Politics',           'zh-tw': '政治' },
+            '政治入門':             { en: 'Politics (Intro)',   'zh-tw': '政治入門' },
+            'ノンフィクション':     { en: 'Nonfiction',         'zh-tw': '非虛構' },
+            '評論・文学研究':       { en: 'Criticism & Literary Studies', 'zh-tw': '評論與文學研究' },
+            '外国文学研究':         { en: 'Foreign Literature Studies', 'zh-tw': '外國文學研究' },
+            'その他の外国文学':     { en: 'Other Foreign Literature', 'zh-tw': '其他外國文學' },
+            'イギリス・アメリカ':   { en: 'UK & America',       'zh-tw': '英國與美國' },
+            '暮らし・健康・子育て': { en: 'Lifestyle / Health / Parenting', 'zh-tw': '生活・健康・育兒' },
+            'クッキング・レシピ':   { en: 'Cooking & Recipes',  'zh-tw': '烹飪與食譜' },
+            '家事・生活の知識':     { en: 'Housekeeping & Lifestyle', 'zh-tw': '家事與生活知識' },
+            '整理・収納':           { en: 'Organization & Storage', 'zh-tw': '整理與收納' },
+            '社会学':               { en: 'Sociology',          'zh-tw': '社會學' },
+            '社会学概論':           { en: 'Intro to Sociology', 'zh-tw': '社會學概論' },
+            '文化人類学・民俗学':   { en: 'Cultural Anthropology & Folklore', 'zh-tw': '文化人類學與民俗學' },
+            '人文・思想':           { en: 'Humanities & Thought','zh-tw': '人文與思想' },
+            '倫理学・道徳':         { en: 'Ethics & Morality',  'zh-tw': '倫理學與道德' },
+            '人生論・教訓':         { en: 'Life Lessons',       'zh-tw': '人生論與教訓' },
+            '宗教':                 { en: 'Religion',           'zh-tw': '宗教' },
+            '宗教入門':             { en: 'Religion (Intro)',   'zh-tw': '宗教入門' },
+            '思想・社会':           { en: 'Thought & Society',  'zh-tw': '思想與社會' },
+            '思想':                 { en: 'Thought',            'zh-tw': '思想' },
+            '科学・テクノロジー':   { en: 'Science & Technology', 'zh-tw': '科學與科技' },
+            '工学':                 { en: 'Engineering',        'zh-tw': '工程學' },
+            'IT':                   { en: 'IT',                 'zh-tw': '資訊科技' },
+            '情報社会':             { en: 'Information Society','zh-tw': '資訊社會' },
+            'その他':               { en: 'Others',             'zh-tw': '其他' },
+            '未分類':               { en: 'Uncategorized',      'zh-tw': '未分類' }
+        };
+
+        // 2冊以上の著者の3言語マッピング（Phase 1: 手動定義）
+        var AUTHOR_LABELS = {
+            '佐藤賢一':             { en: 'Kenichi Sato',           'zh-tw': '佐藤賢一' },
+            '出口 治明':            { en: 'Haruaki Deguchi',        'zh-tw': '出口治明' },
+            '相場英雄':             { en: 'Hideo Aiba',             'zh-tw': '相場英雄' },
+            'アビジット・Ｖ・バナジー': { en: 'Abhijit V. Banerjee', 'zh-tw': '阿比吉特·班納吉' },
+            'エスター・デュフロ':   { en: 'Esther Duflo',           'zh-tw': '艾絲特·杜芙洛' },
+            'ジャレド・ダイアモンド': { en: 'Jared Diamond',         'zh-tw': '賈德·乘蒙' },
+            'ダニエル・サスキンド': { en: 'Daniel Susskind',         'zh-tw': '丹尼爾·乘斯金德' },
+            'トマ・ピケティ':       { en: 'Thomas Piketty',         'zh-tw': '托瑪·皮凱提' },
+            'ニーアル・ファーガソン': { en: 'Niall Ferguson',        'zh-tw': '尼爾·弗格森' },
+            'マイケル・サンデル':   { en: 'Michael Sandel',          'zh-tw': '邁可·乘德爾' },
+            '山口 周':              { en: 'Shu Yamaguchi',           'zh-tw': '山口周' },
+            '斎藤幸平':             { en: 'Kohei Saito',             'zh-tw': '齋藤幸平' },
+            '早見和真':             { en: 'Kazuma Hayami',           'zh-tw': '早見和真' },
+            '村上春樹':             { en: 'Haruki Murakami',         'zh-tw': '村上春樹' },
+            '田内 学':              { en: 'Manabu Tauchi',           'zh-tw': '田內學' },
+            '近内悠太':             { en: 'Yuta Chikauchi',          'zh-tw': '近內悠太' },
+            '野口悠紀雄':           { en: 'Yukio Noguchi',           'zh-tw': '野口悠紀雄' }
+        };
+
+        // ── 著者の正規化・除外ルール ──
+
+        var AUTHOR_NORMALIZE = {
+            'トマ ピケティ': 'トマ・ピケティ',
+            'エステル・デュフロ': 'エスター・デュフロ',
+            'マイケル サンデル': 'マイケル・サンデル',
+            'ニーアル ファーガソン': 'ニーアル・ファーガソン',
+            'ジョセフ Ｅ スティグリッツ': 'ジョセフ・Ｅ・スティグリッツ',
+            'カビール セガール': 'カビール・セガール',
+            'エイモア トールズ': 'エイモア・トールズ',
+            'ルーシー クレハン': 'ルーシー・クレハン',
+            '佐藤 賢一': '佐藤賢一',
+            '柴田 裕之': '柴田裕之',
+            '出口治明': '出口 治明',
+            '斎藤 幸平': '斎藤幸平',
+            '橘 玲': '橘玲',
+            '大野和基': '大野 和基',
+            '高須 正和': '高須正和',
+            '山形 浩生': '山形浩生',
+            '村上 春樹': '村上春樹'
+        };
+
+        var NON_AUTHORS = {
+            '広野和美': true, '山形浩生': true, '村井章子': true,
+            '岡本 麻左子': true, '柴田元幸': true, '柴田裕之': true,
+            '上原裕美子': true, '鬼澤 忍': true, '会田弘継': true,
+            '山岡由美': true, '関美和': true, '秋山 勝': true,
+            '橋川 史': true, '飯嶋 貴子': true, '立木勝': true,
+            '屋代通子': true, '小坂 恵理': true, '桐谷知未': true,
+            '長尾 高弘': true, '榊原 彰': true, '小野木明恵': true,
+            '濱野 大道': true, '依田光江': true, '千葉 敏生': true,
+            '松丸 さとみ': true, '雨宮 寛': true, '今井 章子': true,
+            '山田美明': true, '山田文': true, '三宅康雄': true,
+            '長尾莉紗': true, '高取芳彦': true, '藤田美菜子': true,
+            '柴田さとみ': true, '関根光宏': true, '芝瑞紀': true,
+            '島崎由里子': true, '倉嶋雅人': true, '鈴木力衛': true,
+            '宇佐川 晶子': true, '山田陽子': true, '高里ひろ': true,
+            '大野 和基': true, '大野 一': true, '福井憲彦': true,
+            '文豪e叢書編集部': true, '栗原聡': true
+        };
+
+        var PER_BOOK_EXCLUDE = {
+            'テクノ封建制': { '斎藤幸平': true },
+            '日本経済AI成長戦略': { '松尾 豊': true, '松尾\u3000豊': true },
+            'ハードウェアハッカー': { '高須正和': true },
+            '欲望の資本主義': { 'ＮＨＫ「欲望の資本主義」制作班': true }
+        };
+
+        var TRANSLATOR_ONLY_FOR = {
+            '村上春樹': { 'ティム・オブライエン': true }
+        };
+
+        function normalizeName(name) {
+            var n = name.trim().replace(/\u3000/g, ' ');
+            return AUTHOR_NORMALIZE[n] || n;
+        }
+
+        function splitAuthors(raw) {
+            return raw.split(/,\s+and\s+|\s+and\s+|,\s+|、/);
+        }
+
+        function isNonAuthor(normName, title, allNormNames) {
+            if (NON_AUTHORS[normName]) return true;
+            for (var keyword in PER_BOOK_EXCLUDE) {
+                if (title.indexOf(keyword) !== -1 && PER_BOOK_EXCLUDE[keyword][normName]) {
+                    return true;
+                }
+            }
+            if (TRANSLATOR_ONLY_FOR[normName]) {
+                var checkSet = TRANSLATOR_ONLY_FOR[normName];
+                for (var i = 0; i < allNormNames.length; i++) {
+                    if (checkSet[allNormNames[i]]) return true;
+                }
+            }
+            return false;
+        }
+
+        function escapeHtml(s) {
+            var d = document.createElement('div');
+            d.appendChild(document.createTextNode(s));
+            return d.innerHTML;
+        }
+
+        function getCategories(review) {
+            if (Array.isArray(review.categories) && review.categories.length) {
+                return review.categories.filter(function (c) { return !!c && c !== 'Kindle本'; });
+            }
+            var c = (review.category || '').trim();
+            return (c && c !== 'Kindle本') ? [c] : [];
+        }
+
+        function buildAuthorData(reviews) {
+            var counts = {};     // normName → count
+            var books = {};      // normName → [{title, filename, languages, categories}]
+            var genreSets = {};  // normName → {cat: true}
+
+            reviews.forEach(function (r) {
+                var raw = (r.author || '').trim();
+                var title = (r.title || '').trim();
+                if (!raw) return;
+
+                var parts = splitAuthors(raw);
+                var normNames = parts.map(normalizeName);
+                var seen = {};
+                var cats = getCategories(r);
+
+                normNames.forEach(function (norm) {
+                    if (seen[norm] || isNonAuthor(norm, title, normNames)) return;
+                    seen[norm] = true;
+                    counts[norm] = (counts[norm] || 0) + 1;
+                    if (!books[norm]) books[norm] = [];
+                    books[norm].push({
+                        title: title,
+                        filename: r.filename || '',
+                        languages: r.languages || ['ja']
+                    });
+                    if (!genreSets[norm]) genreSets[norm] = {};
+                    cats.forEach(function (c) { genreSets[norm][c] = true; });
+                });
+            });
+
+            var entries = [];
+            for (var name in counts) {
+                entries.push({
+                    name: name,
+                    count: counts[name],
+                    books: books[name],
+                    genres: Object.keys(genreSets[name])
+                });
+            }
+
+            entries.sort(function (a, b) {
+                if (b.count !== a.count) return b.count - a.count;
+                return a.name.localeCompare(b.name, 'ja');
+            });
+
+            // 同数同順位（人数分繰り下げ）
+            var rank = 1;
+            for (var i = 0; i < entries.length; i++) {
+                if (i > 0 && entries[i].count < entries[i - 1].count) {
+                    rank = i + 1;
+                }
+                entries[i].rank = rank;
+            }
+
+            return entries;
+        }
+
+        function renderAuthors(entries, totalReviews) {
+            var MAX_RANK = 5;
+            var top = entries.filter(function (e) { return e.rank <= MAX_RANK; });
+
+            document.getElementById('summary').textContent =
+                '書評 ' + totalReviews + ' 冊から、2冊以上読んでいる著者を表示しています。';
+
+            var container = document.getElementById('authors-list');
+            container.innerHTML = '';
+
+            if (top.length === 0) {
+                container.innerHTML = '<p>該当する著者がいません。</p>';
+                return;
+            }
+
+            top.forEach(function (entry) {
+                var card = document.createElement('div');
+                card.className = 'author-card';
+
+                // header: name + count
+                var header = document.createElement('div');
+                header.className = 'author-card-header';
+
+                var nameBlock = document.createElement('div');
+                nameBlock.className = 'author-name-block';
+
+                var nameJa = document.createElement('div');
+                nameJa.className = 'author-name-ja';
+                nameJa.textContent = entry.name;
+                nameBlock.appendChild(nameJa);
+
+                var labels = AUTHOR_LABELS[entry.name];
+                if (labels) {
+                    var nameSub = document.createElement('div');
+                    nameSub.className = 'author-name-sub';
+                    var parts = [];
+                    if (labels.en) parts.push(labels.en);
+                    if (labels['zh-tw']) parts.push(labels['zh-tw']);
+                    nameSub.textContent = parts.join(' / ');
+                    nameBlock.appendChild(nameSub);
+                }
+
+                header.appendChild(nameBlock);
+
+                var countBadge = document.createElement('span');
+                countBadge.className = 'author-count';
+                countBadge.textContent = entry.count + '冊';
+                header.appendChild(countBadge);
+
+                card.appendChild(header);
+
+                // rank
+                var rankDiv = document.createElement('div');
+                rankDiv.className = 'author-rank';
+                rankDiv.textContent = entry.rank + '位';
+                card.appendChild(rankDiv);
+
+                // genre badges
+                if (entry.genres.length > 0) {
+                    var genresDiv = document.createElement('div');
+                    genresDiv.className = 'author-genres';
+                    entry.genres.forEach(function (cat) {
+                        var badge = document.createElement('span');
+                        badge.className = 'category-badge';
+                        var catSub = CATEGORY_LABELS[cat];
+                        var html = escapeHtml(cat);
+                        if (catSub) {
+                            var subParts = [];
+                            if (catSub.en) subParts.push(catSub.en);
+                            if (catSub['zh-tw']) subParts.push(catSub['zh-tw']);
+                            if (subParts.length) {
+                                html += ' <span class="cat-sub">' + escapeHtml(subParts.join(' / ')) + '</span>';
+                            }
+                        }
+                        badge.innerHTML = html;
+                        genresDiv.appendChild(badge);
+                    });
+                    card.appendChild(genresDiv);
+                }
+
+                // book list
+                var bookList = document.createElement('ul');
+                bookList.className = 'author-books';
+                entry.books.forEach(function (book) {
+                    var li = document.createElement('li');
+
+                    var mainLink = document.createElement('a');
+                    mainLink.href = 'reviews/ja/' + encodeURIComponent(book.filename.replace('.md', '.html'));
+                    mainLink.textContent = book.title;
+                    li.appendChild(mainLink);
+
+                    if (book.languages.length > 1) {
+                        var langsSpan = document.createElement('span');
+                        langsSpan.className = 'book-langs';
+                        var langLinks = [];
+                        book.languages.forEach(function (lang) {
+                            if (lang === 'ja') return;
+                            langLinks.push(
+                                '<a href="reviews/' + lang + '/' +
+                                encodeURIComponent(book.filename.replace('.md', '.html')) +
+                                '">' + escapeHtml(LANG_LABELS[lang] || lang) + '</a>'
+                            );
+                        });
+                        if (langLinks.length) {
+                            langsSpan.innerHTML = '(' + langLinks.join(' / ') + ')';
+                            li.appendChild(langsSpan);
+                        }
+                    }
+
+                    bookList.appendChild(li);
+                });
+                card.appendChild(bookList);
+
+                // filter link
+                var filterLink = document.createElement('a');
+                filterLink.className = 'author-filter-link';
+                filterLink.href = '/?q=' + encodeURIComponent(entry.name);
+                filterLink.textContent = 'この著者の書評を見る →';
+                card.appendChild(filterLink);
+
+                container.appendChild(card);
+            });
+        }
+
+        fetch('reviews.json', { cache: 'no-cache' })
+            .then(function (res) { return res.json(); })
+            .then(function (reviews) {
+                var entries = buildAuthorData(reviews);
+                renderAuthors(entries, reviews.length);
+            })
+            .catch(function () {
+                document.getElementById('authors-list').innerHTML =
+                    '<p>データの読み込みに失敗しました。</p>';
+            });
+    })();
+    </script>
+</body>
+</html>
