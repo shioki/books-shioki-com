@@ -424,6 +424,14 @@
             return false;
         }
 
+        function authorSearchTerm(normName) {
+            if (normName.indexOf('・') !== -1) {
+                var parts = normName.split('・');
+                return parts[parts.length - 1];
+            }
+            return normName;
+        }
+
         function escapeHtml(s) {
             var d = document.createElement('div');
             d.appendChild(document.createTextNode(s));
@@ -611,7 +619,7 @@
                 // filter link
                 var filterLink = document.createElement('a');
                 filterLink.className = 'author-filter-link';
-                filterLink.href = '/?q=' + encodeURIComponent(entry.name);
+                filterLink.href = '/?q=' + encodeURIComponent(authorSearchTerm(entry.name));
                 filterLink.textContent = 'この著者の書評を見る →';
                 card.appendChild(filterLink);
 

@@ -809,9 +809,13 @@
 
             if (state.searchQuery) {
                 var q = state.searchQuery.toLowerCase();
+                var qNorm = q.replace(/[・\s\u3000]/g, '');
                 reviews = reviews.filter(function (r) {
-                    return (r.title || '').toLowerCase().indexOf(q) !== -1 ||
-                           (r.author || '').toLowerCase().indexOf(q) !== -1;
+                    var t = (r.title || '').toLowerCase();
+                    var a = (r.author || '').toLowerCase();
+                    return t.indexOf(q) !== -1 ||
+                           a.indexOf(q) !== -1 ||
+                           a.replace(/[・\s\u3000]/g, '').indexOf(qNorm) !== -1;
                 });
             }
 
