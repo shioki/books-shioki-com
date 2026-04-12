@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 最終飛行  
 - **Author**: 佐藤 賢一  
-- **ASIN**: B095H5KFNF  
-- **URL**: [https://www.amazon.co.jp/dp/B095H5KFNF](https://www.amazon.co.jp/dp/B095H5KFNF)  
+- **ASIN**: B0DB7BCZ6X  
+- **URL**: [https://www.amazon.co.jp/dp/B0DB7BCZ6X](https://www.amazon.co.jp/dp/B0DB7BCZ6X)  
 
 ---
 

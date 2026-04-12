@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: サンセット・パーク  
 - **Author**: ポール・オースター and 柴田元幸  
-- **ASIN**: B085C7JG69  
-- **URL**: [https://www.amazon.co.jp/dp/B085C7JG69](https://www.amazon.co.jp/dp/B085C7JG69)  
+- **ASIN**: B0DQ9LHXL7  
+- **URL**: [https://www.amazon.co.jp/dp/B0DQ9LHXL7](https://www.amazon.co.jp/dp/B0DQ9LHXL7)  
 
 ---
 
