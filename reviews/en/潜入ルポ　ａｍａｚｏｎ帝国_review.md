@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 潜入ルポ　ａｍａｚｏｎ帝国  
 - **Author**: 横田増生  
-- **ASIN**: B07XC6K8NZ  
-- **URL**: [https://www.amazon.co.jp/dp/B07XC6K8NZ](https://www.amazon.co.jp/dp/B07XC6K8NZ)  
+- **ASIN**: B0B7QZXKG5  
+- **URL**: [https://www.amazon.co.jp/dp/B0B7QZXKG5](https://www.amazon.co.jp/dp/B0B7QZXKG5)  
 
 ---
 
