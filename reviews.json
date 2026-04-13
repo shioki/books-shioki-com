@@ -1,5 +1,26 @@
 [
   {
+    "title": "東京ディストピア日記",
+    "author": "桜庭一樹",
+    "date": "2026-04-14",
+    "created_at": "2026-04-14T08:18:27.470390",
+    "filename": "東京ディストピア日記_review.md",
+    "image": "images/reviews/東京ディストピア日記_4panel.png",
+    "languages": [
+      "ja"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "桜庭一樹": "著"
+    }
+  },
+  {
     "title": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術",
     "author": "尾原和啓 and 伊藤羊一",
     "date": "2026-04-14",
