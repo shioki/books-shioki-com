@@ -313,8 +313,6 @@
             '文化人類学・民俗学':   { en: 'Cultural Anthropology & Folklore', 'zh-tw': '文化人類學與民俗學' },
             '人文・思想':           { en: 'Humanities & Thought','zh-tw': '人文與思想' },
             '倫理学・道徳':         { en: 'Ethics & Morality',  'zh-tw': '倫理學與道德' },
-            '哲学・思想':           { en: 'Philosophy & Thought','zh-tw': '哲學與思想' },
-            '人生論':               { en: 'Life Philosophy',    'zh-tw': '人生論' },
             '人生論・教訓':         { en: 'Life Lessons',       'zh-tw': '人生論與教訓' },
             '宗教':                 { en: 'Religion',           'zh-tw': '宗教' },
             '宗教入門':             { en: 'Religion (Intro)',   'zh-tw': '宗教入門' },
@@ -328,7 +326,7 @@
             '未分類':               { en: 'Uncategorized',      'zh-tw': '未分類' }
         };
 
-        // 2冊以上の著者の3言語マッピング（Phase 1: 手動定義）
+        // 著者名の日英・繁体字併記（authors カード用、手動定義）
         var AUTHOR_LABELS = {
             '佐藤賢一':             { en: 'Kenichi Sato',           'zh-tw': '佐藤賢一' },
             '出口 治明':            { en: 'Haruaki Deguchi',        'zh-tw': '出口治明' },
@@ -368,7 +366,9 @@
             '大野和基': '大野 和基',
             '高須 正和': '高須正和',
             '山形 浩生': '山形浩生',
-            '村上 春樹': '村上春樹'
+            '村上 春樹': '村上春樹',
+            '伊藤 羊一': '伊藤羊一',
+            'ブレイディみかこ': 'ブレイディ みかこ'
         };
 
         var NON_AUTHORS = {
@@ -410,7 +410,18 @@
             return raw.split(/,\s+and\s+|\s+and\s+|,\s+|、/);
         }
 
-        function isNonAuthor(normName, title, allNormNames) {
+        var PRIMARY_ROLES = { '著': true, '原著': true, '原作': true, '原案': true };
+
+        function isNonAuthorByRoles(rawName, authorRoles) {
+            if (!authorRoles) return null;
+            var role = authorRoles[rawName];
+            if (!role) return null;
+            return !PRIMARY_ROLES[role];
+        }
+
+        function isNonAuthor(normName, rawName, title, allNormNames, authorRoles) {
+            var roleResult = isNonAuthorByRoles(rawName, authorRoles);
+            if (roleResult !== null) return roleResult;
             if (NON_AUTHORS[normName]) return true;
             for (var keyword in PER_BOOK_EXCLUDE) {
                 if (title.indexOf(keyword) !== -1 && PER_BOOK_EXCLUDE[keyword][normName]) {
@@ -462,9 +473,11 @@
                 var normNames = parts.map(normalizeName);
                 var seen = {};
                 var cats = getCategories(r);
+                var authorRoles = r.author_roles || null;
 
-                normNames.forEach(function (norm) {
-                    if (seen[norm] || isNonAuthor(norm, title, normNames)) return;
+                normNames.forEach(function (norm, idx) {
+                    var rawName = parts[idx] ? parts[idx].trim().replace(/\u3000/g, ' ') : norm;
+                    if (seen[norm] || isNonAuthor(norm, rawName, title, normNames, authorRoles)) return;
                     seen[norm] = true;
                     counts[norm] = (counts[norm] || 0) + 1;
                     if (!books[norm]) books[norm] = [];
@@ -510,7 +523,7 @@
             var top = entries.filter(function (e) { return e.rank <= MAX_RANK; });
 
             document.getElementById('summary').textContent =
-                '書評 ' + totalReviews + ' 冊から、2冊以上読んでいる著者を表示しています。';
+                '書評 ' + totalReviews + ' 冊から、よく読んでいる著者の上位5位を表示しています。';
 
             var container = document.getElementById('authors-list');
             container.innerHTML = '';
