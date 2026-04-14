@@ -1,5 +1,27 @@
 [
   {
+    "title": "小説　盛田昭夫学校　上下合本版",
+    "author": "江波戸哲夫",
+    "date": "2026-04-15",
+    "created_at": "2026-04-15T08:36:59.202450",
+    "filename": "小説　盛田昭夫学校　上下合本版_review.md",
+    "image": "images/reviews/小説　盛田昭夫学校　上下合本版_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "江波戸哲夫": "著"
+    }
+  },
+  {
     "title": "夏が破れる",
     "author": "新庄耕",
     "date": "2026-04-15",
