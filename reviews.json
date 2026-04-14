@@ -1,5 +1,29 @@
 [
   {
+    "title": "4 3 2 1",
+    "author": "ポール・オースター and 柴田元幸",
+    "date": "2026-04-15",
+    "created_at": "2026-04-15T08:36:26.892309",
+    "filename": "4 3 2 1_review.md",
+    "image": "images/reviews/4 3 2 1_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "評論・文学研究",
+      "外国文学研究",
+      "英米文学"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "ポール・オースター": "著",
+      "柴田元幸": "翻訳"
+    }
+  },
+  {
     "title": "見てはいけない！　ヤバい会社烈伝",
     "author": "金田 信一郎",
     "date": "2026-04-15",
