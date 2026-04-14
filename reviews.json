@@ -1,5 +1,25 @@
 [
   {
+    "title": "エクストリーム大家",
+    "author": "春川賢太郎",
+    "date": "2026-04-15",
+    "created_at": "2026-04-15T08:36:49.118526",
+    "filename": "エクストリーム大家_review.md",
+    "image": "images/reviews/エクストリーム大家_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "社会・政治"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "春川賢太郎": "著"
+    }
+  },
+  {
     "title": "50代の壁 人生の分かれ道を決断する36のヒント",
     "author": "江上 剛",
     "date": "2026-04-15",
