@@ -1,5 +1,27 @@
 [
   {
+    "title": "山の上の家事学校",
+    "author": "近藤史恵",
+    "date": "2026-04-17",
+    "created_at": "2026-04-17T08:30:26.743182",
+    "filename": "山の上の家事学校_review.md",
+    "image": "images/reviews/山の上の家事学校_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "近藤史恵": "著"
+    }
+  },
+  {
     "title": "運動脳",
     "author": "アンデシュ・ハンセン and 御舩 由美子",
     "date": "2026-04-17",
