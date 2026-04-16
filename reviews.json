@@ -1,5 +1,27 @@
 [
   {
+    "title": "心眼",
+    "author": "相場 英雄",
+    "date": "2026-04-17",
+    "created_at": "2026-04-17T08:29:19.989220",
+    "filename": "心眼_review.md",
+    "image": "images/reviews/心眼_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "相場 英雄": "著"
+    }
+  },
+  {
     "title": "両手にトカレフ",
     "author": "ブレイディみかこ and オザワミカ",
     "date": "2026-04-16",
