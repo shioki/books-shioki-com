@@ -1,5 +1,27 @@
 [
   {
+    "title": "おでんオデッセイ",
+    "author": "山本 幸久",
+    "date": "2026-04-17",
+    "created_at": "2026-04-17T08:29:36.047024",
+    "filename": "おでんオデッセイ_review.md",
+    "image": "images/reviews/おでんオデッセイ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "山本 幸久": "著"
+    }
+  },
+  {
     "title": "グッド・フライト、グッド・ナイト　パイロットが誘う最高の空旅",
     "author": "マーク ヴァンホーナッカー and 岡本 由香子",
     "date": "2026-04-17",
