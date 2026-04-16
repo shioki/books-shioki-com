@@ -1,5 +1,26 @@
 [
   {
+    "title": "運動脳",
+    "author": "アンデシュ・ハンセン and 御舩 由美子",
+    "date": "2026-04-17",
+    "created_at": "2026-04-17T08:30:20.062267",
+    "filename": "運動脳_review.md",
+    "image": "images/reviews/運動脳_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "category": "技術・サイエンス",
+    "author_roles": {
+      "アンデシュ・ハンセン": "著",
+      "御舩 由美子": "翻訳"
+    }
+  },
+  {
     "title": "書いてはいけない",
     "author": "森永 卓郎",
     "date": "2026-04-17",
