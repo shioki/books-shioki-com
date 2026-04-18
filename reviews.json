@@ -1,5 +1,54 @@
 [
   {
+    "title": "さらば！　店長がバカすぎて",
+    "author": "早見和真",
+    "date": "2026-04-18",
+    "created_at": "2026-04-18T09:58:23.472943",
+    "filename": "さらば！　店長がバカすぎて_review.md",
+    "image": "images/reviews/さらば！　店長がバカすぎて_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "早見和真": "著"
+    },
+    "related": [
+      {
+        "filename": "あくてえ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "虎と兎_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "心眼_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "ＮＨＫ １００分 ｄｅ 名著 ブルデュー『ディスタンクシオン』 2020年 12月 ［雑誌］",
     "author": "NHK出版 日本放送協会",
     "date": "2026-04-18",
