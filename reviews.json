@@ -1,5 +1,54 @@
 [
   {
+    "title": "虎と兎",
+    "author": "吉川　永青",
+    "date": "2026-04-18",
+    "created_at": "2026-04-18T09:57:52.110324",
+    "filename": "虎と兎_review.md",
+    "image": "images/reviews/虎と兎_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "吉川 永青": "著"
+    },
+    "related": [
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "心眼_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "チャンバラ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "書くのがしんどい",
     "author": "竹村 俊助",
     "date": "2026-04-18",
