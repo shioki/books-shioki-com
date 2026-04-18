@@ -39,6 +39,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/dads.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/review-related.css' | relative_url }}">
 </head>
 <body class="markdown-page">
   <nav class="site-nav">
@@ -51,6 +52,7 @@
     <article class="content-card">
       {{ content }}
     </article>
+    <div id="review-related-root" hidden></div>
   </main>
 
   <footer class="site-footer">
@@ -61,5 +63,6 @@
     var y = document.getElementById('current-year');
     if (y) y.textContent = new Date().getFullYear();
   </script>
+  <script src="{{ '/review-related.js' | relative_url }}" defer></script>
 </body>
 </html>
