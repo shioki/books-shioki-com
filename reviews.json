@@ -1,5 +1,55 @@
 [
   {
+    "title": "巣鴨のお寿司屋で、帰れと言われたことがある",
+    "author": "古賀及子",
+    "date": "2026-04-18",
+    "created_at": "2026-04-18T09:58:12.333306",
+    "filename": "巣鴨のお寿司屋で、帰れと言われたことがある_review.md",
+    "image": "images/reviews/巣鴨のお寿司屋で、帰れと言われたことがある_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "古賀及子": "著"
+    },
+    "related": [
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ザ、コラム_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.8,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "０秒で動け　「わかってはいるけど動けない」人のための",
     "author": "伊藤 羊一",
     "date": "2026-04-18",
