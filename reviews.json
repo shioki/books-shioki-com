@@ -19,7 +19,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "近藤史恵": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.4075,
+        "method": "hybrid"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.4046,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.3986,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.3774,
+        "method": "hybrid"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.3742,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "運動脳",
@@ -40,7 +67,34 @@
     "author_roles": {
       "アンデシュ・ハンセン": "著",
       "御舩 由美子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
+        "score": 0.4387,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.3,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.2956,
+        "method": "hybrid"
+      },
+      {
+        "filename": "死にたくなったら筋トレ　たった10分の筋トレが君の人生を変える_review.md",
+        "score": 0.2935,
+        "method": "hybrid"
+      },
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.2773,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "書いてはいけない",
@@ -60,7 +114,34 @@
     "category": "社会・思想",
     "author_roles": {
       "森永 卓郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.474,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4713,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.441,
+        "method": "hybrid"
+      },
+      {
+        "filename": "聞く技術　聞いてもらう技術_review.md",
+        "score": 0.4379,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4349,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "今を生きる思想　福沢諭吉　最後の蘭学者",
@@ -82,7 +163,34 @@
     "category": "社会・思想",
     "author_roles": {
       "大久保健晴": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.5015,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4957,
+        "method": "hybrid"
+      },
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.4652,
+        "method": "hybrid"
+      },
+      {
+        "filename": "親切の人類史――ヒトはいかにして利他の心を獲得したか_review.md",
+        "score": 0.4623,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学_review.md",
+        "score": 0.459,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "上を向いてアルコール",
@@ -104,7 +212,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "小田嶋隆": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.2705,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.268,
+        "method": "hybrid"
+      },
+      {
+        "filename": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～_review.md",
+        "score": 0.2644,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.2642,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.2638,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "まったく新しいアカデミック・ライティングの教科書",
@@ -127,7 +262,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "阿部 幸大": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.3011,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.2914,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.2757,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.2673,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.2432,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
@@ -150,7 +312,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "ブレイディみかこ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.4899,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.4666,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ザ、コラム_review.md",
+        "score": 0.4541,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.4113,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.3861,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "おでんオデッセイ",
@@ -172,7 +361,34 @@
     "category": "小説",
     "author_roles": {
       "山本 幸久": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5447,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.515,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カイシャデイズ_review.md",
+        "score": 0.5112,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5066,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5064,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "グッド・フライト、グッド・ナイト　パイロットが誘う最高の空旅",
@@ -196,7 +412,34 @@
     "author_roles": {
       "マーク ヴァンホーナッカー": "著",
       "岡本 由香子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.3377,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.3221,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.3215,
+        "method": "hybrid"
+      },
+      {
+        "filename": "実力も運のうち　能力主義は正義か？_review.md",
+        "score": 0.3053,
+        "method": "hybrid"
+      },
+      {
+        "filename": "日本の15歳はなぜ学力が高いのか？　５つの教育大国に学ぶ成功の秘密_review.md",
+        "score": 0.3045,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "心眼",
@@ -218,7 +461,34 @@
     "category": "小説",
     "author_roles": {
       "相場 英雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "チャンバラ_review.md",
+        "score": 0.4828,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4827,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カイシャデイズ_review.md",
+        "score": 0.4681,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.4661,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.4639,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "両手にトカレフ",
@@ -241,7 +511,34 @@
     "author_roles": {
       "ブレイディみかこ": "著",
       "オザワミカ": "イラスト"
-    }
+    },
+    "related": [
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.5331,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.5085,
+        "method": "hybrid"
+      },
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.5018,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.501,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カトク　過重労働撲滅特別対策班_review.md",
+        "score": 0.4923,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ア・ピース・オブ・警句　5年間の「空気の研究」2015-2019",
@@ -263,7 +560,34 @@
     "category": "社会・思想",
     "author_roles": {
       "小田嶋 隆": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ルポ　トランプ王国２　ラストベルト再訪_review.md",
+        "score": 0.4451,
+        "method": "hybrid"
+      },
+      {
+        "filename": "未来を語る人（インターナショナル新書）_review.md",
+        "score": 0.351,
+        "method": "hybrid"
+      },
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.3194,
+        "method": "hybrid"
+      },
+      {
+        "filename": "海の向こうでニッポンは_review.md",
+        "score": 0.307,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界の凋落を見つめて　クロニクル２０１１－２０２０_review.md",
+        "score": 0.2898,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ＧＯ！ＧＯ！アリゲーターズ",
@@ -285,7 +609,34 @@
     "category": "小説",
     "author_roles": {
       "山本幸久": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.5447,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5317,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5204,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カイシャデイズ_review.md",
+        "score": 0.5188,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.5147,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "風に立つ",
@@ -307,7 +658,34 @@
     "category": "小説",
     "author_roles": {
       "柚月裕子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.5606,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5204,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5163,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.5114,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カイシャデイズ_review.md",
+        "score": 0.5087,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ",
@@ -329,7 +707,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "堀田 秀吾": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.5527,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.4808,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.4722,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.465,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.4617,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "空き家幸福論　問題解決のカギは「心」と「新しい経済」にあった",
@@ -351,7 +756,34 @@
     "category": "社会・思想",
     "author_roles": {
       "藤木哲也": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3951,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.3676,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.3462,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.3416,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.3371,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ポスト平成のキャリア戦略",
@@ -374,7 +806,34 @@
     "author_roles": {
       "塩野誠": "著",
       "佐々木紀彦": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.5367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.4772,
+        "method": "hybrid"
+      },
+      {
+        "filename": "学-お金の不安という幻想　一生働く時代で希望をつかむ8つの視点_review.md",
+        "score": 0.3741,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.343,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.3292,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "チャンバラ",
@@ -396,7 +855,34 @@
     "category": "小説",
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4996,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.4936,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.4856,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.4835,
+        "method": "hybrid"
+      },
+      {
+        "filename": "心眼_review.md",
+        "score": 0.4828,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」",
@@ -422,7 +908,34 @@
       "中田 敦": "著",
       "大和田 尚孝": "著",
       "谷島 宣之": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ_review.md",
+        "score": 0.5231,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.4222,
+        "method": "hybrid"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 0.3346,
+        "method": "hybrid"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.3301,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.329,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "The DevOps　逆転だ！究極の継続的デリバリー",
@@ -446,7 +959,34 @@
       "ジョージ スパッフォード": "著",
       "長尾 高弘": "翻訳",
       "榊原 彰": "監修"
-    }
+    },
+    "related": [
+      {
+        "filename": "情シスの定石　～失敗事例から学ぶシステム企画・開発・保守・運用のポイント～_review.md",
+        "score": 0.5284,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.3869,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3492,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.3399,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.3352,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "小説　盛田昭夫学校　上下合本版",
@@ -468,7 +1008,34 @@
     "category": "小説",
     "author_roles": {
       "江波戸哲夫": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "カラ売り屋シリーズ　マネーモンスター_review.md",
+        "score": 0.4763,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4681,
+        "method": "hybrid"
+      },
+      {
+        "filename": "チャンバラ_review.md",
+        "score": 0.4621,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【合本版】小説フランス革命（全18巻）_review.md",
+        "score": 0.4551,
+        "method": "hybrid"
+      },
+      {
+        "filename": "心眼_review.md",
+        "score": 0.4489,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "夏が破れる",
@@ -485,7 +1052,34 @@
     "categories": [
       "小説"
     ],
-    "category": "小説"
+    "category": "小説",
+    "related": [
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4751,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.4707,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.4672,
+        "method": "hybrid"
+      },
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.4542,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.44,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "エクストリーム大家",
@@ -505,7 +1099,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "春川賢太郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.3154,
+        "method": "hybrid"
+      },
+      {
+        "filename": "復活への底力　運命を受け入れ、前向きに生きる_review.md",
+        "score": 0.3103,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.307,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.305,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.3049,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "50代の壁 人生の分かれ道を決断する36のヒント",
@@ -527,7 +1148,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "江上 剛": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.284,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.2619,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.2514,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.2446,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.2358,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "戦前回帰 「大日本病」の再発",
@@ -549,7 +1197,34 @@
     "category": "社会・思想",
     "author_roles": {
       "山崎雅弘": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "名著の予知能力_review.md",
+        "score": 0.4973,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4785,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リベラリズムへの不満_review.md",
+        "score": 0.4728,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4443,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4379,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "4 3 2 1",
@@ -573,7 +1248,34 @@
     "author_roles": {
       "ポール・オースター": "著",
       "柴田元幸": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "プロット・アゲンスト・アメリカ_review.md",
+        "score": 0.3988,
+        "method": "hybrid"
+      },
+      {
+        "filename": "アレクサンドル・デュマ-鈴木力衛-ダルタニャン物語11　剣よ、さらば_review.md",
+        "score": 0.3367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.3124,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.3118,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.3102,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "見てはいけない！　ヤバい会社烈伝",
@@ -595,7 +1297,34 @@
     "category": "社会・思想",
     "author_roles": {
       "金田 信一郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.4864,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4721,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4657,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4621,
+        "method": "hybrid"
+      },
+      {
+        "filename": "名著の予知能力_review.md",
+        "score": 0.4502,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "カイシャデイズ",
@@ -617,7 +1346,34 @@
     "category": "小説",
     "author_roles": {
       "山本 幸久": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5188,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.5112,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.5098,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5087,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5053,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "演習で身につく要件定義の実践テクニック",
@@ -638,7 +1394,34 @@
     "category": "技術・サイエンス",
     "author_roles": {
       "水田 哲郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.3586,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.3346,
+        "method": "hybrid"
+      },
+      {
+        "filename": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ_review.md",
+        "score": 0.3208,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.282,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.2819,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "なぜ九州のホームセンターが国内有数のDX企業になれたか",
@@ -659,7 +1442,34 @@
     "author_roles": {
       "柳瀬 隆志": "著",
       "酒井 真弓": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.5217,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.4854,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4695,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで_review.md",
+        "score": 0.4588,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.4553,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "70歳、これからは湯豆腐――私の方丈記",
@@ -682,7 +1492,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "太田和彦": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.4789,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.4666,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ザ、コラム_review.md",
+        "score": 0.4543,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4313,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.4191,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "失敗マップのすすめ　2つの質問に答えるだけで「ミスしない・させない」を仕組み化できる新ツール！",
@@ -702,7 +1539,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "飯野謙次": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "未来の年表　業界大変化　瀬戸際の日本で起きること_review.md",
+        "score": 0.4582,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.4384,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「AIクソ上司」の脅威 2030年、日本企業の序列がひっくり返る_review.md",
+        "score": 0.3581,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.3287,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.3164,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "君がJリーグを認めるまで、僕は歩くのをやめない SEASON 1 柏 千葉 鹿島",
@@ -721,7 +1585,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "中村慎太郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.2934,
+        "method": "hybrid"
+      },
+      {
+        "filename": "一軍監督の仕事～育った彼らを勝たせたい～_review.md",
+        "score": 0.2909,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.2432,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.2427,
+        "method": "hybrid"
+      },
+      {
+        "filename": "エクストリーム大家_review.md",
+        "score": 0.2395,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！",
@@ -741,7 +1632,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "伊藤 羊一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.5113,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.4887,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.4808,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.4757,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.4701,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "一軍監督の仕事～育った彼らを勝たせたい～",
@@ -760,7 +1678,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "高津 臣吾": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.3393,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.2915,
+        "method": "hybrid"
+      },
+      {
+        "filename": "中村慎太郎-君がJリーグを認めるまで、僕は歩くのをやめない SEASON 1 柏 千葉 鹿島_review.md",
+        "score": 0.2909,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.273,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.2723,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "とにもかくにもごはん",
@@ -775,7 +1720,34 @@
     "categories": [
       "社会・思想"
     ],
-    "category": "社会・思想"
+    "category": "社会・思想",
+    "related": [
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.5141,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4834,
+        "method": "hybrid"
+      },
+      {
+        "filename": "にほんでいきる——外国からきた子どもたち_review.md",
+        "score": 0.4716,
+        "method": "hybrid"
+      },
+      {
+        "filename": "里奈の物語_review.md",
+        "score": 0.4659,
+        "method": "hybrid"
+      },
+      {
+        "filename": "しょぼい生活革命_review.md",
+        "score": 0.4629,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ＮＥＯ　ＨＵＭＡＮ　ネオ・ヒューマン―究極の自由を得る未来",
@@ -795,7 +1767,34 @@
     "author_roles": {
       "ピーター・スコット・モーガン": "著",
       "藤田 美菜子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.3024,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.2703,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.2627,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.2615,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.2607,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "私労働小説　ザ・シット・ジョブ",
@@ -813,7 +1812,34 @@
     "category": "社会・思想",
     "author_roles": {
       "ブレイディ みかこ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.3953,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.3881,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カトク　過重労働撲滅特別対策班_review.md",
+        "score": 0.3844,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.3759,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.3691,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "東京ディストピア日記",
@@ -834,7 +1860,34 @@
     "category": "社会・思想",
     "author_roles": {
       "桜庭一樹": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "コロナ後の世界_review.md",
+        "score": 0.4756,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.418,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.3831,
+        "method": "hybrid"
+      },
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.3806,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.3769,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術",
@@ -854,7 +1907,34 @@
     "author_roles": {
       "尾原和啓": "著",
       "伊藤羊一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ_review.md",
+        "score": 0.4532,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.4222,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3489,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.329,
+        "method": "hybrid"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.3269,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "鴻上尚史のおっとどっこいほがらか人生相談　息苦しい「世間」を楽に生きる処方箋 鴻上尚史のほがらか人生相談",
@@ -876,7 +1956,34 @@
     "category": "社会・思想",
     "author_roles": {
       "鴻上 尚史": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ワーク・イズ・ライフ　宇宙一チャラい仕事論_review.md",
+        "score": 0.3466,
+        "method": "hybrid"
+      },
+      {
+        "filename": "トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_review.md",
+        "score": 0.2866,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おっさん社会が生きづらい_review.md",
+        "score": 0.2852,
+        "method": "hybrid"
+      },
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.2787,
+        "method": "hybrid"
+      },
+      {
+        "filename": "発達系女子とモラハラ男_review.md",
+        "score": 0.2756,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "未来の年表　業界大変化　瀬戸際の日本で起きること",
@@ -898,7 +2005,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "河合雅司": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.4773,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯野謙次-失敗マップのすすめ　2つの質問に答えるだけで「ミスしない・させない」を仕組み化できる新ツール！_review.md",
+        "score": 0.4582,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「AIクソ上司」の脅威 2030年、日本企業の序列がひっくり返る_review.md",
+        "score": 0.3971,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.3428,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.3332,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』",
@@ -920,7 +2054,34 @@
     "category": "社会・思想",
     "author_roles": {
       "橋本努": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.4957,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学_review.md",
+        "score": 0.4737,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.4607,
+        "method": "hybrid"
+      },
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.4592,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "親切の人類史――ヒトはいかにして利他の心を獲得したか",
@@ -943,7 +2104,34 @@
     "author_roles": {
       "マイケル・E・マカロー": "著",
       "的場知之": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4915,
+        "method": "hybrid"
+      },
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.4643,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.4623,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4565,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学_review.md",
+        "score": 0.4507,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "歴史戦と思想戦　――歴史問題の読み解き方",
@@ -963,7 +2151,34 @@
     "category": "社会・思想",
     "author_roles": {
       "山崎雅弘": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "ハッピークラシー――「幸せ」願望に支配される日常_review.md",
+        "score": 0.4592,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.4584,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4577,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界の凋落を見つめて　クロニクル２０１１－２０２０_review.md",
+        "score": 0.4574,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4531,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "サラリーマン球団社長",
@@ -980,7 +2195,34 @@
     "categories": [
       "ビジネス・経済"
     ],
-    "category": "ビジネス・経済"
+    "category": "ビジネス・経済",
+    "related": [
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.5217,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.483,
+        "method": "hybrid"
+      },
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.4684,
+        "method": "hybrid"
+      },
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4544,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.454,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ナポレオン　１　台頭篇",
@@ -997,7 +2239,34 @@
     "categories": [
       "小説"
     ],
-    "category": "小説"
+    "category": "小説",
+    "related": [
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.606,
+        "method": "hybrid"
+      },
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.4597,
+        "method": "hybrid"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4588,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.4529,
+        "method": "hybrid"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 0.44,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ＡＩ監獄ウイグル",
@@ -1014,7 +2283,34 @@
     "categories": [
       "社会・思想"
     ],
-    "category": "社会・思想"
+    "category": "社会・思想",
+    "related": [
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.5249,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.5246,
+        "method": "hybrid"
+      },
+      {
+        "filename": "潜入ルポ　ａｍａｚｏｎ帝国_review.md",
+        "score": 0.5135,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.4999,
+        "method": "hybrid"
+      },
+      {
+        "filename": "AI失業　生成AIは私たちの仕事をどう奪うのか？_review.md",
+        "score": 0.4924,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "狗賓童子の島",
@@ -1036,7 +2332,34 @@
     "category": "社会・思想",
     "author_roles": {
       "飯嶋和一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.504,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.4955,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.4885,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.483,
+        "method": "hybrid"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.4805,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "復活への底力　運命を受け入れ、前向きに生きる",
@@ -1058,7 +2381,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "出口治明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "鉄人社編集部-バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で_review.md",
+        "score": 0.3571,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.3312,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3152,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.3131,
+        "method": "hybrid"
+      },
+      {
+        "filename": "エクストリーム大家_review.md",
+        "score": 0.3103,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "外資系コンサルが教える　読書を仕事につなげる技術",
@@ -1078,7 +2428,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "山口 周": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.4827,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.4728,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.4641,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.4565,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4553,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "しょぼい生活革命",
@@ -1100,7 +2477,34 @@
       "内田樹": "著",
       "えらいてんちょう（矢内東紀）": "著",
       "中田考": "その他"
-    }
+    },
+    "related": [
+      {
+        "filename": "「利他」とは何か_review.md",
+        "score": 0.4849,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4731,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人新世の「資本論」_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.4649,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界の凋落を見つめて　クロニクル２０１１－２０２０_review.md",
+        "score": 0.4646,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "上級国民／下級国民（小学館新書）",
@@ -1120,7 +2524,34 @@
     "category": "社会・思想",
     "author_roles": {
       "橘玲": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.4923,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.488,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4831,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.4796,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.4778,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ハッピークラシー――「幸せ」願望に支配される日常",
@@ -1143,7 +2574,34 @@
       "エヴァ・イルーズ": "著",
       "山田陽子": "著",
       "高里ひろ": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "潜入ルポ　ａｍａｚｏｎ帝国_review.md",
+        "score": 0.4759,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.4737,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.4653,
+        "method": "hybrid"
+      },
+      {
+        "filename": "歴史戦と思想戦　――歴史問題の読み解き方_review.md",
+        "score": 0.4592,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "AI失業　生成AIは私たちの仕事をどう奪うのか？",
@@ -1163,7 +2621,34 @@
     "category": "社会・思想",
     "author_roles": {
       "井上 智洋": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.5112,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4924,
+        "method": "hybrid"
+      },
+      {
+        "filename": "上級国民／下級国民（小学館新書）_review.md",
+        "score": 0.469,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.4678,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人新世の「資本論」_review.md",
+        "score": 0.4654,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "５０歳からの性教育",
@@ -1189,7 +2674,34 @@
       "松岡宗嗣": "著",
       "斉藤章佳": "著",
       "田嶋陽子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "「利他」とは何か_review.md",
+        "score": 0.4914,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.4895,
+        "method": "hybrid"
+      },
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.4834,
+        "method": "hybrid"
+      },
+      {
+        "filename": "しょぼい生活革命_review.md",
+        "score": 0.4731,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.4634,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "悩める時の百冊百話　人生を救うあのセリフ、この思索",
@@ -1209,7 +2721,34 @@
     "category": "社会・思想",
     "author_roles": {
       "岸見一郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.5141,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4895,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「利他」とは何か_review.md",
+        "score": 0.4889,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ハッピークラシー――「幸せ」願望に支配される日常_review.md",
+        "score": 0.4737,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.472,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "にほんでいきる——外国からきた子どもたち",
@@ -1229,7 +2768,34 @@
     "category": "社会・思想",
     "author_roles": {
       "毎日新聞取材班": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "里奈の物語_review.md",
+        "score": 0.5081,
+        "method": "hybrid"
+      },
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.4716,
+        "method": "hybrid"
+      },
+      {
+        "filename": "上級国民／下級国民（小学館新書）_review.md",
+        "score": 0.4635,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4618,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.4617,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "熊本かわりばんこ",
@@ -1250,7 +2816,34 @@
     "author_roles": {
       "吉本 由美": "著",
       "田尻 久子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.4407,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.435,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.4283,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.37,
+        "method": "hybrid"
+      },
+      {
+        "filename": "死にたくなったら筋トレ　たった10分の筋トレが君の人生を変える_review.md",
+        "score": 0.3142,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８",
@@ -1270,7 +2863,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "牧田 善二": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.4283,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.4221,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.4174,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０_review.md",
+        "score": 0.4037,
+        "method": "hybrid"
+      },
+      {
+        "filename": "死にたくなったら筋トレ　たった10分の筋トレが君の人生を変える_review.md",
+        "score": 0.322,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "シルクロード世界史",
@@ -1291,7 +2911,34 @@
     "category": "社会・思想",
     "author_roles": {
       "森安孝夫": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.353,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.336,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.3179,
+        "method": "hybrid"
+      },
+      {
+        "filename": "治明-一気読み日本史_review.md",
+        "score": 0.3137,
+        "method": "hybrid"
+      },
+      {
+        "filename": "菅原道真　学者政治家の栄光と没落_review.md",
+        "score": 0.305,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "カラ売り屋シリーズ　マネーモンスター",
@@ -1313,7 +2960,34 @@
     "category": "小説",
     "author_roles": {
       "黒木亮": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "小説　盛田昭夫学校　上下合本版_review.md",
+        "score": 0.4763,
+        "method": "hybrid"
+      },
+      {
+        "filename": "心眼_review.md",
+        "score": 0.4523,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4453,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【合本版】小説フランス革命（全18巻）_review.md",
+        "score": 0.4453,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水と礫_review.md",
+        "score": 0.4453,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "潜入ルポ　ａｍａｚｏｎ帝国",
@@ -1333,7 +3007,34 @@
     "category": "社会・思想",
     "author_roles": {
       "横田増生": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.5343,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.5135,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.4823,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ハッピークラシー――「幸せ」願望に支配される日常_review.md",
+        "score": 0.4759,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.468,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "水と礫",
@@ -1355,7 +3056,34 @@
     "category": "小説",
     "author_roles": {
       "藤原無雨": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.5183,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.512,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5035,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.5,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.4968,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "発達系女子とモラハラ男",
@@ -1378,7 +3106,34 @@
     "author_roles": {
       "鈴木大介": "著",
       "いのうえさきこ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_review.md",
+        "score": 0.4559,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福学の先生に、聞きづらいことぜんぶ聞く_review.md",
+        "score": 0.4367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.3182,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おっさん社会が生きづらい_review.md",
+        "score": 0.318,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.3002,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ふたつの日本　「移民国家」の建前と現実",
@@ -1400,7 +3155,34 @@
     "category": "社会・思想",
     "author_roles": {
       "望月優大": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.4785,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.4733,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4665,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4657,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "16世紀「世界史」のはじまり",
@@ -1423,7 +3205,34 @@
     "category": "社会・思想",
     "author_roles": {
       "玉木 俊明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "世界史のミカタ_review.md",
+        "score": 0.4168,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.3688,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.353,
+        "method": "hybrid"
+      },
+      {
+        "filename": "治明-一気読み日本史_review.md",
+        "score": 0.2635,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.2531,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "生成ＡＩ革命　社会は根底から変わる",
@@ -1443,7 +3252,34 @@
     "category": "社会・思想",
     "author_roles": {
       "野口悠紀雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス_review.md",
+        "score": 0.5152,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.482,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4752,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4648,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4647,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "最終飛行",
@@ -1463,7 +3299,34 @@
     "category": "小説",
     "author_roles": {
       "佐藤 賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.4835,
+        "method": "hybrid"
+      },
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.4756,
+        "method": "hybrid"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 0.4751,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.4643,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.4588,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "サンセット・パーク",
@@ -1484,7 +3347,34 @@
     "author_roles": {
       "ポール・オースター": "著",
       "柴田元幸": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.525,
+        "method": "hybrid"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 0.4707,
+        "method": "hybrid"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4643,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.4576,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.4529,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "アンダークラス",
@@ -1506,7 +3396,34 @@
     "category": "文学・評論",
     "author_roles": {
       "相場英雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "相場英雄-ブラックスワン_review.md",
+        "score": 0.5091,
+        "method": "hybrid"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.4837,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.4807,
+        "method": "hybrid"
+      },
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.4715,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "女って何だ？　コミュ障の私が考えてみた",
@@ -1529,7 +3446,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "カレー沢 薫": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.4899,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.4789,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ザ、コラム_review.md",
+        "score": 0.4621,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4526,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.3971,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "希望病棟",
@@ -1551,7 +3495,34 @@
     "category": "社会・思想",
     "author_roles": {
       "垣谷美雨": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.5085,
+        "method": "hybrid"
+      },
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.5084,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.4997,
+        "method": "hybrid"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 0.4955,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.4882,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "カトク　過重労働撲滅特別対策班",
@@ -1573,7 +3544,34 @@
     "category": "社会・思想",
     "author_roles": {
       "新庄 耕": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.5046,
+        "method": "hybrid"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.4923,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.4792,
+        "method": "hybrid"
+      },
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.4779,
+        "method": "hybrid"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 0.4694,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "「教える」ということ　日本を救う、［尖った人］を増やすには",
@@ -1593,7 +3591,34 @@
     "category": "社会・思想",
     "author_roles": {
       "出口 治明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 0.4713,
+        "method": "hybrid"
+      },
+      {
+        "filename": "聞く技術　聞いてもらう技術_review.md",
+        "score": 0.4712,
+        "method": "hybrid"
+      },
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.4647,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4619,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.4555,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "賢者たちの街",
@@ -1616,7 +3641,34 @@
     "author_roles": {
       "エイモア トールズ": "著",
       "宇佐川 晶子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4302,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.4079,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.3991,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小説　盛田昭夫学校　上下合本版_review.md",
+        "score": 0.3917,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水と礫_review.md",
+        "score": 0.3869,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ワーク・イズ・ライフ　宇宙一チャラい仕事論",
@@ -1638,7 +3690,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "近藤康太郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "鴻上尚史のおっとどっこいほがらか人生相談　息苦しい「世間」を楽に生きる処方箋 鴻上尚史のほがらか人生相談_review.md",
+        "score": 0.3466,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.2755,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.2688,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.2671,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.264,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ",
@@ -1660,7 +3739,34 @@
     "category": "社会・思想",
     "author_roles": {
       "ブレイディみかこ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.5331,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.5009,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.4997,
+        "method": "hybrid"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 0.4885,
+        "method": "hybrid"
+      },
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.4804,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ",
@@ -1683,7 +3789,34 @@
       "ジーン・キム": "著",
       "長尾 高弘": "翻訳",
       "榊原 彰": "監修"
-    }
+    },
+    "related": [
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.5231,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.4532,
+        "method": "hybrid"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.4142,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.3401,
+        "method": "hybrid"
+      },
+      {
+        "filename": "The DevOps　逆転だ！究極の継続的デリバリー_review.md",
+        "score": 0.3343,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "海の向こうでニッポンは",
@@ -1703,7 +3836,34 @@
     "category": "社会・思想",
     "author_roles": {
       "井上 章一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ルポ　トランプ王国２　ラストベルト再訪_review.md",
+        "score": 0.3425,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.328,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.3238,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.3191,
+        "method": "hybrid"
+      },
+      {
+        "filename": "潜入ルポ　ａｍａｚｏｎ帝国_review.md",
+        "score": 0.319,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "死にたくなったら筋トレ　たった10分の筋トレが君の人生を変える",
@@ -1723,7 +3883,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "芳賀 セブン": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.322,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.3142,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.3021,
+        "method": "hybrid"
+      },
+      {
+        "filename": "運動脳_review.md",
+        "score": 0.2935,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.2915,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "捏造の科学者　STAP細胞事件",
@@ -1743,7 +3930,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "須田 桃子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.4263,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.3152,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.2936,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.2921,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ラストインタビュー―藤島ジュリー景子との47時間―_review.md",
+        "score": 0.2729,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）",
@@ -1763,7 +3977,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "読売新聞社会部「あれから」取材班": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 0.4263,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.37,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.3238,
+        "method": "hybrid"
+      },
+      {
+        "filename": "建宇-バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記_review.md",
+        "score": 0.3153,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.2961,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "小飼弾の超訳「お金」理論",
@@ -1783,7 +4024,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "小飼 弾": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.5335,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 0.5171,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.4921,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.4798,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4695,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "情シスの定石　～失敗事例から学ぶシステム企画・開発・保守・運用のポイント～",
@@ -1804,7 +4072,34 @@
     "author_roles": {
       "石黒 直樹": "著",
       "解夏": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "The DevOps　逆転だ！究極の継続的デリバリー_review.md",
+        "score": 0.5284,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.3504,
+        "method": "hybrid"
+      },
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.3458,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ぶっちゃけ相続――日本一の相続専門YouTuber税理士がお金のソン・トクをとことん教えます！_review.md",
+        "score": 0.3378,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3278,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）",
@@ -1826,7 +4121,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "スージー鈴木": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.4772,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.4584,
+        "method": "hybrid"
+      },
+      {
+        "filename": "学-お金の不安という幻想　一生働く時代で希望をつかむ8つの視点_review.md",
+        "score": 0.3697,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.3494,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.342,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ナポレオン　３　転落篇",
@@ -1846,7 +4168,34 @@
     "category": "小説",
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.606,
+        "method": "hybrid"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4835,
+        "method": "hybrid"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 0.4672,
+        "method": "hybrid"
+      },
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.4625,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.4576,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "思考は文字化すると現実化する",
@@ -1868,7 +4217,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "横川 裕之": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.3359,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.3279,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福学の先生に、聞きづらいことぜんぶ聞く_review.md",
+        "score": 0.3266,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.308,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.3077,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと",
@@ -1890,7 +4266,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "西 和彦": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.4887,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.465,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.4525,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.4518,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.448,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門",
@@ -1910,7 +4313,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "田内 学": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.5171,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.5037,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.5029,
+        "method": "hybrid"
+      },
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4804,
+        "method": "hybrid"
+      },
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.4595,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "友情を哲学する～七人の哲学者たちの友情観～",
@@ -1932,7 +4362,34 @@
     "category": "社会・思想",
     "author_roles": {
       "戸谷 洋志": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.5151,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学_review.md",
+        "score": 0.4857,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4632,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4592,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.4575,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学",
@@ -1954,7 +4411,34 @@
     "category": "社会・思想",
     "author_roles": {
       "近内悠太": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.5097,
+        "method": "hybrid"
+      },
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.4857,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4737,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4615,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.459,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "マナーはいらない　小説の書きかた講座",
@@ -1974,7 +4458,34 @@
     "category": "小説",
     "author_roles": {
       "三浦しをん": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.449,
+        "method": "hybrid"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4469,
+        "method": "hybrid"
+      },
+      {
+        "filename": "光のとこにいてね_review.md",
+        "score": 0.441,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.4353,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.4182,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか",
@@ -1995,7 +4506,34 @@
     "author_roles": {
       "アレックス・ローゼンブラット": "著",
       "飯嶋 貴子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.5619,
+        "method": "hybrid"
+      },
+      {
+        "filename": "潜入ルポ　ａｍａｚｏｎ帝国_review.md",
+        "score": 0.5343,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.5249,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.5235,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.5201,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで",
@@ -2016,7 +4554,34 @@
     "author_roles": {
       "カビール セガール": "著",
       "小坂 恵理": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.5335,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 0.5037,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.4705,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.4636,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_review.md",
+        "score": 0.4601,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "パシヨン",
@@ -2038,7 +4603,34 @@
     "category": "小説",
     "author_roles": {
       "川越 宗一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5046,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水と礫_review.md",
+        "score": 0.5,
+        "method": "hybrid"
+      },
+      {
+        "filename": "チャンバラ_review.md",
+        "score": 0.4996,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.496,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.4938,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "「今どきの若者」のリアル",
@@ -2060,7 +4652,34 @@
     "category": "社会・思想",
     "author_roles": {
       "山田 昌弘": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4762,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4621,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.4568,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リベラリズムへの不満_review.md",
+        "score": 0.4445,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "Before DX",
@@ -2082,7 +4701,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "綴間チヨノリ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.3058,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.2754,
+        "method": "hybrid"
+      },
+      {
+        "filename": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ_review.md",
+        "score": 0.2688,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.268,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.2634,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ザ、コラム",
@@ -2105,7 +4751,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "小田嶋隆": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.4621,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.4543,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.4541,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.3976,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.3862,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "思考の方法学",
@@ -2125,7 +4798,34 @@
     "category": "社会・思想",
     "author_roles": {
       "栗田治": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "あなたが消された未来――テクノロジーと優生思想の売り込みについて_review.md",
+        "score": 0.4809,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.3412,
+        "method": "hybrid"
+      },
+      {
+        "filename": "AI失業　生成AIは私たちの仕事をどう奪うのか？_review.md",
+        "score": 0.3313,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.3228,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界の凋落を見つめて　クロニクル２０１１－２０２０_review.md",
+        "score": 0.3213,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "YABUNONAKAーヤブノナカー",
@@ -2147,7 +4847,34 @@
     "category": "社会・思想",
     "author_roles": {
       "金原 ひとみ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.5084,
+        "method": "hybrid"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 0.504,
+        "method": "hybrid"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.5018,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ガラパゴス 下_review.md",
+        "score": 0.4825,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.4804,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ビジネスの未来――エコノミーにヒューマニティを取り戻す",
@@ -2169,7 +4896,34 @@
     "category": "社会・思想",
     "author_roles": {
       "山口 周": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4864,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4851,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4733,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4568,
+        "method": "hybrid"
+      },
+      {
+        "filename": "名著の予知能力_review.md",
+        "score": 0.4506,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０",
@@ -2190,7 +4944,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "牧田 善二": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.4037,
+        "method": "hybrid"
+      },
+      {
+        "filename": "すべてはノートからはじまる　あなたの人生をひらく記録術_review.md",
+        "score": 0.2994,
+        "method": "hybrid"
+      },
+      {
+        "filename": "死にたくなったら筋トレ　たった10分の筋トレが君の人生を変える_review.md",
+        "score": 0.2524,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.2491,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.2468,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "スポーツ精神科医が教える日常で活かせるスポーツメンタル",
@@ -2212,7 +4993,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "木村好珠": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.5527,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.5113,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.4886,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.4723,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.4569,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "そして、バトンは渡された",
@@ -2234,7 +5042,34 @@
     "category": "小説",
     "author_roles": {
       "瀬尾 まいこ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5606,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.5273,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5153,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.515,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5147,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "日本の15歳はなぜ学力が高いのか？　５つの教育大国に学ぶ成功の秘密",
@@ -2258,7 +5093,34 @@
     "author_roles": {
       "ルーシー クレハン": "著",
       "橋川 史": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "実力も運のうち　能力主義は正義か？_review.md",
+        "score": 0.332,
+        "method": "hybrid"
+      },
+      {
+        "filename": "グッド・フライト、グッド・ナイト　パイロットが誘う最高の空旅_review.md",
+        "score": 0.3045,
+        "method": "hybrid"
+      },
+      {
+        "filename": "コロナ後の世界_review.md",
+        "score": 0.2969,
+        "method": "hybrid"
+      },
+      {
+        "filename": "にほんでいきる——外国からきた子どもたち_review.md",
+        "score": 0.2722,
+        "method": "hybrid"
+      },
+      {
+        "filename": "私労働小説　ザ・シット・ジョブ_review.md",
+        "score": 0.2578,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ハードウェアハッカー～新しいモノをつくる破壊と創造の冒険",
@@ -2280,7 +5142,34 @@
       "アンドリュー“バニー”ファン": "著",
       "高須 正和": "翻訳",
       "山形 浩生": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
+        "score": 0.2781,
+        "method": "hybrid"
+      },
+      {
+        "filename": "運動脳_review.md",
+        "score": 0.2606,
+        "method": "hybrid"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 0.2434,
+        "method": "hybrid"
+      },
+      {
+        "filename": "情シスの定石　～失敗事例から学ぶシステム企画・開発・保守・運用のポイント～_review.md",
+        "score": 0.2295,
+        "method": "hybrid"
+      },
+      {
+        "filename": "The DevOps　逆転だ！究極の継続的デリバリー_review.md",
+        "score": 0.2228,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法",
@@ -2302,7 +5191,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "浅田 すぐる": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.4886,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.4748,
+        "method": "hybrid"
+      },
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.4705,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.4701,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.4609,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ゼロからの『資本論』",
@@ -2323,7 +5239,34 @@
     "category": "社会・思想",
     "author_roles": {
       "斎藤 幸平": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "人新世の「資本論」_review.md",
+        "score": 0.414,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.4118,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.401,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.3908,
+        "method": "hybrid"
+      },
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 0.3829,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "菅原道真　学者政治家の栄光と没落",
@@ -2346,7 +5289,34 @@
     "category": "社会・思想",
     "author_roles": {
       "滝川幸司": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.305,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.2815,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.2556,
+        "method": "hybrid"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.2436,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.2363,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "あなたの会社、その働き方は幸せですか？",
@@ -2368,7 +5338,34 @@
     "category": "社会・思想",
     "author_roles": {
       "出口治明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.4851,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4762,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4721,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4665,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リベラリズムへの不満_review.md",
+        "score": 0.4468,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "「利他」とは何か",
@@ -2392,7 +5389,34 @@
       "國分功一郎": "著",
       "磯崎憲一郎": "著",
       "伊藤亜紗": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4914,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.4889,
+        "method": "hybrid"
+      },
+      {
+        "filename": "しょぼい生活革命_review.md",
+        "score": 0.4849,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.4721,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.4642,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい",
@@ -2414,7 +5438,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "東 香名子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "三行で撃つ 〈善く、生きる〉ための文章塾_review.md",
+        "score": 0.4998,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.4748,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.4723,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.4722,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.4686,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "全面改訂　第3版　ほったらかし投資術",
@@ -2435,7 +5486,34 @@
     "author_roles": {
       "山崎 元": "著",
       "水瀬 ケンイチ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.5196,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.4827,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.4786,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.4684,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4647,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "コロナ後の世界",
@@ -2464,7 +5542,34 @@
       "スティーブン・ピンカー": "著",
       "スコット・ギャロウェイ": "著",
       "大野 和基": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "東京ディストピア日記_review.md",
+        "score": 0.4756,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.3806,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_review.md",
+        "score": 0.3679,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.3574,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 0.3566,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を",
@@ -2484,7 +5589,34 @@
     "category": "社会・思想",
     "author_roles": {
       "野口悠紀雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.482,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4558,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4555,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4437,
+        "method": "hybrid"
+      },
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 0.441,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ルポ　トランプ王国２　ラストベルト再訪",
@@ -2505,7 +5637,34 @@
     "category": "社会・思想",
     "author_roles": {
       "金成 隆一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ア・ピース・オブ・警句　5年間の「空気の研究」2015-2019_review.md",
+        "score": 0.4451,
+        "method": "hybrid"
+      },
+      {
+        "filename": "未来を語る人（インターナショナル新書）_review.md",
+        "score": 0.3951,
+        "method": "hybrid"
+      },
+      {
+        "filename": "海の向こうでニッポンは_review.md",
+        "score": 0.3425,
+        "method": "hybrid"
+      },
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.3389,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義のルールと精神――それはいかにして生き返るのか_review.md",
+        "score": 0.3313,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "街とその不確かな壁",
@@ -2527,7 +5686,34 @@
     "category": "小説",
     "author_roles": {
       "村上春樹": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.5273,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水と礫_review.md",
+        "score": 0.5183,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5121,
+        "method": "hybrid"
+      },
+      {
+        "filename": "水車小屋のネネ_review.md",
+        "score": 0.5119,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5114,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "平等についての小さな歴史",
@@ -2548,7 +5734,34 @@
     "author_roles": {
       "トマ・ピケティ": "著",
       "広野和美": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4936,
+        "method": "hybrid"
+      },
+      {
+        "filename": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス_review.md",
+        "score": 0.4887,
+        "method": "hybrid"
+      },
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 0.474,
+        "method": "hybrid"
+      },
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.4648,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4619,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "リベラリズムへの不満",
@@ -2571,7 +5784,34 @@
     "author_roles": {
       "フランシス・フクヤマ": "著",
       "会田弘継": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.4728,
+        "method": "hybrid"
+      },
+      {
+        "filename": "名著の予知能力_review.md",
+        "score": 0.4599,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.4496,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4468,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.4445,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質",
@@ -2594,7 +5834,34 @@
     "author_roles": {
       "丸山 俊一": "著",
       "ＮＨＫ「欲望の資本主義」制作班": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "未来の年表　業界大変化　瀬戸際の日本で起きること_review.md",
+        "score": 0.4773,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯野謙次-失敗マップのすすめ　2つの質問に答えるだけで「ミスしない・させない」を仕組み化できる新ツール！_review.md",
+        "score": 0.4384,
+        "method": "hybrid"
+      },
+      {
+        "filename": "大惨事（カタストロフィ）の人類史_review.md",
+        "score": 0.4317,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.3599,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3469,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "すべてはノートからはじまる　あなたの人生をひらく記録術",
@@ -2615,7 +5882,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "倉下忠憲": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０_review.md",
+        "score": 0.2994,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.2904,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.2584,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.2562,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.2546,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考",
@@ -2636,7 +5930,34 @@
     "author_roles": {
       "ユヴァル・ノア・ハラリ": "著",
       "柴田裕之": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.5366,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.5235,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.5119,
+        "method": "hybrid"
+      },
+      {
+        "filename": "AI失業　生成AIは私たちの仕事をどう奪うのか？_review.md",
+        "score": 0.5112,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4999,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "未来を語る人（インターナショナル新書）",
@@ -2666,7 +5987,34 @@
       "アンドリュー・マカフィー": "著",
       "ジェイソン・Ｗ・ムーア": "著",
       "大野和基": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "ルポ　トランプ王国２　ラストベルト再訪_review.md",
+        "score": 0.3951,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義のルールと精神――それはいかにして生き返るのか_review.md",
+        "score": 0.3673,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ア・ピース・オブ・警句　5年間の「空気の研究」2015-2019_review.md",
+        "score": 0.351,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3412,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人新世の「資本論」_review.md",
+        "score": 0.3223,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ぶっちゃけ相続――日本一の相続専門YouTuber税理士がお金のソン・トクをとことん教えます！",
@@ -2686,7 +6034,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "橘 慶太": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.4627,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.4519,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.4517,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.45,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4495,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "おっさん社会が生きづらい",
@@ -2708,7 +6083,34 @@
     "category": "社会・思想",
     "author_roles": {
       "小島 慶子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "発達系女子とモラハラ男_review.md",
+        "score": 0.318,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.2935,
+        "method": "hybrid"
+      },
+      {
+        "filename": "鴻上尚史のおっとどっこいほがらか人生相談　息苦しい「世間」を楽に生きる処方箋 鴻上尚史のほがらか人生相談_review.md",
+        "score": 0.2852,
+        "method": "hybrid"
+      },
+      {
+        "filename": "トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_review.md",
+        "score": 0.2636,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.2492,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "世界の凋落を見つめて　クロニクル２０１１－２０２０",
@@ -2728,7 +6130,34 @@
     "category": "社会・思想",
     "author_roles": {
       "四方田犬彦": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.4772,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.466,
+        "method": "hybrid"
+      },
+      {
+        "filename": "しょぼい生活革命_review.md",
+        "score": 0.4646,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.4632,
+        "method": "hybrid"
+      },
+      {
+        "filename": "潜入ルポ　ａｍａｚｏｎ帝国_review.md",
+        "score": 0.4618,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ガラパゴス 下",
@@ -2750,7 +6179,34 @@
     "category": "社会・思想",
     "author_roles": {
       "相場英雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "カトク　過重労働撲滅特別対策班_review.md",
+        "score": 0.5046,
+        "method": "hybrid"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 0.501,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 0.5009,
+        "method": "hybrid"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 0.4882,
+        "method": "hybrid"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 0.483,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "聞く技術　聞いてもらう技術",
@@ -2770,7 +6226,34 @@
     "category": "社会・思想",
     "author_roles": {
       "東畑開人": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4712,
+        "method": "hybrid"
+      },
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 0.4379,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4354,
+        "method": "hybrid"
+      },
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.4333,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4313,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "正欲",
@@ -2792,7 +6275,34 @@
     "category": "文学・評論",
     "author_roles": {
       "朝井リョウ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.5274,
+        "method": "hybrid"
+      },
+      {
+        "filename": "アンダークラス_review.md",
+        "score": 0.4837,
+        "method": "hybrid"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.4829,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.4817,
+        "method": "hybrid"
+      },
+      {
+        "filename": "YABUNONAKAーヤブノナカー_review.md",
+        "score": 0.4783,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "名著の予知能力",
@@ -2814,7 +6324,34 @@
     "category": "社会・思想",
     "author_roles": {
       "秋満吉彦": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.4973,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リベラリズムへの不満_review.md",
+        "score": 0.4599,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.4506,
+        "method": "hybrid"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 0.4502,
+        "method": "hybrid"
+      },
+      {
+        "filename": "あなたの会社、その働き方は幸せですか？_review.md",
+        "score": 0.4403,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで",
@@ -2834,7 +6371,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "都留康": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.4849,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.4783,
+        "method": "hybrid"
+      },
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4652,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.4616,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4588,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "幸福学の先生に、聞きづらいことぜんぶ聞く",
@@ -2856,7 +6420,34 @@
     "category": "社会・思想",
     "author_roles": {
       "前野隆司": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～_review.md",
+        "score": 0.437,
+        "method": "hybrid"
+      },
+      {
+        "filename": "発達系女子とモラハラ男_review.md",
+        "score": 0.4367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.3266,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ハッピークラシー――「幸せ」願望に支配される日常_review.md",
+        "score": 0.3084,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.2783,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "光のとこにいてね",
@@ -2876,7 +6467,34 @@
     "category": "小説",
     "author_roles": {
       "一穂 ミチ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "サンセット・パーク_review.md",
+        "score": 0.525,
+        "method": "hybrid"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 0.4756,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　３　転落篇_review.md",
+        "score": 0.4625,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.4597,
+        "method": "hybrid"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 0.4542,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "決定版 下村湖人全集 決定版日本文学全集",
@@ -2897,7 +6515,34 @@
     "author_roles": {
       "下村湖人": "著",
       "文豪e叢書編集部": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.3773,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 0.3549,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.3483,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.3412,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.3389,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか",
@@ -2919,7 +6564,34 @@
     "author_roles": {
       "マルクス・ガブリエル": "著",
       "大野 和基": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.3688,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.3501,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.336,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.3205,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.3186,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "利他・ケア・傷の倫理学",
@@ -2941,7 +6613,34 @@
     "category": "社会・思想",
     "author_roles": {
       "近内悠太": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.5151,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界は贈与でできている　資本主義の「すきま」を埋める倫理学_review.md",
+        "score": 0.5097,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4706,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.4652,
+        "method": "hybrid"
+      },
+      {
+        "filename": "親切の人類史――ヒトはいかにして利他の心を獲得したか_review.md",
+        "score": 0.4643,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "プロット・アゲンスト・アメリカ",
@@ -2965,7 +6664,34 @@
     "author_roles": {
       "フィリップ・ロス": "著",
       "柴田元幸": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "4 3 2 1_review.md",
+        "score": 0.3988,
+        "method": "hybrid"
+      },
+      {
+        "filename": "アレクサンドル・デュマ-鈴木力衛-ダルタニャン物語11　剣よ、さらば_review.md",
+        "score": 0.3843,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【合本版】小説フランス革命（全18巻）_review.md",
+        "score": 0.293,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.2625,
+        "method": "hybrid"
+      },
+      {
+        "filename": "決定版 下村湖人全集 決定版日本文学全集_review.md",
+        "score": 0.2624,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "三行で撃つ 〈善く、生きる〉ための文章塾",
@@ -2987,7 +6713,34 @@
     "category": "エッセイ・ノンフィクション",
     "author_roles": {
       "近藤 康太郎": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "超ライティング大全――「バズる記事」にはこの1冊さえあればいい_review.md",
+        "score": 0.4998,
+        "method": "hybrid"
+      },
+      {
+        "filename": "１行書くだけ日記　やるべきこと、やりたいことが見つかる！_review.md",
+        "score": 0.4757,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.4705,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.4617,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.4569,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "「AIクソ上司」の脅威 2030年、日本企業の序列がひっくり返る",
@@ -3009,7 +6762,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "鈴木 貴博": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "未来の年表　業界大変化　瀬戸際の日本で起きること_review.md",
+        "score": 0.3971,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯野謙次-失敗マップのすすめ　2つの質問に答えるだけで「ミスしない・させない」を仕組み化できる新ツール！_review.md",
+        "score": 0.3581,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.3408,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3386,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.3257,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "貧乏人の経済学――もういちど貧困問題を根っこから考える",
@@ -3031,7 +6811,34 @@
       "アビジット・Ｖ・バナジー": "著",
       "エスター・デュフロ": "著",
       "山形浩生": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4959,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.491,
+        "method": "hybrid"
+      },
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.4786,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.4636,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4634,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ニュータイプの時代",
@@ -3053,7 +6860,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "山口 周": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.5367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.4584,
+        "method": "hybrid"
+      },
+      {
+        "filename": "学-お金の不安という幻想　一生働く時代で希望をつかむ8つの視点_review.md",
+        "score": 0.4146,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スポーツ精神科医が教える日常で活かせるスポーツメンタル_review.md",
+        "score": 0.3398,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反省記―― ビル・ゲイツとともに成功をつかんだ僕が、ビジネスの“地獄”で学んだこと_review.md",
+        "score": 0.336,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？",
@@ -3074,7 +6908,34 @@
     "author_roles": {
       "アニー・ローリー": "著",
       "上原裕美子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス_review.md",
+        "score": 0.4949,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4936,
+        "method": "hybrid"
+      },
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.4752,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.4558,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4389,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "なぜ働いていると本が読めなくなるのか",
@@ -3094,7 +6955,34 @@
     "category": "社会・思想",
     "author_roles": {
       "三宅香帆": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "世界の凋落を見つめて　クロニクル２０１１－２０２０_review.md",
+        "score": 0.4772,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「利他」とは何か_review.md",
+        "score": 0.4721,
+        "method": "hybrid"
+      },
+      {
+        "filename": "悩める時の百冊百話　人生を救うあのセリフ、この思索_review.md",
+        "score": 0.472,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4634,
+        "method": "hybrid"
+      },
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.4611,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "水車小屋のネネ",
@@ -3116,7 +7004,34 @@
     "category": "小説",
     "author_roles": {
       "津村 記久子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
+        "score": 0.5317,
+        "method": "hybrid"
+      },
+      {
+        "filename": "風に立つ_review.md",
+        "score": 0.5163,
+        "method": "hybrid"
+      },
+      {
+        "filename": "そして、バトンは渡された_review.md",
+        "score": 0.5153,
+        "method": "hybrid"
+      },
+      {
+        "filename": "街とその不確かな壁_review.md",
+        "score": 0.5119,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.5064,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "民主主義とは何か",
@@ -3138,7 +7053,34 @@
     "category": "社会・思想",
     "author_roles": {
       "宇野重規": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.5015,
+        "method": "hybrid"
+      },
+      {
+        "filename": "親切の人類史――ヒトはいかにして利他の心を獲得したか_review.md",
+        "score": 0.4915,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "利他・ケア・傷の倫理学_review.md",
+        "score": 0.4706,
+        "method": "hybrid"
+      },
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.4632,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "あなたが消された未来――テクノロジーと優生思想の売り込みについて",
@@ -3159,7 +7101,34 @@
     "author_roles": {
       "ジョージ・エストライク": "著",
       "柴田裕之": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "思考の方法学_review.md",
+        "score": 0.4809,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.379,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.3723,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.3657,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.3549,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "スクエア・アンド・タワー　【合本版】",
@@ -3180,7 +7149,34 @@
     "author_roles": {
       "ニーアル ファーガソン": "著",
       "柴田 裕之": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.5201,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.5185,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.5119,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.4853,
+        "method": "hybrid"
+      },
+      {
+        "filename": "上級国民／下級国民（小学館新書）_review.md",
+        "score": 0.4796,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "トーキング・トゥ・ストレンジャーズ～「よく知らない人」について私たちが知っておくべきこと～",
@@ -3203,7 +7199,34 @@
     "author_roles": {
       "M・グラッドウェル": "著",
       "濱野 大道": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "発達系女子とモラハラ男_review.md",
+        "score": 0.4559,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福学の先生に、聞きづらいことぜんぶ聞く_review.md",
+        "score": 0.437,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.2986,
+        "method": "hybrid"
+      },
+      {
+        "filename": "鴻上尚史のおっとどっこいほがらか人生相談　息苦しい「世間」を楽に生きる処方箋 鴻上尚史のほがらか人生相談_review.md",
+        "score": 0.2866,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おっさん社会が生きづらい_review.md",
+        "score": 0.2636,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "里奈の物語",
@@ -3223,7 +7246,34 @@
     "category": "社会・思想",
     "author_roles": {
       "鈴木 大介": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "にほんでいきる——外国からきた子どもたち_review.md",
+        "score": 0.5081,
+        "method": "hybrid"
+      },
+      {
+        "filename": "とにもかくにもごはん_review.md",
+        "score": 0.4659,
+        "method": "hybrid"
+      },
+      {
+        "filename": "５０歳からの性教育_review.md",
+        "score": 0.4618,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「利他」とは何か_review.md",
+        "score": 0.4615,
+        "method": "hybrid"
+      },
+      {
+        "filename": "上級国民／下級国民（小学館新書）_review.md",
+        "score": 0.46,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "世界史のミカタ",
@@ -3247,7 +7297,34 @@
     "author_roles": {
       "井上章一": "著",
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.4168,
+        "method": "hybrid"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.266,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反穀物の人類史――国家誕生のディープヒストリー_review.md",
+        "score": 0.2574,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.2554,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.2167,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～",
@@ -3268,7 +7345,34 @@
     "category": "その他",
     "author_roles": {
       "荒川和久": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "反穀物の人類史――国家誕生のディープヒストリー_review.md",
+        "score": 0.3226,
+        "method": "hybrid"
+      },
+      {
+        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
+        "score": 0.3206,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女と文明_review.md",
+        "score": 0.3076,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.2967,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.27,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "女と文明",
@@ -3290,7 +7394,34 @@
     "category": "その他",
     "author_roles": {
       "梅棹忠夫": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "反穀物の人類史――国家誕生のディープヒストリー_review.md",
+        "score": 0.3126,
+        "method": "hybrid"
+      },
+      {
+        "filename": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～_review.md",
+        "score": 0.3076,
+        "method": "hybrid"
+      },
+      {
+        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
+        "score": 0.3029,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.281,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.2576,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "数の発明――私たちは数をつくり、数につくられた",
@@ -3311,7 +7442,34 @@
     "author_roles": {
       "ケイレブ・エヴェレット": "著",
       "屋代通子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.4764,
+        "method": "hybrid"
+      },
+      {
+        "filename": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_review.md",
+        "score": 0.3877,
+        "method": "hybrid"
+      },
+      {
+        "filename": "反穀物の人類史――国家誕生のディープヒストリー_review.md",
+        "score": 0.3364,
+        "method": "hybrid"
+      },
+      {
+        "filename": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～_review.md",
+        "score": 0.3206,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女と文明_review.md",
+        "score": 0.3029,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "反穀物の人類史――国家誕生のディープヒストリー",
@@ -3333,7 +7491,34 @@
     "author_roles": {
       "ジェームズ・C・スコット": "著",
       "立木勝": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
+        "score": 0.3364,
+        "method": "hybrid"
+      },
+      {
+        "filename": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～_review.md",
+        "score": 0.3226,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女と文明_review.md",
+        "score": 0.3126,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.2946,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.2932,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "【ビジネス書大賞特別賞受賞作】哲学と宗教全史",
@@ -3355,7 +7540,34 @@
     "category": "ビジネス・経済",
     "author_roles": {
       "出口 治明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.2871,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.2516,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.2513,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.2464,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Before DX_review.md",
+        "score": 0.2456,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "【合本版】小説フランス革命（全18巻）",
@@ -3377,7 +7589,34 @@
     "category": "小説",
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.4822,
+        "method": "hybrid"
+      },
+      {
+        "filename": "カイシャデイズ_review.md",
+        "score": 0.4753,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.4725,
+        "method": "hybrid"
+      },
+      {
+        "filename": "パシヨン_review.md",
+        "score": 0.4724,
+        "method": "hybrid"
+      },
+      {
+        "filename": "チャンバラ_review.md",
+        "score": 0.4639,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "自転しながら公転する",
@@ -3399,7 +7638,34 @@
     "category": "文学・評論",
     "author_roles": {
       "山本文緒": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.5082,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.4897,
+        "method": "hybrid"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.4829,
+        "method": "hybrid"
+      },
+      {
+        "filename": "【合本版】小説フランス革命（全18巻）_review.md",
+        "score": 0.4822,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.4729,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）",
@@ -3422,7 +7688,34 @@
     "author_roles": {
       "ジョセフ Ｅ スティグリッツ": "著",
       "山田 美明": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "大惨事（カタストロフィ）の人類史_review.md",
+        "score": 0.4674,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.3599,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3461,
+        "method": "hybrid"
+      },
+      {
+        "filename": "鉄人社編集部-バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で_review.md",
+        "score": 0.3457,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.345,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "スマートマシンはこうして思考する",
@@ -3445,7 +7738,34 @@
       "ショーン・ジェリッシュ": "著",
       "栗原聡": "著",
       "依田光江": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
+        "score": 0.4764,
+        "method": "hybrid"
+      },
+      {
+        "filename": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_review.md",
+        "score": 0.4535,
+        "method": "hybrid"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.3325,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.3076,
+        "method": "hybrid"
+      },
+      {
+        "filename": "結婚滅亡～「オワ婚時代」のしあわせのカタチ～_review.md",
+        "score": 0.2967,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "実力も運のうち　能力主義は正義か？",
@@ -3469,7 +7789,34 @@
     "author_roles": {
       "マイケル サンデル": "著",
       "鬼澤 忍": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "日本の15歳はなぜ学力が高いのか？　５つの教育大国に学ぶ成功の秘密_review.md",
+        "score": 0.332,
+        "method": "hybrid"
+      },
+      {
+        "filename": "グッド・フライト、グッド・ナイト　パイロットが誘う最高の空旅_review.md",
+        "score": 0.3053,
+        "method": "hybrid"
+      },
+      {
+        "filename": "トマ ピケティ-麻左子-平等について、いま話したいこと_review.md",
+        "score": 0.2143,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.1961,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.1904,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防",
@@ -3490,7 +7837,34 @@
     "author_roles": {
       "クリス・ミラー": "著",
       "千葉 敏生": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "運動脳_review.md",
+        "score": 0.4387,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3157,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.3047,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで_review.md",
+        "score": 0.299,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.2949,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "プロトタイプシティ　深センと世界的イノベーション",
@@ -3515,7 +7889,34 @@
       "藤岡 淳一": "著",
       "伊藤 亜聖": "著",
       "山形 浩生": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.2923,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.2905,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.2856,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.2854,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.2825,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "超約ヨーロッパの歴史【mobi_リフロー版】",
@@ -3537,7 +7938,34 @@
       "ジョン・ハースト": "著",
       "倉嶋雅人": "翻訳",
       "福井憲彦": "監修"
-    }
+    },
+    "related": [
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.4539,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.435,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.4221,
+        "method": "hybrid"
+      },
+      {
+        "filename": "エクストリーム大家_review.md",
+        "score": 0.305,
+        "method": "hybrid"
+      },
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 0.2936,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "人新世の「資本論」",
@@ -3557,7 +7985,34 @@
     "category": "社会・思想",
     "author_roles": {
       "斎藤幸平": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ヤニス・バルファキス-関美和-テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）_review.md",
+        "score": 0.4985,
+        "method": "hybrid"
+      },
+      {
+        "filename": "しょぼい生活革命_review.md",
+        "score": 0.4714,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.468,
+        "method": "hybrid"
+      },
+      {
+        "filename": "AI失業　生成AIは私たちの仕事をどう奪うのか？_review.md",
+        "score": 0.4654,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.4567,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで",
@@ -3579,7 +8034,34 @@
     "author_roles": {
       "リチャード・ローズ": "著",
       "秋山 勝": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.4535,
+        "method": "hybrid"
+      },
+      {
+        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
+        "score": 0.3877,
+        "method": "hybrid"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.302,
+        "method": "hybrid"
+      },
+      {
+        "filename": "大惨事（カタストロフィ）の人類史_review.md",
+        "score": 0.2648,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.2589,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "コード・ガールズ――日独の暗号を解き明かした女性たち",
@@ -3601,7 +8083,34 @@
     "author_roles": {
       "ライザ・マンディ": "著",
       "小野木明恵": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.3302,
+        "method": "hybrid"
+      },
+      {
+        "filename": "治明-一気読み日本史_review.md",
+        "score": 0.2565,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.2523,
+        "method": "hybrid"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.2464,
+        "method": "hybrid"
+      },
+      {
+        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
+        "score": 0.239,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "大惨事（カタストロフィ）の人類史",
@@ -3624,7 +8133,34 @@
     "author_roles": {
       "ニーアル・ファーガソン": "著",
       "柴田 裕之": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.4674,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.4317,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.334,
+        "method": "hybrid"
+      },
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 0.3335,
+        "method": "hybrid"
+      },
+      {
+        "filename": "リベラリズムへの不満_review.md",
+        "score": 0.3272,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス",
@@ -3646,7 +8182,34 @@
       "カール・B・フレイ": "著",
       "村井 章子": "翻訳",
       "大野 一": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "生成ＡＩ革命　社会は根底から変わる_review.md",
+        "score": 0.5152,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みんなにお金を配ったら――ベーシックインカムは世界でどう議論されているか？_review.md",
+        "score": 0.4949,
+        "method": "hybrid"
+      },
+      {
+        "filename": "平等についての小さな歴史_review.md",
+        "score": 0.4887,
+        "method": "hybrid"
+      },
+      {
+        "filename": "良いデジタル化　悪いデジタル化　生産性を上げ、プライバシーを守る改革を_review.md",
+        "score": 0.4345,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「教える」ということ　日本を救う、［尖った人］を増やすには_review.md",
+        "score": 0.4301,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "【電子合本版】約束の地　大統領回顧録１ 上下",
@@ -3668,7 +8231,34 @@
       "バラク・オバマ": "著",
       "山田文": "翻訳",
       "三宅康雄": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.4539,
+        "method": "hybrid"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.4407,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.4174,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.3238,
+        "method": "hybrid"
+      },
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 0.3152,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論",
@@ -3689,7 +8279,34 @@
     "author_roles": {
       "ダニエル・サスキンド": "著",
       "上原裕美子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.5315,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.5226,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで_review.md",
+        "score": 0.4849,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4798,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.4728,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "絶望を希望に変える経済学 社会の重大問題をどう解決するか",
@@ -3711,7 +8328,34 @@
       "アビジット・Ｖ・バナジー": "著",
       "エステル・デュフロ": "著",
       "村井章子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.4959,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.4941,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_review.md",
+        "score": 0.4857,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 0.4804,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.4667,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "フランス王朝史　全３冊合本版",
@@ -3732,7 +8376,34 @@
     ],
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "治明-一気読み日本史_review.md",
+        "score": 0.3657,
+        "method": "hybrid"
+      },
+      {
+        "filename": "コード・ガールズ――日独の暗号を解き明かした女性たち_review.md",
+        "score": 0.3302,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.3186,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史のミカタ_review.md",
+        "score": 0.2554,
+        "method": "hybrid"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.2467,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "村上春樹 雑文集（新潮文庫）",
@@ -3755,7 +8426,34 @@
     ],
     "author_roles": {
       "村上春樹": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4626,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.4581,
+        "method": "hybrid"
+      },
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.4441,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_review.md",
+        "score": 0.4411,
+        "method": "hybrid"
+      },
+      {
+        "filename": "東京ディストピア日記_review.md",
+        "score": 0.418,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "シンプルで合理的な人生設計",
@@ -3775,7 +8473,34 @@
     ],
     "author_roles": {
       "橘 玲": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "全面改訂　第3版　ほったらかし投資術_review.md",
+        "score": 0.5196,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4921,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
+        "score": 0.491,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.4595,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 0.459,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "「人生が充実する」時間のつかい方 UCLAのMBA教授が教える“いつも時間に追われる自分”をやめるメソッド",
@@ -3799,7 +8524,34 @@
     "author_roles": {
       "キャシー・ホームズ": "著",
       "松丸 さとみ": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.2861,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.2565,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.2453,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.2357,
+        "method": "hybrid"
+      },
+      {
+        "filename": "Before DX_review.md",
+        "score": 0.2343,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "双頭の鷲（上下）合本版（新潮文庫）",
@@ -3821,7 +8573,34 @@
     ],
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "飯嶋和一-南海王国記_review.md",
+        "score": 0.569,
+        "method": "hybrid"
+      },
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.5042,
+        "method": "hybrid"
+      },
+      {
+        "filename": "相場英雄-ブラックスワン_review.md",
+        "score": 0.5039,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.4854,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.4685,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "パンデミックから何を学ぶか――子育て・仕事・コミュニティをめぐる医療人文学",
@@ -3842,7 +8621,34 @@
     "author_roles": {
       "カリ・ニクソン": "著",
       "桐谷知未": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "大惨事（カタストロフィ）の人類史_review.md",
+        "score": 0.1527,
+        "method": "hybrid"
+      },
+      {
+        "filename": "コロナ後の世界_review.md",
+        "score": 0.1521,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ働いていると本が読めなくなるのか_review.md",
+        "score": 0.1395,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.1322,
+        "method": "hybrid"
+      },
+      {
+        "filename": "欲望の資本主義４　スティグリッツ×ファーガソン　不確実性への挑戦―コロナ危機の本質_review.md",
+        "score": 0.1317,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "民主主義のルールと精神――それはいかにして生き返るのか",
@@ -3865,7 +8671,34 @@
     "author_roles": {
       "ヤン=ヴェルナー・ミュラー": "著",
       "山岡由美": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "未来を語る人（インターナショナル新書）_review.md",
+        "score": 0.3673,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ルポ　トランプ王国２　ラストベルト再訪_review.md",
+        "score": 0.3313,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ア・ピース・オブ・警句　5年間の「空気の研究」2015-2019_review.md",
+        "score": 0.2789,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.2434,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スティグリッツ　ＰＲＯＧＲＥＳＳＩＶＥ　ＣＡＰＩＴＡＬＩＳＭ（プログレッシブ　キャピタリズム）_review.md",
+        "score": 0.2214,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "一気読み日本史",
@@ -3885,7 +8718,34 @@
     ],
     "author_roles": {
       "出口 治明": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.3657,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.3137,
+        "method": "hybrid"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.2635,
+        "method": "hybrid"
+      },
+      {
+        "filename": "コード・ガールズ――日独の暗号を解き明かした女性たち_review.md",
+        "score": 0.2565,
+        "method": "hybrid"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.2193,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "釣り侍",
@@ -3907,7 +8767,34 @@
     ],
     "author_roles": {
       "佐藤賢一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.5028,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.5002,
+        "method": "hybrid"
+      },
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.4956,
+        "method": "hybrid"
+      },
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.4854,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.485,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”",
@@ -3931,7 +8818,34 @@
     "author_roles": {
       "田原 誠次": "著",
       "菊地 高弘": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_review.md",
+        "score": 0.4926,
+        "method": "hybrid"
+      },
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.461,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4608,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.4581,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.4191,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "南海王国記",
@@ -3953,7 +8867,34 @@
     ],
     "author_roles": {
       "飯嶋和一": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.569,
+        "method": "hybrid"
+      },
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.5402,
+        "method": "hybrid"
+      },
+      {
+        "filename": "相場英雄-ブラックスワン_review.md",
+        "score": 0.4946,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.4937,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.4782,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ザ・ロイヤルファミリー（新潮文庫）",
@@ -3975,7 +8916,34 @@
     ],
     "author_roles": {
       "早見和真": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.4987,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯嶋和一-南海王国記_review.md",
+        "score": 0.4937,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.485,
+        "method": "hybrid"
+      },
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.4774,
+        "method": "hybrid"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.4729,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "あいにくあんたのためじゃない",
@@ -3997,7 +8965,34 @@
     ],
     "author_roles": {
       "柚木麻子": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "正欲_review.md",
+        "score": 0.5274,
+        "method": "hybrid"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.5082,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.5028,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.4977,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ティム・オブライエン-春樹-虚言の国　　アメリカ・ファンタスティカ_review.md",
+        "score": 0.4839,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "日本経済AI成長戦略",
@@ -4018,7 +9013,34 @@
     "author_roles": {
       "冨山和彦": "著",
       "松尾 豊": "監修"
-    }
+    },
+    "related": [
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.5315,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.4878,
+        "method": "hybrid"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4854,
+        "method": "hybrid"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.483,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.4641,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "社員食堂に三つ星を",
@@ -4038,7 +9060,34 @@
     ],
     "author_roles": {
       "山本 幸久": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.2855,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.284,
+        "method": "hybrid"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 0.2807,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.2798,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.2747,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記",
@@ -4058,7 +9107,34 @@
     ],
     "author_roles": {
       "清水 建宇": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "早見和真-ラストインタビュー―藤島ジュリー景子との47時間―_review.md",
+        "score": 0.4503,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.3153,
+        "method": "hybrid"
+      },
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 0.2465,
+        "method": "hybrid"
+      },
+      {
+        "filename": "トマ ピケティ-麻左子-平等について、いま話したいこと_review.md",
+        "score": 0.2315,
+        "method": "hybrid"
+      },
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.1972,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "コモングッド―暴走する資本主義社会で倫理を語る",
@@ -4080,7 +9156,34 @@
       "ロバート・Ｂ・ライシュ": "著",
       "雨宮 寛": "翻訳",
       "今井 章子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4857,
+        "method": "hybrid"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.4669,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
+        "score": 0.4643,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.4608,
+        "method": "hybrid"
+      },
+      {
+        "filename": "貨幣の「新」世界史　ハンムラビ法典からビットコインまで_review.md",
+        "score": 0.4601,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "虚言の国　　アメリカ・ファンタスティカ",
@@ -4103,7 +9206,34 @@
     "author_roles": {
       "ティム・オブライエン": "著",
       "村上 春樹": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "相場英雄-ブラックスワン_review.md",
+        "score": 0.4934,
+        "method": "hybrid"
+      },
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.4839,
+        "method": "hybrid"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.4666,
+        "method": "hybrid"
+      },
+      {
+        "filename": "羽田圭介-その針がさすのは_review.md",
+        "score": 0.4591,
+        "method": "hybrid"
+      },
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.4584,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ダルタニャン物語11　剣よ、さらば",
@@ -4127,7 +9257,34 @@
     "author_roles": {
       "アレクサンドル・デュマ": "著",
       "鈴木力衛": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "プロット・アゲンスト・アメリカ_review.md",
+        "score": 0.3843,
+        "method": "hybrid"
+      },
+      {
+        "filename": "4 3 2 1_review.md",
+        "score": 0.3367,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.2481,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯嶋和一-南海王国記_review.md",
+        "score": 0.2329,
+        "method": "hybrid"
+      },
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.2283,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "テクノ封建制　デジタル空間の領主たちが私たち農奴を支配する　とんでもなく醜くて、不公平な経済の話。（集英社シリーズ・コモン）",
@@ -4149,7 +9306,34 @@
       "ヤニス・バルファキス": "著",
       "斎藤幸平": "著",
       "関美和": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "Uberland　ウーバーランド　アルゴリズムはいかに働き方を変えているか_review.md",
+        "score": 0.5619,
+        "method": "hybrid"
+      },
+      {
+        "filename": "２１　Ｌｅｓｓｏｎｓ　２１世紀の人類のための２１の思考_review.md",
+        "score": 0.5366,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ＡＩ監獄ウイグル_review.md",
+        "score": 0.5246,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スクエア・アンド・タワー　【合本版】_review.md",
+        "score": 0.5185,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人新世の「資本論」_review.md",
+        "score": 0.4985,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "自炊の壁",
@@ -4171,7 +9355,34 @@
     "author_roles": {
       "佐々木 典士": "著",
       "山口 祐加": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "すべてはノートからはじまる　あなたの人生をひらく記録術_review.md",
+        "score": 0.2284,
+        "method": "hybrid"
+      },
+      {
+        "filename": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０_review.md",
+        "score": 0.2113,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女と文明_review.md",
+        "score": 0.1837,
+        "method": "hybrid"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 0.1548,
+        "method": "hybrid"
+      },
+      {
+        "filename": "山の上の家事学校_review.md",
+        "score": 0.1521,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "少弐　民に捧げた三百六十年",
@@ -4193,7 +9404,34 @@
     ],
     "author_roles": {
       "帚木蓬生": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "飯嶋和一-南海王国記_review.md",
+        "score": 0.5402,
+        "method": "hybrid"
+      },
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.5042,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
+        "score": 0.4987,
+        "method": "hybrid"
+      },
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.4956,
+        "method": "hybrid"
+      },
+      {
+        "filename": "相場英雄-ブラックスワン_review.md",
+        "score": 0.4825,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "Neverland Diner 二度と行けないあの店で",
@@ -4216,7 +9454,34 @@
     ],
     "author_roles": {
       "都築響一": "編集"
-    }
+    },
+    "related": [
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4667,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.461,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.4441,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_review.md",
+        "score": 0.4171,
+        "method": "hybrid"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 0.383,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "バズらない人生 ３００人それぞれの理由～調査ルポ この日本の片隅で",
@@ -4238,7 +9503,34 @@
     ],
     "author_roles": {
       "鉄人社編集部": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "復活への底力　運命を受け入れ、前向きに生きる_review.md",
+        "score": 0.3571,
+        "method": "hybrid"
+      },
+      {
+        "filename": "名著の予知能力_review.md",
+        "score": 0.3569,
+        "method": "hybrid"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 0.3535,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 0.3534,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 0.3521,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ブラックスワン",
@@ -4260,7 +9552,34 @@
     ],
     "author_roles": {
       "相場英雄": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "アンダークラス_review.md",
+        "score": 0.5091,
+        "method": "hybrid"
+      },
+      {
+        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
+        "score": 0.5039,
+        "method": "hybrid"
+      },
+      {
+        "filename": "飯嶋和一-南海王国記_review.md",
+        "score": 0.4946,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ティム・オブライエン-春樹-虚言の国　　アメリカ・ファンタスティカ_review.md",
+        "score": 0.4934,
+        "method": "hybrid"
+      },
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.4825,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "ラストインタビュー―藤島ジュリー景子との47時間―",
@@ -4280,7 +9599,34 @@
     ],
     "author_roles": {
       "早見和真": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "建宇-バルセロナで豆腐屋になった 定年後の「一身二生」奮闘記_review.md",
+        "score": 0.4503,
+        "method": "hybrid"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 0.2956,
+        "method": "hybrid"
+      },
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 0.2729,
+        "method": "hybrid"
+      },
+      {
+        "filename": "トマ ピケティ-麻左子-平等について、いま話したいこと_review.md",
+        "score": 0.2432,
+        "method": "hybrid"
+      },
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.1924,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "お金の不安という幻想　一生働く時代で希望をつかむ8つの視点",
@@ -4302,7 +9648,34 @@
     ],
     "author_roles": {
       "田内 学": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.4146,
+        "method": "hybrid"
+      },
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.3741,
+        "method": "hybrid"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.3697,
+        "method": "hybrid"
+      },
+      {
+        "filename": "早く読めて、忘れない、思考力が深まる　「紙１枚！」読書法_review.md",
+        "score": 0.3581,
+        "method": "hybrid"
+      },
+      {
+        "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
+        "score": 0.3575,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "その針がさすのは",
@@ -4324,7 +9697,34 @@
     ],
     "author_roles": {
       "羽田圭介": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "釣り侍_review.md",
+        "score": 0.5002,
+        "method": "hybrid"
+      },
+      {
+        "filename": "柚木麻子-あいにくあんたのためじゃない_review.md",
+        "score": 0.4977,
+        "method": "hybrid"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.4897,
+        "method": "hybrid"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.4817,
+        "method": "hybrid"
+      },
+      {
+        "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+        "score": 0.4634,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号",
@@ -4347,7 +9747,34 @@
     ],
     "author_roles": {
       "フミコフミオ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.4926,
+        "method": "hybrid"
+      },
+      {
+        "filename": "麻里菜-メルカリで知らん子の絵を買う_review.md",
+        "score": 0.4464,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.4411,
+        "method": "hybrid"
+      },
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.4171,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.3805,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "GROWTH――「脱」でも「親」でもない新成長論",
@@ -4368,7 +9795,34 @@
     "author_roles": {
       "ダニエル・サスキンド": "著",
       "上原裕美子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.5226,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 0.5029,
+        "method": "hybrid"
+      },
+      {
+        "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+        "score": 0.4941,
+        "method": "hybrid"
+      },
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.4878,
+        "method": "hybrid"
+      },
+      {
+        "filename": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで_review.md",
+        "score": 0.4783,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "メルカリで知らん子の絵を買う",
@@ -4391,7 +9845,34 @@
     ],
     "author_roles": {
       "藤原 麻里菜": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.4667,
+        "method": "hybrid"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.4626,
+        "method": "hybrid"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.4608,
+        "method": "hybrid"
+      },
+      {
+        "filename": "女って何だ？　コミュ障の私が考えてみた_review.md",
+        "score": 0.4526,
+        "method": "hybrid"
+      },
+      {
+        "filename": "フミコフミオ-【電子版限定特典付き】 給食営業マン サバイバル戦記　カスハラ地獄、失注連鎖、米の仕入れも赤信号_review.md",
+        "score": 0.4464,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "平等について、いま話したいこと",
@@ -4415,7 +9896,34 @@
       "トマ ピケティ": "著",
       "マイケル サンデル": "著",
       "岡本 麻左子": "翻訳"
-    }
+    },
+    "related": [
+      {
+        "filename": "民主主義とは何か_review.md",
+        "score": 0.4259,
+        "method": "hybrid"
+      },
+      {
+        "filename": "解読　ウェーバー『プロテスタンティズムの倫理と資本主義の精神』_review.md",
+        "score": 0.4057,
+        "method": "hybrid"
+      },
+      {
+        "filename": "今を生きる思想　福沢諭吉　最後の蘭学者_review.md",
+        "score": 0.38,
+        "method": "hybrid"
+      },
+      {
+        "filename": "友情を哲学する～七人の哲学者たちの友情観～_review.md",
+        "score": 0.378,
+        "method": "hybrid"
+      },
+      {
+        "filename": "親切の人類史――ヒトはいかにして利他の心を獲得したか_review.md",
+        "score": 0.3746,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ",
@@ -4436,7 +9944,34 @@
     ],
     "author_roles": {
       "大宮 薫": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "The DevOps 勝利をつかめ！　技術的負債を一掃せよ_review.md",
+        "score": 0.4142,
+        "method": "hybrid"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 0.3586,
+        "method": "hybrid"
+      },
+      {
+        "filename": "スマートマシンはこうして思考する_review.md",
+        "score": 0.3325,
+        "method": "hybrid"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.3301,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.3269,
+        "method": "hybrid"
+      }
+    ]
   },
   {
     "title": "＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった",
@@ -4458,6 +9993,33 @@
     ],
     "author_roles": {
       "大塚あみ": "著"
-    }
+    },
+    "related": [
+      {
+        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
+        "score": 0.3135,
+        "method": "hybrid"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.3059,
+        "method": "hybrid"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.2823,
+        "method": "hybrid"
+      },
+      {
+        "filename": "シンプルで合理的な人生設計_review.md",
+        "score": 0.2789,
+        "method": "hybrid"
+      },
+      {
+        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+        "score": 0.2781,
+        "method": "hybrid"
+      }
+    ]
   }
 ]
