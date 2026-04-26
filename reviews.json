@@ -1,5 +1,55 @@
 [
   {
+    "title": "資本主義の中で生きるということ",
+    "author": "岩井克人",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:43:09.572974",
+    "filename": "資本主義の中で生きるということ_review.md",
+    "image": "images/reviews/資本主義の中で生きるということ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "岩井克人": "著"
+    },
+    "related": [
+      {
+        "filename": "東京ディストピア日記_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "コロナ後の世界_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.8,
+        "method": "meta"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.8,
+        "method": "meta"
+      },
+      {
+        "filename": "都築響一-Neverland Diner 二度と行けないあの店で_review.md",
+        "score": 0.8,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "二軍監督の仕事～育てるためなら負けてもいい～",
     "author": "高津 臣吾",
     "date": "2026-04-26",
