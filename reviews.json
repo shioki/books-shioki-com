@@ -1,5 +1,56 @@
 [
   {
+    "title": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム",
+    "author": "廉薇, 辺慧, 蘇向輝, 曹鵬程, and 永井麻生子",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:43:18.525641",
+    "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+    "image": "images/reviews/アントフィナンシャル――1匹のアリがつくる新金融エコシステム_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "廉薇": "著",
+      "辺慧": "著",
+      "蘇向輝": "著",
+      "曹鵬程": "著",
+      "永井麻生子": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "資本主義の中で生きるということ",
     "author": "岩井克人",
     "date": "2026-04-26",
