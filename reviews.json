@@ -1,5 +1,52 @@
 [
   {
+    "title": "たった1分で仕事も人生も変える　自己紹介2.0",
+    "author": "横石 崇",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:42:32.216192",
+    "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+    "image": "images/reviews/たった1分で仕事も人生も変える　自己紹介2.0_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "横石 崇": "著"
+    },
+    "related": [
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く",
     "author": "播田安弘",
     "date": "2026-04-26",
