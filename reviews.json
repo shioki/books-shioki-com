@@ -1,5 +1,53 @@
 [
   {
+    "title": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く",
+    "author": "播田安弘",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:42:26.933629",
+    "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+    "image": "images/reviews/日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "科学・テクノロジー",
+      "工学"
+    ],
+    "category": "技術・サイエンス",
+    "author_roles": {
+      "播田安弘": "著"
+    },
+    "related": [
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.6667,
+        "method": "meta"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "ＮＥＯ　ＨＵＭＡＮ　ネオ・ヒューマン―究極の自由を得る未来_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "努力革命　ラクをするから成果が出る！ アフターGPTの成長術_review.md",
+        "score": 0.5,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "宇沢弘文　傑作論文全ファイル",
     "author": "宇沢 弘文",
     "date": "2026-04-26",
