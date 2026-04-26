@@ -1,5 +1,54 @@
 [
   {
+    "title": "宇沢弘文　傑作論文全ファイル",
+    "author": "宇沢 弘文",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:42:22.170050",
+    "filename": "宇沢弘文　傑作論文全ファイル_review.md",
+    "image": "images/reviews/宇沢弘文　傑作論文全ファイル_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "社会・政治",
+      "社会学",
+      "社会学概論"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "宇沢 弘文": "著"
+    },
+    "related": [
+      {
+        "filename": "戦前回帰 「大日本病」の再発_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "見てはいけない！　ヤバい会社烈伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "「今どきの若者」のリアル_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ビジネスの未来――エコノミーにヒューマニティを取り戻す_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "さらば！　店長がバカすぎて",
     "author": "早見和真",
     "date": "2026-04-18",
