@@ -1,5 +1,52 @@
 [
   {
+    "title": "小説家になって億を稼ごう（新潮新書）",
+    "author": "松岡圭祐",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:42:37.997696",
+    "filename": "小説家になって億を稼ごう（新潮新書）_review.md",
+    "image": "images/reviews/小説家になって億を稼ごう（新潮新書）_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ノンフィクション"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "松岡圭祐": "著"
+    },
+    "related": [
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "小飼弾の超訳「お金」理論_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "たった1分で仕事も人生も変える　自己紹介2.0",
     "author": "横石 崇",
     "date": "2026-04-26",
