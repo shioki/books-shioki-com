@@ -1,5 +1,53 @@
 [
   {
+    "title": "二軍監督の仕事～育てるためなら負けてもいい～",
+    "author": "高津 臣吾",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T10:42:59.991474",
+    "filename": "二軍監督の仕事～育てるためなら負けてもいい～_review.md",
+    "image": "images/reviews/二軍監督の仕事～育てるためなら負けてもいい～_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "スポーツ・アウトドア",
+      "スポーツ"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "高津 臣吾": "著"
+    },
+    "related": [
+      {
+        "filename": "一軍監督の仕事～育った彼らを勝たせたい～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "中村慎太郎-君がJリーグを認めるまで、僕は歩くのをやめない SEASON 1 柏 千葉 鹿島_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "マイ・ストーリー",
     "author": "ミシェル・オバマ, 長尾莉紗, and 柴田さとみ",
     "date": "2026-04-26",
