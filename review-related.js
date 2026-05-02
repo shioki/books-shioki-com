@@ -1,6 +1,6 @@
 /**
  * 書評個別ページ用: reviews.json の related を表示する。
- * 対象レイアウトに以下を追加すること:
+ * 対象レイアウトに以下を追加すること（data-reviews-manifest は index / authors と同値に揃え、一括公開後にバンプすると CDN キャッシュを切れる）:
  *   <div id="review-related-root"></div>
  *   <link rel="stylesheet" href="/review-related.css">
  *   <script src="/review-related.js" defer></script>
@@ -32,7 +32,8 @@
         'zh-tw': '相關書評'
     };
 
-    fetch('/reviews.json', { cache: 'no-cache' })
+    var reviewsManifestVer = document.documentElement.getAttribute('data-reviews-manifest') || '1';
+    fetch('/reviews.json?v=' + encodeURIComponent(reviewsManifestVer), { cache: 'no-cache' })
         .then(function (res) {
             if (!res.ok) {
                 throw new Error('reviews.json fetch failed');

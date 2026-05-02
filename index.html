@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="ja" data-reviews-manifest="3">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1094,7 +1094,8 @@
 
         // ── Init ──
 
-        fetch('reviews.json', { cache: 'no-cache' })
+        var reviewsManifestVer = document.documentElement.getAttribute('data-reviews-manifest') || '1';
+        fetch('reviews.json?v=' + encodeURIComponent(reviewsManifestVer), { cache: 'no-cache' })
             .then(function (res) { return res.json(); })
             .then(function (reviews) {
                 if (!reviews || !reviews.length) {
