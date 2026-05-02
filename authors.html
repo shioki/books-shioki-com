@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja" data-reviews-manifest="3">
+<html lang="ja" data-reviews-manifest="4">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -418,9 +418,23 @@
             '村上春樹': { 'ティム・オブライエン': true }
         };
 
+        /** ひらがな・カタカナ・漢字同士の間の半角スペースを除去（相場 英雄 / 相場英雄 の表記ゆれを同一視） */
+        function collapseCjkInteriorSpaces(s) {
+            var re = /([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF])\s+([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF])/g;
+            var prev;
+            do {
+                prev = s;
+                s = s.replace(re, '$1$2');
+            } while (s !== prev);
+            return s;
+        }
+
         function normalizeName(name) {
             var n = name.trim().replace(/\u3000/g, ' ');
-            return AUTHOR_NORMALIZE[n] || n;
+            n = AUTHOR_NORMALIZE[n] || n;
+            n = collapseCjkInteriorSpaces(n);
+            n = AUTHOR_NORMALIZE[n] || n;
+            return n;
         }
 
         function splitAuthors(raw) {
