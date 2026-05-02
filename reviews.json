@@ -1,5 +1,56 @@
 [
   {
+    "title": "ダルタニャン物語１ 友を選ばば三銃士",
+    "author": "アレクサンドル・デュマ and 鈴木力衛",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T10:13:38.376381",
+    "filename": "ダルタニャン物語１ 友を選ばば三銃士_review.md",
+    "image": "images/reviews/ダルタニャン物語１ 友を選ばば三銃士_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "評論・文学研究",
+      "外国文学研究",
+      "その他の外国文学"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "アレクサンドル・デュマ": "著",
+      "鈴木力衛": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "プロット・アゲンスト・アメリカ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アレクサンドル・デュマ-鈴木力衛-ダルタニャン物語11　剣よ、さらば_review.md",
+        "score": 0.8,
+        "method": "meta"
+      },
+      {
+        "filename": "4 3 2 1_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "決定版 下村湖人全集 決定版日本文学全集_review.md",
+        "score": 0.52,
+        "method": "meta"
+      },
+      {
+        "filename": "楽園の瑕_review.md",
+        "score": 0.4057,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇",
     "author": "田中宏明",
     "date": "2026-05-02",
