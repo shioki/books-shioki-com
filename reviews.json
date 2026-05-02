@@ -1,5 +1,53 @@
 [
   {
+    "title": "SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇",
+    "author": "田中宏明",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T10:13:33.661035",
+    "filename": "SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇_review.md",
+    "image": "images/reviews/SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "科学・テクノロジー",
+      "工学"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "田中宏明": "著"
+    },
+    "related": [
+      {
+        "filename": "思考の方法学_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "あなたが消された未来――テクノロジーと優生思想の売り込みについて_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.6667,
+        "method": "meta"
+      },
+      {
+        "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
+        "score": 0.5,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "楽園の瑕",
     "author": "相場英雄",
     "date": "2026-05-02",
