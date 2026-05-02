@@ -1,5 +1,54 @@
 [
   {
+    "title": "練馬純情伝",
+    "author": "吉森大祐",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T10:08:00.403601",
+    "filename": "練馬純情伝_review.md",
+    "image": "images/reviews/練馬純情伝_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "吉森大祐": "著"
+    },
+    "related": [
+      {
+        "filename": "風の港　再会の空_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "さらば！　店長がバカすぎて_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "あくてえ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "虎と兎_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "おでんオデッセイ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "コンタクトセンターマネージメントの教科書――CXに革命を起こす、世界水準の成功方程式",
     "author": "株式会社船井総合研究所 プロシード事業部",
     "date": "2026-05-02",
