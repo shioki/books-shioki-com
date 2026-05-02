@@ -1,5 +1,54 @@
 [
   {
+    "title": "コンタクトセンターマネージメントの教科書――CXに革命を起こす、世界水準の成功方程式",
+    "author": "株式会社船井総合研究所 プロシード事業部",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T10:07:46.681138",
+    "filename": "コンタクトセンターマネージメントの教科書――CXに革命を起こす、世界水準の成功方程式_review.md",
+    "image": "images/reviews/コンタクトセンターマネージメントの教科書――CXに革命を起こす、世界水準の成功方程式_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済",
+      "マーケティング・セールス",
+      "マーケティング"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "株式会社船井総合研究所 プロシード事業部": "著"
+    },
+    "related": [
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "本を読めなくなった人たち　コスパとテキストメディアをめぐる現在形",
     "author": "稲田豊史",
     "date": "2026-05-02",
