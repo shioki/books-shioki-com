@@ -1,5 +1,54 @@
 [
   {
+    "title": "写真力を上げるステップアップ思考法",
+    "author": "丹野清志",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T10:08:05.380675",
+    "filename": "写真力を上げるステップアップ思考法_review.md",
+    "image": "images/reviews/写真力を上げるステップアップ思考法_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "アート・建築・デザイン",
+      "写真",
+      "写真技術"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "丹野清志": "著"
+    },
+    "related": [
+      {
+        "filename": "マイ・ストーリー_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
+        "score": 0.37,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "練馬純情伝",
     "author": "吉森大祐",
     "date": "2026-05-02",
