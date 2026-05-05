@@ -1,5 +1,53 @@
 [
   {
+    "title": "ストーリーで覚えるClaude Code開発ガイド",
+    "author": "多佳宮 崇志",
+    "date": "2026-05-05",
+    "created_at": "2026-05-05T10:14:33.878753",
+    "filename": "ストーリーで覚えるClaude Code開発ガイド_review.md",
+    "image": "images/reviews/ストーリーで覚えるClaude Code開発ガイド_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "コンピュータ・IT",
+      "アプリケーション"
+    ],
+    "category": "技術・サイエンス",
+    "author_roles": {
+      "多佳宮 崇志": "著"
+    },
+    "related": [
+      {
+        "filename": "ハードウェアハッカー～新しいモノをつくる破壊と創造の冒険_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "運動脳_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+        "score": 0.32,
+        "method": "meta"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 0.32,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "コミュニケーションの問題地図 ～「で、どこから変える？」意識バラバラ、情報共有できない職場～",
     "author": "沢渡 あまね",
     "date": "2026-05-05",
