@@ -1,5 +1,54 @@
 [
   {
+    "title": "荒れ地の種",
+    "author": "江上 剛",
+    "date": "2026-05-05",
+    "created_at": "2026-05-05T10:06:56.826612",
+    "filename": "荒れ地の種_review.md",
+    "image": "images/reviews/荒れ地の種_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "江上 剛": "著"
+    },
+    "related": [
+      {
+        "filename": "楽園の瑕_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "練馬純情伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "風の港　再会の空_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "さらば！　店長がバカすぎて_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "あくてえ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "14歳からの資本主義",
     "author": "丸山俊一",
     "date": "2026-05-02",
