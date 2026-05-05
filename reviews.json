@@ -1,5 +1,54 @@
 [
   {
+    "title": "希望ヶ丘の人びと　上下合本版",
+    "author": "重松清",
+    "date": "2026-05-05",
+    "created_at": "2026-05-05T10:14:37.809698",
+    "filename": "希望ヶ丘の人びと　上下合本版_review.md",
+    "image": "images/reviews/希望ヶ丘の人びと　上下合本版_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "重松清": "著"
+    },
+    "related": [
+      {
+        "filename": "アルプス席の母_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "荒れ地の種_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "楽園の瑕_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "練馬純情伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "風の港　再会の空_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "ストーリーで覚えるClaude Code開発ガイド",
     "author": "多佳宮 崇志",
     "date": "2026-05-05",
