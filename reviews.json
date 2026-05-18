@@ -1,5 +1,52 @@
 [
   {
+    "title": "世界のＤＸはどこまで進んでいるか（新潮新書）",
+    "author": "雨宮寛二",
+    "date": "2026-05-19",
+    "created_at": "2026-05-19T08:30:40.551367",
+    "filename": "世界のＤＸはどこまで進んでいるか（新潮新書）_review.md",
+    "image": "images/reviews/世界のＤＸはどこまで進んでいるか（新潮新書）_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ノンフィクション"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "雨宮寛二": "著"
+    },
+    "related": [
+      {
+        "filename": "小説家になって億を稼ごう（新潮新書）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "月下のサクラ",
     "author": "柚月裕子",
     "date": "2026-05-19",
