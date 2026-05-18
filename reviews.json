@@ -1,5 +1,53 @@
 [
   {
+    "title": "ここはウォーターフォール市、アジャイル町 ストーリーで学ぶアジャイルな組織のつくり方",
+    "author": "沢渡 あまね and 新井 剛",
+    "date": "2026-05-19",
+    "created_at": "2026-05-19T08:30:15.776995",
+    "filename": "ここはウォーターフォール市、アジャイル町 ストーリーで学ぶアジャイルな組織のつくり方_review.md",
+    "image": "images/reviews/ここはウォーターフォール市、アジャイル町 ストーリーで学ぶアジャイルな組織のつくり方_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "コンピュータ・IT"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "沢渡 あまね": "著",
+      "新井 剛": "著"
+    },
+    "related": [
+      {
+        "filename": "The DevOps　逆転だ！究極の継続的デリバリー_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "情シスの定石　～失敗事例から学ぶシステム企画・開発・保守・運用のポイント～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "血の雫",
     "author": "相場英雄",
     "date": "2026-05-19",
