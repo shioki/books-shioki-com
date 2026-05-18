@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 家裁調査官・庵原かのん  
 - **Author**: 乃南アサ  
-- **ASIN**: B0B7HF14TL  
-- **URL**: [https://www.amazon.co.jp/dp/B0B7HF14TL](https://www.amazon.co.jp/dp/B0B7HF14TL)  
+- **ASIN**: B0DRB1VGJN  
+- **URL**: [https://www.amazon.co.jp/dp/B0DRB1VGJN](https://www.amazon.co.jp/dp/B0DRB1VGJN)  
 
 ---
 
