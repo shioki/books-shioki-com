@@ -1,5 +1,54 @@
 [
   {
+    "title": "血の雫",
+    "author": "相場英雄",
+    "date": "2026-05-19",
+    "created_at": "2026-05-19T08:30:07.932565",
+    "filename": "血の雫_review.md",
+    "image": "images/reviews/血の雫_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "相場英雄": "著"
+    },
+    "related": [
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "カトク　過重労働撲滅特別対策班_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "リスペクト　――Ｒ・Ｅ・Ｓ・Ｐ・Ｅ・Ｃ・Ｔ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "チャンピオンズリーグ・クロニクル　「サッカー最高峰の舞台」がたどった激動の四半世紀",
     "author": "片野道郎",
     "date": "2026-05-08",
