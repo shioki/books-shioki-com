@@ -1,5 +1,56 @@
 [
   {
+    "title": "若草物語　１＆２",
+    "author": "ルイザ・メイ・オルコット and 谷口由美子",
+    "date": "2026-06-02",
+    "created_at": "2026-06-02T08:20:58.954127",
+    "filename": "若草物語　１＆２_review.md",
+    "image": "images/reviews/若草物語　１＆２_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "評論・文学研究",
+      "外国文学研究",
+      "その他の外国文学"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "ルイザ・メイ・オルコット": "著",
+      "谷口由美子": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "ダルタニャン物語７ ノートル・ダムの居酒屋_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語１ 友を選ばば三銃士_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "プロット・アゲンスト・アメリカ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アレクサンドル・デュマ-鈴木力衛-ダルタニャン物語11　剣よ、さらば_review.md",
+        "score": 0.8,
+        "method": "meta"
+      },
+      {
+        "filename": "4 3 2 1_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "私と街たち（ほぼ自伝）",
     "author": "吉本ばなな",
     "date": "2026-06-02",
