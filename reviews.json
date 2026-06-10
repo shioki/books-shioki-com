@@ -1,5 +1,52 @@
 [
   {
+    "title": "隠居生活10年目 不安は９割捨てました",
+    "author": "大原扁理",
+    "date": "2026-06-11",
+    "created_at": "2026-06-11T08:24:03.450741",
+    "filename": "隠居生活10年目 不安は９割捨てました_review.md",
+    "image": "images/reviews/隠居生活10年目 不安は９割捨てました_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ノンフィクション"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "大原扁理": "著"
+    },
+    "related": [
+      {
+        "filename": "捏造の科学者　STAP細胞事件_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "人生はそれでも続く（新潮新書） （「あれから」シリーズ）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "私と街たち（ほぼ自伝）_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "ショローの女_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "マイ・ストーリー_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "再雇用警察官",
     "author": "姉小路祐",
     "date": "2026-06-11",
