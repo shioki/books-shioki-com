@@ -1,5 +1,55 @@
 [
   {
+    "title": "しょぼ婚のすすめ 恋人と結婚してはいけません！",
+    "author": "えらいてんちょう",
+    "date": "2026-06-11",
+    "created_at": "2026-06-11T08:23:50.663944",
+    "filename": "しょぼ婚のすすめ 恋人と結婚してはいけません！_review.md",
+    "image": "images/reviews/しょぼ婚のすすめ 恋人と結婚してはいけません！_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "えらいてんちょう": "著"
+    },
+    "related": [
+      {
+        "filename": "資本主義の中で生きるということ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "東京ディストピア日記_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "コロナ後の世界_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "村上春樹 雑文集（新潮文庫）_review.md",
+        "score": 0.8,
+        "method": "meta"
+      },
+      {
+        "filename": "巨人をクビになりハローワークに通った男が、工場勤務で見つけた“本当の幸せ”_review.md",
+        "score": 0.8,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "東京貧困女子。―彼女たちはなぜ躓いたのか",
     "author": "中村 淳彦",
     "date": "2026-06-11",
