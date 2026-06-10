@@ -1,5 +1,54 @@
 [
   {
+    "title": "再雇用警察官",
+    "author": "姉小路祐",
+    "date": "2026-06-11",
+    "created_at": "2026-06-11T08:23:56.789692",
+    "filename": "再雇用警察官_review.md",
+    "image": "images/reviews/再雇用警察官_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "姉小路祐": "著"
+    },
+    "related": [
+      {
+        "filename": "月下のサクラ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "血の雫_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "狗賓童子の島_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "希望病棟_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "しょぼ婚のすすめ 恋人と結婚してはいけません！",
     "author": "えらいてんちょう",
     "date": "2026-06-11",
