@@ -1,5 +1,54 @@
 [
   {
+    "title": "大江健三郎全小説　第３巻",
+    "author": "大江健三郎",
+    "date": "2026-06-11",
+    "created_at": "2026-06-11T08:23:36.585456",
+    "filename": "大江健三郎全小説　第３巻_review.md",
+    "image": "images/reviews/大江健三郎全小説　第３巻_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "大江健三郎": "著"
+    },
+    "related": [
+      {
+        "filename": "ゼロ打ち_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "希望ヶ丘の人びと　上下合本版_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アルプス席の母_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "荒れ地の種_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "楽園の瑕_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "デモクラシーの現在地――アメリカの断層から",
     "author": "青山直篤",
     "date": "2026-06-11",
