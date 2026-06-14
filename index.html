@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja" data-reviews-manifest="4">
+<html lang="ja" data-reviews-manifest="5">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -685,6 +685,18 @@
             history.replaceState(null, '', newUrl);
         }
 
+        // ── Review activity timestamps ──
+
+        function reviewActivityAt(r) {
+            return r.updated_at || r.created_at || r.date || '';
+        }
+
+        function reviewActivityDate(r) {
+            var ts = reviewActivityAt(r);
+            if (!ts) return 'unknown';
+            return ts.substring(0, 10);
+        }
+
         // ── Recent Updates ──
 
         function buildRecentUpdates(reviews) {
@@ -700,7 +712,7 @@
             var groups = {};
             var dateOrder = [];
             reviews.forEach(function (r) {
-                var d = r.date || 'unknown';
+                var d = reviewActivityDate(r);
                 if (!groups[d]) {
                     groups[d] = [];
                     dateOrder.push(d);
@@ -881,12 +893,12 @@
             switch (state.sort) {
                 case 'newest':
                     arr.sort(function (a, b) {
-                        return (b.created_at || b.date || '').localeCompare(a.created_at || a.date || '');
+                        return reviewActivityAt(b).localeCompare(reviewActivityAt(a));
                     });
                     break;
                 case 'oldest':
                     arr.sort(function (a, b) {
-                        return (a.created_at || a.date || '').localeCompare(b.created_at || b.date || '');
+                        return reviewActivityAt(a).localeCompare(reviewActivityAt(b));
                     });
                     break;
                 case 'title':
@@ -1136,7 +1148,7 @@
                 }
 
                 reviews.sort(function (a, b) {
-                    return (b.created_at || b.date || '').localeCompare(a.created_at || a.date || '');
+                    return reviewActivityAt(b).localeCompare(reviewActivityAt(a));
                 });
 
                 state.allReviews = reviews;
