@@ -1,8 +1,8 @@
 ---
 layout: default
 title: フットボール・マネー
-description: 『フットボール・マネー』 is a critical document that illustrates how the sport of
-  soccer has found itself at the intersection of national strategy and global cap…
+description: 『フットボール・マネー』 is a critical reportage that reveals how modern football
+  has become a nexus of state power and global capital. Author ミゲル・デラニー traces th…
 og_image: https://books.shioki.com/images/reviews/フットボール・マネー_4panel.png
 canonical_url: https://books.shioki.com/reviews/en/フットボール・マネー_review.html
 og_locale: en_US
@@ -31,81 +31,84 @@ og_type: article
 ## Dialogue
 
 ### Panel 1
-**Scene**: The townsgirl walks through a lively Edo street, listening to the cheers of townsmen watching a ball game played by foreign sailors at the harbor. She tilts her head in curiosity, contemplating the source of their joy. The background features merchant banners with foreign writing, hinting at the blend of commerce and entertainment.
-**Dialogue**: “Why does everyone’s joy seem directed by unseen hands?”
+**Scene**: In a bustling Edo street filled with merchants and lively chatter, the townsgirl stops to gaze at a traveling storyteller’s illustration of men chasing a strange round ball. She tilts her head in confusion, pondering why both rulers and merchants seem so captivated by this game. The flickering lantern light casts a thoughtful glow on her face as she quietly reflects on the connection between play and power.
+**Dialogue**: "Why are they so obsessed with this game?"
 
 ### Panel 2
-**Scene**: In her candle-lit room, the townsgirl studies Dutch texts and translated scrolls. On the page, there are portraits of two imagined mentors: Miguel Delaney, a thoughtful Western scholar with wavy hair and sharp eyes behind small spectacles, and Takuma Yamanaka, a calm Japanese intellectual with tied hair. Their ghostly figures emerge from the ink, discussing the relationship between games and wealth. The townsgirl listens in awe, her brush paused mid-note.
-**Dialogue**: [No dialogue]
+**Scene**: Inside her cozy study adorned with scrolls and abacuses, the townsgirl studies a Dutch-language manuscript titled “Voetbal Geld” alongside a Japanese commentary. Two imagined scholars emerge from the pages as ethereal mentors: Miguel Delaney, a calm foreign scholar in loose European robes holding a quill, and Takuma Yamanaka, a composed Japanese interpreter in kimono with a keen analytical expression. They gesture toward diagrams illustrating coins, crowns, and a globe interconnected by threads, revealing the ties between sport, commerce, and empire.
+**Dialogue**: "Look at how they are all connected!"
 
 ### Panel 3
-**Scene**: Inspired, the townsgirl organizes a miniature “foot-ball” match in the temple courtyard using paper balls and abacus counters. Children play joyfully, but merchants soon arrive, offering to sponsor the game and paint their shop crests on the ball. The townsgirl freezes, realizing how quickly play can turn into profit. The scene is dynamic, with coins scattering and laughter shifting to calculation.
-**Dialogue**: [No dialogue]
+**Scene**: The townsgirl plays with children in a back alley, using a woven bamboo ball. As they engage in the game, she steps back to observe how the wealthier merchant’s son claims ownership of the game by providing new balls for everyone. She chuckles softly, realizing how power influences even the act of play. In a playful yet ironic twist, she sketches a chart in the dirt depicting “capital flow” among the players.
+**Dialogue**: "So this is how power reshapes play!"
 
 ### Panel 4
-**Scene**: At twilight, the townsgirl sits by the river with a brush in hand, watching a floating ball drift downstream. She writes a tanka on a small tanzaku slip, her expression serene yet wistful.
-**Dialogue**: [No dialogue]
-**Tanka (translation)**: "With each kick, the shining shadow of gold may be, yet I wish to bring back the wind to my heart's garden."
-**Tanka (original)**: 「蹴るたびに  
-光るは金の  
-影なれど  
-こころの庭に  
-風を戻さん」
+**Scene**: In the evening, she kneels by candlelight with her brush poised above a strip of washi paper. Her eyes reflect a mix of wonder and melancholy as she writes a waka that encapsulates the essence of her thoughts. The final panel focuses on her serene face and the inked poem on the paper.
+**Tanka (translation)**: "The wind of gold carries dreams, the ball dances, the people's cheers—who does it belong to?"
+**Tanka (original)**: 「  
+金の風　  
+夢を運びて　  
+球は舞う　  
+民の歓声　  
+誰のものぞや  
+」
 
-## 🎯 The Core of This Book
-『フットボール・マネー』 is a critical document that illustrates how the sport of soccer has found itself at the intersection of national strategy and global capitalism. Author ミゲル・デラニー meticulously traces the transformation of soccer from the "beautiful game" to a "tool of power and capital," centered around the concept of sportswashing.
+## 🎯 Core of the Book
+『フットボール・マネー』 is a critical reportage that reveals how modern football has become a nexus of state power and global capital. Author ミゲル・デラニー traces the transformation of football from a "sport" into a "massive political-economic apparatus," starting with the commercialization of the Premier League and the Champions League.
 
-The book reveals how soccer has been engulfed by market principles through institutional turning points such as the establishment of the Premier League and the Bosman ruling. At the same time, it sharply criticizes the current reality in which the cultural essence of soccer, such as locality and community, is gradually being lost.
+The book focuses on the structure of "sportswashing," symbolized by club acquisitions by Gulf states and the hosting of the World Cup, as well as how state capital distorts market principles. Furthermore, it sharply questions the process by which clubs, once symbols of local communities, have transformed into tools for the image strategies of states and corporations from ethical and social perspectives.
 
 ---
 
 ## 💡 Key Insights
-- **Sportswashing is a National Strategy**  
-  The manipulation of image through soccer is not merely PR; it is a political act aimed at reinforcing national legitimacy and maintaining authoritarian regimes. Through the emotionally powerful medium of sports, nations justify their power in an "invisible" manner.
+- **The essence of sportswashing is "cultural domination."**  
+  Football is used not only as an image strategy but also as a means for states to maintain their regime and expand their international influence. The author depicts the reality of sports being integrated into diplomacy and security with a cold eye.
 
-- **Commercialization was an Accidental Institutional Product**  
-  The establishment of UEFA and the Premier League was not inevitable; it transformed into a massive business through a series of institutional contingencies. As a result, soccer shifted from being a public culture to an investment target, solidifying a structure that prioritizes profit over ethics.
+- **The "democracy" of football has been lost.**  
+  Due to the widening economic gap, what was once an unpredictable competition has turned into a stable business dominated by capital logic. The observation that the miracle of Leicester City has become unrepeatable serves as a symbol of this change.
 
-- **The Bosman Ruling Unleashed Market Principles**  
-  The ruling that allowed players to transfer freely completely opened the labor market and accelerated wealth concentration. Consequently, the balance of competition collapsed, leading to a structure where a few clubs dominate European soccer.
+- **State ownership of clubs destroys competition.**  
+  State owners with unlimited financial resources distort the market and pressure the management of other clubs. As a result of the collapse of competitive balance, football has transformed into an industry where "winners are fixed."
 
-- **The Boundary Between State and Club Has Disappeared**  
-  Club ownership by Gulf states has blurred the distinction between state capital and private capital, placing clubs on the continuum of national strategy. Soccer is no longer a private entertainment but has become a geopolitical tool.
+- **Commercialization is accompanied by ethical corruption.**  
+  Match-fixing, political interference, and media control are among the side effects of commercialization that undermine the very foundation of football. As seen in the case of Berlusconi, the fusion of sports and politics also exposes the vulnerabilities of democracy.
 
-- **Western Countries Are Complicit in This Structure**  
-  Western nations that promoted free-market capitalism prioritized capital over ethics and tacitly accepted state acquisitions of clubs. The corruption in soccer is not an "external problem," but a consequence of policy choices made by the West.
+- **Ethical reconstruction is essential for the future of football.**  
+  Football is not just entertainment; it is a cultural apparatus that carries social responsibility. The author strongly advocates for the need for institutional transparency and ethical redesign.
 
 ---
 
-## 🔍 Relevance to Contemporary Context
-The themes of this book are deeply intertwined with the realities of modern soccer. In recent years, there has been a surge in club acquisitions by Middle Eastern capital from countries like Saudi Arabia and Qatar, reflecting a growing trend of using sports as part of national branding strategies. This phenomenon corroborates the arrival of the "era of sportswashing" that the book depicts.
+## 🔍 Relevance to Modern Context
+Modern football has transformed into an industry with a structure similar to that of financial markets. The soaring broadcasting rights fees, the entry of state-owned funds, and the "financialization" of clubs are accelerating the concentration of capital and inequality. The structures depicted in 『フットボール・マネー』 are indeed an extension of this reality.
 
-Moreover, the concentration of broadcasting rights and sponsorship revenues has led to an ever-widening gap in European soccer. On the fan culture side, the sense of belonging to local clubs is diminishing, and the role of fans is increasingly that of "consumers" in the global market. デラニー's critique can be read as a prescient analysis of these contemporary structural issues.
+On the other hand, movements of resistance by supporters and a return to localism are also gaining momentum. Protests against the Super League concept and movements to support local clubs have once again raised the fundamental question of "who does football belong to?"
+
+The warnings in this book are a universal challenge to consider the relationship between culture and capital, not only in football but in broader contexts as well.
 
 ---
 
 ## 🚀 Practical Suggestions
-1. **Be Aware of the Political Use of Soccer**  
-   It is the responsibility of fans to adopt a critical perspective on how states and corporations utilize soccer. One should not take media reports at face value but instead investigate the flow of funds independently.
+1. **Discern the structure of sportswashing.**  
+   Develop the literacy to interpret the political intentions behind state and corporate sponsorship activities. It is important to be aware of which values you are supporting, rather than just "cheering."
 
-2. **Demand Transparency in Club Management**  
-   Support institutional frameworks that clarify club ownership structures and funding sources, and engage in social discussions about regulations that protect public interest.
+2. **Rebuild relationships with local clubs.**  
+   Regaining interest in local clubs and supporting community-focused activities will be the first step in preserving the diversity and health of football.
 
-3. **Rebuild Relationships with Local Communities**  
-   Restoring the mechanisms that allow clubs to coexist with local communities will be the most effective countermeasure against commercialization. Fan-led club management and participation in local events can be the first steps.
+3. **Raise voices for transparency and stronger regulations.**  
+   Fans and citizens demanding transparency in club management and financial inflows will encourage self-regulation in the football world. Institutional reform can only be realized through demands from within, not external pressure.
 
-4. **Reevaluate Ethical Standards**  
-   To correct operations skewed by the logic of capital, it is necessary to reconsider past regulations such as non-profit management and salary caps, establishing ethical standards that treat soccer as a public good.
+4. **Act as an ethical consumer.**  
+   The clubs and tournaments you support carry social messages. It is essential to express your values through your cheering and purchasing behaviors.
 
-5. **Fans Must Take Action**  
-   Understanding "who owns the club" and "what the funding aims to achieve" and raising voices from an ethical standpoint is the most realistic means to protect the future of soccer.
+5. **Read football as a mirror of society.**  
+   Approach football as a lens through which to learn about the structures of capitalism, politics, and culture. Viewing sports as a "microcosm of society" can yield deeper insights.
 
 ---
 
 ## ⭐ Overall Evaluation
-『フットボール・マネー』 is a social critique that illuminates the essence of modern capitalism and power structures through soccer. It is not merely a sports economics book; it depicts how the culture of soccer has been entrusted to the hands of the state and capital from both historical and ethical perspectives.
+『フットボール・マネー』 confronts all football lovers with an unavoidable reality. It exposes the dynamics of politics and capital behind the glamorous pitch and critically reassesses the ethics and public nature of sports. 
 
-For those who love soccer, this book will be a painful yet essential reading experience. Confronting the underlying structures of politics and money behind the sport is a starting point for considering its future.
+I highly recommend this book to readers who wish to see football not merely as entertainment but as a mirror reflecting the modern world. After reading, the meaning of supporting your club will shine in a completely different light.
 
 ---
 
