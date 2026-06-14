@@ -1,5 +1,53 @@
 [
   {
+    "title": "経営戦略としての異文化適応力",
+    "author": "宮森千嘉子 and 宮林隆吉",
+    "date": "2026-06-15",
+    "created_at": "2026-06-15T06:47:50.194343",
+    "filename": "経営戦略としての異文化適応力_review.md",
+    "image": "images/reviews/経営戦略としての異文化適応力_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "宮森千嘉子": "著",
+      "宮林隆吉": "著"
+    },
+    "related": [
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "歴史を活かす力　人生に役立つ80のQ＆A",
     "author": "出口 治明",
     "date": "2026-06-15",
