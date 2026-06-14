@@ -1,5 +1,54 @@
 [
   {
+    "title": "数学思考のエッセンス――実装するための12講",
+    "author": "オリヴァー・ジョンソン and 水谷淳",
+    "date": "2026-06-15",
+    "created_at": "2026-06-15T06:47:23.647262",
+    "filename": "数学思考のエッセンス――実装するための12講_review.md",
+    "image": "images/reviews/数学思考のエッセンス――実装するための12講_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "科学・テクノロジー",
+      "数学"
+    ],
+    "category": "技術・サイエンス",
+    "author_roles": {
+      "オリヴァー・ジョンソン": "著",
+      "水谷淳": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "運動脳_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "ハードウェアハッカー～新しいモノをつくる破壊と創造の冒険_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
+        "score": 0.37,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "一滴の沈黙",
     "author": "相場 英雄",
     "date": "2026-06-15",
