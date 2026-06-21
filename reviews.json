@@ -1,54 +1,5 @@
 [
   {
-    "title": "サーラレーオ",
-    "author": "新庄耕",
-    "date": "2026-06-21",
-    "created_at": "2026-06-21T11:19:23.011521",
-    "filename": "サーラレーオ_review.md",
-    "image": "images/reviews/サーラレーオ_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "文学・評論",
-      "小説・文芸",
-      "日本の小説・文芸"
-    ],
-    "category": "小説",
-    "author_roles": {
-      "新庄耕": "著"
-    },
-    "related": [
-      {
-        "filename": "ガラパゴス 上_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "ぜにざむらい_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "大江健三郎全小説　第３巻_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "ゼロ打ち_review.md",
-        "score": 1.0,
-        "method": "meta"
-      }
-    ]
-  },
-  {
     "title": "消費者金融ずるずる日記",
     "author": "加原井 未路",
     "date": "2026-06-21",
@@ -93,6 +44,56 @@
       {
         "filename": "スマホになじんでおりません_review.md",
         "score": 0.37,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-06-21T11:29:15.490594"
+  },
+  {
+    "title": "サーラレーオ",
+    "author": "新庄耕",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T11:19:23.011521",
+    "filename": "サーラレーオ_review.md",
+    "image": "images/reviews/サーラレーオ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "新庄耕": "著"
+    },
+    "related": [
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ゼロ打ち_review.md",
+        "score": 1.0,
         "method": "meta"
       }
     ]
