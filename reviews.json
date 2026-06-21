@@ -1,5 +1,55 @@
 [
   {
+    "title": "むしろ、考える家事【電子特典付き】",
+    "author": "山崎ナオコーラ",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:28:55.980043",
+    "filename": "むしろ、考える家事【電子特典付き】_review.md",
+    "image": "images/reviews/むしろ、考える家事【電子特典付き】_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "山崎ナオコーラ": "著"
+    },
+    "related": [
+      {
+        "filename": "“よむ”お酒_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "終活やーめた。　元祖バッシングの女王の「ピンチを福に転じる」思考法_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "みなさんのおかげです　木梨憲武自伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "巣鴨のお寿司屋で、帰れと言われたことがある_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "「そろそろ、お酒やめようかな」と思ったときに読む本",
     "author": "垣渕 洋一",
     "date": "2026-06-21",
