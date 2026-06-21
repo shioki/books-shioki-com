@@ -1,5 +1,53 @@
 [
   {
+    "title": "英仏百年戦争",
+    "author": "佐藤賢一",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:29:17.728974",
+    "filename": "英仏百年戦争_review.md",
+    "image": "images/reviews/英仏百年戦争_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "歴史・地理",
+      "世界史"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "佐藤賢一": "著"
+    },
+    "related": [
+      {
+        "filename": "歴史を活かす力　人生に役立つ80のQ＆A_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.72,
+        "method": "meta"
+      },
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.6667,
+        "method": "meta"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "新しい時代のお金の教科書",
     "author": "山口揚平",
     "date": "2026-06-21",
