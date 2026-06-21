@@ -43,14 +43,16 @@
   function injectStyle() {
     if (document.getElementById('bnav-style')) return;
     var css =
-      '.bnav{display:flex;flex-wrap:wrap;justify-content:center;gap:.1rem;width:100%;' +
-      'padding:.5rem 1rem;border-bottom:1px solid #e6e6e6;background:#fff;}' +
+      '#site-nav{width:100%;min-width:0;}' +
+      '.bnav{display:flex;flex-wrap:wrap;justify-content:center;gap:.1rem;width:100%;max-width:100%;' +
+      'box-sizing:border-box;padding:.5rem 1rem;border-bottom:1px solid #e6e6e6;background:#fff;}' +
       '.bnav a{color:#0031d8;text-decoration:none;font-size:.875rem;' +
       'padding:.5rem .9rem;border-radius:624px;white-space:nowrap;}' +
       '.bnav a:hover{text-decoration:underline;}' +
       '.bnav a[aria-current="page"]{background:#f0f9ff;border:1px solid #c0e4ff;font-weight:700;}' +
       '@media(max-width:600px){.bnav{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;' +
-      '-webkit-overflow-scrolling:touch;}}';
+      'padding:.4rem .5rem;gap:.05rem;-webkit-overflow-scrolling:touch;}' +
+      '.bnav a{padding:.5rem .6rem;}}';
     var style = document.createElement('style');
     style.id = 'bnav-style';
     style.textContent = css;
