@@ -1,5 +1,54 @@
 [
   {
+    "title": "ガラパゴス 上",
+    "author": "相場英雄",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:29:00.579480",
+    "filename": "ガラパゴス 上_review.md",
+    "image": "images/reviews/ガラパゴス 上_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "相場英雄": "著"
+    },
+    "related": [
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ゼロ打ち_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "希望ヶ丘の人びと　上下合本版_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "むしろ、考える家事【電子特典付き】",
     "author": "山崎ナオコーラ",
     "date": "2026-06-21",
