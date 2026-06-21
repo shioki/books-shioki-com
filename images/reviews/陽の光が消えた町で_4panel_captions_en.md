@@ -1,23 +1,21 @@
 ### Panel 1
-**Scene**: The townsgirl walks through a dimly lit Edo street at dusk, observing people helping each other carry water and share food under a darkened sky. She looks thoughtful, pondering the nature of light in the absence of the sun. The background features a wooden bridge and softly glowing paper lanterns, with townsfolk collaborating in the shadows.
-**Dialogue**: “What becomes of light when the sun disappears?”
+**Scene**: In an Edo street at dusk, the townsgirl notices the dim lanterns and hears whispers about “a town where the sun has vanished.” She pauses, gazing at the sky, contemplating what sustains a community when light fades. A gentle breeze lifts her hair as she holds a blank paper lantern.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her small study, the townsgirl is engrossed in reading a Dutch science book alongside a mysterious foreign volume adorned with two faint portraits. One portrait resembles a calm Western scholar, while the other depicts a composed Japanese woman, both appearing as faded ink illustrations that inspire her studies in ethics, science, and human dignity. The room is cluttered with scrolls, an abacus, and an inkstone.
-**Dialogue**: [No dialogue]
+**Scene**: Inside her small study illuminated by a single candle, she reads a Dutch science book and a translated Western philosophy manuscript. On the scroll’s margin, there’s a sketched portrait of a Western scholar resembling Naomi Kritzer—short, light hair, calm and thoughtful face, dressed in simple robes—next to an imagined figure of Kiriya Tomomi, a serene Japanese translator. The townsgirl marvels at their concepts of “shared knowledge” and “ethical machines.”
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: The townsgirl constructs a small hand-cranked lamp from bamboo, magnets, and wire, inspired by her readings. She showcases the lamp to neighborhood children, who watch in awe as the faint light glows in their eyes. The scene is filled with humor and hope, as the lamp flickers wildly while the children cheer, and she laughs, her hair slightly tousled from her efforts.
-**Dialogue**: [No dialogue]
+**Scene**: The townsgirl sets up a tiny “book exchange shelf” beside the well in her neighborhood, inviting people to leave or borrow scrolls. Children and elders gather, exchanging smiles. She joyfully explains the idea while holding a wooden tablet inscribed with “learning shared is light renewed.” A curious samurai jokes that even without the sun, their minds shine.
+**Dialogue**: "Learning shared is light renewed!"
 
 ### Panel 4
-**Scene**: As night falls over Edo, the townsgirl kneels by the window with a brush in hand, composing a waka by candlelight. The faint lamp beside her now glows steadily. A slender tanzaku beside her displays a short poem in elegant calligraphy.
-**Dialogue**: [No dialogue]
-**Tanka (translation)**: "In the warmth of hands that still glow, even as the sun fades, I learn of humanity's worth in the night breeze."
-**Tanka (original)**: 「  
-陽の消えて  
-なお灯る手の  
-ぬくもりに  
-人の尊さ  
-知る夜の風  
-」
+**Scene**: That night, under a faint moon, the townsgirl writes a waka by candlelight, her expression serene. The small library glows softly behind her as neighbors read together. On a vertical tanzaku, her poem is displayed.
+**Dialogue**: None  
+**Tanka (translation)**: Without light, we connect our hearts, hand in hand, igniting hope in the darkness.  
+**Tanka (original)**: 灯りなく  
+心をつなぐ  
+手と手あり  
+闇にともせる  
+希望のひかり  
