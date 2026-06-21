@@ -1,5 +1,56 @@
 [
   {
+    "title": "“よむ”お酒",
+    "author": "パリッコ and スズキナオ",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:28:46.861787",
+    "filename": "“よむ”お酒_review.md",
+    "image": "images/reviews/“よむ”お酒_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "パリッコ": "著",
+      "スズキナオ": "著"
+    },
+    "related": [
+      {
+        "filename": "終活やーめた。　元祖バッシングの女王の「ピンチを福に転じる」思考法_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "みなさんのおかげです　木梨憲武自伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "巣鴨のお寿司屋で、帰れと言われたことがある_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "スマホになじんでおりません",
     "author": "群 ようこ",
     "date": "2026-06-21",
