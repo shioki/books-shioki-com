@@ -1,5 +1,49 @@
 [
   {
+    "title": "スマホになじんでおりません",
+    "author": "群 ようこ",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:28:41.795309",
+    "filename": "スマホになじんでおりません_review.md",
+    "image": "images/reviews/スマホになじんでおりません_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "エッセイ・ノンフィクション"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "related": [
+      {
+        "filename": "私と街たち（ほぼ自伝）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ショローの女_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "マイ・ストーリー_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "Exit　イグジット",
     "author": "相場英雄",
     "date": "2026-06-15",
