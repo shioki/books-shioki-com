@@ -1,5 +1,52 @@
 [
   {
+    "title": "新しい時代のお金の教科書",
+    "author": "山口揚平",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:29:12.998172",
+    "filename": "新しい時代のお金の教科書_review.md",
+    "image": "images/reviews/新しい時代のお金の教科書_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "山口揚平": "著"
+    },
+    "related": [
+      {
+        "filename": "経営戦略としての異文化適応力_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "サラリーマン球団社長_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "医者が教えるダイエット 最強の教科書――２０万人を診てわかった医学的に正しいやせ方",
     "author": "牧田 善二",
     "date": "2026-06-21",
