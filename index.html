@@ -493,16 +493,49 @@
             .category-filter-wrap .sort-select,
             .sort-wrap .sort-select { width: 100%; }
             .update-list li { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
+            .daily-pick { flex-direction: column; }
+            .daily-pick .daily-thumb { width: 100%; height: auto; aspect-ratio: 1/1; }
         }
+
+        /* ── 今日の1冊 ── */
+        .daily-pick {
+            display: flex; gap: 1rem; align-items: center;
+            border: 1px solid var(--color-primitive-light-blue-200);
+            background: var(--color-primitive-light-blue-50);
+            border-radius: var(--border-radius-12);
+            padding: 1rem; margin-bottom: 1.5rem;
+        }
+        .daily-pick .daily-thumb {
+            flex-shrink: 0; width: 96px; height: 96px; border-radius: var(--border-radius-8);
+            object-fit: cover; background: var(--color-neutral-solid-gray-50);
+        }
+        .daily-pick .daily-body { min-width: 0; flex: 1 1 auto; }
+        .daily-pick .daily-eyebrow {
+            font-size: 0.7rem; font-weight: var(--font-weight-700);
+            color: var(--color-primitive-blue-800); letter-spacing: 0.04em;
+        }
+        .daily-pick .daily-title { font-size: var(--font-size-20); font-weight: var(--font-weight-700); }
+        .daily-pick .daily-title a { color: var(--color-neutral-solid-gray-900); text-decoration: none; }
+        .daily-pick .daily-title a:hover { text-decoration: underline; }
+        .daily-pick .daily-author { font-size: var(--font-size-14); color: var(--color-neutral-solid-gray-536); }
+        .daily-pick .daily-reroll {
+            margin-top: 0.4rem; font-size: var(--font-size-14); color: var(--color-primitive-blue-800);
+            background: none; border: 1px solid var(--color-primitive-blue-800);
+            border-radius: var(--border-radius-8); padding: 0.2rem 0.6rem; cursor: pointer;
+        }
+        .daily-pick .daily-reroll:hover { background: #fff; }
     </style>
 </head>
 <body>
-    <a href="/authors.html" class="nav-link">よく読んでいる著者</a>
-    <a href="/okiwa-profile.html" class="nav-link">キャラクター紹介</a>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
     <div class="container">
         <div class="header">
             <h1>Books Portfolio</h1>
         </div>
+
+        <section id="daily-pick" class="daily-pick" style="display:none;" aria-label="今日の1冊"></section>
 
         <details open id="recent-updates" class="recent-updates" style="display:none;">
             <summary>
@@ -1164,6 +1197,80 @@
             .catch(function () {
                 document.getElementById('reviews-list').innerHTML = '<div class="empty-state">まだ書評がありません</div>';
             });
+    })();
+    </script>
+
+    <!-- 今日の1冊（案5a）。site-common.js のヘルパを利用し、独自に reviews.json を取得する。 -->
+    <script>
+    (function () {
+        'use strict';
+        var C = window.BooksCommon;
+        if (!C) return;
+
+        function hashDate(str) {
+            var h = 0;
+            for (var i = 0; i < str.length; i++) { h = (h * 31 + str.charCodeAt(i)) | 0; }
+            return Math.abs(h);
+        }
+
+        function render(reviews, pick) {
+            var box = document.getElementById('daily-pick');
+            if (!box || !pick) return;
+            box.style.display = '';
+            box.innerHTML = '';
+
+            var href = C.reviewHref(pick, 'ja');
+            var thumbLink = document.createElement('a');
+            thumbLink.href = href;
+            if (pick.image) {
+                var img = document.createElement('img');
+                img.className = 'daily-thumb';
+                img.src = pick.image;
+                img.loading = 'lazy';
+                img.decoding = 'async';
+                img.alt = pick.title || '';
+                thumbLink.appendChild(img);
+            }
+            box.appendChild(thumbLink);
+
+            var body = document.createElement('div');
+            body.className = 'daily-body';
+            var eyebrow = document.createElement('div');
+            eyebrow.className = 'daily-eyebrow';
+            eyebrow.textContent = '今日の1冊 / Today\u2019s Pick';
+            var title = document.createElement('div');
+            title.className = 'daily-title';
+            var titleLink = document.createElement('a');
+            titleLink.href = href;
+            titleLink.textContent = pick.title || '';
+            title.appendChild(titleLink);
+            var author = document.createElement('div');
+            author.className = 'daily-author';
+            author.textContent = pick.author || '';
+            var reroll = document.createElement('button');
+            reroll.type = 'button';
+            reroll.className = 'daily-reroll';
+            reroll.textContent = '別の1冊（ランダム）';
+            reroll.addEventListener('click', function () {
+                var r = reviews[Math.floor(Math.random() * reviews.length)];
+                render(reviews, r);
+            });
+
+            body.appendChild(eyebrow);
+            body.appendChild(title);
+            body.appendChild(author);
+            body.appendChild(reroll);
+            box.appendChild(body);
+        }
+
+        C.fetchReviews().then(function (reviews) {
+            if (!reviews || !reviews.length) return;
+            var withImg = reviews.filter(function (r) { return r.image; });
+            var pool = withImg.length ? withImg : reviews;
+            var today = new Date().toISOString().substring(0, 10);
+            var pick = pool[hashDate(today) % pool.length];
+            render(pool, pick);
+        }).catch(function () { /* ウィジェットは非表示のまま */ });
     })();
     </script>
 </body>

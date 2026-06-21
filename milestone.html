@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>300冊記念 | Books Portfolio | shioki</title>
+    <link rel="canonical" href="https://books.shioki.com/milestone.html">
+    <meta name="description" content="書評300冊公開を記念した特設ページ。300冊・3言語の歩みと、全書評の4コマ漫画ウォールを一覧できます。">
+    <meta property="og:title" content="300冊記念 | Books Portfolio | shioki">
+    <meta property="og:description" content="書評300冊公開を記念した特設ページ。300冊・3言語の歩みと、全書評の4コマ漫画ウォール。">
+    <meta property="og:image" content="https://books.shioki.com/images/og-default.png">
+    <meta property="og:url" content="https://books.shioki.com/milestone.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="books.shioki.com">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="300冊記念 | Books Portfolio | shioki">
+    <meta name="twitter:image" content="https://books.shioki.com/images/og-default.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-primitive-blue-900: #0017c1;
+            --color-primitive-light-blue-50: #f0f9ff;
+            --color-primitive-light-blue-200: #c0e4ff;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-600: #666666;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-16: 1rem;
+            --font-size-20: 1.25rem;
+            --font-size-24: 1.5rem;
+            --font-size-28: 1.75rem;
+            --font-weight-400: 400;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-8: 0.5rem;
+            --border-radius-12: 0.75rem;
+            --border-radius-full: 624.9375rem;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: var(--color-neutral-solid-gray-900);
+            line-height: var(--line-height-170);
+            font-size: var(--font-size-16);
+            overflow-x: hidden;
+        }
+        .container { padding: 1rem 1.5rem 2rem; max-width: 1000px; width: 100%; }
+        .lang-toggle { text-align: right; margin: 0.5rem 0; }
+        .lang-toggle a {
+            font-size: var(--font-size-14);
+            color: var(--color-primitive-blue-800);
+            text-decoration: none;
+            padding: 0.2rem 0.5rem;
+        }
+        .lang-toggle a[aria-current="true"] { font-weight: var(--font-weight-700); text-decoration: underline; }
+        .hero { text-align: center; padding: 2rem 1rem 1.5rem; }
+        .hero .count {
+            font-size: clamp(4rem, 18vw, 9rem);
+            font-weight: var(--font-weight-700);
+            line-height: 1;
+            color: var(--color-primitive-blue-800);
+            letter-spacing: 0.02em;
+        }
+        .hero .count-label { font-size: var(--font-size-20); margin-top: 0.25rem; }
+        .hero .thanks { margin-top: 1rem; color: var(--color-neutral-solid-gray-600); }
+        .summary-band {
+            display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem;
+            margin: 1.5rem 0 2rem; padding: 1rem;
+            border-top: 1px solid var(--color-neutral-solid-gray-100);
+            border-bottom: 1px solid var(--color-neutral-solid-gray-100);
+        }
+        .stat { text-align: center; min-width: 90px; }
+        .stat .num { font-size: var(--font-size-28); font-weight: var(--font-weight-700); color: var(--color-primitive-blue-800); }
+        .stat .lbl { font-size: 0.75rem; color: var(--color-neutral-solid-gray-536); }
+        .wall-title { font-size: var(--font-size-20); font-weight: var(--font-weight-700); margin-bottom: 0.75rem; }
+        .wall {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+            gap: 4px;
+        }
+        .wall a {
+            position: relative; display: block; aspect-ratio: 1 / 1; overflow: hidden;
+            border-radius: 4px; background: var(--color-neutral-solid-gray-50);
+        }
+        .wall img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.2s ease; }
+        .wall a:hover img { transform: scale(1.06); }
+        .wall a .cap {
+            position: absolute; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.66); color: #fff; font-size: 0.6rem; line-height: 1.3;
+            padding: 0.25rem 0.3rem; opacity: 0; transition: opacity 0.15s ease;
+            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .wall a:hover .cap, .wall a:focus .cap { opacity: 1; }
+        .loading { text-align: center; padding: 2rem; color: var(--color-neutral-solid-gray-536); }
+        footer { margin-top: auto; padding: 2rem 1rem; color: var(--color-neutral-solid-gray-536); font-size: 0.8rem; text-align: center; }
+        footer a { color: var(--color-primitive-blue-800); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+        @media (prefers-reduced-motion: reduce) {
+            .wall img, .wall a:hover img { transition: none; transform: none; }
+        }
+    </style>
+</head>
+<body>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
+    <div class="container">
+        <div class="lang-toggle" id="lang-toggle"></div>
+        <div class="hero">
+            <div class="count" id="count">0</div>
+            <div class="count-label" id="count-label">冊の書評を公開しました</div>
+            <p class="thanks" id="thanks"></p>
+        </div>
+        <div class="summary-band" id="summary-band"></div>
+        <h2 class="wall-title" id="wall-title">Books Wall</h2>
+        <div id="wall" class="wall"><p class="loading">読み込み中…</p></div>
+    </div>
+    <footer>
+        &copy; <span id="current-year"></span>
+        <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a>
+        &middot;
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+    </footer>
+
+    <script>
+    (function () {
+        'use strict';
+        var C = window.BooksCommon;
+        var lang = C.getLang();
+        document.documentElement.lang = lang === 'zh-tw' ? 'zh-Hant' : lang;
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        var T = {
+            ja: { label: '冊の書評を公開しました', thanks: '300冊、ありがとう。これからも一冊ずつ。', wall: '4コマ漫画ウォール（全書評）',
+                  books: '冊', langs: '言語', months: 'ヶ月', authors: '著者', cats: 'ジャンル' },
+            en: { label: 'reviews published', thanks: '300 books — thank you. One book at a time, from here on.', wall: 'Four-panel manga wall (all reviews)',
+                  books: 'books', langs: 'languages', months: 'months', authors: 'authors', cats: 'genres' },
+            'zh-tw': { label: '篇書評已發布', thanks: '300 本，謝謝你。今後也會一本一本地讀下去。', wall: '四格漫畫牆（全部書評）',
+                  books: '本', langs: '語言', months: '個月', authors: '作者', cats: '類別' }
+        };
+        var t = T[lang] || T.ja;
+
+        // 言語トグル
+        (function () {
+            var box = document.getElementById('lang-toggle');
+            C.LANGS.forEach(function (l, i) {
+                var a = document.createElement('a');
+                a.href = C.langSwitchHref(l);
+                a.textContent = C.langLabel(l);
+                if (l === lang) a.setAttribute('aria-current', 'true');
+                box.appendChild(a);
+                if (i < C.LANGS.length - 1) box.appendChild(document.createTextNode(' | '));
+            });
+        })();
+
+        document.getElementById('count-label').textContent = t.label;
+        document.getElementById('thanks').textContent = t.thanks;
+        document.getElementById('wall-title').textContent = t.wall;
+
+        function monthSpan(reviews) {
+            var ds = reviews.map(function (r) { return (r.date || C.reviewActivityAt(r) || '').substring(0, 7); })
+                            .filter(Boolean).sort();
+            if (!ds.length) return 0;
+            var a = ds[0].split('-'), b = ds[ds.length - 1].split('-');
+            return (parseInt(b[0],10)-parseInt(a[0],10))*12 + (parseInt(b[1],10)-parseInt(a[1],10)) + 1;
+        }
+
+        function animateCount(target) {
+            var el = document.getElementById('count');
+            if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                el.textContent = target; return;
+            }
+            var start = null, dur = 1200;
+            function step(ts) {
+                if (start === null) start = ts;
+                var p = Math.min((ts - start) / dur, 1);
+                var eased = 1 - Math.pow(1 - p, 3);
+                el.textContent = Math.round(eased * target);
+                if (p < 1) requestAnimationFrame(step);
+            }
+            requestAnimationFrame(step);
+        }
+
+        function renderSummary(reviews) {
+            var total = reviews.length;
+            var trilingual = reviews.filter(function (r) {
+                var l = r.languages || [];
+                return l.indexOf('en') !== -1 && l.indexOf('zh-tw') !== -1;
+            }).length;
+            var catSet = {};
+            reviews.forEach(function (r) { C.getCategories(r).forEach(function (c) { catSet[c] = true; }); });
+            var authorCount = C.buildAuthorData(reviews).length;
+            var stats = [
+                { num: total, lbl: t.books },
+                { num: 3, lbl: t.langs, title: trilingual + ' / ' + total },
+                { num: monthSpan(reviews), lbl: t.months },
+                { num: authorCount, lbl: t.authors },
+                { num: Object.keys(catSet).length, lbl: t.cats }
+            ];
+            var band = document.getElementById('summary-band');
+            band.innerHTML = '';
+            stats.forEach(function (s) {
+                var div = document.createElement('div');
+                div.className = 'stat';
+                if (s.title) div.title = s.title;
+                div.innerHTML = '<div class="num">' + s.num + '</div><div class="lbl">' + C.escapeHtml(s.lbl) + '</div>';
+                band.appendChild(div);
+            });
+        }
+
+        function renderWall(reviews) {
+            var sorted = reviews.slice().sort(function (a, b) {
+                return (b.date || '').localeCompare(a.date || '');
+            });
+            var wall = document.getElementById('wall');
+            wall.innerHTML = '';
+            var frag = document.createDocumentFragment();
+            sorted.forEach(function (r) {
+                if (!r.image) return;
+                var a = document.createElement('a');
+                a.href = C.reviewHref(r, lang);
+                var pic = document.createElement('picture');
+                var src = document.createElement('source');
+                src.type = 'image/webp';
+                src.srcset = C.webpSrc(r.image);
+                var img = document.createElement('img');
+                img.src = r.image;
+                img.loading = 'lazy';
+                img.decoding = 'async';
+                img.alt = r.title || '';
+                pic.appendChild(src);
+                pic.appendChild(img);
+                a.appendChild(pic);
+                var cap = document.createElement('span');
+                cap.className = 'cap';
+                cap.textContent = (r.title || '') + (r.author ? ' / ' + r.author : '');
+                a.appendChild(cap);
+                frag.appendChild(a);
+            });
+            wall.appendChild(frag);
+        }
+
+        C.fetchReviews().then(function (reviews) {
+            renderSummary(reviews);
+            renderWall(reviews);
+            var counted = false;
+            var hero = document.querySelector('.hero');
+            if ('IntersectionObserver' in window) {
+                var io = new IntersectionObserver(function (entries) {
+                    entries.forEach(function (e) {
+                        if (e.isIntersecting && !counted) {
+                            counted = true;
+                            animateCount(reviews.length);
+                            io.disconnect();
+                        }
+                    });
+                });
+                io.observe(hero);
+            } else {
+                animateCount(reviews.length);
+            }
+        }).catch(function () {
+            document.getElementById('wall').innerHTML = '<p class="loading">データの読み込みに失敗しました。</p>';
+        });
+    })();
+    </script>
+</body>
+</html>

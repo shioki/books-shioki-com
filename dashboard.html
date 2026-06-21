@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>読書データ | Books Portfolio | shioki</title>
+    <link rel="canonical" href="https://books.shioki.com/dashboard.html">
+    <meta name="description" content="書評300冊の読書データダッシュボード。カテゴリ分布・月別公開推移・著者ランキング・言語カバレッジを可視化します。">
+    <meta property="og:title" content="読書データ | Books Portfolio | shioki">
+    <meta property="og:description" content="書評300冊の読書データ。カテゴリ分布・月別推移・著者ランキング・言語カバレッジ。">
+    <meta property="og:image" content="https://books.shioki.com/images/og-default.png">
+    <meta property="og:url" content="https://books.shioki.com/dashboard.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="books.shioki.com">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="読書データ | Books Portfolio | shioki">
+    <meta name="twitter:image" content="https://books.shioki.com/images/og-default.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-primitive-light-blue-50: #f0f9ff;
+            --color-primitive-light-blue-200: #c0e4ff;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-20: 1.25rem;
+            --font-size-28: 1.75rem;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-12: 0.75rem;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
+            min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+            color: var(--color-neutral-solid-gray-900); line-height: var(--line-height-170);
+            font-size: var(--font-size-14); overflow-x: hidden;
+        }
+        .container { padding: 1rem 1.5rem 2rem; max-width: 980px; width: 100%; }
+        .lang-toggle { text-align: right; margin: 0.5rem 0; }
+        .lang-toggle a { font-size: var(--font-size-14); color: var(--color-primitive-blue-800); text-decoration: none; padding: 0.2rem 0.5rem; }
+        .lang-toggle a[aria-current="true"] { font-weight: var(--font-weight-700); text-decoration: underline; }
+        .header { text-align: center; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--color-neutral-solid-gray-100); }
+        .header h1 { font-size: var(--font-size-28); font-weight: var(--font-weight-700); }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        .card { border: 1px solid var(--color-neutral-solid-gray-100); border-radius: var(--border-radius-12); padding: 1rem; min-width: 0; }
+        .card h2 { font-size: var(--font-size-20); font-weight: var(--font-weight-700); margin-bottom: 0.5rem; }
+        .chart-wrap { position: relative; width: 100%; height: 320px; }
+        .chart-wrap.tall { height: 420px; }
+        .loading { text-align: center; padding: 2rem; color: var(--color-neutral-solid-gray-536); }
+        footer { margin-top: auto; padding: 2rem 1rem; color: var(--color-neutral-solid-gray-536); font-size: 0.8rem; text-align: center; }
+        footer a { color: var(--color-primitive-blue-800); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+        @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
+    <div class="container">
+        <div class="lang-toggle" id="lang-toggle"></div>
+        <div class="header"><h1 id="page-title">読書データ</h1></div>
+        <div id="status" class="loading">読み込み中…</div>
+        <div class="grid" id="grid" style="display:none;">
+            <div class="card"><h2 id="t-cat"></h2><div class="chart-wrap tall"><canvas id="catChart"></canvas></div></div>
+            <div class="card"><h2 id="t-month"></h2><div class="chart-wrap"><canvas id="monthChart"></canvas></div></div>
+            <div class="card"><h2 id="t-author"></h2><div class="chart-wrap tall"><canvas id="authorChart"></canvas></div></div>
+            <div class="card"><h2 id="t-lang"></h2><div class="chart-wrap"><canvas id="langChart"></canvas></div></div>
+        </div>
+    </div>
+    <footer>
+        &copy; <span id="current-year"></span>
+        <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a>
+        &middot;
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+    </footer>
+
+    <script src="/assets/vendor/chart.umd.min.js"></script>
+    <script>
+    (function () {
+        'use strict';
+        var C = window.BooksCommon;
+        var lang = C.getLang();
+        document.documentElement.lang = lang === 'zh-tw' ? 'zh-Hant' : lang;
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        var T = {
+            ja: { title: '読書データ', cat: 'カテゴリ分布（上位）', month: '月別公開推移', author: 'よく読む著者 Top10', langc: '言語カバレッジ',
+                  others: 'その他', tri: '3言語', jaonly: '日本語のみ', other: 'その他', books: '冊' },
+            en: { title: 'Reading Dashboard', cat: 'Top categories', month: 'Reviews per month', author: 'Top 10 authors', langc: 'Language coverage',
+                  others: 'Others', tri: 'Trilingual', jaonly: 'Japanese only', other: 'Other', books: 'books' },
+            'zh-tw': { title: '閱讀數據', cat: '類別分布（前段）', month: '每月發布趨勢', author: '常讀作者 Top10', langc: '語言涵蓋',
+                  others: '其他', tri: '三語', jaonly: '僅日語', other: '其他', books: '本' }
+        };
+        var t = T[lang] || T.ja;
+
+        document.getElementById('page-title').textContent = t.title;
+        document.getElementById('t-cat').textContent = t.cat;
+        document.getElementById('t-month').textContent = t.month;
+        document.getElementById('t-author').textContent = t.author;
+        document.getElementById('t-lang').textContent = t.langc;
+
+        (function () {
+            var box = document.getElementById('lang-toggle');
+            C.LANGS.forEach(function (l, i) {
+                var a = document.createElement('a');
+                a.href = C.langSwitchHref(l);
+                a.textContent = C.langLabel(l);
+                if (l === lang) a.setAttribute('aria-current', 'true');
+                box.appendChild(a);
+                if (i < C.LANGS.length - 1) box.appendChild(document.createTextNode(' | '));
+            });
+        })();
+
+        var BLUE = '#0031d8';
+        var PALETTE = ['#0031d8','#0a7ea4','#2e9e6b','#b8860b','#9c4dcc','#d2691e','#c2185b','#5d4037','#455a64','#00838f'];
+
+        function catData(reviews) {
+            var counts = {};
+            reviews.forEach(function (r) { C.getCategories(r).forEach(function (c) { counts[c] = (counts[c]||0)+1; }); });
+            var arr = Object.keys(counts).map(function (k) { return { cat: k, n: counts[k] }; });
+            arr.sort(function (a,b){ return b.n - a.n; });
+            var TOP = 15, labels = [], data = [];
+            arr.slice(0, TOP).forEach(function (e) { labels.push(C.catLabel(e.cat, lang)); data.push(e.n); });
+            if (arr.length > TOP) {
+                var rest = arr.slice(TOP).reduce(function (s,e){ return s+e.n; }, 0);
+                labels.push(t.others); data.push(rest);
+            }
+            return { labels: labels, data: data };
+        }
+
+        function monthData(reviews) {
+            var counts = {};
+            reviews.forEach(function (r) {
+                var m = (r.date || C.reviewActivityAt(r) || '').substring(0, 7);
+                if (m) counts[m] = (counts[m]||0)+1;
+            });
+            var keys = Object.keys(counts).sort();
+            return { labels: keys, data: keys.map(function (k){ return counts[k]; }) };
+        }
+
+        function authorData(reviews) {
+            var entries = C.buildAuthorData(reviews).slice(0, 10);
+            return {
+                labels: entries.map(function (e) {
+                    var lab = C.authorLabel(e.name);
+                    if (lang === 'en' && lab && lab.en) return lab.en;
+                    if (lang === 'zh-tw' && lab && lab['zh-tw']) return lab['zh-tw'];
+                    return e.name;
+                }),
+                data: entries.map(function (e){ return e.count; })
+            };
+        }
+
+        function langData(reviews) {
+            var tri = 0, jaOnly = 0, other = 0;
+            reviews.forEach(function (r) {
+                var l = r.languages || [];
+                if (l.indexOf('en') !== -1 && l.indexOf('zh-tw') !== -1) tri++;
+                else if (l.length <= 1) jaOnly++;
+                else other++;
+            });
+            return { labels: [t.tri, t.jaonly, t.other], data: [tri, jaOnly, other] };
+        }
+
+        function render(reviews) {
+            if (typeof Chart === 'undefined') {
+                document.getElementById('status').textContent = 'グラフライブラリの読み込みに失敗しました。';
+                return;
+            }
+            document.getElementById('status').style.display = 'none';
+            document.getElementById('grid').style.display = '';
+            Chart.defaults.font.family = "'Noto Sans JP', sans-serif";
+
+            var cd = catData(reviews);
+            new Chart(document.getElementById('catChart'), {
+                type: 'bar',
+                data: { labels: cd.labels, datasets: [{ data: cd.data, backgroundColor: BLUE }] },
+                options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+                    plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true } } }
+            });
+
+            var md = monthData(reviews);
+            new Chart(document.getElementById('monthChart'), {
+                type: 'bar',
+                data: { labels: md.labels, datasets: [{ label: t.books, data: md.data, backgroundColor: BLUE }] },
+                options: { responsive: true, maintainAspectRatio: false,
+                    plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+            });
+
+            var ad = authorData(reviews);
+            new Chart(document.getElementById('authorChart'), {
+                type: 'bar',
+                data: { labels: ad.labels, datasets: [{ data: ad.data, backgroundColor: PALETTE }] },
+                options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+                    plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true, ticks: { precision: 0 } } } }
+            });
+
+            var ld = langData(reviews);
+            new Chart(document.getElementById('langChart'), {
+                type: 'doughnut',
+                data: { labels: ld.labels, datasets: [{ data: ld.data, backgroundColor: [BLUE, '#9c4dcc', '#b8860b'] }] },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+            });
+        }
+
+        C.fetchReviews().then(render).catch(function () {
+            document.getElementById('status').textContent = 'データの読み込みに失敗しました。';
+        });
+    })();
+    </script>
+</body>
+</html>

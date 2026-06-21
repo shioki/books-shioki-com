@@ -247,8 +247,9 @@
     </style>
 </head>
 <body>
-    <a href="/" class="nav-link">トップページ</a>
-    <a href="/okiwa-profile.html" class="nav-link">キャラクター紹介</a>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
     <div class="container">
         <div class="header">
             <h1>よく読んでいる著者</h1>
@@ -389,6 +390,7 @@
         };
 
         // ── 著者の正規化・除外ルール ──
+        // AUTHOR_NORMALIZE は scripts/utils/author_names.py と同期すること
 
         var AUTHOR_NORMALIZE = {
             'トマ ピケティ': 'トマ・ピケティ',

@@ -40,11 +40,34 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/dads.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/review-related.css' | relative_url }}">
+  {% if page.url contains '/reviews/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "url": {{ canonical | jsonify }},
+    "inLanguage": {{ og_locale | replace: '_', '-' | jsonify }},
+    "itemReviewed": {
+      "@type": "Book",
+      "name": {{ page.title | default: site.title | jsonify }}
+    },
+    "name": {{ page.title | default: site.title | jsonify }},
+    {% if og_desc != '' %}"reviewBody": {{ og_desc | jsonify }},{% endif %}
+    "image": {{ og_image | jsonify }},
+    "author": { "@type": "Person", "name": "shioki" },
+    "publisher": { "@type": "Person", "name": "shioki" }
+  }
+  </script>
+  {% endif %}
 </head>
 <body class="markdown-page">
   <nav class="site-nav">
     <a href="{{ '/' | relative_url }}" class="nav-link">トップページ</a>
+    <a href="{{ '/milestone.html' | relative_url }}" class="nav-link">300記念</a>
     <a href="{{ '/authors.html' | relative_url }}" class="nav-link">よく読んでいる著者</a>
+    <a href="{{ '/shelves.html' | relative_url }}" class="nav-link">テーマ棚</a>
+    <a href="{{ '/dashboard.html' | relative_url }}" class="nav-link">データ</a>
+    <a href="{{ '/graph.html' | relative_url }}" class="nav-link">関係図</a>
     <a href="{{ '/okiwa-profile.html' | relative_url }}" class="nav-link">キャラクター紹介</a>
   </nav>
 

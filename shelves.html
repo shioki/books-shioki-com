@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>テーマで探す | Books Portfolio | shioki</title>
+    <link rel="canonical" href="https://books.shioki.com/shelves.html">
+    <meta name="description" content="書評をテーマ別の棚に整理。お金と人生・文学の名作・社会を読む など、興味のあるテーマから書評を探せます。">
+    <meta property="og:title" content="テーマで探す | Books Portfolio | shioki">
+    <meta property="og:description" content="書評をテーマ別の棚に整理。お金と人生・文学の名作・社会を読む など。">
+    <meta property="og:image" content="https://books.shioki.com/images/og-default.png">
+    <meta property="og:url" content="https://books.shioki.com/shelves.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="books.shioki.com">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="テーマで探す | Books Portfolio | shioki">
+    <meta name="twitter:image" content="https://books.shioki.com/images/og-default.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-primitive-light-blue-50: #f0f9ff;
+            --color-primitive-light-blue-200: #c0e4ff;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-20: 1.25rem;
+            --font-size-28: 1.75rem;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-8: 0.5rem;
+            --border-radius-12: 0.75rem;
+            --border-radius-full: 624.9375rem;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
+            min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+            color: var(--color-neutral-solid-gray-900); line-height: var(--line-height-170);
+            font-size: var(--font-size-14); overflow-x: hidden;
+        }
+        .container { padding: 1rem 1.5rem 2rem; max-width: 1000px; width: 100%; }
+        .lang-toggle { text-align: right; margin: 0.5rem 0; }
+        .lang-toggle a { font-size: var(--font-size-14); color: var(--color-primitive-blue-800); text-decoration: none; padding: 0.2rem 0.5rem; }
+        .lang-toggle a[aria-current="true"] { font-weight: var(--font-weight-700); text-decoration: underline; }
+        .header { text-align: center; margin-bottom: 1.25rem; padding-bottom: 1rem; border-bottom: 1px solid var(--color-neutral-solid-gray-100); }
+        .header h1 { font-size: var(--font-size-28); font-weight: var(--font-weight-700); }
+        .shelf { margin-bottom: 1.75rem; }
+        .shelf-head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; margin-bottom: 0.5rem; }
+        .shelf-title { font-size: var(--font-size-20); font-weight: var(--font-weight-700); }
+        .shelf-count { font-size: 0.75rem; color: var(--color-neutral-solid-gray-536); }
+        .shelf-more { font-size: var(--font-size-14); color: var(--color-primitive-blue-800); text-decoration: none; white-space: nowrap; }
+        .shelf-more:hover { text-decoration: underline; }
+        .carousel {
+            display: flex; gap: 0.75rem; overflow-x: auto; padding-bottom: 0.5rem;
+            scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+        }
+        .book {
+            scroll-snap-align: start; flex: 0 0 auto; width: 130px; text-decoration: none; color: inherit;
+        }
+        .book img {
+            width: 130px; height: 130px; object-fit: cover; border-radius: var(--border-radius-8);
+            background: var(--color-neutral-solid-gray-50); display: block;
+        }
+        .book .b-title {
+            font-size: 0.75rem; font-weight: var(--font-weight-700); margin-top: 0.3rem;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .book .b-author { font-size: 0.7rem; color: var(--color-neutral-solid-gray-536);
+            display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+        .book:hover .b-title { text-decoration: underline; }
+        .loading { text-align: center; padding: 2rem; color: var(--color-neutral-solid-gray-536); }
+        footer { margin-top: auto; padding: 2rem 1rem; color: var(--color-neutral-solid-gray-536); font-size: 0.8rem; text-align: center; }
+        footer a { color: var(--color-primitive-blue-800); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
+    <div class="container">
+        <div class="lang-toggle" id="lang-toggle"></div>
+        <div class="header"><h1 id="page-title">テーマで探す</h1></div>
+        <div id="shelves"><p class="loading">読み込み中…</p></div>
+    </div>
+    <footer>
+        &copy; <span id="current-year"></span>
+        <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a>
+        &middot;
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+    </footer>
+
+    <script>
+    (function () {
+        'use strict';
+        var C = window.BooksCommon;
+        var lang = C.getLang();
+        document.documentElement.lang = lang === 'zh-tw' ? 'zh-Hant' : lang;
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        var T = {
+            ja: { title: 'テーマで探す', more: 'もっと見る →', count: '冊', other: 'その他' },
+            en: { title: 'Browse by Theme', more: 'See more →', count: '', other: 'Others' },
+            'zh-tw': { title: '依主題瀏覽', more: '看更多 →', count: '本', other: '其他' }
+        };
+        var t = T[lang] || T.ja;
+        document.getElementById('page-title').textContent = t.title;
+
+        (function () {
+            var box = document.getElementById('lang-toggle');
+            C.LANGS.forEach(function (l, i) {
+                var a = document.createElement('a');
+                a.href = C.langSwitchHref(l);
+                a.textContent = C.langLabel(l);
+                if (l === lang) a.setAttribute('aria-current', 'true');
+                box.appendChild(a);
+                if (i < C.LANGS.length - 1) box.appendChild(document.createTextNode(' | '));
+            });
+        })();
+
+        function themeLabel(theme) { return theme.labels[lang] || theme.labels.ja; }
+
+        function buildShelves(reviews) {
+            var catToTheme = {};
+            C.THEMES.forEach(function (th) { th.cats.forEach(function (c) { if (!catToTheme[c]) catToTheme[c] = th.id; }); });
+
+            var byTheme = {};
+            C.THEMES.forEach(function (th) { byTheme[th.id] = []; });
+            var others = [];
+
+            reviews.forEach(function (r) {
+                var cats = C.getCategories(r);
+                var assigned = {};
+                cats.forEach(function (c) {
+                    var id = catToTheme[c];
+                    if (id && !assigned[id]) { assigned[id] = true; byTheme[id].push(r); }
+                });
+                if (Object.keys(assigned).length === 0) others.push(r);
+            });
+            return { byTheme: byTheme, others: others };
+        }
+
+        function bookCard(r) {
+            var a = document.createElement('a');
+            a.className = 'book';
+            a.href = C.reviewHref(r, lang);
+            if (r.image) {
+                var pic = document.createElement('picture');
+                var src = document.createElement('source');
+                src.type = 'image/webp';
+                src.srcset = C.webpSrc(r.image);
+                var img = document.createElement('img');
+                img.src = r.image; img.loading = 'lazy'; img.decoding = 'async'; img.alt = r.title || '';
+                pic.appendChild(src); pic.appendChild(img); a.appendChild(pic);
+            }
+            var ti = document.createElement('div'); ti.className = 'b-title'; ti.textContent = r.title || '';
+            var au = document.createElement('div'); au.className = 'b-author'; au.textContent = r.author || '';
+            a.appendChild(ti); a.appendChild(au);
+            return a;
+        }
+
+        function shelfEl(titleText, count, books, moreCat) {
+            var sec = document.createElement('section');
+            sec.className = 'shelf';
+            var head = document.createElement('div');
+            head.className = 'shelf-head';
+            var left = document.createElement('div');
+            left.innerHTML = '<span class="shelf-title">' + C.escapeHtml(titleText) +
+                '</span> <span class="shelf-count">' + count + (t.count ? t.count : '') + '</span>';
+            head.appendChild(left);
+            if (moreCat) {
+                var more = document.createElement('a');
+                more.className = 'shelf-more';
+                more.href = '/?category=' + encodeURIComponent(moreCat);
+                more.textContent = t.more;
+                head.appendChild(more);
+            }
+            sec.appendChild(head);
+            var car = document.createElement('div');
+            car.className = 'carousel';
+            books.forEach(function (r) { car.appendChild(bookCard(r)); });
+            sec.appendChild(car);
+            return sec;
+        }
+
+        function render(reviews) {
+            var result = buildShelves(reviews);
+            var container = document.getElementById('shelves');
+            container.innerHTML = '';
+            C.THEMES.forEach(function (th) {
+                var books = result.byTheme[th.id];
+                if (!books.length) return;
+                container.appendChild(shelfEl(themeLabel(th), books.length, books, th.cats[0]));
+            });
+            if (result.others.length) {
+                container.appendChild(shelfEl(t.other, result.others.length, result.others, null));
+            }
+            if (!container.children.length) {
+                container.innerHTML = '<p class="loading">該当する書評がありません。</p>';
+            }
+        }
+
+        C.fetchReviews().then(render).catch(function () {
+            document.getElementById('shelves').innerHTML = '<p class="loading">データの読み込みに失敗しました。</p>';
+        });
+    })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>書評のつながり | Books Portfolio | shioki</title>
+    <link rel="canonical" href="https://books.shioki.com/graph.html">
+    <meta name="description" content="書評300冊の関係グラフ。内容の近い書評を線で結び、ジャンルごとに色分けしたインタラクティブなネットワーク図です。">
+    <meta property="og:title" content="書評のつながり | Books Portfolio | shioki">
+    <meta property="og:description" content="書評300冊の関係グラフ。内容の近い書評を線で結んだネットワーク図。">
+    <meta property="og:image" content="https://books.shioki.com/images/og-default.png">
+    <meta property="og:url" content="https://books.shioki.com/graph.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="books.shioki.com">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="書評のつながり | Books Portfolio | shioki">
+    <meta name="twitter:image" content="https://books.shioki.com/images/og-default.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primitive-blue-800: #0031d8;
+            --color-neutral-white: #ffffff;
+            --color-neutral-solid-gray-50: #f2f2f2;
+            --color-neutral-solid-gray-100: #e6e6e6;
+            --color-neutral-solid-gray-536: #767676;
+            --color-neutral-solid-gray-900: #1a1a1a;
+            --font-family-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-size-14: 0.875rem;
+            --font-size-20: 1.25rem;
+            --font-size-28: 1.75rem;
+            --font-weight-700: 700;
+            --line-height-170: 1.7;
+            --border-radius-8: 0.5rem;
+            --border-radius-12: 0.75rem;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--color-neutral-white);
+            min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+            color: var(--color-neutral-solid-gray-900); line-height: var(--line-height-170);
+            font-size: var(--font-size-14); overflow-x: hidden;
+        }
+        .container { padding: 1rem 1.5rem 2rem; max-width: 1100px; width: 100%; }
+        .lang-toggle { text-align: right; margin: 0.5rem 0; }
+        .lang-toggle a { font-size: var(--font-size-14); color: var(--color-primitive-blue-800); text-decoration: none; padding: 0.2rem 0.5rem; }
+        .lang-toggle a[aria-current="true"] { font-weight: var(--font-weight-700); text-decoration: underline; }
+        .header { text-align: center; margin-bottom: 0.75rem; }
+        .header h1 { font-size: var(--font-size-28); font-weight: var(--font-weight-700); }
+        .header p { font-size: var(--font-size-14); color: var(--color-neutral-solid-gray-536); }
+        #legend { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 0.75rem 0; }
+        .legend-item { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.7rem; color: var(--color-neutral-solid-gray-600); }
+        .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+        #cy {
+            width: 100%; height: 70vh; min-height: 420px;
+            border: 1px solid var(--color-neutral-solid-gray-100);
+            border-radius: var(--border-radius-12);
+            background: var(--color-neutral-solid-gray-50);
+        }
+        .status { text-align: center; padding: 2rem; color: var(--color-neutral-solid-gray-536); }
+        footer { margin-top: auto; padding: 2rem 1rem; color: var(--color-neutral-solid-gray-536); font-size: 0.8rem; text-align: center; }
+        footer a { color: var(--color-primitive-blue-800); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div id="site-nav"></div>
+    <script src="/assets/js/site-common.js"></script>
+    <script src="/assets/js/nav.js"></script>
+    <div class="container">
+        <div class="lang-toggle" id="lang-toggle"></div>
+        <div class="header">
+            <h1 id="page-title">書評のつながり</h1>
+            <p id="page-desc"></p>
+        </div>
+        <div id="legend"></div>
+        <div id="cy"></div>
+        <div id="status" class="status">読み込み中…</div>
+    </div>
+    <footer>
+        &copy; <span id="current-year"></span>
+        <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a>
+        &middot;
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+    </footer>
+
+    <script src="/assets/vendor/cytoscape.min.js"></script>
+    <script>
+    (function () {
+        'use strict';
+        var C = window.BooksCommon;
+        var lang = C.getLang();
+        document.documentElement.lang = lang === 'zh-tw' ? 'zh-Hant' : lang;
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        var T = {
+            ja: { title: '書評のつながり', desc: '内容の近い書評を線で結んでいます。点をクリックすると書評が開きます。', other: 'その他' },
+            en: { title: 'Connections', desc: 'Reviews with similar content are linked. Click a node to open the review.', other: 'Others' },
+            'zh-tw': { title: '書評的連結', desc: '內容相近的書評以線連接。點擊節點即可開啟書評。', other: '其他' }
+        };
+        var t = T[lang] || T.ja;
+        document.getElementById('page-title').textContent = t.title;
+        document.getElementById('page-desc').textContent = t.desc;
+
+        (function () {
+            var box = document.getElementById('lang-toggle');
+            C.LANGS.forEach(function (l, i) {
+                var a = document.createElement('a');
+                a.href = C.langSwitchHref(l);
+                a.textContent = C.langLabel(l);
+                if (l === lang) a.setAttribute('aria-current', 'true');
+                box.appendChild(a);
+                if (i < C.LANGS.length - 1) box.appendChild(document.createTextNode(' | '));
+            });
+        })();
+
+        var PALETTE = ['#0031d8','#0a7ea4','#2e9e6b','#b8860b','#9c4dcc','#d2691e','#c2185b','#5d4037','#455a64','#00838f'];
+        var OTHER_COLOR = '#b0b0b0';
+
+        function topCategoryColors(reviews) {
+            var counts = {};
+            reviews.forEach(function (r) { var c = C.primaryCategory(r); counts[c] = (counts[c]||0)+1; });
+            var sorted = Object.keys(counts).sort(function (a,b){ return counts[b]-counts[a]; });
+            var map = {};
+            sorted.slice(0, PALETTE.length).forEach(function (cat, i) { map[cat] = PALETTE[i]; });
+            return map;
+        }
+
+        function build(reviews) {
+            if (typeof cytoscape === 'undefined') {
+                document.getElementById('status').textContent = 'グラフライブラリの読み込みに失敗しました。';
+                return;
+            }
+            var byFile = {};
+            reviews.forEach(function (r) { if (r.filename) byFile[r.filename] = r; });
+            var colorMap = topCategoryColors(reviews);
+
+            var elements = [];
+            var degree = {};
+            reviews.forEach(function (r) {
+                if (!r.filename) return;
+                var cat = C.primaryCategory(r);
+                elements.push({ data: {
+                    id: r.filename,
+                    label: r.title || '',
+                    color: colorMap[cat] || OTHER_COLOR,
+                    href: C.reviewHref(r, lang),
+                    cat: C.catLabel(cat, lang)
+                }});
+                degree[r.filename] = 0;
+            });
+
+            var seen = {};
+            reviews.forEach(function (r) {
+                if (!r.filename || !Array.isArray(r.related)) return;
+                r.related.forEach(function (rel) {
+                    var target = rel.filename;
+                    if (!target || !byFile[target] || target === r.filename) return;
+                    var key = [r.filename, target].sort().join('::');
+                    if (seen[key]) return;
+                    seen[key] = true;
+                    elements.push({ data: { id: 'e_' + key, source: r.filename, target: target,
+                        weight: (rel.score || 0.1) } });
+                    degree[r.filename]++;
+                    degree[target] = (degree[target]||0)+1;
+                });
+            });
+
+            elements.forEach(function (el) {
+                if (el.data && el.data.id && degree[el.data.id] !== undefined) {
+                    el.data.deg = degree[el.data.id];
+                }
+            });
+
+            var cy = cytoscape({
+                container: document.getElementById('cy'),
+                elements: elements,
+                style: [
+                    { selector: 'node', style: {
+                        'background-color': 'data(color)',
+                        'width': 'mapData(deg, 0, 12, 10, 42)',
+                        'height': 'mapData(deg, 0, 12, 10, 42)',
+                        'label': '',
+                        'border-width': 0
+                    }},
+                    { selector: 'edge', style: {
+                        'width': 'mapData(weight, 0, 1, 0.5, 3)',
+                        'line-color': '#cfd8dc',
+                        'curve-style': 'haystack',
+                        'opacity': 0.5
+                    }},
+                    { selector: 'node.faded', style: { 'opacity': 0.15 } },
+                    { selector: 'edge.faded', style: { 'opacity': 0.05 } },
+                    { selector: 'node.hl', style: {
+                        'label': 'data(label)', 'font-size': 9, 'color': '#1a1a1a',
+                        'text-background-color': '#fff', 'text-background-opacity': 0.85,
+                        'text-background-padding': 2, 'border-width': 2, 'border-color': '#0031d8',
+                        'text-wrap': 'ellipsis', 'text-max-width': 120, 'z-index': 99
+                    }}
+                ],
+                layout: { name: 'cose', animate: false, nodeRepulsion: 6000, idealEdgeLength: 60, padding: 20 },
+                wheelSensitivity: 0.2
+            });
+
+            document.getElementById('status').style.display = 'none';
+
+            function clearHl() {
+                cy.elements().removeClass('faded hl');
+            }
+            cy.on('mouseover', 'node', function (evt) {
+                var node = evt.target;
+                var nbh = node.closedNeighborhood();
+                cy.elements().addClass('faded');
+                nbh.removeClass('faded');
+                node.addClass('hl');
+                nbh.nodes().addClass('hl');
+            });
+            cy.on('mouseout', 'node', clearHl);
+            cy.on('tap', 'node', function (evt) {
+                var href = evt.target.data('href');
+                if (href) window.location.href = href;
+            });
+
+            // 凡例
+            var legend = document.getElementById('legend');
+            Object.keys(colorMap).forEach(function (cat) {
+                var item = document.createElement('span');
+                item.className = 'legend-item';
+                item.innerHTML = '<span class="legend-dot" style="background:' + colorMap[cat] + '"></span>' +
+                    C.escapeHtml(C.catLabel(cat, lang));
+                legend.appendChild(item);
+            });
+            var other = document.createElement('span');
+            other.className = 'legend-item';
+            other.innerHTML = '<span class="legend-dot" style="background:' + OTHER_COLOR + '"></span>' + C.escapeHtml(t.other);
+            legend.appendChild(other);
+        }
+
+        C.fetchReviews().then(build).catch(function () {
+            document.getElementById('status').textContent = 'データの読み込みに失敗しました。';
+        });
+    })();
+    </script>
+</body>
+</html>
