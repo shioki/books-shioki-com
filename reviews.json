@@ -1,5 +1,54 @@
 [
   {
+    "title": "「そろそろ、お酒やめようかな」と思ったときに読む本",
+    "author": "垣渕 洋一",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:28:51.540753",
+    "filename": "「そろそろ、お酒やめようかな」と思ったときに読む本_review.md",
+    "image": "images/reviews/「そろそろ、お酒やめようかな」と思ったときに読む本_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "暮らし・健康・子育て",
+      "家庭医学・健康",
+      "健康法"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "垣渕 洋一": "著"
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０_review.md",
+        "score": 0.52,
+        "method": "meta"
+      },
+      {
+        "filename": "すべてはノートからはじまる　あなたの人生をひらく記録術_review.md",
+        "score": 0.52,
+        "method": "meta"
+      },
+      {
+        "filename": "スマホになじんでおりません_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "私と街たち（ほぼ自伝）_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "ショローの女_review.md",
+        "score": 0.37,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "“よむ”お酒",
     "author": "パリッコ and スズキナオ",
     "date": "2026-06-21",
