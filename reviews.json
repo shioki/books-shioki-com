@@ -1,5 +1,53 @@
 [
   {
+    "title": "衰退の法則―日本企業を蝕むサイレントキラーの正体",
+    "author": "小城 武彦",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:29:27.897266",
+    "filename": "衰退の法則―日本企業を蝕むサイレントキラーの正体_review.md",
+    "image": "images/reviews/衰退の法則―日本企業を蝕むサイレントキラーの正体_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "人文・思想",
+      "倫理学・道徳"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "小城 武彦": "著"
+    },
+    "related": [
+      {
+        "filename": "ポスト平成のキャリア戦略_review.md",
+        "score": 0.87,
+        "method": "meta"
+      },
+      {
+        "filename": "幸福な退職―「その日」に向けた気持ちいい仕事術―（新潮新書）_review.md",
+        "score": 0.87,
+        "method": "meta"
+      },
+      {
+        "filename": "ニュータイプの時代_review.md",
+        "score": 0.87,
+        "method": "meta"
+      },
+      {
+        "filename": "Before DX_review.md",
+        "score": 0.52,
+        "method": "meta"
+      },
+      {
+        "filename": "【ビジネス書大賞特別賞受賞作】哲学と宗教全史_review.md",
+        "score": 0.52,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "英仏百年戦争",
     "author": "佐藤賢一",
     "date": "2026-06-21",
