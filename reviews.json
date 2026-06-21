@@ -1,5 +1,55 @@
 [
   {
+    "title": "医者が教えるダイエット 最強の教科書――２０万人を診てわかった医学的に正しいやせ方",
+    "author": "牧田 善二",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:29:09.297780",
+    "filename": "医者が教えるダイエット 最強の教科書――２０万人を診てわかった医学的に正しいやせ方_review.md",
+    "image": "images/reviews/医者が教えるダイエット 最強の教科書――２０万人を診てわかった医学的に正しいやせ方_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "暮らし・健康・子育て",
+      "美容・ダイエット",
+      "ダイエット",
+      "食事療法"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "牧田 善二": "著"
+    },
+    "related": [
+      {
+        "filename": "医者が教える食事術２　実践バイブル――２０万人を診てわかった医学的に正しい食べ方７０_review.md",
+        "score": 0.72,
+        "method": "meta"
+      },
+      {
+        "filename": "すべてはノートからはじまる　あなたの人生をひらく記録術_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "「そろそろ、お酒やめようかな」と思ったときに読む本_review.md",
+        "score": 0.4057,
+        "method": "meta"
+      },
+      {
+        "filename": "スマホになじんでおりません_review.md",
+        "score": 0.32,
+        "method": "meta"
+      },
+      {
+        "filename": "私と街たち（ほぼ自伝）_review.md",
+        "score": 0.32,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "大盛り！　さだおの丸かじり　とりあえず麵で よりぬき丸かじり",
     "author": "東海林 さだお",
     "date": "2026-06-21",
