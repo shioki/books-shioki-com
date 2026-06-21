@@ -2,7 +2,9 @@
 layout: default
 title: 消費者金融ずるずる日記
 description: '"消費者金融ずるずる日記" is a documentary that depicts the human drama obsessed
-  with money from both the lender''s and borrower''s perspectives. Through the autho…'
+  with money from both the lender''s and borrower''s perspectives. Through the experiences
+  of a frontline employee, it candidly reveals how desires and the need for approval
+  create a dependency structure of debt…'
 og_image: https://books.shioki.com/images/reviews/消費者金融ずるずる日記_4panel.png
 canonical_url: https://books.shioki.com/reviews/en/消費者金融ずるずる日記_review.html
 og_locale: en_US
@@ -57,11 +59,11 @@ og_type: article
 光となりぬ
 
 ## 🎯 The Core of This Book
-"消費者金融ずるずる日記" is a documentary that depicts the human drama obsessed with money from both the lender's and borrower's perspectives. Through the author's own experiences, it candidly reveals how desires and the need for approval create a dependency structure of debt.
+"消費者金融ずるずる日記" is a documentary that depicts the human drama obsessed with money from both the lender's and borrower's perspectives. Through the experiences of a frontline employee, it candidly reveals how desires and the need for approval create a dependency structure of debt.
 
 The book's uniqueness lies in its portrayal of not just a "debt hell chronicle," but also the simultaneous depiction of the three layers of systems, ethics, and humanity. Even when the system advocates justice, individuals on the ground can fall through its cracks. The author records this reality with pain.
 
-Ultimately, she arrives at a way of living that understands "enough" after experiencing bankruptcy and loss. The transformation from a life dominated by money to one that transcends it is the essence of this book.
+Ultimately, the protagonist arrives at a way of living that understands "enough" after debt restructuring, selling his home, and his wife's hospitalization. The transformation from a life dominated by money to one that transcends it is the essence of this book.
 
 ---
 
