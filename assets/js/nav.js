@@ -44,9 +44,9 @@
     if (document.getElementById('bnav-style')) return;
     var css =
       'html,body{max-width:100%;overflow-x:hidden;}' +
-      '#site-nav{width:100%;min-width:0;box-sizing:border-box;}' +
+      '#site-nav{width:100%;max-width:100%;min-width:0;align-self:stretch;box-sizing:border-box;}' +
       '.bnav{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;' +
-      'gap:.1rem .25rem;width:100%;max-width:100%;box-sizing:border-box;' +
+      'gap:.1rem .25rem;width:100%;max-width:100%;min-width:0;box-sizing:border-box;' +
       'padding:.5rem 1rem;border-bottom:1px solid #e6e6e6;background:#fff;}' +
       '.bnav a{color:#0031d8;text-decoration:none;font-size:.875rem;' +
       'padding:.5rem .9rem;border-radius:624px;white-space:nowrap;}' +
