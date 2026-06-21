@@ -1,5 +1,54 @@
 [
   {
+    "title": "東京四次元紀行",
+    "author": "小田嶋隆",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T11:19:09.298204",
+    "filename": "東京四次元紀行_review.md",
+    "image": "images/reviews/東京四次元紀行_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "小田嶋隆": "著"
+    },
+    "related": [
+      {
+        "filename": "一滴の沈黙_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "再雇用警察官_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "月下のサクラ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "血の雫_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "両手にトカレフ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "超・反知性主義入門",
     "author": "小田嶋隆",
     "date": "2026-06-21",
