@@ -1,22 +1,19 @@
 ### Panel 1
-**Scene**: On a lively Edo street near the row houses and a temple school, the townsgirl pauses as she overhears townspeople arguing about a new village rule and rice shortages. One worries about punishment, another about hunger, and another loudly insists on “justice,” yet their anxious faces reveal that fear and self-interest outweigh ideals. The heroine tilts her head thoughtfully, sensing that public opinion is layered and contradictory. The wind stirs posted notices, adding subtle tension to the everyday bustle.  
-**Dialogue**: (none)
+**Scene**: The townsgirl strolls through a lively Edo street market, listening to merchants debating over fairness and profit. She pauses with a thoughtful frown, contemplating whether "justice" can exist amidst greed. The background features wooden stalls and lanterns, filled with bustling townspeople. Her inner thoughts explore the concepts of "freedom" and "righteousness."
 
 ### Panel 2
-**Scene**: In a lamplit study lined with wasan scrolls, an abacus, and Dutch books, the townsgirl studies intensely, comparing numbers, notes, and maps as if tracing the movements of society itself. A mentor-like scholar—imagined as a calm, middle-aged Japanese man in a modest kimono—appears nearby, pointing not to heroes but to the tangled circles of “fear,” “procedure,” “power,” and “livelihood.” She realizes that revolutions are shaped not only by ideals but also by what people dread losing. The brushwork conveys scholarly intimacy and emotional discovery.  
-**Dialogue**: (none)
+**Scene**: In a dimly lit study, the townsgirl studies a thick Western-style book translated into kanbun, titled 「仏蘭西革命記」. Beside her sits a scholar resembling her imagined mentor, Sato Kenichi: a middle-aged man with calm yet intense eyes, a thoughtful expression, slightly unkempt hair, dressed in a simple kimono and reading glasses. He gestures towards a diagram depicting scales balancing between "理想" (ideal) and "現実" (reality), sharing profound insights about human desire and fear.
 
 ### Panel 3
-**Scene**: On a bustling street, two neighbors quarrel over a missing bundle, each claiming righteousness. With comic boldness, the townsgirl leaps between them, draws quick columns in the dirt with her brush, and uses an abacus to sort motives: “fear of blame,” “fear of loss,” “fear of officials.” Their anger fades into embarrassed honesty. A dynamic overhead view and sweeping brush lines suggest that confronting problems directly brings clarity, while avoidance only deepens confusion.  
-**Dialogue**: (none)
+**Scene**: The townsgirl observes a group of neighborhood children engaged in a "revolution" game, arguing over leadership and accusing one another. She chuckles softly but feels uneasy, recognizing how ideals can devolve into disputes. A sudden gust of wind scatters their paper slogans, symbolizing the transience of ideals.
 
 ### Panel 4
-**Scene**: At dusk by a paper window, the townsgirl kneels with brush in hand, calm after her insight, composing a tanka on a tanzaku. The quiet Edo evening glows with lingering shadows and reflection.  
-**Dialogue**: (the tanka appears written on the tanzaku)  
-**Tanka (translation)**: The more we flee, the larger our fear’s shadow grows; the world does not move by righteousness alone.  
-**Tanka (original)**:  
-逃ぐるほど  
-恐れは影を  
-増やしゆき  
-正しさだけじゃ  
-世は動かぬもの
+**Scene**: In the evening, the townsgirl sits at her small desk illuminated by candlelight, writing a waka on a hanging tanzaku while gazing out at the moonlit rooftops. The poem encapsulates the essence of her reflections — the struggle between ideals and human frailty. The short poem written vertically reads:
+
+「  
+理想とは  
+光に似たり  
+手を伸ばし  
+触れし瞬間  
+闇も見るなり  
+」

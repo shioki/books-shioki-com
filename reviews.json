@@ -1,5 +1,55 @@
 [
   {
+    "title": "【合本版】小説フランス革命（全18巻）",
+    "author": "佐藤賢一",
+    "date": "2026-03-20",
+    "created_at": "2026-03-20T11:33:53.903548",
+    "filename": "【合本版】小説フランス革命（全18巻）_review.md",
+    "image": "images/reviews/【合本版】小説フランス革命（全18巻）_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "佐藤賢一": "著"
+    },
+    "related": [
+      {
+        "filename": "サーラレーオ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-06-30T08:35:36.615578"
+  },
+  {
     "title": "【電子合本版】約束の地　大統領回顧録１ 上下",
     "author": "バラク・オバマ, 山田文, 三宅康雄, 長尾莉紗, 高取芳彦, 藤田美菜子, 柴田さとみ, 山田美明, 関根光宏, 芝瑞紀, and 島崎由里子",
     "date": "2026-03-19",
@@ -12170,55 +12220,6 @@
       {
         "filename": "Before DX_review.md",
         "score": 0.2456,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "【合本版】小説フランス革命（全18巻）",
-    "author": "佐藤賢一",
-    "date": "2026-03-20",
-    "created_at": "2026-03-20T11:33:53.903548",
-    "filename": "【合本版】小説フランス革命（全18巻）_review.md",
-    "image": "images/reviews/【合本版】小説フランス革命（全18巻）_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "文学・評論",
-      "小説・文芸",
-      "日本の小説・文芸"
-    ],
-    "category": "小説",
-    "author_roles": {
-      "佐藤賢一": "著"
-    },
-    "related": [
-      {
-        "filename": "自転しながら公転する_review.md",
-        "score": 0.4822,
-        "method": "hybrid"
-      },
-      {
-        "filename": "カイシャデイズ_review.md",
-        "score": 0.4753,
-        "method": "hybrid"
-      },
-      {
-        "filename": "おでんオデッセイ_review.md",
-        "score": 0.4725,
-        "method": "hybrid"
-      },
-      {
-        "filename": "パシヨン_review.md",
-        "score": 0.4724,
-        "method": "hybrid"
-      },
-      {
-        "filename": "チャンバラ_review.md",
-        "score": 0.4639,
         "method": "hybrid"
       }
     ]
