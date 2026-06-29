@@ -1,4 +1,15 @@
 ---
+layout: default
+title: 【電子合本版】約束の地　大統領回顧録１ 上下
+description: 『約束の地』 is a grand memoir in which Barack Obama depicts the gap between
+  the ideals and realities of democracy through his political journey. He repeat…
+og_image: https://books.shioki.com/images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.png
+canonical_url: https://books.shioki.com/reviews/en/【電子合本版】約束の地　大統領回顧録１ 上下_review.html
+og_locale: en_US
+og_locale_alternate:
+- ja_JP
+- zh_TW
+og_type: article
 ---
 > **Language**: [日本語](../ja/【電子合本版】約束の地　大統領回顧録１ 上下_review.html) | [English](../en/【電子合本版】約束の地　大統領回顧録１ 上下_review.html) | [繁體中文](../zh-tw/【電子合本版】約束の地　大統領回顧録１ 上下_review.html)
 >
@@ -7,102 +18,99 @@
 ## 📖 Book Information
 - **Title**: 【電子合本版】約束の地　大統領回顧録１ 上下  
 - **Author**: バラク・オバマ, 山田文, 三宅康雄, 長尾莉紗, 高取芳彦, 藤田美菜子, 柴田さとみ, 山田美明, 関根光宏, 芝瑞紀, and 島崎由里子  
-- **ASIN**: 4087861333  
-- **URL**: [https://www.amazon.co.jp/dp/4087861333](https://www.amazon.co.jp/dp/4087861333)  
+- **ASIN**: B08TWPSYTK  
+- **URL**: [https://www.amazon.co.jp/dp/B08TWPSYTK](https://www.amazon.co.jp/dp/B08TWPSYTK)  
 
 ---
 
 <picture>
   <source srcset="../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.webp" type="image/webp">
-  <img src="../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+  <img src="../../images/reviews/【電子合本版】約束の地　大統領回顧録１ 上下_4panel.png" alt="4コマ漫画" width="1080" height="1920" loading="lazy" decoding="async">
 </picture>
+
 ## Dialogue
 
 ### Panel 1
-**Scene**: On an Edo street at dusk, a young townsgirl pauses near a paper lantern shop. She overhears townsfolk debating who deserves help and what fairness means. Lantern light flickers in her eyes as she tilts her head, lost in thought about equality, leadership, and justice.  
-**Dialogue**: “Are people truly born equal?”
+**Scene**: The townsgirl walks through a lively Edo street, listening to neighbors arguing about who should lead the community. She pauses with her abacus, pondering what makes a society just. The background features merchant stalls and a notice board filled with townspeople's debates, reflecting civic engagement.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her small study lit by a single candle, the townsgirl studies a foreign book. On one page is a portrait of a tall, calm man with short hair and a gentle, dignified smile. His image seems to speak to her about choosing the harder path and acting with honesty. Behind her, faint brush-like silhouettes of translators appear, symbolizing voices connecting distant worlds.  
-**Dialogue**: (silent reflection — the portrait’s words echo in her mind)
+**Scene**: In a candle-lit study, the townsgirl opens a translated foreign book. A vision of a tall, calm foreign scholar appears, resembling Barack Obama, dressed in a simple black robe. Behind him, faint silhouettes of Japanese translators assist in the translation. The scholar gestures toward a diagram symbolizing democracy through participation.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: The townsgirl gathers her neighbors in the street, urging them to listen to one another. Arguments soften into laughter as they work together to help an elderly vendor whose stall has collapsed. Hands reach out, faces glow with shared purpose. She smiles, realizing that democracy begins not with decrees, but with compassion.  
-**Dialogue**: (townsgirl, smiling) “Let’s start by helping each other.”
+**Scene**: In the town square, the townsgirl leads children and neighbors in repairing a small wooden bridge. The scene is lively, with brushstrokes conveying movement and laughter as they work together. Sakura petals are scattered by a gentle breeze, symbolizing hope and collective effort.
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Late at night, she kneels by her paper window, brush in hand, composing a waka on a hanging scroll. A candle flickers beside her as she gazes at the stars over Edo, her thoughts calm and resolute.  
-**Dialogue**: (softly) “May sincerity guide our steps.”  
-**Tanka (translation)**:  
-With honesty,  
-Choosing the distant road—  
-Though far it seems,  
-Hope from one hand to another  
-Binds people together.  
-**Tanka (original)**:  
-誠実に  
-　選ぶは道の  
-　果て遠く  
-　希望は手より  
-　ひとを結びぬ
+**Scene**: At dusk, the townsgirl sits by the finished bridge, brush in hand, writing a waka on a hanging scroll. Candlelight flickers on her face as she gazes upward, calm and determined.
+**Dialogue**: None  
+**Tanka (translation)**: In the human world,  
+Voices unite to build a bridge,  
+Flowing between ideals  
+And the reality we face.  
+**Tanka (original)**: 人の世は  
+　声を合わせて  
+　架ける橋  
+　理想と現の  
+　間に流るる
 
+## 🎯 The Core of This Book
+『約束の地』 is a grand memoir in which Barack Obama depicts the gap between the ideals and realities of democracy through his political journey. He repeatedly emphasizes that "democracy can only be realized through participation," advocating that the actions of each citizen are the foundation that supports the system.
 
-## 🎯 Core of the Book
-*約束の地* is Barack Obama’s grand attempt to redefine the very “idea” of America through the lens of his own life and political journey. Returning to the founding principle of the Declaration of Independence—that “all men are created equal”—he seeks to rediscover democracy amid a society increasingly torn by division.  
+At the same time, he discusses the difficulties and significance of "building bridges" in a divided society, concretely illustrating the tug-of-war between idealism and realism through his political decisions. Within this narrative lies not only the struggles of a person in power but also the story of personal growth and self-awareness.
 
-At the same time, this book serves as a record of self-reflection by a person who once held power. Obama depicts both his triumphs and failures with candor, presenting a model of leadership grounded in integrity and empathy. Politics, he shows, is not a game of power but the continual act of “choosing with honesty” between ideals and reality.  
-
-Moreover, the “hope” he speaks of is not a mere emotion but something sustained by action and responsibility. His faith in younger generations and in the strength of community runs throughout the book as the wellspring of that hope.
+Ultimately, this book serves as a testament to the belief in entrusting hope to future generations, reminding readers of the realistic efforts and trust that underpin the phrase "YES WE CAN."
 
 ---
 
 ## 💡 Key Insights
-- **Democracy is not a system but a relationship**  
-　Obama portrays democracy as “the power to lift others up.” His insight—that democracy is sustained not by institutions or electoral mechanisms but by mutual understanding and solidarity—is profoundly relevant in today’s polarized world.  
+- **Democracy is an act, not an institution**  
+  Obama defines democracy as something that is "realized by the power of all." This serves as a warning that without citizen participation and responsibility, democracy becomes a hollow concept beyond elections and institutions.
 
-- **Integrity lies at the heart of leadership**  
-　Michelle Obama’s phrase “taking the high road” encapsulates his political philosophy. Choosing honesty over easy compromise builds trust and becomes the driving force that moves society forward.  
+- **Leadership is about "best choices," not "optimal solutions"**  
+  In the political arena, decisions are made based on limited information, and there is no perfect answer. Through his acceptance of uncertainty, Obama illustrates what it means for a leader to mature.
 
-- **Failure is a catalyst for growth**  
-　Obama’s view of defeat as “an example of what not to do” underscores the importance of treating failure not as shame but as a lesson. It’s a universal message that applies beyond politics to personal growth as well.  
+- **Division erodes the very fabric of reality**  
+  As social conflicts deepen, a shared understanding of reality is lost. Obama portrays this crisis as a "collapse of norms," warning of the dangers of democracy being consumed by emotions and falsehoods.
 
-- **Hope becomes real through action**  
-　As he often says, “we need more than hope.” Ideals bear fruit only through action. The book emphasizes the responsibility to transform hope into social practice.  
+- **Change is sustained not by charisma, but by organization**  
+  He argues that the sustainability of political movements relies more on institutional frameworks and collaboration than on individual charm. This is at the core of his political philosophy that believes in the power of grassroots movements.
 
-- **Community holds power beyond the individual**  
-　As seen in his description of the Iowa caucuses, the essence of politics lies in “people moving together.” When individual conviction resonates with the will of the community, society begins to change.
+- **Hope is born from trust in the next generation**  
+  Believing that younger generations have the power to turn ideals into reality is the source of his political and human hope. This trust becomes the practical energy needed to overcome despair.
 
 ---
 
-## 🔍 Relevance in Today’s Context
-Since the 2020s, American society has once again been shaken by waves of division and distrust. The reassessment of healthcare reform (Obamacare), debates over racial justice, and the expansion of LGBTQ rights—all issues that began during Obama’s presidency—remain ongoing. His memoir thus serves as a foundational document for understanding these contemporary political and cultural challenges.  
+## 🔍 Relevance to Contemporary Context
+Modern society, with the rapid advancement of AI and digital technologies, is once again questioning the reliability of information and social connections. The "collapse of facts" and "loss of norms" that Obama warned about have become more pressing issues in the age of social media, characterized by fake news and divisive structures.
 
-Furthermore, in the context of climate change and international cooperation, Obama’s “honest choices between hope and reality” offer a crucial model of leadership in the post-Trump era. His message also resonates deeply in Japan, where discussions on diversity and civic engagement continue to evolve.
+Moreover, ongoing conflicts and instability around the world prompt a reevaluation of the ideals of "diplomatic solutions" and "multicultural coexistence" that he emphasized. Obama's memoir demonstrates that idealism is not merely a dream but a necessary realistic vision in times of crisis.
 
 ---
 
 ## 🚀 Suggestions for Practice
-- **Have the courage to reveal the background**  
-　Sharing the context behind decisions fosters trust. In organizations and society alike, a commitment to transparency encourages dialogue.  
+1. **Focus on making better choices rather than seeking perfection**  
+   In uncertain situations, it is crucial to continue choosing the "best judgment." This mindset can be applied not only in politics but also in everyday decision-making.
 
-- **Treat failure as data**  
-　Rather than fearing defeat or setbacks, use them as fuel for future action. Obama’s “resilience” offers practical wisdom for navigating times of change.  
+2. **Engage in direct dialogue with people of different perspectives**  
+   To transcend division, concrete dialogue is more effective than abstract discussions. Obama's experiences in community engagement provide practical insights into the current lack of dialogue.
 
-- **Keep listening to diverse voices**  
-　Listening to voices from the field, rather than relying solely on theory, leads to genuine understanding. This attitude is essential for solving social issues.  
+3. **Resist structures that incite conflict**  
+   Avoid being swept away by the "pleasure of antagonism" created by social media and the media, and prioritize long-term trust-building as the first step to maintaining the health of democracy.
 
-- **Turn hope into action**  
-　Don’t just proclaim ideals—translate them into daily practice. “Yes We Can” should be understood not as a slogan but as a philosophy of action.  
+4. **Build on small successes**  
+   Social change does not happen all at once. We must remember that accumulating small improvements can eventually lead to significant change.
 
-- **Design dialogues that bridge divides**  
-　Consciously building bridges between people of differing views is key to reviving democracy. The act of creating spaces for dialogue is itself a political gesture.
+5. **Regularly examine your motivations**  
+   By becoming aware of the desires and needs for approval behind your actions, you can engage in more sincere and sustainable behavior. This is key to balancing personal growth with social maturity.
 
 ---
 
 ## ⭐ Overall Evaluation
-*約束の地* is more than a political memoir—it is a redefinition of democracy itself. The integrity and hope Obama articulates speak not only to politicians but also to organizational leaders, educators, and citizens alike.  
+『約束の地』 is a book that transcends the framework of a political memoir to redefine democracy. Through the portrayal of a leader swaying between ideals and realities, readers are prompted to reflect on their own social responsibilities and the nature of hope.
 
-Readers will encounter a portrait of a person who holds fast to conviction while navigating the tension between ideals and reality. In an age of division, this book reminds us of the “promise” to build the future together with others.
+This book serves as a guide not only for those interested in politics but for anyone involved in decision-making within organizations and society. In these confusing times, Obama's words illuminate the age-old yet renewed values of "trust" and "participation."
 
 ---
 

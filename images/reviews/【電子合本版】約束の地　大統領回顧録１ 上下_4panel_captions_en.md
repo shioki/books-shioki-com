@@ -1,27 +1,24 @@
 ### Panel 1
-**Scene**: On an Edo street at dusk, a young townsgirl pauses near a paper lantern shop. She overhears townsfolk debating who deserves help and what fairness means. Lantern light flickers in her eyes as she tilts her head, lost in thought about equality, leadership, and justice.  
-**Dialogue**: “Are people truly born equal?”
+**Scene**: The townsgirl walks through a lively Edo street, listening to neighbors arguing about who should lead the community. She pauses with her abacus, pondering what makes a society just. The background features merchant stalls and a notice board filled with townspeople's debates, reflecting civic engagement.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her small study lit by a single candle, the townsgirl studies a foreign book. On one page is a portrait of a tall, calm man with short hair and a gentle, dignified smile. His image seems to speak to her about choosing the harder path and acting with honesty. Behind her, faint brush-like silhouettes of translators appear, symbolizing voices connecting distant worlds.  
-**Dialogue**: (silent reflection — the portrait’s words echo in her mind)
+**Scene**: In a candle-lit study, the townsgirl opens a translated foreign book. A vision of a tall, calm foreign scholar appears, resembling Barack Obama, dressed in a simple black robe. Behind him, faint silhouettes of Japanese translators assist in the translation. The scholar gestures toward a diagram symbolizing democracy through participation.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: The townsgirl gathers her neighbors in the street, urging them to listen to one another. Arguments soften into laughter as they work together to help an elderly vendor whose stall has collapsed. Hands reach out, faces glow with shared purpose. She smiles, realizing that democracy begins not with decrees, but with compassion.  
-**Dialogue**: (townsgirl, smiling) “Let’s start by helping each other.”
+**Scene**: In the town square, the townsgirl leads children and neighbors in repairing a small wooden bridge. The scene is lively, with brushstrokes conveying movement and laughter as they work together. Sakura petals are scattered by a gentle breeze, symbolizing hope and collective effort.
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Late at night, she kneels by her paper window, brush in hand, composing a waka on a hanging scroll. A candle flickers beside her as she gazes at the stars over Edo, her thoughts calm and resolute.  
-**Dialogue**: (softly) “May sincerity guide our steps.”  
-**Tanka (translation)**:  
-With honesty,  
-Choosing the distant road—  
-Though far it seems,  
-Hope from one hand to another  
-Binds people together.  
-**Tanka (original)**:  
-誠実に  
-　選ぶは道の  
-　果て遠く  
-　希望は手より  
-　ひとを結びぬ
+**Scene**: At dusk, the townsgirl sits by the finished bridge, brush in hand, writing a waka on a hanging scroll. Candlelight flickers on her face as she gazes upward, calm and determined.
+**Dialogue**: None  
+**Tanka (translation)**: In the human world,  
+Voices unite to build a bridge,  
+Flowing between ideals  
+And the reality we face.  
+**Tanka (original)**: 人の世は  
+　声を合わせて  
+　架ける橋  
+　理想と現の  
+　間に流るる
