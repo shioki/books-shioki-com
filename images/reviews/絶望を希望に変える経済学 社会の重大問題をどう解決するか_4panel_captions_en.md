@@ -1,26 +1,22 @@
 ### Panel 1
-**Scene**: On a lively Edo street, a young townsgirl in kimono walks among merchants arguing about the soaring price of rice and foreign trade. She pauses, tilting her head as she senses the confusion and division in their words. Wooden storefronts and fluttering banners frame the heated scene.  
-**Dialogue**: *Inner thought:* “How can people speak without sharing the same facts?”
+**Scene**: The townsgirl walks through a lively Edo marketplace at dusk, overhearing two merchants passionately arguing about the impact of foreign trade on their livelihoods. She pauses, tilting her head, sensing the tension and misunderstanding stemming from fear rather than facts. The background features wooden shops, lanterns, and townsfolk dressed in traditional attire.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her small study lit by a paper lantern, she reads a Dutch-language book beside a handwritten scroll on economic ideas. From the pages, three spectral mentors appear — a calm, bearded scholar; a composed woman with a sharp yet kind gaze; and a serene translator holding brush and paper. They seem to guide her in quiet discussion about humility, dialogue, and the importance of facts before judgment.  
-**Dialogue**: *Mentors (softly):* “Humility… dialogue… facts before judgment.”
+**Scene**: Inside a tranquil terakoya (temple school), the townsgirl studies a Dutch economics book adorned with portraits of the authors. A calm older man with short graying hair and glasses (Abhijit V. Banerjee) explains with a gentle smile; beside him, a thoughtful woman with short light hair and soft eyes (Esther Duflo) points to a chart; a composed figure imagined as a learned translator (Muramura Shoko) listens attentively. The girl's eyes sparkle with understanding as she grasps the significance of evidence and dignity in discussions.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: Returning to the marketplace, she sets up a small wooden board showing simple arithmetic and data about rice trade flows. Townspeople gather, curiosity replacing anger. One merchant scratches his head, realizing his mistake; another laughs in relief. The girl smiles gently — understanding begins when facts are shared.  
-**Dialogue**: *Townsgirl:* “Let’s look at the numbers together.”
+**Scene**: The townsgirl stands on a street corner, addressing the same merchants. She draws simple charts in the dirt with a stick, explaining how fair exchange and mutual respect benefit both parties. One merchant scratches his head while the other nods slowly. A playful breeze scatters the sand diagrams, symbolizing a fragile but growing understanding. The girl laughs softly, her kimono sleeves fluttering.
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Evening falls. By the window overlooking a quiet canal, she writes a waka poem on a hanging tanzaku. The ink ripples softly as her expression turns serene and hopeful.  
-**Dialogue**: *(none)*  
-**Tanka (translation)**:  
-“From simple facts,  
-Words build bridges of the heart—  
-Across despair’s stream,  
-We cross together in hope.”  
-**Tanka (original)**:  
-「事実より  
-心つなぐは  
-言の橋  
-絶望の川  
-希望で渡る」
+**Scene**: Night has fallen. The townsgirl sits by lamplight, brush in hand, gazing at the sky reflected in a water basin. On a small hanging tanzaku, she writes a waka poem that encapsulates the essence of the book.
+**Dialogue**: None  
+**Tanka (translation)**: The truth of matters,  
+Not just shown, but embraced,  
+In hearts that honor,  
+A path will be opened wide.  
+**Tanka (original)**: 事の理（ことわり）  
+　ただ示すより　寄り添いて  
+　尊ぶ心に　道はひらけん

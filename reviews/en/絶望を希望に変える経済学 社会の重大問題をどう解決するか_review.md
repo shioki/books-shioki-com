@@ -1,4 +1,15 @@
 ---
+layout: default
+title: 絶望を希望に変える経済学 社会の重大問題をどう解決するか
+description: This book is an economic attempt to reclaim "fact-based dialogue" in
+  a modern society where division and distrust are deepening. The authors argue th…
+og_image: https://books.shioki.com/images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png
+canonical_url: https://books.shioki.com/reviews/en/絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.html
+og_locale: en_US
+og_locale_alternate:
+- ja_JP
+- zh_TW
+og_type: article
 ---
 > **Language**: [日本語](../ja/絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.html) | [English](../en/絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.html) | [繁體中文](../zh-tw/絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.html)
 >
@@ -16,87 +27,86 @@
   <source srcset="../../images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.webp" type="image/webp">
   <img src="../../images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
 </picture>
+
 ## Dialogue
 
 ### Panel 1
-**Scene**: On a lively Edo street, a young townsgirl in kimono walks among merchants arguing about the soaring price of rice and foreign trade. She pauses, tilting her head as she senses the confusion and division in their words. Wooden storefronts and fluttering banners frame the heated scene.  
-**Dialogue**: *Inner thought:* “How can people speak without sharing the same facts?”
+**Scene**: The townsgirl walks through a lively Edo marketplace at dusk, overhearing two merchants passionately arguing about the impact of foreign trade on their livelihoods. She pauses, tilting her head, sensing the tension and misunderstanding stemming from fear rather than facts. The background features wooden shops, lanterns, and townsfolk dressed in traditional attire.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her small study lit by a paper lantern, she reads a Dutch-language book beside a handwritten scroll on economic ideas. From the pages, three spectral mentors appear — a calm, bearded scholar; a composed woman with a sharp yet kind gaze; and a serene translator holding brush and paper. They seem to guide her in quiet discussion about humility, dialogue, and the importance of facts before judgment.  
-**Dialogue**: *Mentors (softly):* “Humility… dialogue… facts before judgment.”
+**Scene**: Inside a tranquil terakoya (temple school), the townsgirl studies a Dutch economics book adorned with portraits of the authors. A calm older man with short graying hair and glasses (Abhijit V. Banerjee) explains with a gentle smile; beside him, a thoughtful woman with short light hair and soft eyes (Esther Duflo) points to a chart; a composed figure imagined as a learned translator (Muramura Shoko) listens attentively. The girl's eyes sparkle with understanding as she grasps the significance of evidence and dignity in discussions.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: Returning to the marketplace, she sets up a small wooden board showing simple arithmetic and data about rice trade flows. Townspeople gather, curiosity replacing anger. One merchant scratches his head, realizing his mistake; another laughs in relief. The girl smiles gently — understanding begins when facts are shared.  
-**Dialogue**: *Townsgirl:* “Let’s look at the numbers together.”
+**Scene**: The townsgirl stands on a street corner, addressing the same merchants. She draws simple charts in the dirt with a stick, explaining how fair exchange and mutual respect benefit both parties. One merchant scratches his head while the other nods slowly. A playful breeze scatters the sand diagrams, symbolizing a fragile but growing understanding. The girl laughs softly, her kimono sleeves fluttering.
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Evening falls. By the window overlooking a quiet canal, she writes a waka poem on a hanging tanzaku. The ink ripples softly as her expression turns serene and hopeful.  
-**Dialogue**: *(none)*  
-**Tanka (translation)**:  
-“From simple facts,  
-Words build bridges of the heart—  
-Across despair’s stream,  
-We cross together in hope.”  
-**Tanka (original)**:  
-「事実より  
-心つなぐは  
-言の橋  
-絶望の川  
-希望で渡る」
+**Scene**: Night has fallen. The townsgirl sits by lamplight, brush in hand, gazing at the sky reflected in a water basin. On a small hanging tanzaku, she writes a waka poem that encapsulates the essence of the book.
+**Dialogue**: None  
+**Tanka (translation)**: The truth of matters,  
+Not just shown, but embraced,  
+In hearts that honor,  
+A path will be opened wide.  
+**Tanka (original)**: 事の理（ことわり）  
+　ただ示すより　寄り添いて  
+　尊ぶ心に　道はひらけん
 
+## 🎯 The Core of This Book
+This book is an economic attempt to reclaim "fact-based dialogue" in a modern society where division and distrust are deepening. The authors argue that to transcend emotional conflicts and ideological divides, discussions based on "understanding and dignity" are necessary, rather than solely relying on data and theory.
 
-## 🎯 Core Message
-*絶望を希望に変える経済学* charts a path for economics to regain public trust in an age of division and distrust. Authors Banerjee and Duflo redefine economics not as a “grand theory,” but as a “science of honest inquiry and dialogue.”  
-
-Through debates on immigration, inequality, and growth, the book underscores the importance of “fact-based thinking” that transcends emotion and ideology. It reorients the purpose of economics toward “restoring human dignity and well-being,” aiming to revive rational dialogue in a society that has lost hope.  
+Amidst growing distrust in economics, they do not propose a "universal theory," but rather encourage a humble approach based on evidence, accepting the complexities of reality. Through themes such as immigration, trade, poverty, and inequality, they illustrate a vision of "human-centered economics" that goes beyond mere economic growth.
 
 ---
 
 ## 💡 Key Insights
-- **Facts may not defeat emotions, but they can start a conversation**  
-  The authors acknowledge that “knowing the facts doesn’t change opinions,” yet argue that sharing facts is the first step toward rational dialogue. Rather than excluding emotion, they call for understanding emotions through the lens of shared evidence.  
+- **Facts Alone Do Not Change Opinions**  
+  Even when presented with data, people make judgments based on values and identity. Therefore, a combination of "facts + empathy" is essential in policy discussions.
 
-- **“Humility” and “accountability” are essential for economists to regain trust**  
-  When economists retreat into jargon and abstract theory, they alienate the public. The authors advocate for a “plumber’s approach” to economics—hands-on, iterative, and grounded in clear, honest communication.  
+- **Correcting Misunderstandings About Immigration and Trade with Evidence**  
+  It is commonly believed that "immigrants lower wages," but there is no empirical support for this. The authors emphasize that economic discussions should be based on verified data, not fears or impressions.
 
-- **Immigrants are not a threat but a complement to society**  
-  Drawing on empirical research, the book refutes the common belief that immigrants depress wages or take jobs. Instead, immigrants fill labor gaps and boost overall vitality—for example, by enabling more women to enter the workforce. Understanding grounded in data, not fear, is what’s needed.  
+- **The Essence of Growth Lies in "Distribution"**  
+  Economic growth can be achieved not just through discovering new resources, but also by optimizing the allocation of existing resources. Particularly in developing countries, correcting inefficiencies becomes the primary growth strategy.
 
-- **The real challenge lies with those who cannot move**  
-  Economic stagnation stems not from rising immigration, but from those unable to move. The authors analyze psychological factors such as risk aversion and family dependence, and call for policies that guarantee freedom of mobility.  
+- **Poverty is a Structural Problem, Not Individual Responsibility**  
+  Poverty is not a result of laziness or lack of ability, but a product of institutional alienation. Therefore, support policies should be designed as "systems that uphold dignity."
 
-- **The mission of economics is not to deliver conclusions, but to reopen dialogue**  
-  The authors envision economics as a “common language” that bridges social divides. By enabling “rational disagreement” through scientific insight, economics can once again become a source of hope.  
-
----
-
-## 🔍 Relevance to Today’s Context
-The book’s message resonates deeply with current discussions on “well-being economics” and “regional revitalization.” Corporate efforts to reduce employees’ financial anxiety and encourage self-driven innovation embody the authors’ vision of “economics centered on dignity.”  
-
-Its ideas also align with challenges such as “creative regeneration” in depopulated regions and the “redefinition of work” in the AI era. Shifting from metrics of growth and efficiency to those of happiness and inclusion offers a crucial perspective for designing future societies.  
+- **Work Brings Dignity and Meaning**  
+  Beyond income, the act of working itself provides individuals with a sense of belonging and purpose. Thus, policies that support "social participation" are necessary, rather than mere benefits.
 
 ---
 
-## 🚀 Practical Takeaways
-- **Start discussions with facts, not emotions**  
-  Avoid taking social media or news at face value. Develop the habit of checking primary data and credible research—this is the foundation for rational dialogue that bridges divides.  
+## 🔍 Connection to Contemporary Context
+In Japanese society, the desire for FIRE (Financial Independence, Retire Early) and the trend of non-marriage are rapidly shrinking the labor force. Along with this, the "meaning of work" and "forms of social participation" are being redefined. The book's assertions about "the dignity of work" and "the shift away from growth-at-all-costs" resonate with the changing values of this era.
 
-- **Adopt a “humble economics” mindset**  
-  Don’t rush to conclusions; value the process of hypothesis and verification. Approach economic and social issues like a plumber’s task—through trial, error, and adjustment.  
+Moreover, as society seeks to design systems based on the premise of population decline, the authors' focus on "optimizing distribution" and "dignity-centered policies" serves as a practical guide for building a sustainable society. Their attempt to redefine economics as "the study of human happiness" deeply resonates with the contemporary trend towards a Well-being Society.
 
-- **Use happiness and dignity as evaluation criteria**  
-  Look beyond income and growth rates to include meaning in work and the quality of relationships as measures of well-being. This shift enables both individuals and organizations to achieve more sustainable growth.  
+---
 
-- **Support those who “cannot move”**  
-  Expand opportunities for mobility and challenge through education, housing, and social safety nets. Ensuring “freedom of choice” within communities and organizations is key to restoring hope across society.  
+## 🚀 Suggestions for Practice
+1. **Shift the Purpose of Dialogue from "Persuasion" to "Understanding"**  
+   By adopting an attitude of understanding others' values and backgrounds, constructive discussions that transcend division become possible.
+
+2. **In Policy Evaluation, Look at "Distribution" Rather Than "Averages"**  
+   It is crucial to visualize the biases in the impacts of growth and trade to ensure benefits do not concentrate in a few hands.
+
+3. **Consider Cash Transfers Without Prejudice**  
+   As empirical research shows, cash transfers do not lead to laziness and can improve education and health. Support measures with fewer conditions are effective.
+
+4. **Incorporate "Dignity" into Institutional Design**  
+   Complex and humiliating procedures deter utilization. Designing systems that protect users' dignity enhances the effectiveness of the system.
+
+5. **Prioritize "Quality of Life" Over Growth**  
+   Focusing policies on improving education, health, and social connections, rather than merely increasing GDP, brings true prosperity.
 
 ---
 
 ## ⭐ Overall Evaluation
-*絶望を希望に変える経済学* is a sincere attempt to revive economics as a discipline “for humanity.” Its emphasis on dialogue over theory and process over conclusion offers profound insights for both experts and general readers.  
+『絶望を希望に変える経済学』 redefines economics as "knowledge for protecting human dignity." The authors maintain a sincere approach to confronting the complex realities of society, rather than relying solely on theories or data.
 
-For those weary of political polarization and information overload, this book serves as an “intellectual prescription for not losing hope.” It invites readers to carry forward the challenge of rebuilding society’s trust—through the lens of economics and their own thoughtful engagement.
+Through this book, readers will gain a perspective that shifts economics from a "study of numbers" to a "study of empathy." In an era of division, it teaches that hope is not an abstract ideal, but arises from realistic choices rooted in understanding and dignity.
 
 ---
 

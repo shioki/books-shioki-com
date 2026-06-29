@@ -1,5 +1,55 @@
 [
   {
+    "title": "絶望を希望に変える経済学 社会の重大問題をどう解決するか",
+    "author": "アビジット・Ｖ・バナジー, エスター・デュフロ, and 村井章子",
+    "date": "2026-03-14",
+    "created_at": "2026-03-14T12:18:48.976320",
+    "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
+    "image": "images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "category": "ビジネス・経済",
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "author_roles": {
+      "アビジット・Ｖ・バナジー": "著",
+      "エスター・デュフロ": "著",
+      "村井章子": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "新しい時代のお金の教科書_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "経営戦略としての異文化適応力_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アントフィナンシャル――1匹のアリがつくる新金融エコシステム_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "たった1分で仕事も人生も変える　自己紹介2.0_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "なぜ九州のホームセンターが国内有数のDX企業になれたか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-06-30T08:39:15.034954"
+  },
+  {
     "title": "【合本版】小説フランス革命（全18巻）",
     "author": "佐藤賢一",
     "date": "2026-03-20",
@@ -12861,55 +12911,6 @@
       {
         "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
         "score": 0.4728,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "絶望を希望に変える経済学 社会の重大問題をどう解決するか",
-    "author": "アビジット・Ｖ・バナジー, エステル・デュフロ, and 村井章子",
-    "date": "2026-03-14",
-    "created_at": "2026-03-14T12:18:48.976320",
-    "filename": "絶望を希望に変える経済学 社会の重大問題をどう解決するか_review.md",
-    "image": "images/reviews/絶望を希望に変える経済学 社会の重大問題をどう解決するか_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "category": "ビジネス・経済",
-    "categories": [
-      "ビジネス・経済"
-    ],
-    "author_roles": {
-      "アビジット・Ｖ・バナジー": "著",
-      "エステル・デュフロ": "著",
-      "村井章子": "翻訳"
-    },
-    "related": [
-      {
-        "filename": "貧乏人の経済学――もういちど貧困問題を根っこから考える_review.md",
-        "score": 0.4959,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
-        "score": 0.4941,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ロバート・Ｂ・ライシュ-章子-コモングッド―暴走する資本主義社会で倫理を語る_review.md",
-        "score": 0.4857,
-        "method": "hybrid"
-      },
-      {
-        "filename": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門_review.md",
-        "score": 0.4804,
-        "method": "hybrid"
-      },
-      {
-        "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
-        "score": 0.4667,
         "method": "hybrid"
       }
     ]
