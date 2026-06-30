@@ -1,22 +1,25 @@
 ### Panel 1
-**Scene**: In a bustling Edo street filled with merchants and lively chatter, the townsgirl stops to gaze at a traveling storyteller’s illustration of men chasing a strange round ball. She tilts her head in confusion, pondering why both rulers and merchants seem so captivated by this game. The flickering lantern light casts a thoughtful glow on her face as she quietly reflects on the connection between play and power.
-**Dialogue**: "Why are they so obsessed with this game?"
+**Scene**: In a lively Edo street, the townsgirl stops to listen to men discussing a banner that displays a football match between foreign nations. She tilts her head in curiosity about the significance of national flags and merchant crests for a simple game. Background features the Edo townscape with paper lanterns and a teahouse.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: Inside her cozy study adorned with scrolls and abacuses, the townsgirl studies a Dutch-language manuscript titled “Voetbal Geld” alongside a Japanese commentary. Two imagined scholars emerge from the pages as ethereal mentors: Miguel Delaney, a calm foreign scholar in loose European robes holding a quill, and Takuma Yamanaka, a composed Japanese interpreter in kimono with a keen analytical expression. They gesture toward diagrams illustrating coins, crowns, and a globe interconnected by threads, revealing the ties between sport, commerce, and empire.
-**Dialogue**: "Look at how they are all connected!"
+**Scene**: Inside a dim study, the townsgirl examines Dutch and foreign scrolls depicting globes and trade routes. A charcoal portrait of two scholars hangs on the wall—one, a thoughtful foreign man (Miguel Delaney) with a contemplative gaze, and the other, a serene Japanese scholar (Takuma Yamanaka) with a calm demeanor and thin mustache. She softly reflects on how “money flows like wind through the sport of feet.”
+**Dialogue**: "Money flows like wind through the sport of feet."
 
 ### Panel 3
-**Scene**: The townsgirl plays with children in a back alley, using a woven bamboo ball. As they engage in the game, she steps back to observe how the wealthier merchant’s son claims ownership of the game by providing new balls for everyone. She chuckles softly, realizing how power influences even the act of play. In a playful yet ironic twist, she sketches a chart in the dirt depicting “capital flow” among the players.
-**Dialogue**: "So this is how power reshapes play!"
+**Scene**: At a local field by the riverbank, children are playing with a handmade rag ball. The townsgirl observes them and begins to draw circles and lines in the dirt with a stick, excitedly explaining how “power gathers where wealth pools.” The children laugh and chase the ball, and she realizes the joy that exists beyond ownership.
+**Dialogue**: "Power gathers where wealth pools."
 
 ### Panel 4
-**Scene**: In the evening, she kneels by candlelight with her brush poised above a strip of washi paper. Her eyes reflect a mix of wonder and melancholy as she writes a waka that encapsulates the essence of her thoughts. The final panel focuses on her serene face and the inked poem on the paper.
-**Tanka (translation)**: "The wind of gold carries dreams, the ball dances, the people's cheers—who does it belong to?"
-**Tanka (original)**: 「  
-金の風　  
-夢を運びて　  
-球は舞う　  
-民の歓声　  
-誰のものぞや  
-」
+**Scene**: In the evening, the townsgirl sits in candlelight with a brush in hand, looking at the ball beside her. She writes a waka poem on a hanging scroll that captures the essence of her reflections.
+**Dialogue**: None  
+**Tanka (translation)**: "Wealth gathers,  
+The spirit of competition fades,  
+The heart's ball returns  
+To the hands of people,  
+A path of wind exists."  
+**Tanka (original)**: 「富集まり  
+　競の魂　薄れゆく  
+　心の球（たま）を  
+　人の手に戻す  
+　風の道あり」
