@@ -1,5 +1,54 @@
 [
   {
+    "title": "フランス王朝史　全３冊合本版",
+    "author": "佐藤賢一",
+    "date": "2026-03-14",
+    "created_at": "2026-03-14T12:18:15.050164",
+    "filename": "フランス王朝史　全３冊合本版_review.md",
+    "image": "images/reviews/フランス王朝史　全３冊合本版_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "category": "社会・思想",
+    "categories": [
+      "歴史・地理",
+      "世界史"
+    ],
+    "author_roles": {
+      "佐藤賢一": "著"
+    },
+    "related": [
+      {
+        "filename": "英仏百年戦争_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "歴史を活かす力　人生に役立つ80のQ＆A_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "16世紀「世界史」のはじまり_review.md",
+        "score": 0.72,
+        "method": "meta"
+      },
+      {
+        "filename": "シルクロード世界史_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-01T08:18:36.578897"
+  },
+  {
     "title": "フットボール・マネー",
     "author": "ミゲル・デラニー and 山中拓磨",
     "date": "2026-06-11",
@@ -12911,54 +12960,6 @@
       {
         "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
         "score": 0.4728,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "フランス王朝史　全３冊合本版",
-    "author": "佐藤賢一",
-    "date": "2026-03-14",
-    "created_at": "2026-03-14T12:18:15.050164",
-    "filename": "フランス王朝史　全３冊合本版_review.md",
-    "image": "images/reviews/フランス王朝史　全３冊合本版_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "category": "歴史・地理",
-    "categories": [
-      "歴史・地理",
-      "世界史"
-    ],
-    "author_roles": {
-      "佐藤賢一": "著"
-    },
-    "related": [
-      {
-        "filename": "治明-一気読み日本史_review.md",
-        "score": 0.3657,
-        "method": "hybrid"
-      },
-      {
-        "filename": "コード・ガールズ――日独の暗号を解き明かした女性たち_review.md",
-        "score": 0.3302,
-        "method": "hybrid"
-      },
-      {
-        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
-        "score": 0.3186,
-        "method": "hybrid"
-      },
-      {
-        "filename": "世界史のミカタ_review.md",
-        "score": 0.2554,
-        "method": "hybrid"
-      },
-      {
-        "filename": "16世紀「世界史」のはじまり_review.md",
-        "score": 0.2467,
         "method": "hybrid"
       }
     ]

@@ -1,25 +1,18 @@
 ### Panel 1
-**Scene**: The townsgirl strolls through a lively Edo street market, where merchants argue over which lord’s coinage carries greater “authority.” She pauses, tilting her head in thought, wondering what truly makes power legitimate. Around her, the hum of trade and the flutter of banners fill the air.  
-**Dialogue**: (Thinking) “What gives power its weight—gold, or belief?”
+**Scene**: The townsgirl strolls through a lively Edo marketplace at dusk, overhearing merchants debating the true power dynamics between the shogun and the people. She stops by a lantern-lit bookstall, captivated by a foreign book titled "History of the French Dynasty." The background depicts a bustling street and misty tiled roofs, with her expression reflecting curiosity and contemplation.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her candlelit study, she pores over a thick scroll of Western history. From the page, a spectral scholar materializes—an imagined figure with tied-back hair and round spectacles, calm and wise. He gestures toward illustrations of medieval kings, his voice soft but firm amid the flicker of candlelight.  
-**Dialogue**: Scholar: “Continuity is mightier than genius.”
+**Scene**: In a small study illuminated by an oil lamp, the townsgirl opens the thick book. A vision of a scholarly man resembling Sato Kenichi emerges from the pages. He is middle-aged, with short hair, glasses, and a slender build, dressed in a Western-style jacket. He gestures to explain how French kings built their power through relationships, ceremony, and institutions rather than sheer force. The townsgirl listens intently, her ink brush poised above her notebook.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: At a temple school, she teaches children how to keep ledgers. When one asks who the “lord” of the numbers is, she smiles and shows how each page builds upon the last—turning arithmetic into a lesson on governance. The abacus before them shimmers, transforming into a tiny castle made of counting beads.  
-**Dialogue**: Townsgirl: “Each sum rules only because the last one stands beneath it.”
+**Scene**: The townsgirl applies her newfound knowledge by organizing a neighborhood temple gathering. Instead of giving orders, she assigns roles using ritual titles and small tokens, fostering harmony among the participants. The composition features dynamic diagonal lines of movement and smiling townsfolk, with the girl at the center, inspired by the concept of "institution as connection."
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Night falls. By lamplight, she sits with brush in hand, gazing at the moon reflected in her inkstone. On a hanging slip of paper, she writes a tanka that distills the day’s lesson into verse.  
-**Dialogue**: (Quietly) “Even the ordinary, layer by layer, becomes a nation…”  
-**Tanka (translation)**:  
-“Even the commonplace,  
-layered through time, becomes a realm;  
-threads of bloodline weave  
-the fabric of institutions.”  
-**Tanka (original)**:  
-「  
-凡庸にも　時を積みてぞ　国となる  
-血脈の糸は　制度を織りぬ  
-」
+**Scene**: As night falls, the townsgirl sits beside a paper lantern, gazing at the moon's reflection in her inkstone. She writes a tanka on a hanging scroll, her expression serene and filled with new understanding.
+**Dialogue**: None  
+**Tanka (translation)**: In the human world, it is not power but connection that binds; names and forms are what create a nation.  
+**Tanka (original)**: 人の世は　力にあらず　結びなり  
+　名と形こそ　国をなすもの
