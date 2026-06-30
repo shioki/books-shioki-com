@@ -1,5 +1,55 @@
 [
   {
+    "title": "コード・ガールズ――日独の暗号を解き明かした女性たち",
+    "author": "ライザ・マンディ and 小野木明恵",
+    "date": "2026-03-20",
+    "created_at": "2026-03-20T08:47:53.263590",
+    "filename": "コード・ガールズ――日独の暗号を解き明かした女性たち_review.md",
+    "image": "images/reviews/コード・ガールズ――日独の暗号を解き明かした女性たち_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "歴史・地理",
+      "世界史"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "ライザ・マンディ": "著",
+      "小野木明恵": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "世界史のミカタ_review.md",
+        "score": 0.72,
+        "method": "meta"
+      },
+      {
+        "filename": "英仏百年戦争_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "歴史を活かす力　人生に役立つ80のQ＆A_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
+        "score": 0.5,
+        "method": "meta"
+      },
+      {
+        "filename": "フランス王朝史　全３冊合本版_review.md",
+        "score": 0.5,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-01T08:29:15.138800"
+  },
+  {
     "title": "テクノロジーの世界経済史　ビル・ゲイツのパラドックス",
     "author": "カール・B・フレイ, 村井章子, and 大野 一",
     "date": "2026-03-19",
@@ -12814,55 +12864,6 @@
       {
         "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
         "score": 0.2589,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "コード・ガールズ――日独の暗号を解き明かした女性たち",
-    "author": "ライザ・マンディ and 小野木明恵",
-    "date": "2026-03-20",
-    "created_at": "2026-03-20T08:47:53.263590",
-    "filename": "コード・ガールズ――日独の暗号を解き明かした女性たち_review.md",
-    "image": "images/reviews/コード・ガールズ――日独の暗号を解き明かした女性たち_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "歴史・地理",
-      "世界史"
-    ],
-    "category": "技術・サイエンス",
-    "author_roles": {
-      "ライザ・マンディ": "著",
-      "小野木明恵": "翻訳"
-    },
-    "related": [
-      {
-        "filename": "フランス王朝史　全３冊合本版_review.md",
-        "score": 0.3302,
-        "method": "hybrid"
-      },
-      {
-        "filename": "治明-一気読み日本史_review.md",
-        "score": 0.2565,
-        "method": "hybrid"
-      },
-      {
-        "filename": "世界史の針が巻き戻るとき 「新しい実在論」は世界をどう見ているか_review.md",
-        "score": 0.2523,
-        "method": "hybrid"
-      },
-      {
-        "filename": "16世紀「世界史」のはじまり_review.md",
-        "score": 0.2464,
-        "method": "hybrid"
-      },
-      {
-        "filename": "半導体戦争――世界最重要テクノロジーをめぐる国家間の攻防_review.md",
-        "score": 0.239,
         "method": "hybrid"
       }
     ]

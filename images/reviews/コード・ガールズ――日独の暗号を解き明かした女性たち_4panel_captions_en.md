@@ -1,27 +1,24 @@
 ### Panel 1
-**Scene**: A young Edo-period townsgirl walks through a lively street filled with merchants and chatter. She overhears gossip about “women who fought wars not with swords but with numbers.” Pausing mid-step, she grips her abacus, eyes gleaming with curiosity. Behind her, a temple school stands quietly, paper lanterns swaying in the wind.  
-**Dialogue**: *“Women who fought with numbers…?”*  
+**Scene**: The young townsgirl strolls through a lively Edo street filled with merchants and illuminated by paper lanterns. She overhears two scholars discussing "hidden workers who changed the course of war." Intrigued, she pauses, holding her abacus and notebook, pondering how unseen minds could influence the world. The background features a temple bell and the warm glow of evening light over tiled rooftops.
+**Dialogue**: None
 
 ### Panel 2
-**Scene**: In her candlelit study, the townsgirl leans over a Dutch book filled with mysterious symbols. On the hanging scroll behind her, two painted portraits seem to watch—one of a composed Western woman with thoughtful eyes, the other of a serene Japanese scholar. They appear to whisper across time, guiding her toward the hidden brilliance of women’s intellect.  
-**Dialogue**: *“Even across oceans and centuries… wisdom finds its voice.”*  
+**Scene**: Inside a dimly lit study brimming with scrolls and Dutch books, the townsgirl examines a foreign-looking portrait in a thick Western tome. The image portrays two imagined mentors inspired by the authors: one, “Liza Mandi,” a composed Western scholar with thoughtful eyes and soft hair dressed in classical Western attire; the other, “Akié Onogi,” an elegant Japanese woman in simple robes with a serene, analytical expression. Their ethereal figures seem to speak from the pages about women who broke codes unnoticed by the world.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: Before her lies a folded letter sealed with a complex cipher. With brush and counting rods, she begins to decode its patterns. Around her, faint silhouettes of women in foreign uniforms emerge—the “code girls.” She smiles softly, realizing that courage can dwell in the mind as much as in the sword.  
-**Dialogue**: *“Numbers can be a weapon too.”*  
+**Scene**: The townsgirl sits before a tray filled with folded letters and merchant ledgers. Inspired, she begins to decode strange merchant marks and patterns on old scrolls, realizing that meaning lies not in words but in repetition and rhythm. Her eyes sparkle with discovery as she sketches patterns of kana, numbers, and shapes in the air, with ink splattering dramatically.
+**Dialogue**: None
 
 ### Panel 4
-**Scene**: Morning light filters through the shōji. The townsgirl writes a waka on a slender strip of paper, gazing toward the horizon where the deciphered letter rests open. Her expression is calm, resolute, touched by quiet pride.  
-**Dialogue**: *“May their silent wisdom echo through time.”*  
-**Tanka (translation)**:  
-Unspoken wisdom,  
-Hidden deep within the numbers—  
-Women’s voices rise,  
-Across the flow of ages,  
-Bearing honor of the mind.  
-**Tanka (original)**:  
-「声なき智  
-　数にひそめる  
-　女たち  
-　時を越え語る  
-　知のいさおしを」
+**Scene**: The townsgirl kneels by a low desk under the warm glow of a lamp, brush in hand. She gazes at the moon through paper shoji and writes a waka on a small tanzaku card. The poem encapsulates the essence of invisible labor and silent brilliance.
+**Dialogue**: None  
+**Tanka (translation)**: Invisible hands move time,  
+Without a sound,  
+Igniting the light of wisdom,  
+The nights of women.  
+**Tanka (original)**: 見えぬ手が  
+　時を動かす  
+　音もなく  
+　知恵の灯ともす  
+　女たちの夜
