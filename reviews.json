@@ -1,5 +1,57 @@
 [
   {
+    "title": "プロット・アゲンスト・アメリカ",
+    "author": "フィリップ・ロス and 柴田元幸",
+    "date": "2026-04-01",
+    "created_at": "2026-04-01T08:25:55.124192",
+    "filename": "プロット・アゲンスト・アメリカ_review.md",
+    "image": "images/reviews/プロット・アゲンスト・アメリカ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "評論・文学研究",
+      "外国文学研究",
+      "その他の外国文学"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "フィリップ・ロス": "著",
+      "柴田元幸": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "ダルタニャン物語９　三つの恋の物語_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語２ 妖婦ミレディーの秘密_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語８ 華麗なる饗宴_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "若草物語　１＆２_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語７ ノートル・ダムの居酒屋_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-02T08:19:51.625087"
+  },
+  {
     "title": "【ビジネス書大賞特別賞受賞作】哲学と宗教全史",
     "author": "出口 治明",
     "date": "2026-03-20",
@@ -11641,57 +11693,6 @@
       {
         "filename": "親切の人類史――ヒトはいかにして利他の心を獲得したか_review.md",
         "score": 0.4643,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "プロット・アゲンスト・アメリカ",
-    "author": "フィリップ・ロス and 柴田元幸",
-    "date": "2026-04-01",
-    "created_at": "2026-04-01T08:25:55.124192",
-    "filename": "プロット・アゲンスト・アメリカ_review.md",
-    "image": "images/reviews/プロット・アゲンスト・アメリカ_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "文学・評論",
-      "評論・文学研究",
-      "外国文学研究",
-      "その他の外国文学"
-    ],
-    "category": "小説",
-    "author_roles": {
-      "フィリップ・ロス": "著",
-      "柴田元幸": "翻訳"
-    },
-    "related": [
-      {
-        "filename": "4 3 2 1_review.md",
-        "score": 0.3988,
-        "method": "hybrid"
-      },
-      {
-        "filename": "アレクサンドル・デュマ-鈴木力衛-ダルタニャン物語11　剣よ、さらば_review.md",
-        "score": 0.3843,
-        "method": "hybrid"
-      },
-      {
-        "filename": "【合本版】小説フランス革命（全18巻）_review.md",
-        "score": 0.293,
-        "method": "hybrid"
-      },
-      {
-        "filename": "パシヨン_review.md",
-        "score": 0.2625,
-        "method": "hybrid"
-      },
-      {
-        "filename": "決定版 下村湖人全集 決定版日本文学全集_review.md",
-        "score": 0.2624,
         "method": "hybrid"
       }
     ]
