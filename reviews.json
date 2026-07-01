@@ -1,5 +1,54 @@
 [
   {
+    "title": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論",
+    "author": "ダニエル・サスキンド and 上原裕美子",
+    "date": "2026-03-14",
+    "created_at": "2026-03-14T12:19:23.789438",
+    "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
+    "image": "images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "category": "社会・思想",
+    "categories": [
+      "ビジネス・経済"
+    ],
+    "author_roles": {
+      "ダニエル・サスキンド": "著",
+      "上原裕美子": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "資本とイデオロギー_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "Exit　イグジット_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "14歳からの資本主義_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "地元がヤバい…と思ったら読む 凡人のための地域再生入門_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "書いてはいけない_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-02T08:11:20.720269"
+  },
+  {
     "title": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで",
     "author": "リチャード・ローズ and 秋山 勝",
     "date": "2026-03-20",
@@ -12915,54 +12964,6 @@
       {
         "filename": "リベラリズムへの不満_review.md",
         "score": 0.3272,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論",
-    "author": "ダニエル・サスキンド and 上原裕美子",
-    "date": "2026-03-14",
-    "created_at": "2026-03-14T12:19:23.789438",
-    "filename": "WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.md",
-    "image": "images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "category": "ビジネス・経済",
-    "categories": [
-      "ビジネス・経済"
-    ],
-    "author_roles": {
-      "ダニエル・サスキンド": "著",
-      "上原裕美子": "翻訳"
-    },
-    "related": [
-      {
-        "filename": "冨山和彦-松尾　豊-日本経済AI成長戦略_review.md",
-        "score": 0.5315,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ダニエル・サスキンド-上原裕美子-GROWTH――「脱」でも「親」でもない新成長論_review.md",
-        "score": 0.5226,
-        "method": "hybrid"
-      },
-      {
-        "filename": "お酒の経済学　日本酒のグローバル化からサワーの躍進まで_review.md",
-        "score": 0.4849,
-        "method": "hybrid"
-      },
-      {
-        "filename": "小飼弾の超訳「お金」理論_review.md",
-        "score": 0.4798,
-        "method": "hybrid"
-      },
-      {
-        "filename": "外資系コンサルが教える　読書を仕事につなげる技術_review.md",
-        "score": 0.4728,
         "method": "hybrid"
       }
     ]

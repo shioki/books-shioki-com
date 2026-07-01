@@ -1,4 +1,15 @@
 ---
+layout: default
+title: WORLD WITHOUT WORK――AI時代の新「大きな政府」論
+description: This book depicts a future where "jobs do not completely disappear" due
+  to advancements in AI and automation, but rather a world where "there are not…
+og_image: https://books.shioki.com/images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png
+canonical_url: https://books.shioki.com/reviews/en/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.html
+og_locale: en_US
+og_locale_alternate:
+- ja_JP
+- zh_TW
+og_type: article
 ---
 > **Language**: [日本語](../ja/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.html) | [English](../en/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.html) | [繁體中文](../zh-tw/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_review.html)
 >
@@ -16,90 +27,90 @@
   <source srcset="../../images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.webp" type="image/webp">
   <img src="../../images/reviews/WORLD WITHOUT WORK――AI時代の新「大きな政府」論_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
 </picture>
+
 ## Dialogue
 
 ### Panel 1
-**Scene**: In a lively Edo marketplace, the young townsgirl strolls among merchants and craftsmen, only to find mechanical karakuri dolls now performing their work. She tilts her head, pondering the uneasy question that rises within her: “What happens when work disappears?” A wooden sign reads “New Karakuri Workshop,” as townsfolk gather in astonishment.  
-**Dialogue**: “What happens when work disappears…?”
+**Scene**: In the lively Edo marketplace, the townsgirl observes the crowd of craftsmen and merchants, noticing the gradual replacement of human labor by Western machines and devices. She tilts her head in curiosity, contemplating the implications of a future where "there's not enough work for all." The background features a wooden abacus shop and a small printing stand selling foreign engravings.
+**Dialogue**: "What will happen when there’s not enough work for all?"
 
 ### Panel 2
-**Scene**: That night, in her candlelit study, she opens a thick leather-bound foreign book. From its pages, two imagined scholars appear—one a calm Western gentleman, the other a composed Japanese woman in scholarly kimono. They seem to speak to her, explaining that “AI surpasses imitation—changing the meaning of work itself.” The girl listens closely, her brush hovering midair.  
-**Dialogue**: “AI surpasses imitation—changing the meaning of work itself.”
+**Scene**: In her candle-lit study, the townsgirl opens a Dutch book focused on economics and automation. The book's illustration depicts a Western scholar resembling Daniel Susskind — a slender man with short dark hair, glasses, and a composed demeanor, dressed in a formal jacket. Next to him, an imagined co-author inspired by “Hiromiko Uehara” appears as a serene woman in scholarly robes, her face partially illuminated. The townsgirl studies their writings intently, her eyes sparkling with comprehension.
+**Dialogue**: "So this is how they think about work and machines..."
 
 ### Panel 3
-**Scene**: The next morning at the temple school, she stands before a group of children, chalk in hand. On the board, she replaces the character for “work” (働) with “learning” (学) and “sharing” (分). The children laugh, one asking if machines can write poems too. Nearby, a karakuri doll clumsily mimics her brushstroke, echoing the lesson in its own mechanical way.  
-**Dialogue**: Child: “Can a machine write poems too?”
+**Scene**: The townsgirl tries her hand at creating a small automaton doll that writes characters on its own. Villagers gather around, astonished by the spectacle. However, as the doll continues to write tirelessly, she suddenly appears thoughtful, realizing that machines might not only take jobs but also strip away meaning from everyday life. The dynamic composition features ink strokes that emphasize both motion and contemplation.
+**Dialogue**: "Is this what we want? A life without meaning?"
 
 ### Panel 4
-**Scene**: At dusk by the riverbank, beneath a willow tree, the townsgirl dips her brush into ink and writes a tanka on a small tanzaku slip. The moon’s reflection ripples on the water as she contemplates quietly.  
-**Dialogue**: (none)  
-**Tanka (translation)**:  
-“Even on the path where one lives without labor,  
-May there still be light—  
-For knowledge and compassion  
-Are the true proof of being human.”  
-**Tanka (original)**:  
-「  
-働かず　生くる道にも　灯を見む  
-知と情けこそ　人の証なれ  
-」
+**Scene**: At night, beneath a paper lantern, the townsgirl kneels with her brush, writing a waka poem on a tanzaku. The poem encapsulates the essence of her reflections — the loss of work, the quest for meaning, and the hope for a new shared future.  
+**Tanka (translation)**: Though we work hard, the light of labor fades. The world asks, how shall we live? Let us draw a path together.  
+**Tanka (original)**: 働けど  
+仕事の灯(ひ)消え  
+世は問うや  
+生きるしるべを  
+共に描かむ
 
+## 🎯 The Core of This Book
+This book depicts a future where "jobs do not completely disappear" due to advancements in AI and automation, but rather a world where "there are not enough jobs for everyone." The author, ダニエル・サスキンド, meticulously analyzes the changes in employment structures brought about by technological progress from three perspectives: economic, ethical, and political.
 
-## 🎯 Core of the Book
-*WORLD WITHOUT WORK* begins with the premise that as AI and automation advance, we are heading toward a world where there simply isn’t enough work to go around. Author ダニエル・サスキンド carefully examines the historical trend of technology replacing human labor and offers a clear-eyed analysis of the social and economic transformations brought about by AI.  
+At its core, the book recognizes that the foundation of modern society, which is the distribution of wealth through labor, is crumbling. As structural inequalities that cannot be resolved through education or skill development widen, the necessity for a "big government" that takes on a central role in redistribution is argued.
 
-The book’s focus is not on the “disappearance of work,” but rather on the *changing nature and distribution* of work. According to the author, we are entering a “pragmatic revolution,” where AI achieves results without imitating human intelligence—fundamentally transforming the meaning of labor and the structure of society.  
-
-To adapt to this shift, サスキンド argues that we must return to a form of “big government,” where the state once again plays a central role. This is not merely an economic argument—it is also a philosophical inquiry into the meaning of work and the purpose of life.  
+Furthermore, the book delves into deep human issues, not only the economic losses due to job loss but also the loss of "meaning in life" and "social identity." It presents philosophical questions on how to "live well" in the age of AI.
 
 ---
 
 ## 💡 Key Insights
-- **AI surpasses humans without imitation**  
-  Modern AI does not replicate human thought; instead, it achieves results through “pragmatic intelligence.” This challenges the human-centered notion of intelligence and extends automation even into creative and judgment-based professions.  
 
-- **The issue is not the quantity but the quality of work**  
-  Technological progress doesn’t just reduce the number of jobs—it transforms their nature. We must redefine what tasks humans should perform, requiring a fundamental rethinking of education and vocational training.  
+- **The Reality of "Not Enough Jobs" Rather Than "Total Unemployment"**  
+  The book emphasizes the "intermediate crisis" where jobs decrease to the point that not everyone can work. This is already happening in developed countries, and misjudging the structural changes in the labor market could accelerate social division.
 
-- **Widening inequality as a byproduct of technology**  
-  While high-skilled workers benefit, the middle class is disappearing, leading to a polarized society. In the AI era, inequality is not only an economic issue but also a threat to social cohesion.  
+- **The Turning Point of Technology's "Complementarity" and "Substitutability"**  
+  In the past, technology had a strong aspect of assisting humans, but in the future, substitution will become dominant. AI does not mimic human methods but achieves the same results in different ways, rapidly eroding the "safe zones" for humans.
 
-- **The new reality of “frictional technological unemployment”**  
-  Even when jobs exist, mismatches in skills, geography, or identity prevent people from finding work. This is not a cyclical issue but a structural challenge for society.  
+- **The End of the Myth of Education as a Panacea**  
+  There are limits to increasing human productivity through education, and it cannot keep pace with the productivity improvements of machines. The author asserts that retraining and skill enhancement alone cannot solve structural employment shortages.
 
-- **The necessity of redefining the state and redistribution**  
-  Market mechanisms alone cannot address inequality and unemployment. The author advocates for active state intervention through measures such as basic income and expanded public services to redistribute prosperity.  
+- **The Inevitability of "Redesigning Distribution"**  
+  As income distribution through labor becomes ineffective, the government must design a new distribution system. Discussions will center around redistribution that does not rely on labor, such as basic income and capital taxation.
 
----
-
-## 🔍 Relevance in Today’s Context
-Since 2024, the rapid rise of generative AI and automation has drastically reshaped employment structures worldwide. According to OECD reports, 27% of jobs in advanced economies are at risk of automation by 2030—making サスキンド’s warnings increasingly tangible.  
-
-At the same time, movements such as “post-work culture” and the “four-day workweek” are redefining the meaning of labor in Europe, the U.S., and Japan. Experiments with UBI (Universal Basic Income) and AI taxes are expanding, making the book’s argument for a “big government” particularly timely.  
-
-While AI continues to boost productivity, the question of how to *redesign the human role* has become central not only to economic policy but also to cultural and ethical debates. サスキンド’s proposals serve as a compass for navigating this era of transformation.  
+- **Redefining the Meaning of Work**  
+  Work is not just a source of income but also a source of social recognition and purpose. In an era where jobs decrease due to AI, society must grapple with how to position the "value of not working."
 
 ---
 
-## 🚀 Practical Takeaways
-- **Develop skills to collaborate with AI**  
-  Rather than viewing AI as an adversary, we should treat it as a complementary partner. It’s crucial to cultivate abilities that are difficult for AI to replicate—such as creativity, critical thinking, and empathy.  
+## 🔍 Relevance to Contemporary Context
+As a "hybrid economy" that expands human intellectual and physical capabilities is becoming a reality, the discussions in this book are increasingly urgent. The proliferation of generative AI and autonomous robots is encroaching beyond mere labor substitution into the realms of human thought and judgment.
 
-- **Redefine education**  
-  Schools and corporate training programs must shift from teaching routine tasks to fostering problem-framing skills and adaptability for lifelong learning. This is the most realistic way to prevent “frictional unemployment” in the AI era.  
+At the same time, while massive investments in AI infrastructure are underway, a paradox arises where physical labor in construction and maintenance continues to face labor shortages. This is evidence of the "task-based automation" that サスキンド points out as progressing in reality.
 
-- **Rebuild social solidarity**  
-  As work ceases to be the central purpose of life, society must revalue non-economic contributions—community engagement, caregiving, and cultural creation—to build a “community of meaning” beyond labor.  
+Moreover, international debates surrounding AI ethics, copyright, and cognitive disparities highlight the new roles that a "big government" must play. This involves reconstructing institutional frameworks that control technological advancement and protect human dignity and social justice.
 
-- **Engage with policy**  
-  Redistribution and social welfare design should not be left to experts alone. Every citizen must consider “what kind of future we choose” and express that choice politically—this is essential for sustaining democracy in the age of AI.  
+---
+
+## 🚀 Practical Suggestions
+
+1. **Redefine Work in "Task Units"**  
+   Break down your job into smaller tasks and identify which parts are more susceptible to automation. This will clarify areas where you can coexist with AI and enhance career sustainability.
+
+2. **Make Learning Continuous**  
+   Acknowledge the limits of education and cultivate the habit of ongoing learning. Particularly, skills that evolve with technology, such as AI literacy and ethical judgment, will be in demand.
+
+3. **Consciously Create Value Beyond Labor**  
+   Incorporate social contributions that do not directly translate to income, such as volunteering, creative endeavors, and community activities, to rediscover "meaning" outside of work.
+
+4. **Expand Access to Capital**  
+   Take an interest in mechanisms for earning income from capital, such as investments and co-ownership. Building economic stability independent of labor income will be key to mitigating widening disparities.
+
+5. **Engage with Policies and Systems**  
+   Do not view the concept of a "big government" as someone else's concern; deepen your understanding of social security and redistribution policies. Democratic involvement is essential for addressing challenges that cannot be solved by individual choices alone.
 
 ---
 
 ## ⭐ Overall Evaluation
-*WORLD WITHOUT WORK* stands as one of the most comprehensive analyses of labor and humanity’s future in the AI era. Bridging economics, philosophy, and social policy, it confronts readers with fundamental questions about the impact of technology on human society.  
+『WORLD WITHOUT WORK』 is an intellectual challenge that calmly and systematically envisions the future of labor and society in the age of AI. The author excels in treating technology not merely as a threat but as a "structural variable" that demands a redesign of social systems.
 
-This book is not just about forecasting the future or discussing technology—it challenges readers to reflect on ethical and political questions such as “Why do we work?” and “How far should the state support its people?” For anyone seeking to navigate the AI age thoughtfully, this is an essential starting point for reflection.
+This book is essential reading for those at the intersection of economics, political philosophy, and ethics, serving as an opportunity to reconsider "what it means to work" and "what it means to live." I strongly recommend it to anyone striving to envision a better blueprint for the future while facing the realities of an AI-driven society.
 
 ---
 

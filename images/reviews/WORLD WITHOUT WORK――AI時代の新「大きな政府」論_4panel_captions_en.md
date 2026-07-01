@@ -1,25 +1,20 @@
 ### Panel 1
-**Scene**: In a lively Edo marketplace, the young townsgirl strolls among merchants and craftsmen, only to find mechanical karakuri dolls now performing their work. She tilts her head, pondering the uneasy question that rises within her: “What happens when work disappears?” A wooden sign reads “New Karakuri Workshop,” as townsfolk gather in astonishment.  
-**Dialogue**: “What happens when work disappears…?”
+**Scene**: In the lively Edo marketplace, the townsgirl observes the crowd of craftsmen and merchants, noticing the gradual replacement of human labor by Western machines and devices. She tilts her head in curiosity, contemplating the implications of a future where "there's not enough work for all." The background features a wooden abacus shop and a small printing stand selling foreign engravings.
+**Dialogue**: "What will happen when there’s not enough work for all?"
 
 ### Panel 2
-**Scene**: That night, in her candlelit study, she opens a thick leather-bound foreign book. From its pages, two imagined scholars appear—one a calm Western gentleman, the other a composed Japanese woman in scholarly kimono. They seem to speak to her, explaining that “AI surpasses imitation—changing the meaning of work itself.” The girl listens closely, her brush hovering midair.  
-**Dialogue**: “AI surpasses imitation—changing the meaning of work itself.”
+**Scene**: In her candle-lit study, the townsgirl opens a Dutch book focused on economics and automation. The book's illustration depicts a Western scholar resembling Daniel Susskind — a slender man with short dark hair, glasses, and a composed demeanor, dressed in a formal jacket. Next to him, an imagined co-author inspired by “Hiromiko Uehara” appears as a serene woman in scholarly robes, her face partially illuminated. The townsgirl studies their writings intently, her eyes sparkling with comprehension.
+**Dialogue**: "So this is how they think about work and machines..."
 
 ### Panel 3
-**Scene**: The next morning at the temple school, she stands before a group of children, chalk in hand. On the board, she replaces the character for “work” (働) with “learning” (学) and “sharing” (分). The children laugh, one asking if machines can write poems too. Nearby, a karakuri doll clumsily mimics her brushstroke, echoing the lesson in its own mechanical way.  
-**Dialogue**: Child: “Can a machine write poems too?”
+**Scene**: The townsgirl tries her hand at creating a small automaton doll that writes characters on its own. Villagers gather around, astonished by the spectacle. However, as the doll continues to write tirelessly, she suddenly appears thoughtful, realizing that machines might not only take jobs but also strip away meaning from everyday life. The dynamic composition features ink strokes that emphasize both motion and contemplation.
+**Dialogue**: "Is this what we want? A life without meaning?"
 
 ### Panel 4
-**Scene**: At dusk by the riverbank, beneath a willow tree, the townsgirl dips her brush into ink and writes a tanka on a small tanzaku slip. The moon’s reflection ripples on the water as she contemplates quietly.  
-**Dialogue**: (none)  
-**Tanka (translation)**:  
-“Even on the path where one lives without labor,  
-May there still be light—  
-For knowledge and compassion  
-Are the true proof of being human.”  
-**Tanka (original)**:  
-「  
-働かず　生くる道にも　灯を見む  
-知と情けこそ　人の証なれ  
-」
+**Scene**: At night, beneath a paper lantern, the townsgirl kneels with her brush, writing a waka poem on a tanzaku. The poem encapsulates the essence of her reflections — the loss of work, the quest for meaning, and the hope for a new shared future.  
+**Tanka (translation)**: Though we work hard, the light of labor fades. The world asks, how shall we live? Let us draw a path together.  
+**Tanka (original)**: 働けど  
+仕事の灯(ひ)消え  
+世は問うや  
+生きるしるべを  
+共に描かむ  
