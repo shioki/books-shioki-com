@@ -1009,10 +1009,17 @@
                     meta.appendChild(moreBadge);
                 }
 
-                if (r.date) {
+                // 公開も更新も同様に扱う: カードの日付は活動日（更新があれば更新日、
+                // なければ公開日）を表示。並び順・最近の更新（reviewActivityAt）と一貫させる。
+                var activityDate = reviewActivityDate(r);
+                if (activityDate && activityDate !== 'unknown') {
                     var dateEl = document.createElement('span');
                     dateEl.className = 'review-date';
-                    dateEl.textContent = r.date;
+                    dateEl.textContent = activityDate;
+                    var pubDate = r.date || (r.created_at ? String(r.created_at).substring(0, 10) : '');
+                    if (pubDate && pubDate !== activityDate) {
+                        dateEl.title = '公開日 ' + pubDate + ' / 更新日 ' + activityDate;
+                    }
                     meta.appendChild(dateEl);
                 }
 

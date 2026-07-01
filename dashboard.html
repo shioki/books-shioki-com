@@ -65,7 +65,7 @@
 </head>
 <body>
     <div id="site-nav"></div>
-    <script src="/assets/js/site-common.js?v=3"></script>
+    <script src="/assets/js/site-common.js?v=4"></script>
     <script src="/assets/js/nav.js?v=3"></script>
     <div class="container">
         <div class="lang-toggle" id="lang-toggle"></div>
@@ -150,7 +150,7 @@
         }
 
         function authorData(reviews) {
-            var entries = C.buildAuthorData(reviews).slice(0, 10);
+            var entries = C.topAuthorEntries(C.buildAuthorData(reviews), 10);
             return {
                 labels: entries.map(function (e) {
                     var lab = C.authorLabel(e.name);
@@ -199,6 +199,8 @@
             });
 
             var ad = authorData(reviews);
+            var authorWrap = document.getElementById('authorChart').parentElement;
+            authorWrap.style.height = Math.max(420, ad.labels.length * 28) + 'px';
             new Chart(document.getElementById('authorChart'), {
                 type: 'bar',
                 data: { labels: ad.labels, datasets: [{ data: ad.data, backgroundColor: PALETTE }] },

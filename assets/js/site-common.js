@@ -413,6 +413,12 @@
     return entries;
   }
 
+  /** 指定順位までの著者を返す（同順位はすべて含む）。dashboard Top10 用。 */
+  function topAuthorEntries(entries, maxRank) {
+    var limit = maxRank == null ? 10 : maxRank;
+    return entries.filter(function (e) { return e.rank <= limit; });
+  }
+
   function authorLabel(name) {
     return AUTHOR_LABELS[name] || null;
   }
@@ -437,6 +443,7 @@
     fetchReviews: fetchReviews,
     AUTHOR_LABELS: AUTHOR_LABELS,
     buildAuthorData: buildAuthorData,
+    topAuthorEntries: topAuthorEntries,
     authorLabel: authorLabel
   };
 })(window);
