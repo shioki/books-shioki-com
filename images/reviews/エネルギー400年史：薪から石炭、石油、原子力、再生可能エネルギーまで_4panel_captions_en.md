@@ -1,27 +1,24 @@
 ### Panel 1
-**Scene**: On an Edo-period street at dusk, the young townsgirl carries a bundle of firewood. She pauses, watching black smoke rise from a nearby kiln. Tilting her head thoughtfully, she senses the weight of the world’s dependence on fuel. Lanterns glow among tiled roofs as townsfolk tend their fires.  
-**Dialogue**: (None)
+**Scene**: The townsgirl walks through the bustling streets of Edo, observing charcoal sellers and firewood carriers arguing about prices. She stops, holding a small abacus, looking puzzled as she contemplates how people's lives depend on "what burns." The background features Edo townhouses with thin smoke drifting over tiled roofs.
+**Dialogue**: "It’s strange how lives depend on what burns..."
 
 ### Panel 2
-**Scene**: Inside her small study lined with scrolls and imported books, she opens a thick foreign volume labeled “History of Energy.” Beside her sits a gentle elderly foreign scholar with round spectacles and calm eyes, while a composed Japanese scholar with narrow eyes explains diagrams of coal, oil, and the sun. The air is filled with curiosity and quiet reverence.  
-**Dialogue**: (None)
+**Scene**: Inside a dimly lit temple study filled with scrolls and Dutch books, the townsgirl reads an imported text about "energy." A portrait of a wise foreign scholar with short gray hair and glasses hangs on the wall, next to a calligraphy scroll signed “秋山 勝.” She bows respectfully toward the portrait, absorbing knowledge from both authors.
+**Dialogue**: "So this is what they mean by energy..."
 
 ### Panel 3
-**Scene**: By the riverside, the townsgirl builds a small handmade waterwheel, testing how to capture the flow like the “energy transitions” she studied. A sudden gust of wind spins it faster than expected, splashing water onto her kimono. She laughs, exhilarated by the joy of learning made real.  
-**Dialogue**: (Laughter)
+**Scene**: At night, the townsgirl experiments with a bamboo pipe, channeling steam from boiling water to spin a small paper fan. The fan whirls suddenly, startling her cat. She laughs brightly, realizing that necessity sparks invention, while shadows of windmills and chimneys form behind her in ink.
+**Dialogue**: "Look at it spin! Invention comes from need!"
 
 ### Panel 4
-**Scene**: At night, she sits by lamplight, writing a waka poem on a slender tanzaku strip. The flame flickers softly as she gazes at the distant stars, reflecting on human creativity and its cost.  
-**Dialogue**: (None)  
-**Tanka (translation)**:  
-“The firewood’s flame,  
-the coal’s dark smoke—  
-both born of human wisdom.  
-They question the future,  
-and return upon the wind.”  
-**Tanka (original)**:  
-「薪の火も  
-　石炭の煙も  
-　人の知恵  
-　未来を問いて  
-　風に返りぬ」
+**Scene**: Morning light filters through paper screens as the townsgirl kneels with brush and inkstone, composing a waka on a small tanzaku strip. Her expression is serene yet thoughtful, reflecting on the flow of history and human choice. The ink brush lines soften into mist, leaving a sense of continuity and reflection.
+**Dialogue**: "I’ll capture this moment in verse."
+**Tanka (translation)**: "From firewood to coal,  
+Life flows like the flame's dance,  
+Human paths entwined,  
+Burning bright in history,  
+Choices made like whispers' breath."
+**Tanka (original)**: 「薪より  
+　石炭へとぞ　燃え継ぎて  
+　人のあゆみは  
+　火のごと流る」

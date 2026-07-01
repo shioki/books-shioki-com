@@ -1,5 +1,55 @@
 [
   {
+    "title": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで",
+    "author": "リチャード・ローズ and 秋山 勝",
+    "date": "2026-03-20",
+    "created_at": "2026-03-20T08:48:35.085937",
+    "filename": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_review.md",
+    "image": "images/reviews/エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "科学・テクノロジー",
+      "工学"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "リチャード・ローズ": "著",
+      "秋山 勝": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "思考の方法学_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "あなたが消された未来――テクノロジーと優生思想の売り込みについて_review.md",
+        "score": 0.7867,
+        "method": "meta"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.6667,
+        "method": "meta"
+      },
+      {
+        "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+        "score": 0.5,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-02T08:05:56.664155"
+  },
+  {
     "title": "コード・ガールズ――日独の暗号を解き明かした女性たち",
     "author": "ライザ・マンディ and 小野木明恵",
     "date": "2026-03-20",
@@ -12815,55 +12865,6 @@
       {
         "filename": "なぜ働いていると本が読めなくなるのか_review.md",
         "score": 0.4567,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで",
-    "author": "リチャード・ローズ and 秋山 勝",
-    "date": "2026-03-20",
-    "created_at": "2026-03-20T08:48:35.085937",
-    "filename": "エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_review.md",
-    "image": "images/reviews/エネルギー400年史：薪から石炭、石油、原子力、再生可能エネルギーまで_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "科学・テクノロジー",
-      "工学"
-    ],
-    "category": "その他",
-    "author_roles": {
-      "リチャード・ローズ": "著",
-      "秋山 勝": "翻訳"
-    },
-    "related": [
-      {
-        "filename": "スマートマシンはこうして思考する_review.md",
-        "score": 0.4535,
-        "method": "hybrid"
-      },
-      {
-        "filename": "数の発明――私たちは数をつくり、数につくられた_review.md",
-        "score": 0.3877,
-        "method": "hybrid"
-      },
-      {
-        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
-        "score": 0.302,
-        "method": "hybrid"
-      },
-      {
-        "filename": "大惨事（カタストロフィ）の人類史_review.md",
-        "score": 0.2648,
-        "method": "hybrid"
-      },
-      {
-        "filename": "みずほ銀行システム統合、苦闘の19年史　史上最大のITプロジェクト「3度目の正直」_review.md",
-        "score": 0.2589,
         "method": "hybrid"
       }
     ]
