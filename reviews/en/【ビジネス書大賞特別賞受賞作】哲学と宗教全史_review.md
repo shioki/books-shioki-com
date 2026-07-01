@@ -1,43 +1,19 @@
 ---
+layout: default
+title: 【ビジネス書大賞特別賞受賞作】哲学と宗教全史
+description: This book is a grand intellectual epic that depicts the history of religion,
+  philosophy, and science as a continuous flow of thought centered around…
+og_image: https://books.shioki.com/images/reviews/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_4panel.png
+canonical_url: https://books.shioki.com/reviews/en/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_review.html
+og_locale: en_US
+og_locale_alternate:
+- ja_JP
+- zh_TW
+og_type: article
 ---
 > **Language**: [日本語](../ja/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_review.html) | [English](../en/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_review.html) | [繁體中文](../zh-tw/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_review.html)
 >
 > [← Top / トップページ](../../)
-
-<picture>
-  <source srcset="../../images/reviews/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_4panel.webp" type="image/webp">
-  <img src="../../images/reviews/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_4panel.png" alt="4-Panel Manga" width="1080" height="1920" loading="lazy" decoding="async">
-</picture>
-## Dialogue
-
-### Panel 1
-**Scene**: On a bustling Edo street near a temple school and rows of townhouses, the young townsgirl pauses with groceries and notebooks in her arms. She gazes up at the sky, then at the people around her—a priest, a merchant, a physician—each representing different ways of understanding the world. Her expression is startled yet thoughtful, as if seized by questions about existence and human destiny. The atmosphere conveys curiosity and quiet wonder amid everyday life.  
-**Dialogue**: (Inner thought) “Why does the world exist? Where do people come from, and where do they go?”
-
-### Panel 2
-**Scene**: Inside a candlelit study filled with wasan scrolls, Dutch books, maps, and an abacus, the townsgirl studies intensely. Strings and sketches connect ideas across religion, philosophy, and science. Beside her sits an elderly scholar with calm, intelligent eyes—her mentor—gesturing as he explains that knowledge grows from society, trade, translation, politics, and institutions, not from isolated genius. The mood is one of discovery and deep learning.  
-**Dialogue**: Mentor: “Ideas are born from the world around us, not from solitude.”
-
-### Panel 3
-**Scene**: At a lively Edo marketplace, townspeople argue over rumors, religion, and strange foreign knowledge. The townsgirl leaps into the center, abacus in one hand and brush in the other, urging everyone to question their assumptions before taking sides. Papers scatter, faces freeze in surprise, and the scene bursts with comic energy. She resolves conflict not by giving answers but by inspiring better questions.  
-**Dialogue**: Townsgirl: “Before we argue, shouldn’t we ask what we truly know?”
-
-### Panel 4
-**Scene**: In the quiet evening by a paper window, moonlight spills over open books. The townsgirl sits with her brush, reflecting on all she has learned. She writes a tanka on a slender tanzaku strip, her expression serene and thoughtful, as if connecting her own search for meaning to the long human journey of understanding.  
-**Dialogue**: (Softly) “Perhaps every age asks the same questions…”  
-**Tanka (translation)**:  
-When I ask the reason  
-for the world’s existence,  
-the answers divide—  
-branching into religion,  
-philosophy, and science.  
-**Tanka (original)**:  
-世のわけを  
-問えば答えは  
-道わかれ  
-宗教哲学  
-科学へつづく
-
 
 ## 📖 Book Information
 - **Title**: 【ビジネス書大賞特別賞受賞作】哲学と宗教全史  
@@ -45,55 +21,94 @@ philosophy, and science.
 - **ASIN**: B07V9LGB92  
 - **URL**: [https://www.amazon.co.jp/dp/B07V9LGB92](https://www.amazon.co.jp/dp/B07V9LGB92)  
 
-## 🎯 Core of the Book
-The essence of this book lies in its attempt to depict how religion, philosophy, and natural science have responded to humanity’s fundamental questions—“How did the world come to be?” and “Where do humans come from, and where are we going?”—as one continuous intellectual current. Rather than placing the histories of religion, philosophy, and science on separate shelves, the author presents them as different answers to the same enduring questions. This integrative perspective is the book’s greatest strength.
+---
 
-Moreover, the author avoids romanticizing ideas as the flashes of solitary geniuses. Instead, he explains how they emerged from the political systems, economic conditions, productive forces, community structures, and histories of translation and cultural exchange of their times. Readers thus gain a three-dimensional understanding—not only of the ideas themselves but also of how they spread, became institutionalized, and sometimes intertwined with power.
+<picture>
+  <source srcset="../../images/reviews/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_4panel.webp" type="image/webp">
+  <img src="../../images/reviews/【ビジネス書大賞特別賞受賞作】哲学と宗教全史_4panel.png" alt="4-panel comic" width="1080" height="1920" loading="lazy" decoding="async">
+</picture>
 
-Importantly, this is neither a Western-centric history of philosophy nor a doctrinal overview of religions. Traversing Greece, Judaism, Christianity, Islam, India, China, and Japan, the book illustrates how Eastern and Western thought have evolved through exchange, conflict, inheritance, and translation. It teaches that studying past ideas helps us understand modern institutions, values, language, and even the habits of our own thinking.
+## Dialogue
+
+### Panel 1
+**Scene**: In an Edo street at dusk, the townsgirl stands before a temple bell, gazing thoughtfully at the evening sky. Her expression is a mix of curiosity and serenity, reflecting on the existence of the world around her. Paper lanterns illuminate the scene as townsfolk close their shops, creating a tranquil atmosphere.
+**Dialogue**: “Why does this world exist at all?”
+
+### Panel 2
+**Scene**: Inside a cozy study filled with scrolls and Dutch books, the townsgirl listens intently to a visiting scholar resembling Haruaki Deguchi. The elderly man, with short white hair and spectacles, explains a scroll diagram showing three circles labeled “Religion,” “Philosophy,” and “Science,” emphasizing their shared pursuit of truth. Candlelight flickers softly, casting a warm glow over the scene.
+**Dialogue**: “All seek the same truth from different paths.”
+
+### Panel 3
+**Scene**: In the bustling marketplace, the townsgirl mediates a quarrel between two merchants—one arguing with faith and the other with logic. With calm confidence, she draws a circle in the dust, symbolizing unity under the same sunbeam. The merchants pause in surprise as she smiles knowingly, adding a touch of elegance and humor to the situation.
+**Dialogue**: “Let’s find common ground.”
+
+### Panel 4
+**Scene**: As night falls, the townsgirl sits by lamplight, preparing to write on washi paper. She pens a tanka that encapsulates the essence of her journey—questioning and seeking peace of mind. Her face is softly illuminated, eyes filled with determination as the ink dries, embodying a sense of dignity and wonder.
+**Tanka (translation)**: “Continuing to question, / gazing at shadows, / to live is to honor / the essence of humanity— / waiting for dawn to break.”
+**Tanka (original)**: 「問いつづけ  
+影を見つめて  
+生きるこそ  
+人の尊さ  
+夜明けを待たむ」
+
+## 🎯 The Core of This Book
+This book is a grand intellectual epic that depicts the history of religion, philosophy, and science as a continuous flow of thought centered around the fundamental questions humanity has grappled with since ancient times: "Why does the world exist?" and "What does it mean to be human?" Haruaki Deguchi presents a three-layered structure where religion narrates the origins of the world through stories, philosophy reexamines these narratives through reason, and science explores them empirically.
+
+The perspective that thought is inseparable from the structure of society and economic prosperity is consistently emphasized. It illustrates how philosophy, since Socrates, has transitioned from "the external to the internal," focusing on ethical and existential questions concerning human life.
+
+Ultimately, the book reveals the reality that human suffering remains unchanged despite scientific advancements, while urging readers that "the act of questioning itself is what defines human dignity."
+
+---
 
 ## 💡 Key Insights
-- **Religion, philosophy, and science are continuous endeavors addressing the same human questions**  
-  The book rejects the simplistic notion of progress that treats religion as a relic of the premodern era and science as its ultimate endpoint. Instead, it shows that humans have always faced the same fundamental questions and have crafted answers within the intellectual frameworks of their times—making the history of ideas feel much more relatable.
+- **Philosophy, Religion, and Science are Different Answers to the Same Questions**  
+  The view that religion explains the world through narratives, philosophy through reason, and science through empirical evidence encourages an integrated understanding that transcends the fragmentation of knowledge. The uniqueness of this book lies in its portrayal of these relationships as complementary rather than conflicting.
 
-- **Ideas are grounded in social conditions**  
-  The perspective that improvements in productivity and the rise of property-owning classes supported the emergence of intellectuals, artists, and philosophers is crucial. It allows readers to ask not just *what* people thought, but *why* those ideas were necessary in their historical contexts.
+- **Thought Emerges from Social Prosperity**  
+  The assertion that free thought is only possible when economic foundations are established serves as a key to interpreting the history of thought not merely as a history of ideas but as a social history. It highlights the importance of the "margin" that supports the birth of knowledge.
 
-- **The essence of philosophy lies in deepening questions, not possessing answers**  
-  The discussion of Socrates reveals that philosophy is not a technique for providing correct answers but an ongoing effort to recognize one’s own ignorance and refine assumptions through dialogue. This attitude remains more valuable than sheer knowledge in modern discourse and learning.
+- **Human Understanding Always Has Limitations**  
+  Through the metaphor of Plato's cave, it suggests that what we see may not be the truth but merely "shadows." Recognizing the incompleteness of our understanding is presented as the starting point of philosophical thought.
 
-- **Religion is both a teaching of salvation and a social institution entangled with power**  
-  In its treatment of Buddhism, Confucianism, Christianity, and Islam, the book highlights not only the beauty of their doctrines but also how they were used in statecraft and community integration. This balanced view helps readers understand religion as a historical reality—neither to be blindly praised nor dismissed.
+- **Happiness is Not Pleasure, but Inner Peace**  
+  The common approach to "facing suffering" found in Epicureanism, Stoicism, and Buddhism fundamentally challenges contemporary views of happiness in a consumer society. Philosophies that emphasize tranquility and stability offer profound insights for modern individuals.
 
-- **Modern thought centers on human cognition and freedom**  
-  The intellectual trajectory from Descartes to Kant, Hegel, and Marx is portrayed as a shift from explaining the world itself to exploring how humans perceive and transform it. This marks a profound intellectual transition that directly informs how modern people understand themselves and society.
+- **The Power of the Unconscious Drives Humanity**  
+  By revising the reason-centered view of philosophy and acknowledging the influence of the unconscious, our understanding of humanity becomes more realistic and complex. The importance of caution against overestimating free will and fostering humble self-awareness is emphasized.
 
-## 🔍 Relevance to the Modern Context
-In recent years, as interest in relearning the liberal arts has grown, so has the desire to understand history, religion, and philosophy in an integrated way. This book resonates because it does more than list facts—it situates ideas within the flow of world history and traces the origins of modern institutions and values.
+---
 
-In an era prone to division and prejudice, the book’s refusal to frame religions and civilizations in oppositional terms is particularly meaningful. Its balanced treatment of Islam, Christianity, Confucianism, and Buddhism—viewing them not only through their doctrines but also their historical roles and interactions—helps correct simplistic stereotypes.
+## 🔍 Relevance to Contemporary Context
+In an age where AI surrounds us and the boundaries of truth are blurred, the attitude of "living with questions" is more urgent than ever. The continuity of religion, philosophy, and science presented by Haruaki Deguchi serves as an intellectual foundation for reintegrating a fragmented knowledge society.
 
-Furthermore, in an age of information overload, it is increasingly vital to ask not only “What is true?” but “How do we perceive?” and “On what assumptions do we judge?” The book’s discussion of modern philosophy provides a solid intellectual foundation for confronting fake news, social conformity, and ideological polarization.
+Moreover, in a time when climate change and social division are becoming more severe, the "power of community" and "ethics of care" inherent in religion and philosophy are being reevaluated. The intellectual history depicted in this book functions as a spiritual resource to support the transition from an industrial growth society to a life-sustaining society.
 
-## 🚀 Practical Applications
-- **Write down your own “fundamental questions”**  
-  Reflect on the two great questions posed in the book—“Why does the world exist?” and “What is the purpose of human life?”—and try to articulate your current answers. Studying the history of ideas is not about memorization but about understanding your own standpoint, making the reading experience deeply personal.
+Furthermore, in the "redefinition of humanity" in the age of AI, the perspectives offered in this book remain relevant. Understanding humans as beings with unconsciousness and limitations serves as a starting point for contemplating coexistence with technology.
 
-- **In discussions, verify assumptions before conclusions**  
-  Applying the Socratic spirit to daily life means asking “What assumptions underlie this?” rather than immediately refuting someone’s conclusion. Since many conflicts stem from differing premises rather than facts, cultivating the habit of refining questions has practical value in both work and relationships.
+---
 
-- **Examine both ideals and realities when evaluating systems or ideas**  
-  When encountering religious, political, or corporate ideologies, look not only at their ideals but also at how they operate within actual institutions and interests. The book consistently shows that ideals derive meaning from their tension with reality, not separation from it.
+## 🚀 Suggestions for Practice
+1. **Reflect on Fundamental Questions in Your Own Words**  
+   Considering questions like "What is the world?" and "Why do I live?" in your own words, rather than relying on others' answers, is the first step in strengthening your thinking muscles.
 
-- **Keep a checklist for cognitive bias**  
-  Before believing something, ask yourself: Am I being swayed by personal experience, social pressure, or unexamined authority? Such self-checks can dramatically improve the precision of your thinking. The philosophical insights in this book serve not only as knowledge but as a daily discipline for sound judgment.
+2. **Question Your Own Cognitive Biases**  
+   As the cave metaphor suggests, we may always be seeing shadows. It is important to cultivate the habit of asking "What am I overlooking?" before making judgments or statements.
+
+3. **Aim for Inner Peace Rather Than Pleasure**  
+   By practicing philosophies that value stable inner calm over temporary stimulation, you can move closer to lasting happiness. Intentionally set aside quiet time for activities like meditation or reading.
+
+4. **Understand How Social Structures Shape Thought**  
+   Recognizing that your values and beliefs are products of your social environment deepens your understanding of others and enables dialogue that transcends conflict.
+
+5. **Transform Knowledge into Action**  
+   It is crucial to reflect philosophical knowledge in your daily choices and actions. This book teaches that thought is a practical power for changing the world.
+
+---
 
 ## ⭐ Overall Evaluation
-『哲学と宗教全史』 is a powerful work that presents religion and philosophy not as obscure academic fields but as the grand history of humanity’s attempts to understand the world and itself. Despite its breadth, it connects ideas to their social, institutional, and intercultural contexts, allowing knowledge to form meaningful connections rather than isolated facts.
+『哲学と宗教全史』 is an intellectual adventure that vividly depicts the "genealogy of human knowledge" encompassing religion, philosophy, and science on a grand scale. Haruaki Deguchi's clear narrative style draws readers into the complex history of thought as a relatable issue.
 
-It is especially recommended for readers who feel intimidated by philosophy or religion, those who wish to trace the roots of modern values through world history, and those seeking to deepen their understanding of humanity as part of their professional or personal development. After reading, one realizes not just that they “know more,” but that their very way of thinking is part of a long historical continuum.
-
-The book’s true value lies beyond its explanations of the classics—it quietly turns the question back on the reader: “What do you believe, and how will you live?” It offers not only knowledge but also a profound reading experience that helps you realign the coordinates of your own thinking.
+This book will prompt everyone facing the uncertainties of the AI era to reaffirm "the meaning of thinking." For readers seeking to explore "the philosophy of living" beyond mere knowledge, this is a timeless read that deserves to be passed down through generations.
 
 ---
 
