@@ -1,5 +1,53 @@
 [
   {
+    "title": "少弐　民に捧げた三百六十年",
+    "author": "帚木蓬生",
+    "date": "2026-02-15",
+    "created_at": "2026-02-15T19:49:10.370704",
+    "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
+    "image": "images/reviews/帚木蓬生-少弐　民に捧げた三百六十年_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "category": "小説",
+    "categories": [
+      "小説"
+    ],
+    "author_roles": {
+      "帚木蓬生": "著"
+    },
+    "related": [
+      {
+        "filename": "あたしの拳が吼えるんだ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "にぎやかな落日_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "夏が破れる_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ナポレオン　１　台頭篇_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "最終飛行_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-03T08:14:14.804656"
+  },
+  {
     "title": "大惨事（カタストロフィ）の人類史",
     "author": "ニーアル・ファーガソン and 柴田裕之",
     "date": "2026-03-20",
@@ -13946,55 +13994,6 @@
       {
         "filename": "山の上の家事学校_review.md",
         "score": 0.1521,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "少弐　民に捧げた三百六十年",
-    "author": "帚木蓬生",
-    "date": "2026-02-15",
-    "created_at": "2026-02-15T19:49:10.370704",
-    "filename": "帚木蓬生-少弐　民に捧げた三百六十年_review.md",
-    "image": "images/reviews/帚木蓬生-少弐　民に捧げた三百六十年_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "category": "文学・評論",
-    "categories": [
-      "文学・評論",
-      "小説・文芸",
-      "日本の小説・文芸"
-    ],
-    "author_roles": {
-      "帚木蓬生": "著"
-    },
-    "related": [
-      {
-        "filename": "飯嶋和一-南海王国記_review.md",
-        "score": 0.5402,
-        "method": "hybrid"
-      },
-      {
-        "filename": "双頭の鷲（上下）合本版（新潮文庫）_review.md",
-        "score": 0.5042,
-        "method": "hybrid"
-      },
-      {
-        "filename": "早見和真-ザ・ロイヤルファミリー（新潮文庫）_review.md",
-        "score": 0.4987,
-        "method": "hybrid"
-      },
-      {
-        "filename": "釣り侍_review.md",
-        "score": 0.4956,
-        "method": "hybrid"
-      },
-      {
-        "filename": "相場英雄-ブラックスワン_review.md",
-        "score": 0.4825,
         "method": "hybrid"
       }
     ]
