@@ -1,27 +1,23 @@
 ### Panel 1
-**Scene**: At dusk in a lively Edo marketplace, the young townsgirl strolls past stalls where craftsmen hammer iron tools. She stops before a merchant displaying a faintly glowing glass bead under a paper lantern, her eyes filled with curiosity about this strange light.  
-**Dialogue**: “Something brighter than iron moves the world?”
+**Scene**: The townsgirl strolls through the lively Edo marketplace at dusk, surrounded by the sounds of merchants calling out their prices. She stops to admire a lantern-lit signboard that advertises “new world trade routes,” pondering how invisible “knowledge” can influence the destinies of nations. The background features wooden stalls, glowing paper lanterns, and the faint silhouettes of ships in the distance.
+**Dialogue**: "How can unseen knowledge shape the fate of nations?"
 
 ### Panel 2
-**Scene**: In her candlelit study, the townsgirl studies a Dutch mechanical diagram beside a scroll marked “Rangaku Text.” On the wall hang imagined portraits of two mentor spirits: a calm Western scholar with thoughtful eyes and a gentle Japanese translator. They seem to guide her, pointing toward a drawing of intricate circuits—an early vision of a “silicon brain.”  
-**Dialogue**: *(none)*
+**Scene**: In her candle-lit study, the townsgirl is engrossed in a mysterious imported book about “tiny sand-like circuits.” Behind her, two imagined scholars emerge as mentors: one is a calm-eyed foreign man in scholarly robes, and the other is a serious Japanese scholar with tied-up hair. They appear as ghostly figures in the candle smoke, helping her grasp how unseen devices influence the world.
+**Dialogue**: "These scholars guide me... What secrets do they hold?"
 
 ### Panel 3
-**Scene**: In a temple courtyard, she experiments with abacus beads and polished glass lenses arranged like a chip. Her friends watch in awe as reflected light swirls like flowing energy. The brushwork conveys motion and excitement.  
-**Dialogue**: “The path of wisdom lies where arithmetic meets light!”
+**Scene**: The townsgirl constructs a small abacus-like device using beads and copper threads, experimenting with “information flow.” As she makes adjustments, the device emits a faint glow, startling a nearby cat. She realizes that even without fire or gunpowder, mastery over “calculation” can sway nations — a playful yet profound realization. The artwork features dynamic diagonal brushstrokes to convey energy and enlightenment.
+**Dialogue**: "Could this little device really change the world?"
 
 ### Panel 4
-**Scene**: Night deepens. Sitting by the window, brush in hand, the townsgirl gazes at the moon glowing like a wafer. On a small tanzaku slip, she writes a waka poem that captures the spirit of her discovery.  
-**Dialogue**: *(none)*  
-**Tanka (translation)**:  
-In the land of silicon,  
-surpassing iron’s might,  
-the world is bound together—  
-in unseen battles,  
-wisdom shines bright.  
-**Tanka (original)**:  
-硅(けい)の国　  
-鉄を凌ぎて　  
-世を繋ぐ　  
-見えぬいくさの　  
-知恵ぞ輝く  
+**Scene**: The townsgirl sits by the window, illuminated by moonlight, with a brush in hand as she composes a waka on a hanging scroll. Her expression is calm and determined. The short poem, written vertically on the scroll, reflects her thoughts on the power of calculation.
+**Tanka (translation)**: "The unseen core moves nations,  
+Through sandy paths,  
+The power of calculation  
+Can even control the wind."
+**Tanka (original)**: 「見えぬ芯  
+　国を動かす  
+　砂の道  
+　算の力は  
+　風をも制す」
