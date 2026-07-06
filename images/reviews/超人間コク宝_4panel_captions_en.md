@@ -1,23 +1,21 @@
 ### Panel 1
-**Scene**: In a lively Edo street, the townsgirl observes a crowd of townsfolk gossiping around a street performer, who is being ridiculed for his unusual art. She tilts her head, sensing the conflicting feelings of admiration and mockery in the air. The background features wooden storefronts and paper lanterns, creating a curious yet uneasy atmosphere.
+**Scene**: The townsgirl walks through a bustling Edo street, where townspeople gossip about a famous actor's scandal, their faces showing judgment and curiosity. She pauses, feeling uneasy about how easily people praise or condemn others. The background is filled with busy shops and hanging lanterns, illustrating the contrast between prosperity and emptiness.
 **Dialogue**: None
 
 ### Panel 2
-**Scene**: Inside a candle-lit study, the townsgirl studies a Dutch manuscript and essays on human nature. A hanging scroll depicts a wise, slightly disheveled man with kind eyes and a calm yet sharp expression, resembling the imagined likeness of author Yoshida Go. His presence conveys a sense of quiet observation, as if he is listening to unseen voices.
-**Dialogue**: “To listen is to reveal truth.”
+**Scene**: In her small study, the townsgirl opens a Dutch-styled philosophical book. From its pages, a mysterious portrait emerges—a calm, intelligent man in his fifties with short, slightly tousled black hair, glasses, and a thoughtful expression. He resembles her imagined “teacher from afar,” Yoshida Go, as he speaks gently about how the environment shapes the heart, his tone both analytical and compassionate.
+**Dialogue**: None
 
 ### Panel 3
-**Scene**: At the riverbank during dusk, the townsgirl addresses a group of townsfolk who are arguing about a rumor spreading in the marketplace. Drawing on her knowledge, she calmly explains how fear and misunderstanding fuel cruelty. Her words flow like water, bringing silence to the crowd. A stray cat pauses mid-meow, surprised by her reasoning.
+**Scene**: The townsgirl watches her neighbors argue about who deserves respect—one boasting of lineage, the other flaunting wealth. Suddenly, she uses her abacus and chalk to draw circles and lines on the ground, explaining that “value” cannot be measured by fame or wealth alone. The crowd falls silent, surprised by her insight, while even a stray cat nods in agreement.
 **Dialogue**: None
 
 ### Panel 4
-**Scene**: In the night, the townsgirl kneels by the lamplight, poised to write on rice paper with her brush. Her eyes reflect both sorrow and determination. She writes a tanka that encapsulates the book’s message about the coexistence of freedom, responsibility, and empathy in a judgmental world.
+**Scene**: Night falls, and the townsgirl sits by lamplight, brush in hand, composing a waka on a small tanzaku. Her face is serene yet reflective, embodying the essence of what she has learned.
 **Dialogue**: None  
-**Tanka (translation)**: Standing with light, embracing shadows, humans endure;  
-Listening to the voiceless,  
-Let us become ears.  
-**Tanka (original)**: 光ある  
-影をも抱いて  
-人は立つ  
-声なき声を  
-聞く耳となれ  
+**Tanka (translation)**: Chasing after names, the heart becomes a shadow; knowing light and darkness as one.  
+**Tanka (original)**: 名を追えば  
+こころは影と  
+なりにけり  
+光と闇を  
+ひとつとぞ知る  
