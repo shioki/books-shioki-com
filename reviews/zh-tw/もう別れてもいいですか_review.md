@@ -20,8 +20,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: もう別れてもいいですか  
 - **作者**: 垣谷美雨  
-- **ASIN**: B09PB8SG5R  
-- **URL**: [https://www.amazon.co.jp/dp/B09PB8SG5R](https://www.amazon.co.jp/dp/B09PB8SG5R)  
+- **ASIN**: B0DK8SZXVQ  
+- **URL**: [https://www.amazon.co.jp/dp/B0DK8SZXVQ](https://www.amazon.co.jp/dp/B0DK8SZXVQ)  
 
 ---
 

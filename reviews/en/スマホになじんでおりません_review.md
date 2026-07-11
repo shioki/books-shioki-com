@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: スマホになじんでおりません  
 - **Author**: 群 ようこ  
-- **ASIN**: B0B5GMRVSB  
-- **URL**: [https://www.amazon.co.jp/dp/B0B5GMRVSB](https://www.amazon.co.jp/dp/B0B5GMRVSB)  
+- **ASIN**: B0FNLRBYQY  
+- **URL**: [https://www.amazon.co.jp/dp/B0FNLRBYQY](https://www.amazon.co.jp/dp/B0FNLRBYQY)  
 
 ---
 

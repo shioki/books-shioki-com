@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: ナポレオン　１　台頭篇  
 - **Author**: 佐藤賢一  
-- **ASIN**: B07VSZPK45  
-- **URL**: [https://www.amazon.co.jp/dp/B07VSZPK45](https://www.amazon.co.jp/dp/B07VSZPK45)  
+- **ASIN**: B0B873SBCS  
+- **URL**: [https://www.amazon.co.jp/dp/B0B873SBCS](https://www.amazon.co.jp/dp/B0B873SBCS)  
 
 ---
 

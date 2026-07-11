@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 少弐　民に捧げた三百六十年  
 - **Author**: 帚木蓬生  
-- **ASIN**: B0FX2MKJ1M  
-- **URL**: [https://www.amazon.co.jp/dp/B0FX2MKJ1M](https://www.amazon.co.jp/dp/B0FX2MKJ1M)  
+- **ASIN**: 4065408830  
+- **URL**: [https://www.amazon.co.jp/dp/4065408830](https://www.amazon.co.jp/dp/4065408830)  
 
 ---
 

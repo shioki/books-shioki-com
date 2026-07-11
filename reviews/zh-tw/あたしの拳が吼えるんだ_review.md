@@ -20,8 +20,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: あたしの拳が吼えるんだ  
 - **作者**: 山本幸久  
-- **ASIN**: B084SBM2G7  
-- **URL**: [https://www.amazon.co.jp/dp/B084SBM2G7](https://www.amazon.co.jp/dp/B084SBM2G7)  
+- **ASIN**: B0BS9SZMNV  
+- **URL**: [https://www.amazon.co.jp/dp/B0BS9SZMNV](https://www.amazon.co.jp/dp/B0BS9SZMNV)  
 
 ---
 

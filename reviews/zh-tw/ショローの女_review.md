@@ -20,8 +20,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: ショローの女  
 - **作者**: 伊藤比呂美  
-- **ASIN**: B097DJ3ZLS  
-- **網址**: [https://www.amazon.co.jp/dp/B097DJ3ZLS](https://www.amazon.co.jp/dp/B097DJ3ZLS)  
+- **ASIN**: B0D78NQHF7  
+- **網址**: [https://www.amazon.co.jp/dp/B0D78NQHF7](https://www.amazon.co.jp/dp/B0D78NQHF7)  
 
 ---
 

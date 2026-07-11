@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 心眼  
 - **Author**: 相場 英雄  
-- **ASIN**: B0C5CVXMB9  
-- **URL**: [https://www.amazon.co.jp/dp/B0C5CVXMB9](https://www.amazon.co.jp/dp/B0C5CVXMB9)  
+- **ASIN**: B0H2YDN7JX  
+- **URL**: [https://www.amazon.co.jp/dp/B0H2YDN7JX](https://www.amazon.co.jp/dp/B0H2YDN7JX)  
 
 ---
 

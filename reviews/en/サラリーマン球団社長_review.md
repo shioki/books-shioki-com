@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: サラリーマン球団社長  
 - **Author**: 清武 英利  
-- **ASIN**: B08GKQQFLQ  
-- **URL**: [https://www.amazon.co.jp/dp/B08GKQQFLQ](https://www.amazon.co.jp/dp/B08GKQQFLQ)  
+- **ASIN**: B0DTY8Q45K  
+- **URL**: [https://www.amazon.co.jp/dp/B0DTY8Q45K](https://www.amazon.co.jp/dp/B0DTY8Q45K)  
 
 ---
 

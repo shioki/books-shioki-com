@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: 私と街たち（ほぼ自伝）  
 - **Author**: 吉本ばなな  
-- **ASIN**: B0B41V26H8  
-- **URL**: [https://www.amazon.co.jp/dp/B0B41V26H8](https://www.amazon.co.jp/dp/B0B41V26H8)  
+- **ASIN**: B0FGHS9JPJ  
+- **URL**: [https://www.amazon.co.jp/dp/B0FGHS9JPJ](https://www.amazon.co.jp/dp/B0FGHS9JPJ)  
 
 ---
 

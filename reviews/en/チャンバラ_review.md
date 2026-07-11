@@ -18,8 +18,8 @@ og_type: article
 ## 📖 Book Information
 - **Title**: チャンバラ  
 - **Author**: 佐藤賢一  
-- **ASIN**: B0C9LM6KQ2  
-- **URL**: [https://www.amazon.co.jp/dp/B0C9LM6KQ2](https://www.amazon.co.jp/dp/B0C9LM6KQ2)  
+- **ASIN**: B0H28PQLQ5  
+- **URL**: [https://www.amazon.co.jp/dp/B0H28PQLQ5](https://www.amazon.co.jp/dp/B0H28PQLQ5)  
 
 ---
 

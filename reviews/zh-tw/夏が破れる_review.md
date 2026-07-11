@@ -20,8 +20,8 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: 夏が破れる  
 - **作者**: 新庄耕  
-- **ASIN**: B09YDFRB51  
-- **URL**: [https://www.amazon.co.jp/dp/B09YDFRB51](https://www.amazon.co.jp/dp/B09YDFRB51)  
+- **ASIN**: B0DV986YJB  
+- **URL**: [https://www.amazon.co.jp/dp/B0DV986YJB](https://www.amazon.co.jp/dp/B0DV986YJB)  
 
 ---
 
