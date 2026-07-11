@@ -1,5 +1,55 @@
 [
   {
+    "title": "心眼",
+    "author": "相場英雄",
+    "date": "2026-04-17",
+    "created_at": "2026-04-17T08:29:19.989220",
+    "filename": "心眼_review.md",
+    "image": "images/reviews/心眼_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "相場英雄": "著"
+    },
+    "related": [
+      {
+        "filename": "サーラレーオ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-11T10:17:26.913791"
+  },
+  {
     "title": "少弐　民に捧げた三百六十年",
     "author": "帚木蓬生",
     "date": "2026-02-15",
@@ -5928,55 +5978,6 @@
       {
         "filename": "日本の15歳はなぜ学力が高いのか？　５つの教育大国に学ぶ成功の秘密_review.md",
         "score": 0.3045,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "心眼",
-    "author": "相場英雄",
-    "date": "2026-04-17",
-    "created_at": "2026-04-17T08:29:19.989220",
-    "filename": "心眼_review.md",
-    "image": "images/reviews/心眼_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "文学・評論",
-      "小説・文芸",
-      "日本の小説・文芸"
-    ],
-    "category": "小説",
-    "author_roles": {
-      "相場英雄": "著"
-    },
-    "related": [
-      {
-        "filename": "チャンバラ_review.md",
-        "score": 0.4828,
-        "method": "hybrid"
-      },
-      {
-        "filename": "パシヨン_review.md",
-        "score": 0.4827,
-        "method": "hybrid"
-      },
-      {
-        "filename": "カイシャデイズ_review.md",
-        "score": 0.4681,
-        "method": "hybrid"
-      },
-      {
-        "filename": "水車小屋のネネ_review.md",
-        "score": 0.4661,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ＧＯ！ＧＯ！アリゲーターズ_review.md",
-        "score": 0.4639,
         "method": "hybrid"
       }
     ]

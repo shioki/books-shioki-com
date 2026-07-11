@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: 心眼  
 - **著者**: 相場 英雄  
-- **ASIN**: B0C5CVXMB9  
-- **URL**: [https://www.amazon.co.jp/dp/B0C5CVXMB9](https://www.amazon.co.jp/dp/B0C5CVXMB9)
+- **ASIN**: B0H2YDN7JX  
+- **URL**: [https://www.amazon.co.jp/dp/B0H2YDN7JX](https://www.amazon.co.jp/dp/B0H2YDN7JX)
+- **注記**: リンク先は実業之日本社文庫版 Kindle（旧単行本 ASIN: B0C5CVXMB9）。
 
 ---
 
