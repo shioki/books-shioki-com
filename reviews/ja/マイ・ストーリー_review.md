@@ -18,8 +18,10 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: マイ・ストーリー  
 - **著者**: ミシェル・オバマ, 長尾莉紗, and 柴田さとみ  
-- **ASIN**: B07WGL2G9N  
-- **URL**: [https://www.amazon.co.jp/dp/B07WGL2G9N](https://www.amazon.co.jp/dp/B07WGL2G9N)
+- **ASIN**: 4087861171  
+- **URL**: [https://www.amazon.co.jp/dp/4087861171](https://www.amazon.co.jp/dp/4087861171)  
+- **形式**: 紙の本（ハードカバー／Kindle版は現在なし）  
+- **注記**: 日本語 Kindle 版は現在なし。リンク先は紙のハードカバー。
 
 ---
 
