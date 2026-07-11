@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: もう別れてもいいですか  
 - **著者**: 垣谷美雨  
-- **ASIN**: B09PB8SG5R  
-- **URL**: [https://www.amazon.co.jp/dp/B09PB8SG5R](https://www.amazon.co.jp/dp/B09PB8SG5R)
+- **ASIN**: B0DK8SZXVQ  
+- **URL**: [https://www.amazon.co.jp/dp/B0DK8SZXVQ](https://www.amazon.co.jp/dp/B0DK8SZXVQ)
+- **注記**: リンク先は中公文庫版 Kindle（旧単行本 ASIN: B09PB8SG5R）。
 
 ---
 
