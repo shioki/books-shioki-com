@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: にぎやかな落日  
 - **著者**: 朝倉 かすみ  
-- **ASIN**: B0922F8QQ1  
-- **URL**: [https://www.amazon.co.jp/dp/B0922F8QQ1](https://www.amazon.co.jp/dp/B0922F8QQ1)
+- **ASIN**: B0CM37CC72  
+- **URL**: [https://www.amazon.co.jp/dp/B0CM37CC72](https://www.amazon.co.jp/dp/B0CM37CC72)
+- **注記**: リンク先は光文社文庫版 Kindle（旧単行本 ASIN: B0922F8QQ1）。
 
 ---
 
