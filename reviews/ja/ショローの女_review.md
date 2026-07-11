@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: ショローの女  
 - **著者**: 伊藤比呂美  
-- **ASIN**: B097DJ3ZLS  
-- **URL**: [https://www.amazon.co.jp/dp/B097DJ3ZLS](https://www.amazon.co.jp/dp/B097DJ3ZLS)
+- **ASIN**: B0D78NQHF7  
+- **URL**: [https://www.amazon.co.jp/dp/B0D78NQHF7](https://www.amazon.co.jp/dp/B0D78NQHF7)
+- **注記**: リンク先は中公文庫版 Kindle（旧単行本 ASIN: B097DJ3ZLS）。
 
 ---
 

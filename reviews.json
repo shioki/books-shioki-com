@@ -1,5 +1,55 @@
 [
   {
+    "title": "ショローの女",
+    "author": "伊藤比呂美",
+    "date": "2026-06-02",
+    "created_at": "2026-06-02T08:20:41.562859",
+    "filename": "ショローの女_review.md",
+    "image": "images/reviews/ショローの女_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "related": [
+      {
+        "filename": "転がる珠玉のように_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "山の上の家事学校_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "アンダークラス_review.md",
+        "score": 0.75,
+        "method": "meta"
+      },
+      {
+        "filename": "正欲_review.md",
+        "score": 0.75,
+        "method": "meta"
+      },
+      {
+        "filename": "自転しながら公転する_review.md",
+        "score": 0.75,
+        "method": "meta"
+      }
+    ],
+    "author_roles": {
+      "伊藤比呂美": "著"
+    },
+    "updated_at": "2026-07-11T10:16:56.287666"
+  },
+  {
     "title": "サラリーマン球団社長",
     "author": "清武 英利",
     "date": "2026-04-12",
@@ -2996,50 +3046,6 @@
       {
         "filename": "決定版 下村湖人全集 決定版日本文学全集_review.md",
         "score": 0.52,
-        "method": "meta"
-      }
-    ]
-  },
-  {
-    "title": "ショローの女",
-    "author": "伊藤比呂美",
-    "date": "2026-06-02",
-    "created_at": "2026-06-02T08:20:41.562859",
-    "filename": "ショローの女_review.md",
-    "image": "images/reviews/ショローの女_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "エッセイ・ノンフィクション"
-    ],
-    "category": "エッセイ・ノンフィクション",
-    "related": [
-      {
-        "filename": "マイ・ストーリー_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "熊本かわりばんこ_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "【電子合本版】約束の地　大統領回顧録１ 上下_review.md",
-        "score": 1.0,
         "method": "meta"
       }
     ]
