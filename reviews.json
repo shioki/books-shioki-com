@@ -1,5 +1,55 @@
 [
   {
+    "title": "破夏",
+    "author": "新庄耕",
+    "date": "2026-04-15",
+    "created_at": "2026-04-15T08:36:53.297127",
+    "filename": "夏が破れる_review.md",
+    "image": "images/reviews/夏が破れる_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "related": [
+      {
+        "filename": "サーラレーオ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "author_roles": {
+      "新庄耕": "著"
+    },
+    "updated_at": "2026-07-11T10:17:18.626736"
+  },
+  {
     "title": "マイ・ストーリー",
     "author": "ミシェル・オバマ, 長尾莉紗, and 柴田さとみ",
     "date": "2026-04-26",
@@ -6425,50 +6475,6 @@
       {
         "filename": "心眼_review.md",
         "score": 0.4489,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "夏が破れる",
-    "author": "新庄耕",
-    "date": "2026-04-15",
-    "created_at": "2026-04-15T08:36:53.297127",
-    "filename": "夏が破れる_review.md",
-    "image": "images/reviews/夏が破れる_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "小説"
-    ],
-    "category": "小説",
-    "related": [
-      {
-        "filename": "最終飛行_review.md",
-        "score": 0.4751,
-        "method": "hybrid"
-      },
-      {
-        "filename": "サンセット・パーク_review.md",
-        "score": 0.4707,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ナポレオン　３　転落篇_review.md",
-        "score": 0.4672,
-        "method": "hybrid"
-      },
-      {
-        "filename": "光のとこにいてね_review.md",
-        "score": 0.4542,
-        "method": "hybrid"
-      },
-      {
-        "filename": "ナポレオン　１　台頭篇_review.md",
-        "score": 0.44,
         "method": "hybrid"
       }
     ]
