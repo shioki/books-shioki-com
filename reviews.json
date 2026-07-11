@@ -1,5 +1,56 @@
 [
   {
+    "title": "スマホになじんでおりません",
+    "author": "群 ようこ",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T10:28:41.795309",
+    "filename": "スマホになじんでおりません_review.md",
+    "image": "images/reviews/スマホになじんでおりません_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "related": [
+      {
+        "filename": "大盛り！　さだおの丸かじり　とりあえず麵で よりぬき丸かじり_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "むしろ、考える家事【電子特典付き】_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "“よむ”お酒_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "終活やーめた。　元祖バッシングの女王の「ピンチを福に転じる」思考法_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "みなさんのおかげです　木梨憲武自伝_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "author_roles": {
+      "群 ようこ": "著"
+    },
+    "updated_at": "2026-07-11T10:17:00.653065"
+  },
+  {
     "title": "ショローの女",
     "author": "伊藤比呂美",
     "date": "2026-06-02",
@@ -1829,50 +1880,6 @@
       },
       {
         "filename": "70歳、これからは湯豆腐――私の方丈記_review.md",
-        "score": 1.0,
-        "method": "meta"
-      }
-    ]
-  },
-  {
-    "title": "スマホになじんでおりません",
-    "author": "群 ようこ",
-    "date": "2026-06-21",
-    "created_at": "2026-06-21T10:28:41.795309",
-    "filename": "スマホになじんでおりません_review.md",
-    "image": "images/reviews/スマホになじんでおりません_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "エッセイ・ノンフィクション"
-    ],
-    "category": "エッセイ・ノンフィクション",
-    "related": [
-      {
-        "filename": "私と街たち（ほぼ自伝）_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "ショローの女_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "マイ・ストーリー_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "熊本かわりばんこ_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
         "score": 1.0,
         "method": "meta"
       }

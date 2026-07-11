@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: スマホになじんでおりません  
 - **著者**: 群 ようこ  
-- **ASIN**: B0B5GMRVSB  
-- **URL**: [https://www.amazon.co.jp/dp/B0B5GMRVSB](https://www.amazon.co.jp/dp/B0B5GMRVSB)
+- **ASIN**: B0FNLRBYQY  
+- **URL**: [https://www.amazon.co.jp/dp/B0FNLRBYQY](https://www.amazon.co.jp/dp/B0FNLRBYQY)
+- **注記**: リンク先は文春文庫版 Kindle（旧単行本 ASIN: B0B5GMRVSB）。
 
 ---
 
