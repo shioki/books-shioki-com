@@ -1,5 +1,55 @@
 [
   {
+    "title": "チャンバラ",
+    "author": "佐藤賢一",
+    "date": "2026-04-16",
+    "created_at": "2026-04-16T08:27:54.701431",
+    "filename": "チャンバラ_review.md",
+    "image": "images/reviews/チャンバラ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "佐藤賢一": "著"
+    },
+    "related": [
+      {
+        "filename": "サーラレーオ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "updated_at": "2026-07-11T10:17:04.861540"
+  },
+  {
     "title": "スマホになじんでおりません",
     "author": "群 ようこ",
     "date": "2026-06-21",
@@ -6163,55 +6213,6 @@
       {
         "filename": "誰でもできるのにほとんどの人がやっていない 科学の力で元気になる38のコツ_review.md",
         "score": 0.3292,
-        "method": "hybrid"
-      }
-    ]
-  },
-  {
-    "title": "チャンバラ",
-    "author": "佐藤賢一",
-    "date": "2026-04-16",
-    "created_at": "2026-04-16T08:27:54.701431",
-    "filename": "チャンバラ_review.md",
-    "image": "images/reviews/チャンバラ_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "文学・評論",
-      "小説・文芸",
-      "日本の小説・文芸"
-    ],
-    "category": "小説",
-    "author_roles": {
-      "佐藤賢一": "著"
-    },
-    "related": [
-      {
-        "filename": "パシヨン_review.md",
-        "score": 0.4996,
-        "method": "hybrid"
-      },
-      {
-        "filename": "そして、バトンは渡された_review.md",
-        "score": 0.4936,
-        "method": "hybrid"
-      },
-      {
-        "filename": "風に立つ_review.md",
-        "score": 0.4856,
-        "method": "hybrid"
-      },
-      {
-        "filename": "街とその不確かな壁_review.md",
-        "score": 0.4835,
-        "method": "hybrid"
-      },
-      {
-        "filename": "心眼_review.md",
-        "score": 0.4828,
         "method": "hybrid"
       }
     ]

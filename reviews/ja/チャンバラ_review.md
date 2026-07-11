@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: チャンバラ  
 - **著者**: 佐藤賢一  
-- **ASIN**: B0C9LM6KQ2  
-- **URL**: [https://www.amazon.co.jp/dp/B0C9LM6KQ2](https://www.amazon.co.jp/dp/B0C9LM6KQ2)
+- **ASIN**: B0H28PQLQ5  
+- **URL**: [https://www.amazon.co.jp/dp/B0H28PQLQ5](https://www.amazon.co.jp/dp/B0H28PQLQ5)
+- **注記**: リンク先は中公文庫版 Kindle（旧単行本 ASIN: B0C9LM6KQ2）。
 
 ---
 
