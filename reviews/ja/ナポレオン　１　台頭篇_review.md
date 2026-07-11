@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: ナポレオン　１　台頭篇  
 - **著者**: 佐藤賢一  
-- **ASIN**: B07VSZPK45  
-- **URL**: [https://www.amazon.co.jp/dp/B07VSZPK45](https://www.amazon.co.jp/dp/B07VSZPK45)
+- **ASIN**: B0B873SBCS  
+- **URL**: [https://www.amazon.co.jp/dp/B0B873SBCS](https://www.amazon.co.jp/dp/B0B873SBCS)
+- **注記**: リンク先は集英社文庫版 Kindle（旧単行本 ASIN: B07VSZPK45）。
 
 ---
 
