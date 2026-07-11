@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: ＡＩ監獄ウイグル  
 - **著者**: ジェフリー・ケイン and 濱野大道  
-- **ASIN**: B09NY13LH3  
-- **URL**: [https://www.amazon.co.jp/dp/B09NY13LH3](https://www.amazon.co.jp/dp/B09NY13LH3)
+- **ASIN**: B0CVZ7F42B  
+- **URL**: [https://www.amazon.co.jp/dp/B0CVZ7F42B](https://www.amazon.co.jp/dp/B0CVZ7F42B)
+- **注記**: リンク先は新潮文庫版 Kindle（旧単行本 ASIN: B09NY13LH3）。
 
 ---
 
