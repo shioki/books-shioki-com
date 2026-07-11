@@ -1,5 +1,55 @@
 [
   {
+    "title": "あたしとママのファイトな日常",
+    "author": "山本幸久",
+    "date": "2026-05-19",
+    "created_at": "2026-05-19T08:30:52.715539",
+    "filename": "あたしの拳が吼えるんだ_review.md",
+    "image": "images/reviews/あたしの拳が吼えるんだ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "小説",
+    "related": [
+      {
+        "filename": "サーラレーオ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ガラパゴス 上_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ぜにざむらい_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "信長の遺書　～マキアヴェリ　チェーザレ・ボルジア御留書～_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "大江健三郎全小説　第３巻_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "author_roles": {
+      "山本幸久": "著"
+    },
+    "updated_at": "2026-07-11T10:16:34.297735"
+  },
+  {
     "title": "超人間コク宝",
     "author": "吉田豪",
     "date": "2026-06-02",
@@ -2891,50 +2941,6 @@
       {
         "filename": "ふたつの日本　「移民国家」の建前と現実_review.md",
         "score": 0.72,
-        "method": "meta"
-      }
-    ]
-  },
-  {
-    "title": "あたしの拳が吼えるんだ",
-    "author": "山本幸久",
-    "date": "2026-05-19",
-    "created_at": "2026-05-19T08:30:52.715539",
-    "filename": "あたしの拳が吼えるんだ_review.md",
-    "image": "images/reviews/あたしの拳が吼えるんだ_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "小説"
-    ],
-    "category": "小説",
-    "related": [
-      {
-        "filename": "にぎやかな落日_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "夏が破れる_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "ナポレオン　１　台頭篇_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "最終飛行_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "サンセット・パーク_review.md",
-        "score": 1.0,
         "method": "meta"
       }
     ]
