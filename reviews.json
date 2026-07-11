@@ -1,5 +1,56 @@
 [
   {
+    "title": "私と街たち（ほぼ自伝）",
+    "author": "吉本ばなな",
+    "date": "2026-06-02",
+    "created_at": "2026-06-02T08:20:52.483492",
+    "filename": "私と街たち（ほぼ自伝）_review.md",
+    "image": "images/reviews/私と街たち（ほぼ自伝）_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "エッセー・随筆",
+      "日本のエッセー・随筆",
+      "近現代の作品"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "related": [
+      {
+        "filename": "大盛り！　さだおの丸かじり　とりあえず麵で よりぬき丸かじり_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "むしろ、考える家事【電子特典付き】_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "“よむ”お酒_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "スマホになじんでおりません_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "終活やーめた。　元祖バッシングの女王の「ピンチを福に転じる」思考法_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ],
+    "author_roles": {
+      "吉本ばなな": "著"
+    },
+    "updated_at": "2026-07-11T10:17:31.372976"
+  },
+  {
     "title": "心眼",
     "author": "相場英雄",
     "date": "2026-04-17",
@@ -3211,50 +3262,6 @@
       {
         "filename": "4 3 2 1_review.md",
         "score": 0.7867,
-        "method": "meta"
-      }
-    ]
-  },
-  {
-    "title": "私と街たち（ほぼ自伝）",
-    "author": "吉本ばなな",
-    "date": "2026-06-02",
-    "created_at": "2026-06-02T08:20:52.483492",
-    "filename": "私と街たち（ほぼ自伝）_review.md",
-    "image": "images/reviews/私と街たち（ほぼ自伝）_4panel.png",
-    "languages": [
-      "ja",
-      "en",
-      "zh-tw"
-    ],
-    "categories": [
-      "エッセイ・ノンフィクション"
-    ],
-    "category": "エッセイ・ノンフィクション",
-    "related": [
-      {
-        "filename": "ショローの女_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "マイ・ストーリー_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "熊本かわりばんこ_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
-        "score": 1.0,
-        "method": "meta"
-      },
-      {
-        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
-        "score": 1.0,
         "method": "meta"
       }
     ]
