@@ -18,8 +18,10 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: 少弐　民に捧げた三百六十年  
 - **著者**: 帚木蓬生  
-- **ASIN**: B0FX2MKJ1M  
-- **URL**: [https://www.amazon.co.jp/dp/B0FX2MKJ1M](https://www.amazon.co.jp/dp/B0FX2MKJ1M)
+- **ASIN**: 4065408830  
+- **URL**: [https://www.amazon.co.jp/dp/4065408830](https://www.amazon.co.jp/dp/4065408830)  
+- **形式**: 紙の本（販売中止・回収／中古出品が残る場合あり）  
+- **注記**: 講談社が販売中止・回収（2026年）。新品の正規流通は終了。Amazon 上は中古等の出品が残る場合あり。リンク先は紙版カタログ。
 
 ---
 
