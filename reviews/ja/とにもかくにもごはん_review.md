@@ -18,8 +18,9 @@ og_type: article
 ## 📖 書籍情報
 - **タイトル**: とにもかくにもごはん  
 - **著者**: 小野寺史宜  
-- **ASIN**: B09BN9KX33  
-- **URL**: [https://www.amazon.co.jp/dp/B09BN9KX33](https://www.amazon.co.jp/dp/B09BN9KX33)
+- **ASIN**: B0CGWMBQK6  
+- **URL**: [https://www.amazon.co.jp/dp/B0CGWMBQK6](https://www.amazon.co.jp/dp/B0CGWMBQK6)
+- **注記**: リンク先は講談社文庫版 Kindle（旧単行本 ASIN: B09BN9KX33）。
 
 ---
 
