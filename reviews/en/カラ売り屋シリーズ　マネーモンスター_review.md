@@ -18,9 +18,12 @@ og_type: article
 ## 📖 Book Information
 - **Title**: カラ売り屋シリーズ　マネーモンスター  
 - **Author**: 黒木亮  
-- **ASIN**: B0CW1N4D25  
-- **URL**: [https://www.amazon.co.jp/dp/B0CW1N4D25](https://www.amazon.co.jp/dp/B0CW1N4D25)  
+- **ASIN**: 4344042425  
+- **URL**: [https://www.amazon.co.jp/dp/4344042425](https://www.amazon.co.jp/dp/4344042425)  
 
+
+- **Format**: Print edition (Kindle edition currently unavailable)  
+- **Note**: Former Kindle ASIN B0CW1N4D25 discontinued. Link points to Gentosha print edition.  
 ---
 
 <picture>

@@ -20,9 +20,12 @@ og_type: article
 ## 📖 書籍資訊
 - **標題**: カラ売り屋シリーズ　マネーモンスター  
 - **作者**: 黒木亮  
-- **ASIN**: B0CW1N4D25  
-- **URL**: [https://www.amazon.co.jp/dp/B0CW1N4D25](https://www.amazon.co.jp/dp/B0CW1N4D25)  
+- **ASIN**: 4344042425  
+- **URL**: [https://www.amazon.co.jp/dp/4344042425](https://www.amazon.co.jp/dp/4344042425)  
 
+
+- **形式**: 紙本書（單行本／目前無 Kindle 版）  
+- **備註**: 舊 Kindle ASIN B0CW1N4D25 已停止提供。連結為幻冬舎單行本。  
 ---
 
 <picture>
