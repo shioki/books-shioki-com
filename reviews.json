@@ -1,5 +1,55 @@
 [
   {
+    "title": "バイブコーディング　生成AI→チャット→エージェントによる「本番品質のソフトウェア」の未来",
+    "author": "ジーン・キム, スティーブ・イェギ, and 長尾 高弘",
+    "date": "2026-07-25",
+    "created_at": "2026-07-25T12:03:45.039108",
+    "filename": "バイブコーディング　生成AI→チャット→エージェントによる「本番品質のソフトウェア」の未来_review.md",
+    "image": "images/reviews/バイブコーディング　生成AI→チャット→エージェントによる「本番品質のソフトウェア」の未来_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "科学・テクノロジー",
+      "工学"
+    ],
+    "category": "技術・サイエンス",
+    "author_roles": {
+      "ジーン・キム": "著",
+      "スティーブ・イェギ": "著",
+      "長尾 高弘": "翻訳"
+    },
+    "related": [
+      {
+        "filename": "日本史サイエンス〈弐〉　邪馬台国、秀吉の朝鮮出兵、日本海海戦の謎を解く_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "演習で身につく要件定義の実践テクニック_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "GitHub実践入門　チーム開発を成功に導くためのブランチ戦略とコードレビュー 技術の泉シリーズ_review.md",
+        "score": 0.6667,
+        "method": "meta"
+      },
+      {
+        "filename": "数学思考のエッセンス――実装するための12講_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "SEの悲鳴 ITエンジニアを食い物にする多重下請け構造の闇_review.md",
+        "score": 0.5,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "夏帆―The Tale of KAHO―",
     "author": "村上春樹",
     "date": "2026-07-25",
