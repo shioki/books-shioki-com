@@ -14,7 +14,8 @@
     { href: '/shelves.html',      ja: 'テーマ棚',         en: 'Shelves',    'zh-tw': '主題書架' },
     { href: '/dashboard.html',    ja: 'データ',           en: 'Dashboard',  'zh-tw': '數據' },
     { href: '/graph.html',        ja: '関係図',           en: 'Graph',      'zh-tw': '關係圖' },
-    { href: '/okiwa-profile.html', ja: 'キャラ紹介',      en: 'Character',  'zh-tw': '角色介紹' }
+    { href: '/okiwa-profile.html', ja: 'キャラ紹介',      en: 'Character',  'zh-tw': '角色介紹' },
+    { href: '/rss.xml',            ja: 'RSS',             en: 'RSS',        'zh-tw': 'RSS' }
   ];
 
   function getLang() {

@@ -15,6 +15,7 @@
     {% assign canonical = page.url | absolute_url %}
   {% endif %}
   <link rel="canonical" href="{{ canonical | xml_escape }}">
+  <link rel="alternate" type="application/rss+xml" title="Books Portfolio | shioki" href="{{ '/rss.xml' | absolute_url }}">
   <meta property="og:title" content="{{ og_title | xml_escape }}">
   {% if og_desc != '' %}
   <meta property="og:description" content="{{ og_desc | xml_escape }}">
@@ -69,6 +70,7 @@
     <a href="{{ '/dashboard.html' | relative_url }}" class="nav-link">データ</a>
     <a href="{{ '/graph.html' | relative_url }}" class="nav-link">関係図</a>
     <a href="{{ '/okiwa-profile.html' | relative_url }}" class="nav-link">キャラクター紹介</a>
+    <a href="{{ '/rss.xml' | relative_url }}" class="nav-link">RSS</a>
   </nav>
 
   <main class="page-container">
@@ -79,7 +81,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; <span id="current-year"></span> <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a> &middot; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a></p>
+    <p>&copy; <span id="current-year"></span> <a href="https://github.com/shioki" target="_blank" rel="noopener noreferrer">shioki</a> &middot; <a href="{{ '/rss.xml' | relative_url }}">RSS</a> &middot; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a></p>
   </footer>
 
   <script>
