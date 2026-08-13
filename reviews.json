@@ -1,5 +1,55 @@
 [
   {
+    "title": "マンガでやさしくわかるアドラー心理学",
+    "author": "岩井俊憲, 深森あき, and 星井博文",
+    "date": "2026-08-14",
+    "created_at": "2026-08-14T08:38:50.240140",
+    "filename": "マンガでやさしくわかるアドラー心理学_review.md",
+    "image": "images/reviews/マンガでやさしくわかるアドラー心理学_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "コミック・ラノベ・BL",
+      "コミック"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "岩井俊憲": "著",
+      "深森あき": "著",
+      "星井博文": "その他"
+    },
+    "related": [
+      {
+        "filename": "熊本かわりばんこ_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "超約ヨーロッパの歴史【mobi_リフロー版】_review.md",
+        "score": 0.4533,
+        "method": "meta"
+      },
+      {
+        "filename": "隠居生活10年目 不安は９割捨てました_review.md",
+        "score": 0.37,
+        "method": "meta"
+      },
+      {
+        "filename": "書くことについて_review.md",
+        "score": 0.37,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "世界史の名将たちの「戦略と戦術」　この社会で賢く生きる方法は歴史が教えてくれる",
     "author": "神野 正史",
     "date": "2026-08-14",
