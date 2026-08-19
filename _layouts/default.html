@@ -20,6 +20,10 @@
   {% endif %}
   <link rel="canonical" href="{{ canonical | xml_escape }}">
   <link rel="alternate" type="application/rss+xml" title="Books Portfolio | shioki" href="{{ '/rss.xml' | absolute_url }}">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
   <meta property="og:title" content="{{ og_title | xml_escape }}">
   {% if og_desc != '' %}
   <meta property="og:description" content="{{ og_desc | xml_escape }}">
