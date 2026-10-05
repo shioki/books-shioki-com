@@ -1,5 +1,56 @@
 [
   {
+    "title": "マンガでやさしくわかるレジリエンス",
+    "author": "久世浩司, 松尾陽子, and 朝戸ころも",
+    "date": "2026-10-06",
+    "created_at": "2026-10-06T08:25:21.718731",
+    "filename": "マンガでやさしくわかるレジリエンス_review.md",
+    "image": "images/reviews/マンガでやさしくわかるレジリエンス_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "人文・思想",
+      "心理学",
+      "心理学入門"
+    ],
+    "category": "エッセイ・ノンフィクション",
+    "author_roles": {
+      "久世浩司": "著",
+      "松尾陽子": "著",
+      "朝戸ころも": "著"
+    },
+    "related": [
+      {
+        "filename": "マンガでやさしくわかるアンガーマネジメント_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "思考は文字化すると現実化する_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "一人になりたい男、話を聞いてほしい女_review.md",
+        "score": 0.6,
+        "method": "meta"
+      },
+      {
+        "filename": "発達系女子とモラハラ男_review.md",
+        "score": 0.6,
+        "method": "meta"
+      },
+      {
+        "filename": "幸福学の先生に、聞きづらいことぜんぶ聞く_review.md",
+        "score": 0.6,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "マンガでやさしくわかるアンガーマネジメント",
     "author": "戸田久美, 葛城かえで, and 柾朱鷺",
     "date": "2026-10-06",
