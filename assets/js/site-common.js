@@ -46,6 +46,7 @@
     'ノンフィクション':     { en: 'Nonfiction',         'zh-tw': '非虛構' },
     '評論・文学研究':       { en: 'Criticism & Literary Studies', 'zh-tw': '評論與文學研究' },
     '外国文学研究':         { en: 'Foreign Literature Studies', 'zh-tw': '外國文學研究' },
+    '日本文学研究':         { en: 'Japanese Literature Studies', 'zh-tw': '日本文學研究' },
     '英米文学':             { en: 'British & American Literature', 'zh-tw': '英美文學' },
     'その他の外国文学':     { en: 'Other Foreign Literature', 'zh-tw': '其他外國文學' },
     'イギリス・アメリカ':   { en: 'UK & America',       'zh-tw': '英國與美國' },
@@ -123,7 +124,7 @@
     {
       id: 'literature',
       labels: { ja: '文学の名作', en: 'Great Literature', 'zh-tw': '文學名作' },
-      cats: ['文学・評論', '小説・文芸', '日本の小説・文芸', '外国文学研究', '近現代の作品', '評論・文学研究', '英米文学', '英米の小説・文芸', 'その他の外国文学', '小説', 'イギリス・アメリカ', 'コミック・ラノベ・BL', 'コミック']
+      cats: ['文学・評論', '小説・文芸', '日本の小説・文芸', '外国文学研究', '日本文学研究', '近現代の作品', '評論・文学研究', '英米文学', '英米の小説・文芸', 'その他の外国文学', '小説', 'イギリス・アメリカ', 'コミック・ラノベ・BL', 'コミック']
     },
     {
       id: 'society',
