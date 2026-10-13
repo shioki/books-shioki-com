@@ -1,5 +1,54 @@
 [
   {
+    "title": "春までのセンセイ",
+    "author": "早見和真",
+    "date": "2026-10-14",
+    "created_at": "2026-10-14T08:20:27.536478",
+    "filename": "春までのセンセイ_review.md",
+    "image": "images/reviews/春までのセンセイ_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "評論・文学研究",
+      "日本文学研究"
+    ],
+    "category": "小説",
+    "author_roles": {
+      "早見和真": "著"
+    },
+    "related": [
+      {
+        "filename": "ダルタニャン物語９　三つの恋の物語_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語２ 妖婦ミレディーの秘密_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語８ 華麗なる饗宴_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "若草物語　１＆２_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "ダルタニャン物語７ ノートル・ダムの居酒屋_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "このロボで、行けるところまで行くしかないのだ。",
     "author": "スズキナオ",
     "date": "2026-10-06",
