@@ -1,5 +1,54 @@
 [
   {
+    "title": "令和元年生まれ　ルリカ50歳",
+    "author": "王谷晶",
+    "date": "2026-10-20",
+    "created_at": "2026-10-20T08:18:48.465542",
+    "filename": "令和元年生まれ　ルリカ50歳_review.md",
+    "image": "images/reviews/令和元年生まれ　ルリカ50歳_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "文学・評論",
+      "小説・文芸",
+      "日本の小説・文芸"
+    ],
+    "category": "社会・思想",
+    "author_roles": {
+      "王谷晶": "著"
+    },
+    "related": [
+      {
+        "filename": "東京四次元紀行_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "一滴の沈黙_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "再雇用警察官_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "月下のサクラ_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "血の雫_review.md",
+        "score": 1.0,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "小説 ヒトラー　I　戦後篇",
     "author": "佐藤賢一",
     "date": "2026-10-14",
