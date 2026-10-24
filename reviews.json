@@ -1,5 +1,52 @@
 [
   {
+    "title": "全部、AIに丸投げした。―気づいたら、24歳で海外ホテル暮らしの経営者になっていた―",
+    "author": "大塚あみ",
+    "date": "2026-10-24",
+    "created_at": "2026-10-24T22:09:46.940569",
+    "filename": "全部、AIに丸投げした。―気づいたら、24歳で海外ホテル暮らしの経営者になっていた―_review.md",
+    "image": "images/reviews/全部、AIに丸投げした。―気づいたら、24歳で海外ホテル暮らしの経営者になっていた―_4panel.png",
+    "languages": [
+      "ja",
+      "en",
+      "zh-tw"
+    ],
+    "categories": [
+      "ノンフィクション"
+    ],
+    "category": "ビジネス・経済",
+    "author_roles": {
+      "大塚あみ": "著"
+    },
+    "related": [
+      {
+        "filename": "世界のＤＸはどこまで進んでいるか（新潮新書）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "小説家になって億を稼ごう（新潮新書）_review.md",
+        "score": 1.0,
+        "method": "meta"
+      },
+      {
+        "filename": "ブリリアント・ジャーク　静かにチームを壊す人たち_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "新しい時代のお金の教科書_review.md",
+        "score": 0.62,
+        "method": "meta"
+      },
+      {
+        "filename": "経営戦略としての異文化適応力_review.md",
+        "score": 0.62,
+        "method": "meta"
+      }
+    ]
+  },
+  {
     "title": "水の女王",
     "author": "相場英雄",
     "date": "2026-10-24",
